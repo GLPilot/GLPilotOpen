@@ -1,0 +1,481 @@
+The number of OMP threads per trainer is set to 6
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=128, fan_out='5,5,5', batch_size=8192, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, model_num_hidden=256, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, dgl_sparse=True, optim='adam', model='sage', infer_method='layerwise')
+Client [2441886] waits on 172.31.25.229:60381
+Client [2441874] waits on 172.31.25.229:51823
+Client [2337930] waits on 172.31.20.203:57837
+Client [2337954] waits on 172.31.20.203:55657
+Client [2337925] waits on 172.31.20.203:55461
+Machine (2) group (0) client (26) connect to server successfuly!
+Machine (2) group (0) client (28) connect to server successfuly!
+Machine (2) group (0) client (25) connect to server successfuly!
+Machine (1) group (0) client (59) connect to server successfuly!
+Machine (1) group (0) client (63) connect to server successfuly!
+Client [2337960] waits on 172.31.20.203:55307
+Machine (2) group (0) client (24) connect to server successfuly!
+Client [2337937] waits on 172.31.20.203:40785
+Client [2337943] waits on 172.31.20.203:39413
+Client [2337926] waits on 172.31.20.203:36647
+Machine (2) group (0) client (20) connect to server successfuly!
+Client [2079390] waits on 172.31.16.179:57953
+Machine (2) group (0) client (19) connect to server successfuly!
+Machine (2) group (0) client (16) connect to server successfuly!
+Client [2079388] waits on 172.31.16.179:33801
+Machine (3) group (0) client (15) connect to server successfuly!
+Machine (3) group (0) client (0) connect to server successfuly!
+Client [2079391] waits on 172.31.16.179:48901
+Client [2079397] waits on 172.31.16.179:49769
+Client [2079403] waits on 172.31.16.179:55057
+Machine (3) group (0) client (6) connect to server successfuly!
+Client [2079389] waits on 172.31.16.179:56367
+Client [2079429] waits on 172.31.16.179:56859
+Machine (3) group (0) client (7) connect to server successfuly!
+Machine (3) group (0) client (11) connect to server successfuly!
+Client [2337921] waits on 172.31.20.203:60709
+Machine (3) group (0) client (9) connect to server successfuly!
+Machine (3) group (0) client (12) connect to server successfuly!
+Machine (2) group (0) client (31) connect to server successfuly!
+Client [1455316] waits on 172.31.20.34:40305
+Client [1455317] waits on 172.31.20.34:39503
+Client [1455315] waits on 172.31.20.34:41445
+Client [1455323] waits on 172.31.20.34:45931
+Machine (0) group (0) client (35) connect to server successfuly!
+Machine (0) group (0) client (34) connect to server successfuly!
+Client [1455329] waits on 172.31.20.34:46795Machine (0) group (0) client (36) connect to server successfuly!
+
+Client [1455346] waits on 172.31.20.34:47755
+Machine (0) group (0) client (38) connect to server successfuly!
+Machine (0) group (0) client (40) connect to server successfuly!
+Client [1455314] waits on 172.31.20.34:56543
+Machine (0) group (0) client (42) connect to server successfuly!Client [1455340] waits on 172.31.20.34:57549
+
+Client [2441872] waits on 172.31.25.229:34371Client [2441897] waits on 172.31.25.229:38705
+
+Client [2441871] waits on 172.31.25.229:40747
+Client [2441873] waits on 172.31.25.229:44945
+Client [2441880] waits on 172.31.25.229:45517
+Machine (1) group (0) client (48) connect to server successfuly!
+Machine (1) group (0) client (50) connect to server successfuly!
+Client [2441903] waits on 172.31.25.229:51199
+Machine (0) group (0) client (44) connect to server successfuly!
+Machine (0) group (0) client (46) connect to server successfuly!
+Machine (1) group (0) client (52) connect to server successfuly!
+Machine (1) group (0) client (53) connect to server successfuly!
+Machine (1) group (0) client (54) connect to server successfuly!
+Machine (1) group (0) client (57) connect to server successfuly!
+Client [2079423] waits on 172.31.16.179:51403
+Machine (3) group (0) client (8) connect to server successfuly!
+rank:rank: 31 
+30
+rank: 22
+rank: 23
+rank: 20
+rank: 3
+rank: 1
+rank: 10
+rank:rank: rank: rank:rank: 19 
+2115
+ 9
+rank: 
+4
+11
+rank:rank: 0 
+5rank:
+ 7
+rank: 14
+rank: 8
+rank: 17
+rank: 18
+rank: 28
+rank: 24rank:
+ 26rank:rank: 2
+ 6
+
+rank: 29
+rank: 16
+rank:rank:rank:  12
+ 25
+13
+rank: 27
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+number of train 196615
+number of valid 39323
+number of test 2213091
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+Create emb_layer
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+number of train 196615
+number of valid 39323
+number of test 2213091
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+Create emb_layer
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layerCreate emb_layer
+
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+number of train 196615
+number of valid 39323
+number of test 2213091
+Create emb_layer
+Create model
+Create model
+Create modelCreate model
+
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create modelCreate model
+
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7efee0909520>
+Start train
+optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f4cfd3105b0>
+Start train
+optimize DGL sparse embedding: optimize DGL sparse embedding:optimize DGL sparse embedding:  <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f1268838640><dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7fa5df7d85b0>
+
+Start trainStart train
+<dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f4bd1b0c580>optimize DGL sparse embedding: 
+<dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f0ffb1bd550>Start train
+optimize DGL sparse embedding: optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7fac25a5a5e0>
+Start train
+
+
+Start trainoptimize DGL sparse embedding:
+ <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f30b4847610>
+Start train
+<dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f24b42934f0>
+Start train
+optimize DGL sparse embedding: optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f4f84c96610>
+Start train
+optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f4618845580><dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7fa7f68d35b0>
+optimize DGL sparse embedding:Start train
+ optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f623f15a550>
+optimize DGL sparse embedding:Start train
+ <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7fe2f1d225b0>
+Start train
+optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7fd8f3e535e0><dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7fe43cf85610>
+Start train
+
+optimize DGL sparse embedding:Start train
+Start train
+optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f105f3185e0>
+Start train
+optimize DGL sparse embedding: 
+<dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f52b3d4d550>
+Start train
+ <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f967ea0f550>
+Start train
+optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f8bc8b445e0>
+Start train
+optimize DGL sparse embedding:optimize DGL sparse embedding: optimize DGL sparse embedding: optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f69de584550> <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7ff5e7172520>
+<dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f745d6bc5e0>
+Start train
+<dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7fa8cffa8550>Start train
+
+Start train
+
+Start train
+optimize DGL sparse embedding: optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f5879f0d5b0>
+Start train
+optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7fb2c981f5b0>
+<dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f733aa9d5b0>
+Start train
+Start train
+optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7ff9ba58e5e0>
+Start train
+optimize DGL sparse embedding:optimize DGL sparse embedding: optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f5fdb6e05b0>
+Start train
+optimize DGL sparse embedding: <dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f5f5e82c610> 
+Start train
+<dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7f79db1515e0>
+Start train
+<dgl.distributed.nn.pytorch.sparse_emb.DistEmbedding object at 0x7fc2ccedb5b0>
+Start train
+Part 31 | Epoch 00000 | Step 00000 | Loss 229.2714 | Speed (samples/sec) nan | GPU 3288.8 MB | time 7.945 s
+Part 23 | Epoch 00000 | Step 00000 | Loss 228.1615 | Speed (samples/sec) nan | GPU 3249.5 MB | time 7.985 s
+Part 2 | Epoch 00000 | Step 00000 | Loss 228.8350 | Speed (samples/sec) nan | GPU 3231.2 MB | time 7.988 s
+Part 10 | Epoch 00000 | Step 00000 | Loss 229.8052 | Speed (samples/sec) nan | GPU 3209.4 MB | time 7.989 s
+Part 9 | Epoch 00000 | Step 00000 | Loss 229.4040 | Speed (samples/sec) nan | GPU 3216.7 MB | time 7.989 s
+Part 24 | Epoch 00000 | Step 00000 | Loss 229.2650 | Speed (samples/sec) nan | GPU 3296.6 MB | time 7.989 s
+Part 30 | Epoch 00000 | Step 00000 | Loss 229.1840 | Speed (samples/sec) nan | GPU 3287.2 MB | time 7.989 s
+Part 28 | Epoch 00000 | Step 00000 | Loss 229.0731 | Speed (samples/sec) nan | GPU 3283.5 MB | time 7.989 s
+Part 27 | Epoch 00000 | Step 00000 | Loss 228.4989 | Speed (samples/sec) nan | GPU 3282.9 MB | time 7.989 s
+Part 15 | Epoch 00000 | Step 00000 | Loss 229.0632 | Speed (samples/sec) nan | GPU 3215.5 MB | time 7.991 s
+Part 26 | Epoch 00000 | Step 00000 | Loss 229.1032 | Speed (samples/sec) nan | GPU 3286.3 MB | time 7.992 s
+Part 25 | Epoch 00000 | Step 00000 | Loss 228.9755 | Speed (samples/sec) nan | GPU 3285.1 MB | time 7.993 s
+Part 13 | Epoch 00000 | Step 00000 | Loss 227.4734 | Speed (samples/sec) nan | GPU 3220.6 MB | time 7.992 s
+Part 14 | Epoch 00000 | Step 00000 | Loss 229.1819 | Speed (samples/sec) nan | GPU 3216.0 MB | time 7.993 s
+Part 18 | Epoch 00000 | Step 00000 | Loss 228.0643 | Speed (samples/sec) nan | GPU 3244.4 MB | time 7.993 s
+Part 16 | Epoch 00000 | Step 00000 | Loss 229.6351 | Speed (samples/sec) nan | GPU 3247.1 MB | time 7.996 s
+Part 5 | Epoch 00000 | Step 00000 | Loss 228.4077 | Speed (samples/sec) nan | GPU 3223.2 MB | time 7.997 s
+Part 0 | Epoch 00000 | Step 00000 | Loss 228.4019 | Speed (samples/sec) nan | GPU 3232.5 MB | time 7.996 s
+Part 1 | Epoch 00000 | Step 00000 | Loss 229.4226 | Speed (samples/sec) nan | GPU 3224.9 MB | time 7.998 s
+Part 8 | Epoch 00000 | Step 00000 | Loss 229.0910 | Speed (samples/sec) nan | GPU 3210.5 MB | time 7.998 s
+Part 19 | Epoch 00000 | Step 00000 | Loss 228.9679 | Speed (samples/sec) nan | GPU 3250.5 MB | time 7.999 s
+Part 20 | Epoch 00000 | Step 00000 | Loss 229.3663 | Speed (samples/sec) nan | GPU 3252.2 MB | time 7.999 s
+Part 4 | Epoch 00000 | Step 00000 | Loss 230.1862 | Speed (samples/sec) nan | GPU 3229.7 MB | time 8.002 s
+Part 3 | Epoch 00000 | Step 00000 | Loss 229.7796 | Speed (samples/sec) nan | GPU 3233.2 MB | time 8.003 s
+Part 29 | Epoch 00000 | Step 00000 | Loss 230.5249 | Speed (samples/sec) nan | GPU 3279.4 MB | time 8.003 s
+Part 17 | Epoch 00000 | Step 00000 | Loss 229.4299 | Speed (samples/sec) nan | GPU 3254.1 MB | time 8.003 s
+Part 22 | Epoch 00000 | Step 00000 | Loss 229.0026 | Speed (samples/sec) nan | GPU 3245.2 MB | time 8.003 s
+Part 21 | Epoch 00000 | Step 00000 | Loss 228.2543 | Speed (samples/sec) nan | GPU 3252.3 MB | time 8.004 s
+Part 12 | Epoch 00000 | Step 00000 | Loss 229.8077 | Speed (samples/sec) nan | GPU 3225.6 MB | time 8.005 s
+Part 6 | Epoch 00000 | Step 00000 | Loss 228.3806 | Speed (samples/sec) nan | GPU 3232.2 MB | time 8.005 s
+Part 11 | Epoch 00000 | Step 00000 | Loss 229.0721 | Speed (samples/sec) nan | GPU 3211.6 MB | time 8.007 s
+Part 7 | Epoch 00000 | Step 00000 | Loss 228.1456 | Speed (samples/sec) nan | GPU 3226.0 MB | time 8.013 s
+Part 19 | Epoch 00000 | Step 00020 | Loss 0.7741 | Speed (samples/sec) 5033.8200 | GPU 3427.4 MB | time 94.893 s
+Part 11 | Epoch 00000 | Step 00020 | Loss 0.7700 | Speed (samples/sec) 5023.5326 | GPU 3435.6 MB | time 94.886 s
+Part 8 | Epoch 00000 | Step 00020 | Loss 0.7716 | Speed (samples/sec) 5020.7943 | GPU 3435.8 MB | time 94.897 s
+Part 20 | Epoch 00000 | Step 00020 | Loss 0.7678 | Speed (samples/sec) 5034.8878 | GPU 3426.1 MB | time 94.897 s
+Part 18 | Epoch 00000 | Step 00020 | Loss 0.7690 | Speed (samples/sec) 5031.9755 | GPU 3420.3 MB | time 94.904 s
+Part 17 | Epoch 00000 | Step 00020 | Loss 0.7693 | Speed (samples/sec) 5033.0573 | GPU 3437.7 MB | time 94.895 s
+Part 10 | Epoch 00000 | Step 00020 | Loss 0.7787 | Speed (samples/sec) 5022.4744 | GPU 3433.3 MB | time 94.911 s
+Part 16 | Epoch 00000 | Step 00020 | Loss 0.7715 | Speed (samples/sec) 5031.2410 | GPU 3426.2 MB | time 94.903 s
+Part 23 | Epoch 00000 | Step 00020 | Loss 0.7720 | Speed (samples/sec) 5031.1301 | GPU 3421.4 MB | time 94.916 s
+Part 2 | Epoch 00000 | Step 00020 | Loss 0.7738 | Speed (samples/sec) 5056.4771 | GPU 3439.6 MB | time 94.910 s
+Part 7 | Epoch 00000 | Step 00020 | Loss 0.7686 | Speed (samples/sec) 5056.8000 | GPU 3443.7 MB | time 94.889 s
+Part 9 | Epoch 00000 | Step 00020 | Loss 0.7710 | Speed (samples/sec) 5022.7042 | GPU 3435.0 MB | time 94.913 s
+Part 21 | Epoch 00000 | Step 00020 | Loss 0.7762 | Speed (samples/sec) 5033.0678 | GPU 3426.0 MB | time 94.898 s
+Part 0 | Epoch 00000 | Step 00020 | Loss 0.7728 | Speed (samples/sec) 5054.1028 | GPU 3438.7 MB | time 94.905 s
+Part 14 | Epoch 00000 | Step 00020 | Loss 0.7703 | Speed (samples/sec) 5020.4422 | GPU 3429.8 MB | time 94.911 s
+Part 22 | Epoch 00000 | Step 00020 | Loss 0.7736 | Speed (samples/sec) 5031.5029 | GPU 3425.6 MB | time 94.901 s
+Part 15 | Epoch 00000 | Step 00020 | Loss 0.7725 | Speed (samples/sec) 5020.7677 | GPU 3439.4 MB | time 94.914 s
+Part 13 | Epoch 00000 | Step 00020 | Loss 0.7702 | Speed (samples/sec) 5022.1917 | GPU 3434.9 MB | time 94.910 s
+Part 12 | Epoch 00000 | Step 00020 | Loss 0.7693 | Speed (samples/sec) 5024.5411 | GPU 3439.5 MB | time 94.899 s
+Part 1 | Epoch 00000 | Step 00020 | Loss 0.7742 | Speed (samples/sec) 5056.0727 | GPU 3442.0 MB | time 94.909 s
+Part 29 | Epoch 00000 | Step 00020 | Loss 0.7724 | Speed (samples/sec) 5019.8050 | GPU 3425.3 MB | time 94.904 s
+Part 27 | Epoch 00000 | Step 00020 | Loss 0.7708 | Speed (samples/sec) 5019.7806 | GPU 3431.6 MB | time 94.918 s
+Part 24 | Epoch 00000 | Step 00020 | Loss 0.7732 | Speed (samples/sec) 5019.7383 | GPU 3425.7 MB | time 94.920 s
+Part 6 | Epoch 00000 | Step 00020 | Loss 0.7705 | Speed (samples/sec) 5057.2625 | GPU 3442.0 MB | time 94.903 s
+Part 30 | Epoch 00000 | Step 00020 | Loss 0.7698 | Speed (samples/sec) 5019.8788 | GPU 3424.8 MB | time 94.920 s
+Part 28 | Epoch 00000 | Step 00020 | Loss 0.7699 | Speed (samples/sec) 5017.2985 | GPU 3426.4 MB | time 94.922 s
+Part 25 | Epoch 00000 | Step 00020 | Loss 0.7743 | Speed (samples/sec) 5017.3584 | GPU 3425.6 MB | time 94.917 s
+Part 31 | Epoch 00000 | Step 00020 | Loss 0.7732 | Speed (samples/sec) 5019.7912 | GPU 3423.1 MB | time 94.966 s
+Part 26 | Epoch 00000 | Step 00020 | Loss 0.7714 | Speed (samples/sec) 5017.4075 | GPU 3422.7 MB | time 94.921 s
+Part 5 | Epoch 00000 | Step 00020 | Loss 0.7689 | Speed (samples/sec) 5054.6509 | GPU 3443.6 MB | time 94.920 s
+Part 4 | Epoch 00000 | Step 00020 | Loss 0.7719 | Speed (samples/sec) 5056.3310 | GPU 3445.1 MB | time 94.915 s
+Part 3 | Epoch 00000 | Step 00020 | Loss 0.7720 | Speed (samples/sec) 5056.3654 | GPU 3442.6 MB | time 94.917 s

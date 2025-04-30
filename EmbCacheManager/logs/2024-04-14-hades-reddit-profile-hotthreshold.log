@@ -1,0 +1,1219 @@
+The number of OMP threads per trainer is set to 6
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Client [1778630] waits on 172.31.20.203:57043
+Machine (2) group (0) client (28) connect to server successfuly!
+Client [1778646] waits on 172.31.20.203:54147
+Client [1778632] waits on 172.31.20.203:46827
+Machine (2) group (0) client (26) connect to server successfuly!
+Client [1881229] waits on 172.31.25.229:58933
+Client [1506288] waits on 172.31.16.179:57897
+Machine (1) group (0) client (59) connect to server successfuly!
+Client [1778652] waits on 172.31.20.203:42031
+Client [1506271] waits on 172.31.16.179:40087
+Client [1881223] waits on 172.31.25.229:59745
+Client [1778631] waits on 172.31.20.203:35753
+Machine (1) group (0) client (63) connect to server successfuly!
+Client [1778634] waits on 172.31.20.203:49091
+Client [1506265] waits on 172.31.16.179:42759Client [1506263] waits on 172.31.16.179:46995
+
+Client [1506253] waits on 172.31.16.179:42303
+Client [3849204] waits on 172.31.20.34:39565
+Machine (2) group (0) client (22) connect to server successfuly!
+Client [1506254] waits on 172.31.16.179:56711
+Client [1778633] waits on 172.31.20.203:42401
+Client [3849205] waits on 172.31.20.34:33455
+Client [3849203] waits on 172.31.20.34:36049
+Client [1506264] waits on 172.31.16.179:39011
+Client [1778640] waits on 172.31.20.203:59645
+Client [3849201] waits on 172.31.20.34:57803
+Client [3849222] waits on 172.31.20.34:43943
+Client [3849211] waits on 172.31.20.34:59039
+Client [3849202] waits on 172.31.20.34:52321
+Client [3849233] waits on 172.31.20.34:49777
+Client [1881222] waits on 172.31.25.229:38311
+Client [1506277] waits on 172.31.16.179:53775
+Client [1881221] waits on 172.31.25.229:38391
+Machine (2) group (0) client (17) connect to server successfuly!
+Machine (3) group (0) client (5) connect to server successfuly!
+Machine (3) group (0) client (11) connect to server successfuly!
+Machine (3) group (0) client (2) connect to server successfuly!
+Machine (3) group (0) client (8) connect to server successfuly!
+Machine (3) group (0) client (12) connect to server successfuly!
+Machine (3) group (0) client (6) connect to server successfuly!
+Client [1881219] waits on 172.31.25.229:55205
+Client [1881235] waits on 172.31.25.229:56599
+Machine (1) group (0) client (57) connect to server successfuly!
+Machine (1) group (0) client (58) connect to server successfuly!
+Client [1881220] waits on 172.31.25.229:43397
+Machine (3) group (0) client (4) connect to server successfuly!
+Client [1881241] waits on 172.31.25.229:53871
+Machine (1) group (0) client (52) connect to server successfuly!
+Machine (1) group (0) client (56) connect to server successfuly!
+Machine (1) group (0) client (48) connect to server successfuly!
+Machine (0) group (0) client (32) connect to server successfuly!
+Machine (0) group (0) client (46) connect to server successfuly!
+Machine (3) group (0) client (14) connect to server successfuly!
+Machine (2) group (0) client (30) connect to server successfuly!
+Machine (2) group (0) client (19) connect to server successfuly!
+Machine (2) group (0) client (16) connect to server successfuly!
+Machine (0) group (0) client (44) connect to server successfuly!
+Machine (0) group (0) client (42) connect to server successfuly!
+Machine (0) group (0) client (37) connect to server successfuly!
+Machine (0) group (0) client (47) connect to server successfuly!Machine (1) group (0) client (49) connect to server successfuly!
+
+Machine (0) group (0) client (33) connect to server successfuly!
+Machine (2) group (0) client (21) connect to server successfuly!
+Machine (0) group (0) client (35) connect to server successfuly!
+rank: 20
+rank: 6
+rank: 4
+rank: 16
+rank:rank:  1514
+
+rank: 29
+rank: 26
+rank: 25rank: 22
+
+rank: 5
+rank: 31rank: 10
+
+rank: 23
+rank: 19
+rank: 21
+rank: rank: 1
+rank: 7
+rank:rank:  811
+
+rank:rank: 13
+rank: 9
+24
+ rank:3
+ 2
+rank: 18
+rank: 30rank: 0
+
+rank: 27
+rank: 12
+rank: 17
+rank: 28
+part 6, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 1, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 7, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 0, train: 4794 (local: 4794), val: 744 (local: 744), test: 1740 (local: 1740)
+part 4, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 30, train: 4794 (local: 4794), val: 744 (local: 744), test: 1740 (local: 1740)
+part 25, train: 4794 (local: 4794), val: 744 (local: 744), test: 1740 (local: 1740)
+part 5, train: 4794 (local: 4794), val: 744 (local: 744), test: 1740 (local: 1740)
+part 3, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 2, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 29, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 9, train: 4795 (local: 4625), val: 745 (local: 739), test: 1741 (local: 1665)
+part 12, train: 4794 (local: 4651), val: 744 (local: 732), test: 1740 (local: 1680)
+part 31, train: 4794 (local: 4794), val: 744 (local: 744), test: 1740 (local: 1740)
+part 11, train: 4795 (local: 4634), val: 745 (local: 736), test: 1741 (local: 1672)
+part 26, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 27, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 14, train: 4795 (local: 4647), val: 745 (local: 733), test: 1741 (local: 1687)
+part 24, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 17, train: 4795 (local: 4642), val: 745 (local: 723), test: 1741 (local: 1662)
+part 10, train: 4795 (local: 4647), val: 745 (local: 734), test: 1741 (local: 1689)
+part 22, train: 4795 (local: 4654), val: 745 (local: 727), test: 1741 (local: 1674)
+part 15, train: 4795 (local: 4622), val: 745 (local: 732), test: 1741 (local: 1695)
+part 23, train: 4795 (local: 4646), val: 745 (local: 725), test: 1741 (local: 1663)
+part 28, train: 4795 (local: 4795), val: 745 (local: 745), test: 1741 (local: 1741)
+part 8, train: 4795 (local: 4629), val: 745 (local: 738), test: 1741 (local: 1685)
+part 20, train: 4795 (local: 4641), val: 745 (local: 731), test: 1741 (local: 1664)
+part 13, train: 4794 (local: 4630), val: 744 (local: 734), test: 1740 (local: 1681)
+part 21, train: 4794 (local: 4660), val: 744 (local: 716), test: 1740 (local: 1669)
+part 18, train: 4795 (local: 4647), val: 745 (local: 717), test: 1741 (local: 1659)
+part 19, train: 4795 (local: 4650), val: 745 (local: 707), test: 1741 (local: 1671)
+part 16, train: 4794 (local: 4651), val: 744 (local: 718), test: 1740 (local: 1676)
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+#labels: 41
+Rank 22 Presampling time: 2.743 s
+Rank 23 Presampling time: 2.730 s
+Rank 20 Presampling time: 2.724 s
+Rank 17 Presampling time: 2.759 s
+Rank 16 Presampling time: 2.722 s
+Rank 18 Presampling time: 2.716 s
+Rank 21 Presampling time: 2.716 s
+Rank 3 Presampling time: 2.756 sRank 1 Presampling time: 2.803 s
+
+Rank 15 Presampling time: 2.747 sRank 13 Presampling time: 2.727 s
+
+Rank 14 Presampling time: 2.747 s
+Rank 7 Presampling time: 2.791 sRank 12 Presampling time: 2.764 s
+Rank 24 Presampling time: 2.766 s
+Rank 27 Presampling time: 2.777 s
+Rank 25 Presampling time: 2.827 s
+Rank 30 Presampling time: 2.780 s
+
+Rank 0 Presampling time: 2.767 s
+Rank 19 Presampling time: 2.725 s
+Rank 29 Presampling time: 2.772 s
+Rank 4 Presampling time: 2.773 sRank 5 Presampling time: 2.759 s
+
+Rank 6 Presampling time: 2.796 s
+Rank 31 Presampling time: 2.785 s
+Rank 9 Presampling time: 2.746 s
+Rank 11 Presampling time: 2.752 s
+Rank 26 Presampling time: 2.771 s
+Rank 2 Presampling time: 2.755 s
+Rank 10 Presampling time: 2.730 s
+Rank 8 Presampling time: 2.733 s
+Rank 28 Presampling time: 2.766 s
+Rank 22 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 23 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 1 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 18 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 24 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 27 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 25 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 3 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 6 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 26 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 17 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 20 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 16 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 0 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 21 Local hotness max: 1.000 min: 0.025 avg: 0.768Rank 22 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+
+Rank 29 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 15 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 9 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 19 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 13 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 23 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 5 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 7 Local hotness max: 1.000 min: 0.025 avg: 0.768Rank 30 Local hotness max: 1.000 min: 0.025 avg: 0.768
+
+Rank 31 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 12 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 11 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 10 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 18 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 14 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 4 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 24 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 1 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 2 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 25 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 27 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 28 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 8 Local hotness max: 1.000 min: 0.025 avg: 0.768
+Rank 6 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 26 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 12 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 3 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 17 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 21 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 20 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 16 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 29 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 5 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 19 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 15 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 13 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 7 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 0 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 9 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 31 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 30 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 11 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 4 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 14 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 10 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 2 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 8 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+Rank 28 Remote hotness max: 1.000 min: 0.008 avg: 0.363
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb#accessed (remote) nodes = 227581
+
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+#accessed (remote) nodes = 227581
+#hot_nodes = 183939, rate = 0.808
+#extreme_cold_nodes = 0, rate = 0.000
+Create distemb
+
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 7 build_connection start.
+Client 1 build_connection start.
+Client 5 build_connection start.
+Client 1 build_connection succeed.
+Client 7 build_connection succeed.
+Client 4 build_connection start.
+Client 5 build_connection succeed.
+Client 4 build_connection succeed.
+Client 5 build_connection start.
+Client 3 build_connection start.
+Client 7 build_connection start.
+Client 3 build_connection succeed.
+Client 5 build_connection succeed.
+Client 6 build_connection start.
+Client 7 build_connection succeed.
+Client 6 build_connection succeed.
+Client 6 build_connection start.
+Client 3 build_connection start.
+Client 6 build_connection succeed.
+Client 0 build_connection start.
+Client 4 build_connection start.
+Client 3 build_connection succeed.
+Client 0 build_connection succeed.
+Client 4 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 6 build_connection start.
+Client 6 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 7 build_connection start.
+Client 6 build_connection start.
+Client 7 build_connection succeed.Client 5 build_connection start.
+
+Client 6 build_connection succeed.
+Client 5 build_connection succeed.
+Client 5 build_connection start.
+Client 0 build_connection start.
+Client 0 build_connection start.
+Client 3 build_connection start.
+Client 3 build_connection start.
+Client 5 build_connection succeed.
+Client 0 build_connection succeed.
+Client 0 build_connection succeed.
+Client 3 build_connection succeed.
+Client 3 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.Create model
+
+Client register_cache succeed.Create model
+
+Client register_cache succeed.
+Create model
+Create model
+Client register_cache succeed.Create model
+
+Create model
+Create model
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Create modelClient register_cache succeed.
+Create model
+
+Create modelClient register_cache succeed.
+
+Client register_cache succeed.
+Client register_cache succeed.Create model
+
+Client register_cache succeed.
+Create model
+Create model
+Create model
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Create modelClient register_cache succeed.Client register_cache succeed.
+
+
+Client register_cache succeed.
+Client register_cache succeed.Create model
+
+Create model
+Client register_cache succeed.Create modelClient register_cache succeed.
+
+
+Create model
+Create model
+Create model
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Create modelClient register_cache succeed.Create model
+
+Client register_cache succeed.
+
+Client register_cache succeed.Client register_cache succeed.Client register_cache succeed.
+
+
+Client register_cache succeed.
+Create model
+Create modelCreate modelCreate model
+
+
+Create model
+Create model
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizerCreate model optimizer
+
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizerCreate model optimizer
+
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Start profiling hot threshold...Generate batches...
+
+Generate batches...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...Start profiling hot threshold...
+
+Generate batches...Generate batches...
+
+Start profiling hot threshold...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Generate batches...
+Start profiling hot threshold...Start profiling hot threshold...
+
+Generate batches...Generate batches...
+
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Start profiling hot threshold...
+Generate batches...
+Hot threshold 0.0000, iteration time = 299.427 ms
+Hot threshold 0.0125, iteration time = 262.819 ms
+Hot threshold 0.0250, iteration time = 281.951 ms
+Hot threshold 0.0375, iteration time = 264.628 ms
+Hot threshold 0.0500, iteration time = 248.971 ms
+Hot threshold 0.0625, iteration time = 267.532 ms
+Hot threshold 0.0750, iteration time = 269.460 ms
+Hot threshold 0.0875, iteration time = 303.821 ms
+Hot threshold 0.1000, iteration time = 317.507 ms
+Hot threshold 0.1250, iteration time = 335.761 ms
+Hot threshold 0.1500, iteration time = 294.977 ms
+Hot threshold 0.1750, iteration time = 329.573 ms
+Hot threshold 0.2000, iteration time = 366.034 ms
+Hot threshold 0.3000, iteration time = 414.770 ms
+Hot threshold 0.4000, iteration time = 414.755 ms
+Hot threshold 0.5000, iteration time = 423.165 ms
+Hot threshold 0.6000, iteration time = 387.073 ms
+Hot threshold 0.7000, iteration time = 394.150 ms
+Hot threshold 0.8000, iteration time = 374.924 ms
+Hot threshold 0.9000, iteration time = 359.769 ms
+Profiling hot threshold takes 143.000 s
+Profiling hot threshold takes 142.999 sProfiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 s
+
+Hot threshold 1.0000, iteration time = 280.091 ms
+Profiling hot threshold takes 143.000 s
+
+Profiling hot threshold takes 143.000 s
+Profiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 s
+
+Profiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 s
+Profiling hot threshold takes 143.000 s
+Profiling hot threshold takes 143.000 s
+
+
+Profiling hot threshold takes 143.000 s
+Profiling hot threshold takes 143.000 s
+Profiling hot threshold takes 143.000 s
+Profiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 s
+
+
+Profiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 s
+
+Profiling hot threshold takes 143.000 s
+Profiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 s
+
+Profiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 s
+
+
+
+
+Profiling hot threshold takes 143.000 s
+Profiling hot threshold takes 143.000 sProfiling hot threshold takes 143.000 s
+
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+Client[48] in group[0] is exiting...
+parent ends
+parent ends
+Client[17] in group[0] is exiting...
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+Client[5] in group[0] is exiting...
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+Client[42] in group[0] is exiting...
+parent ends
+parent ends
+parent ends
+parent ends
+Client[49] in group[0] is exiting...
+Client[52] in group[0] is exiting...Client[57] in group[0] is exiting...
+
+Client[58] in group[0] is exiting...
+Client[59] in group[0] is exiting...
+Client[56] in group[0] is exiting...
+Client[63] in group[0] is exiting...
+Client[44] in group[0] is exiting...
+Client[37] in group[0] is exiting...
+Client[47] in group[0] is exiting...
+Client[35] in group[0] is exiting...
+Client[32] in group[0] is exiting...
+Client[33] in group[0] is exiting...
+Client[46] in group[0] is exiting...
+Client[4] in group[0] is exiting...
+Client[14] in group[0] is exiting...
+Client[11] in group[0] is exiting...
+Client[6] in group[0] is exiting...
+Client[8] in group[0] is exiting...
+Client[12] in group[0] is exiting...
+Client[2] in group[0] is exiting...
+Client[28] in group[0] is exiting...
+Client[26] in group[0] is exiting...
+Client[21] in group[0] is exiting...
+Client[16] in group[0] is exiting...
+Client[22] in group[0] is exiting...
+Client[30] in group[0] is exiting...
+Client[19] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+load reddit
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 48 for part 3
+Server is waiting for connections on [172.31.16.179:30050]...
+Server (48) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+load reddit
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 16 for part 1
+Server is waiting for connections on [172.31.25.229:30050]...
+Server (16) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+load reddit
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 32 for part 2
+Server is waiting for connections on [172.31.20.203:30050]...
+Server (32) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+load reddit
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 0 for part 0
+Server is waiting for connections on [172.31.20.34:30050]...
+Server (0) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 57 for part 3
+Server is waiting for connections on [172.31.16.179:30059]...
+Server (57) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 43 for part 2
+Server is waiting for connections on [172.31.20.203:30061]...
+Server (43) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 27 for part 1
+Server is waiting for connections on [172.31.25.229:30061]...
+Server (27) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 39 for part 2
+Server is waiting for connections on [172.31.20.203:30057]...
+Server (39) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 28 for part 1
+Server is waiting for connections on [172.31.25.229:30062]...
+Server (28) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 59 for part 3
+Server is waiting for connections on [172.31.16.179:30061]...
+Server (59) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 60 for part 3
+Server is waiting for connections on [172.31.16.179:30062]...
+Server (60) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 40 for part 2
+Server is waiting for connections on [172.31.20.203:30058]...
+Server (40) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 24 for part 1
+Server is waiting for connections on [172.31.25.229:30058]...
+Server (24) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 41 for part 2
+Server is waiting for connections on [172.31.20.203:30059]...
+Server (41) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 38 for part 2
+Server is waiting for connections on [172.31.20.203:30056]...
+Server (38) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 33 for part 2
+Server is waiting for connections on [172.31.20.203:30051]...
+Server (33) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 49 for part 3
+Server is waiting for connections on [172.31.16.179:30051]...
+Server (49) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 63 for part 3
+Server is waiting for connections on [172.31.16.179:30065]...
+Server (63) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 51 for part 3
+Server is waiting for connections on [172.31.16.179:30053]...
+Server (51) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 34 for part 2
+Server is waiting for connections on [172.31.20.203:30052]...
+Server (34) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 61 for part 3
+Server is waiting for connections on [172.31.16.179:30063]...
+Server (61) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 36 for part 2
+Server is waiting for connections on [172.31.20.203:30054]...
+Server (36) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 47 for part 2
+Server is waiting for connections on [172.31.20.203:30065]...
+Server (47) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 50 for part 3
+Server is waiting for connections on [172.31.16.179:30052]...
+Server (50) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 45 for part 2
+Server is waiting for connections on [172.31.20.203:30063]...
+Server (45) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 30 for part 1
+Server is waiting for connections on [172.31.25.229:30064]...
+Server (30) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 44 for part 2
+Server is waiting for connections on [172.31.20.203:30062]...
+Server (44) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 35 for part 2
+Server is waiting for connections on [172.31.20.203:30053]...
+Server (35) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 55 for part 3
+Server is waiting for connections on [172.31.16.179:30057]...
+Server (55) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 54 for part 3
+Server is waiting for connections on [172.31.16.179:30056]...
+Server (54) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 26 for part 1
+Server is waiting for connections on [172.31.25.229:30060]...
+Server (26) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 37 for part 2
+Server is waiting for connections on [172.31.20.203:30055]...
+Server (37) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 23 for part 1
+Server is waiting for connections on [172.31.25.229:30057]...
+Server (23) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 56 for part 3
+Server is waiting for connections on [172.31.16.179:30058]...
+Server (56) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 25 for part 1
+Server is waiting for connections on [172.31.25.229:30059]...
+Server (25) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 52 for part 3
+Server is waiting for connections on [172.31.16.179:30054]...
+Server (52) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 18 for part 1
+Server is waiting for connections on [172.31.25.229:30052]...
+Server (18) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 31 for part 1
+Server is waiting for connections on [172.31.25.229:30065]...
+Server (31) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 20 for part 1
+Server is waiting for connections on [172.31.25.229:30054]...
+Server (20) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 22 for part 1
+Server is waiting for connections on [172.31.25.229:30056]...
+Server (22) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 53 for part 3
+Server is waiting for connections on [172.31.16.179:30055]...
+Server (53) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 58 for part 3
+Server is waiting for connections on [172.31.16.179:30060]...
+Server (58) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 12 for part 0
+Server is waiting for connections on [172.31.20.34:30062]...
+Server (12) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 15 for part 0
+Server is waiting for connections on [172.31.20.34:30065]...
+Server (15) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 46 for part 2
+Server is waiting for connections on [172.31.20.203:30064]...
+Server (46) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 21 for part 1
+Server is waiting for connections on [172.31.25.229:30055]...
+Server (21) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 42 for part 2
+Server is waiting for connections on [172.31.20.203:30060]...
+Server (42) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 62 for part 3
+Server is waiting for connections on [172.31.16.179:30064]...
+Server (62) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 11 for part 0
+Server is waiting for connections on [172.31.20.34:30061]...
+Server (11) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 17 for part 1
+Server is waiting for connections on [172.31.25.229:30051]...
+Server (17) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 6 for part 0
+Server is waiting for connections on [172.31.20.34:30056]...
+Server (6) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 3 for part 0
+Server is waiting for connections on [172.31.20.34:30053]...
+Server (3) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 14 for part 0
+Server is waiting for connections on [172.31.20.34:30064]...
+Server (14) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 19 for part 1
+Server is waiting for connections on [172.31.25.229:30053]...
+Server (19) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 9 for part 0
+Server is waiting for connections on [172.31.20.34:30059]...
+Server (9) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 13 for part 0
+Server is waiting for connections on [172.31.20.34:30063]...
+Server (13) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 10 for part 0
+Server is waiting for connections on [172.31.20.34:30060]...
+Server (10) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 29 for part 1
+Server is waiting for connections on [172.31.25.229:30063]...
+Server (29) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 8 for part 0
+Server is waiting for connections on [172.31.20.34:30058]...
+Server (8) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 5 for part 0
+Server is waiting for connections on [172.31.20.34:30055]...
+Server (5) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 4 for part 0
+Server is waiting for connections on [172.31.20.34:30054]...
+Server (4) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 1 for part 0
+Server is waiting for connections on [172.31.20.34:30051]...
+Server (1) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 2 for part 0
+Server is waiting for connections on [172.31.20.34:30052]...
+Server (2) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+start graph service on server 7 for part 0
+Server is waiting for connections on [172.31.20.34:30057]...
+Server (7) shutdown.
+Server is exiting...
+Client [1778768] waits on 172.31.20.203:42333
+Machine (2) group (0) client (18) connect to server successfuly!
+Client[18] in group[0] is exiting...
+Client [1778717] waits on 172.31.20.203:42413
+Machine (2) group (0) client (20) connect to server successfuly!
+Client[20] in group[0] is exiting...
+Client [1506360] waits on 172.31.16.179:38427
+Machine (3) group (0) client (1) connect to server successfuly!
+Client[1] in group[0] is exiting...
+Client [1506439] waits on 172.31.16.179:53489
+Machine (3) group (0) client (10) connect to server successfuly!
+Client[10] in group[0] is exiting...
+Client [1506356] waits on 172.31.16.179:49265
+Machine (3) group (0) client (9) connect to server successfuly!
+Client[9] in group[0] is exiting...
+Client [1506359] waits on 172.31.16.179:44135
+Machine (3) group (0) client (7) connect to server successfuly!
+Client[7] in group[0] is exiting...
+Client [1506407] waits on 172.31.16.179:57061
+Machine (3) group (0) client (13) connect to server successfuly!
+Client[13] in group[0] is exiting...
+Client [1506418] waits on 172.31.16.179:38345
+Machine (3) group (0) client (0) connect to server successfuly!
+Client[0] in group[0] is exiting...
+Client [1778751] waits on 172.31.20.203:56651
+Machine (2) group (0) client (27) connect to server successfuly!
+Client[27] in group[0] is exiting...
+Client [1778720] waits on 172.31.20.203:57535
+Machine (2) group (0) client (29) connect to server successfuly!
+Client[29] in group[0] is exiting...
+Client [1778714] waits on 172.31.20.203:53791
+Machine (2) group (0) client (25) connect to server successfuly!
+Client[25] in group[0] is exiting...
+Client [1778739] waits on 172.31.20.203:59741
+Machine (2) group (0) client (31) connect to server successfuly!
+Client[31] in group[0] is exiting...
+Client [1778727] waits on 172.31.20.203:53435
+Machine (2) group (0) client (24) connect to server successfuly!
+Client[24] in group[0] is exiting...
+Client [1506363] waits on 172.31.16.179:40077
+Machine (3) group (0) client (3) connect to server successfuly!
+Client[3] in group[0] is exiting...
+Client [3849427] waits on 172.31.20.34:44805
+Machine (0) group (0) client (38) connect to server successfuly!
+Client[38] in group[0] is exiting...
+Client [1881305] waits on 172.31.25.229:42899
+Machine (1) group (0) client (51) connect to server successfuly!
+Client[51] in group[0] is exiting...
+Client [3849460] waits on 172.31.20.34:43245
+Machine (0) group (0) client (36) connect to server successfuly!
+Client[36] in group[0] is exiting...
+Client [1881310] waits on 172.31.25.229:50103
+Machine (1) group (0) client (55) connect to server successfuly!
+Client[55] in group[0] is exiting...
+Client [1881323] waits on 172.31.25.229:59713
+Machine (1) group (0) client (62) connect to server successfuly!
+Client[62] in group[0] is exiting...
+Client [1881303] waits on 172.31.25.229:48013
+Machine (1) group (0) client (53) connect to server successfuly!
+Client[53] in group[0] is exiting...
+Client [3849373] waits on 172.31.20.34:55005
+Machine (0) group (0) client (45) connect to server successfuly!
+Client[45] in group[0] is exiting...
+Client [1881309] waits on 172.31.25.229:40915
+Machine (1) group (0) client (50) connect to server successfuly!
+Client[50] in group[0] is exiting...
+Client [1881357] waits on 172.31.25.229:59217
+Machine (1) group (0) client (60) connect to server successfuly!
+Client[60] in group[0] is exiting...
+Client [1881311] waits on 172.31.25.229:48295
+Machine (1) group (0) client (54) connect to server successfuly!
+Client[54] in group[0] is exiting...
+Client [3849420] waits on 172.31.20.34:51149
+Machine (0) group (0) client (43) connect to server successfuly!
+Client[43] in group[0] is exiting...
+Client [3849375] waits on 172.31.20.34:48827
+Machine (0) group (0) client (40) connect to server successfuly!
+Client[40] in group[0] is exiting...
+Client [3849408] waits on 172.31.20.34:36201
+Machine (0) group (0) client (34) connect to server successfuly!
+Client[34] in group[0] is exiting...
+Client [3849407] waits on 172.31.20.34:48897
+Machine (0) group (0) client (41) connect to server successfuly!
+Client[41] in group[0] is exiting...
+Client [1778718] waits on 172.31.20.203:51107
+Machine (2) group (0) client (23) connect to server successfuly!
+Client[23] in group[0] is exiting...
+Client [1506369] waits on 172.31.16.179:60293
+Machine (3) group (0) client (15) connect to server successfuly!
+Client[15] in group[0] is exiting...
+Client [1881345] waits on 172.31.25.229:59613
+Machine (1) group (0) client (61) connect to server successfuly!
+Client[61] in group[0] is exiting...
+Client [3849387] waits on 172.31.20.34:46571
+Machine (0) group (0) client (39) connect to server successfuly!
+Client[39] in group[0] is exiting...
+cleanup process runs

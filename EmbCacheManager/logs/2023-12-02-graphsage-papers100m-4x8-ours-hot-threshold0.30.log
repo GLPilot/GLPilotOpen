@@ -1,0 +1,3965 @@
+The number of OMP threads per trainer is set to 6
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+Client [634489] waits on 172.31.25.229:59361
+Machine (1) group (0) client (61) connect to server successfuly!
+Client [607396] waits on 172.31.20.203:44989
+Machine (2) group (0) client (25) connect to server successfuly!
+Client [607372] waits on 172.31.20.203:41889
+Client [612467] waits on 172.31.16.179:57879
+Client [612484] waits on 172.31.16.179:47499
+Client [612495] waits on 172.31.16.179:51489
+Client [612463] waits on 172.31.16.179:40363
+Client [634461] waits on 172.31.25.229:34281
+Client [612473] waits on 172.31.16.179:41211
+Client [634460] waits on 172.31.25.229:33547
+Client [634459] waits on 172.31.25.229:37107
+Client [1916651] waits on 172.31.20.34:34935
+Client [1916641] waits on 172.31.20.34:36357
+Client [612466] waits on 172.31.16.179:36095
+Client [1916644] waits on 172.31.20.34:52301
+Client [1916642] waits on 172.31.20.34:53739
+Client [1916662] waits on 172.31.20.34:60107
+Client [1916643] waits on 172.31.20.34:51875
+Client [612465] waits on 172.31.16.179:47627
+Client [612464] waits on 172.31.16.179:58035
+Client [1916668] waits on 172.31.20.34:36757
+Client [607369] waits on 172.31.20.203:47739
+Machine (2) group (0) client (26) connect to server successfuly!
+Client [607370] waits on 172.31.20.203:52849
+Client [607373] waits on 172.31.20.203:42597
+Machine (2) group (0) client (21) connect to server successfuly!
+Client [607379] waits on 172.31.20.203:54359
+Client [1916645] waits on 172.31.20.34:59589
+Client [607371] waits on 172.31.20.203:35163
+Client [607385] waits on 172.31.20.203:42717
+Machine (2) group (0) client (22) connect to server successfuly!
+Client [634478] waits on 172.31.25.229:51759
+Machine (0) group (0) client (34) connect to server successfuly!
+Machine (1) group (0) client (57) connect to server successfuly!
+Machine (3) group (0) client (3) connect to server successfuly!
+Machine (0) group (0) client (47) connect to server successfuly!
+Machine (2) group (0) client (30) connect to server successfuly!
+Machine (3) group (0) client (14) connect to server successfuly!
+Machine (3) group (0) client (10) connect to server successfuly!
+Machine (3) group (0) client (5) connect to server successfuly!
+Machine (1) group (0) client (49) connect to server successfuly!
+Machine (1) group (0) client (50) connect to server successfuly!
+Machine (1) group (0) client (48) connect to server successfuly!
+Machine (3) group (0) client (7) connect to server successfuly!Machine (3) group (0) client (8) connect to server successfuly!
+
+Machine (3) group (0) client (13) connect to server successfuly!
+Machine (0) group (0) client (36) connect to server successfuly!
+Machine (0) group (0) client (41) connect to server successfuly!
+Machine (0) group (0) client (35) connect to server successfuly!
+Machine (0) group (0) client (42) connect to server successfuly!
+Machine (0) group (0) client (40) connect to server successfuly!
+Client [634457] waits on 172.31.25.229:51477Client [634467] waits on 172.31.25.229:41845
+
+Machine (1) group (0) client (56) connect to server successfuly!
+Machine (1) group (0) client (54) connect to server successfuly!
+Machine (3) group (0) client (1) connect to server successfuly!
+Machine (2) group (0) client (20) connect to server successfuly!
+Client [634458] waits on 172.31.25.229:37951
+Machine (1) group (0) client (51) connect to server successfuly!
+Machine (2) group (0) client (19) connect to server successfuly!
+Machine (0) group (0) client (46) connect to server successfuly!
+Machine (2) group (0) client (29) connect to server successfuly!
+rank: 26
+rank: 27
+rank: 8
+rank: 9
+rank: 3
+rank: 22
+rank: 31
+rank: 5
+rank: 12
+rank: 7
+rank: 6
+rank: 16
+rank: 24
+rank: 25
+rank: 29
+rank: 14
+rank: 30
+rank: 21
+rank: 15
+rank: 1
+rank: 2
+rank: 10
+rank: 18
+rank: 20
+rank: 0rank:
+ 11
+rank: 4
+rank: 23
+rank: 13
+rank: 17
+rank: 19
+rank: 28
+part 2, train: 37724 (local: 32809), val: 3915 (local: 3258), test: 6698 (local: 5205)
+part 4, train: 37724 (local: 33002), val: 3914 (local: 3189), test: 6698 (local: 5113)
+part 3, train: 37724 (local: 32897), val: 3915 (local: 3229), test: 6698 (local: 5132)
+part 5, train: 37725 (local: 32932), val: 3915 (local: 3215), test: 6699 (local: 5201)
+part 6, train: 37724 (local: 32870), val: 3914 (local: 3224), test: 6698 (local: 5176)
+part 7, train: 37725 (local: 32901), val: 3915 (local: 3205), test: 6698 (local: 5163)
+part 1, train: 37724 (local: 32931), val: 3914 (local: 3197), test: 6698 (local: 5181)
+part 0, train: 37725 (local: 32912), val: 3915 (local: 3241), test: 6698 (local: 5225)
+part 10, train: 37725 (local: 34493), val: 3915 (local: 3915), test: 6698 (local: 6698)
+part 9, train: 37724 (local: 34621), val: 3915 (local: 3915), test: 6698 (local: 6698)
+part 11, train: 37725 (local: 34558), val: 3915 (local: 3915), test: 6699 (local: 6699)
+part 13, train: 37724 (local: 34514), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 15, train: 37724 (local: 34545), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 12, train: 37725 (local: 34419), val: 3915 (local: 3915), test: 6698 (local: 6698)
+part 8, train: 37724 (local: 34478), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 14, train: 37724 (local: 34479), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 24, train: 37725 (local: 37725), val: 3915 (local: 2789), test: 6698 (local: 4540)
+#labels: 172
+part 26, train: 37724 (local: 37724), val: 3914 (local: 2779), test: 6698 (local: 4549)
+part 29, train: 37724 (local: 37724), val: 3915 (local: 2756), test: 6698 (local: 4510)
+part 22, train: 37724 (local: 36170), val: 3915 (local: 1765), test: 6698 (local: 2489)
+part 30, train: 37724 (local: 37724), val: 3915 (local: 2755), test: 6698 (local: 4600)
+#labels: 172
+part 31, train: 37724 (local: 37724), val: 3914 (local: 2724), test: 6698 (local: 4557)
+part 28, train: 37724 (local: 37724), val: 3914 (local: 2824), test: 6698 (local: 4559)
+#labels: 172
+#labels: 172
+part 27, train: 37725 (local: 37725), val: 3915 (local: 2753), test: 6698 (local: 4504)
+#labels: 172
+#labels: 172
+part 21, train: 37724 (local: 36071), val: 3914 (local: 1790), test: 6698 (local: 2499)
+#labels: 172
+part 16, train: 37724 (local: 36158), val: 3914 (local: 1736), test: 6698 (local: 2472)
+part 20, train: 37725 (local: 36136), val: 3915 (local: 1810), test: 6698 (local: 2503)
+#labels: 172
+#labels: 172
+part 25, train: 37724 (local: 37724), val: 3914 (local: 2762), test: 6698 (local: 4573)
+part 17, train: 37724 (local: 36111), val: 3914 (local: 1726), test: 6698 (local: 2552)
+part 18, train: 37725 (local: 36159), val: 3915 (local: 1708), test: 6698 (local: 2525)
+part 19, train: 37725 (local: 36084), val: 3915 (local: 1685), test: 6698 (local: 2482)
+#labels: 172
+part 23, train: 37724 (local: 36075), val: 3914 (local: 1725), test: 6698 (local: 2487)
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+#hot_nodes = 113748
+Create distemb
+Client 5 build_connection start.
+Client 5 build_connection succeed.
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 6 build_connection start.
+Client 6 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 6 build_connection start.
+Client 6 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 5 build_connection start.
+Client 5 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 1 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 6 build_connection start.
+Client 6 build_connection succeed.
+Client 5 build_connection start.
+Client 6 build_connection start.
+Client 5 build_connection succeed.
+Client 6 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 5 build_connection start.
+Client 5 build_connection succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Create model
+Client register_cache succeed.
+Create model
+Create model
+Create modelCreate model
+
+Create model
+Create model
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.Client register_cache succeed.
+
+Client register_cache succeed.
+Create model
+Create model
+Create model
+Create model
+Client register_cache succeed.
+Create model
+Create model
+Client register_cache succeed.
+Create model
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.Client register_cache succeed.
+
+Client register_cache succeed.
+Create model
+Client register_cache succeed.
+Create model
+Create model
+Create model
+Create modelClient register_cache succeed.
+
+Create model
+Create model
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.Client register_cache succeed.Client register_cache succeed.
+
+
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Create model
+Create model
+Create model
+Create modelCreate model
+
+Create model
+Create model
+Create model
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Start train
+Start train
+Start train
+Start train
+Start train
+Start trainStart train
+
+Start trainStart train
+
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start trainStart train
+
+Start train
+Start train
+Start train
+Start train
+Start train
+Part 26 | Epoch 00000 | Step 00000 | Loss 7.5007 | Train Acc 0.0030 | Speed (samples/sec) nan | GPU 958.0 MB | time 3.607 s
+Part 28 | Epoch 00000 | Step 00000 | Loss 7.6197 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 939.7 MB | time 3.606 s
+Part 25 | Epoch 00000 | Step 00000 | Loss 7.4626 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 908.3 MB | time 3.606 s
+Part 27 | Epoch 00000 | Step 00000 | Loss 7.4130 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 946.1 MB | time 3.607 s
+Part 24 | Epoch 00000 | Step 00000 | Loss 7.5111 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 960.9 MB | time 3.607 s
+Part 23 | Epoch 00000 | Step 00000 | Loss 7.9153 | Train Acc 0.0030 | Speed (samples/sec) nan | GPU 1106.4 MB | time 3.606 s
+Part 22 | Epoch 00000 | Step 00000 | Loss 7.8525 | Train Acc 0.0030 | Speed (samples/sec) nan | GPU 1086.9 MB | time 3.607 s
+Part 19 | Epoch 00000 | Step 00000 | Loss 7.9693 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 1132.7 MB | time 3.606 s
+Part 16 | Epoch 00000 | Step 00000 | Loss 7.9626 | Train Acc 0.0070 | Speed (samples/sec) nan | GPU 1132.4 MB | time 3.606 s
+Part 20 | Epoch 00000 | Step 00000 | Loss 7.9634 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 1102.1 MB | time 3.606 s
+Part 17 | Epoch 00000 | Step 00000 | Loss 7.9936 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 1112.6 MB | time 3.606 s
+Part 3 | Epoch 00000 | Step 00000 | Loss 7.2519 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 1117.7 MB | time 3.607 s
+Part 4 | Epoch 00000 | Step 00000 | Loss 7.2223 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 1093.5 MB | time 3.606 s
+Part 6 | Epoch 00000 | Step 00000 | Loss 7.0665 | Train Acc 0.0030 | Speed (samples/sec) nan | GPU 1121.3 MB | time 3.606 s
+Part 2 | Epoch 00000 | Step 00000 | Loss 7.1862 | Train Acc 0.0060 | Speed (samples/sec) nan | GPU 1104.5 MB | time 3.606 s
+Part 10 | Epoch 00000 | Step 00000 | Loss 7.4687 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 1169.8 MB | time 3.606 s
+Part 1 | Epoch 00000 | Step 00000 | Loss 7.1762 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 1110.4 MB | time 3.606 s
+Part 21 | Epoch 00000 | Step 00000 | Loss 7.9961 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 1128.9 MB | time 3.605 s
+Part 31 | Epoch 00000 | Step 00000 | Loss 7.4282 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 918.1 MB | time 3.607 s
+Part 13 | Epoch 00000 | Step 00000 | Loss 7.4103 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 1177.3 MB | time 3.606 s
+Part 18 | Epoch 00000 | Step 00000 | Loss 7.8337 | Train Acc 0.0070 | Speed (samples/sec) nan | GPU 1106.6 MB | time 3.606 s
+Part 12 | Epoch 00000 | Step 00000 | Loss 7.5411 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 1165.5 MB | time 3.606 s
+Part 7 | Epoch 00000 | Step 00000 | Loss 7.2399 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 1112.9 MB | time 3.606 s
+Part 0 | Epoch 00000 | Step 00000 | Loss 7.2551 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 1115.2 MB | time 3.606 s
+Part 29 | Epoch 00000 | Step 00000 | Loss 7.3855 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 947.3 MB | time 3.607 s
+Part 5 | Epoch 00000 | Step 00000 | Loss 7.2212 | Train Acc 0.0070 | Speed (samples/sec) nan | GPU 1116.6 MB | time 3.606 s
+Part 15 | Epoch 00000 | Step 00000 | Loss 7.5321 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 1193.9 MB | time 3.606 sPart 14 | Epoch 00000 | Step 00000 | Loss 7.4374 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 1158.6 MB | time 3.606 s
+
+Part 8 | Epoch 00000 | Step 00000 | Loss 7.4004 | Train Acc 0.0060 | Speed (samples/sec) nan | GPU 1175.8 MB | time 3.607 s
+Part 11 | Epoch 00000 | Step 00000 | Loss 7.3980 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 1199.1 MB | time 3.606 s
+Part 9 | Epoch 00000 | Step 00000 | Loss 7.4693 | Train Acc 0.0060 | Speed (samples/sec) nan | GPU 1166.2 MB | time 3.607 s
+Part 30 | Epoch 00000 | Step 00000 | Loss 7.5048 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 949.8 MB | time 3.606 s
+Avg train acc 0.0040
+Part 1 | Epoch 00000 | Step 00020 | Loss 4.5064 | Train Acc 0.0610 | Speed (samples/sec) 1534.4912 | GPU 1315.3 MB | time 13.606 sPart 0 | Epoch 00000 | Step 00020 | Loss 4.5012 | Train Acc 0.0810 | Speed (samples/sec) 1534.5568 | GPU 1311.0 MB | time 13.602 s
+
+Part 4 | Epoch 00000 | Step 00020 | Loss 4.4482 | Train Acc 0.0880 | Speed (samples/sec) 1534.4532 | GPU 1312.3 MB | time 13.607 s
+Part 3 | Epoch 00000 | Step 00020 | Loss 4.5027 | Train Acc 0.0800 | Speed (samples/sec) 1534.7292 | GPU 1311.0 MB | time 13.605 s
+Part 6 | Epoch 00000 | Step 00020 | Loss 4.4708 | Train Acc 0.0660 | Speed (samples/sec) 1534.5665 | GPU 1317.7 MB | time 13.607 s
+Part 7 | Epoch 00000 | Step 00020 | Loss 4.4192 | Train Acc 0.0820 | Speed (samples/sec) 1534.5301 | GPU 1325.0 MB | time 13.605 sPart 2 | Epoch 00000 | Step 00020 | Loss 4.5174 | Train Acc 0.0760 | Speed (samples/sec) 1534.5554 | GPU 1338.6 MB | time 13.606 s
+
+Part 23 | Epoch 00000 | Step 00020 | Loss 4.2193 | Train Acc 0.0420 | Speed (samples/sec) 1534.4379 | GPU 1290.4 MB | time 13.608 s
+Part 19 | Epoch 00000 | Step 00020 | Loss 4.2558 | Train Acc 0.0410 | Speed (samples/sec) 1534.5289 | GPU 1296.8 MB | time 13.608 s
+Part 20 | Epoch 00000 | Step 00020 | Loss 4.2127 | Train Acc 0.0430 | Speed (samples/sec) 1534.4943 | GPU 1283.8 MB | time 13.608 sPart 5 | Epoch 00000 | Step 00020 | Loss 4.4050 | Train Acc 0.0680 | Speed (samples/sec) 1534.4615 | GPU 1314.8 MB | time 13.605 s
+
+Part 22 | Epoch 00000 | Step 00020 | Loss 4.2423 | Train Acc 0.0460 | Speed (samples/sec) 1534.4244 | GPU 1298.6 MB | time 13.608 s
+Part 17 | Epoch 00000 | Step 00020 | Loss 4.1711 | Train Acc 0.0510 | Speed (samples/sec) 1534.5948 | GPU 1300.1 MB | time 13.606 s
+Part 18 | Epoch 00000 | Step 00020 | Loss 4.2379 | Train Acc 0.0360 | Speed (samples/sec) 1534.4443 | GPU 1288.0 MB | time 13.607 s
+Part 15 | Epoch 00000 | Step 00020 | Loss 4.7881 | Train Acc 0.0260 | Speed (samples/sec) 1534.5361 | GPU 1372.4 MB | time 13.604 s
+Part 8 | Epoch 00000 | Step 00020 | Loss 4.8408 | Train Acc 0.0190 | Speed (samples/sec) 1534.5627 | GPU 1360.2 MB | time 13.605 s
+Part 21 | Epoch 00000 | Step 00020 | Loss 4.2182 | Train Acc 0.0370 | Speed (samples/sec) 1534.4869 | GPU 1306.8 MB | time 13.607 sPart 16 | Epoch 00000 | Step 00020 | Loss 4.2752 | Train Acc 0.0290 | Speed (samples/sec) 1534.4846 | GPU 1291.2 MB | time 13.608 s
+
+Part 13 | Epoch 00000 | Step 00020 | Loss 4.7581 | Train Acc 0.0240 | Speed (samples/sec) 1534.5375 | GPU 1370.5 MB | time 13.606 s
+Part 12 | Epoch 00000 | Step 00020 | Loss 4.8569 | Train Acc 0.0180 | Speed (samples/sec) 1534.4868 | GPU 1372.4 MB | time 13.606 s
+Part 9 | Epoch 00000 | Step 00020 | Loss 4.8212 | Train Acc 0.0230 | Speed (samples/sec) 1534.5426 | GPU 1358.9 MB | time 13.605 sPart 10 | Epoch 00000 | Step 00020 | Loss 4.8586 | Train Acc 0.0250 | Speed (samples/sec) 1534.5516 | GPU 1361.4 MB | time 13.607 s
+
+Part 11 | Epoch 00000 | Step 00020 | Loss 4.8745 | Train Acc 0.0300 | Speed (samples/sec) 1534.5559 | GPU 1362.8 MB | time 13.605 s
+Part 26 | Epoch 00000 | Step 00020 | Loss 3.8191 | Train Acc 0.1600 | Speed (samples/sec) 1534.6080 | GPU 1146.9 MB | time 13.608 sPart 27 | Epoch 00000 | Step 00020 | Loss 3.6896 | Train Acc 0.2120 | Speed (samples/sec) 1534.4351 | GPU 1151.4 MB | time 13.608 sPart 25 | Epoch 00000 | Step 00020 | Loss 3.7910 | Train Acc 0.1660 | Speed (samples/sec) 1534.4842 | GPU 1154.6 MB | time 13.608 s
+
+
+Part 14 | Epoch 00000 | Step 00020 | Loss 4.8618 | Train Acc 0.0240 | Speed (samples/sec) 1534.5552 | GPU 1361.6 MB | time 13.604 s
+Part 28 | Epoch 00000 | Step 00020 | Loss 3.7336 | Train Acc 0.1830 | Speed (samples/sec) 1534.4502 | GPU 1146.3 MB | time 13.609 s
+Part 29 | Epoch 00000 | Step 00020 | Loss 3.7538 | Train Acc 0.1980 | Speed (samples/sec) 1534.4971 | GPU 1156.3 MB | time 13.605 s
+Part 24 | Epoch 00000 | Step 00020 | Loss 3.6760 | Train Acc 0.1910 | Speed (samples/sec) 1534.4210 | GPU 1159.8 MB | time 13.608 s
+Part 31 | Epoch 00000 | Step 00020 | Loss 3.7765 | Train Acc 0.1880 | Speed (samples/sec) 1534.4436 | GPU 1153.4 MB | time 13.606 s
+Part 30 | Epoch 00000 | Step 00020 | Loss 3.7682 | Train Acc 0.1860 | Speed (samples/sec) 1534.4800 | GPU 1153.3 MB | time 13.604 s
+Avg train acc 0.0813
+=====================
+Part 0, Epoch Time(s): 28.6871
+Sampling Time(s): 0.9496
+Loading Time(s): 9.8679
+Forward Time(s): 3.0866
+Backward Time(s): 1.1725
+Update Time(s): 0.0847
+Emb Update Time(s): 13.4943
+#seeds: 37725
+#inputs: 17077766
+==========================================
+Part 1, Epoch Time(s): 28.6872
+Sampling Time(s): 0.9563
+Loading Time(s): 10.1158
+Forward Time(s): 2.8371
+Backward Time(s): 1.1725
+Update Time(s): 0.0726
+Emb Update Time(s): 13.5074
+#seeds: 37724
+#inputs: 17123474
+==========================================
+Part 2, Epoch Time(s): 28.6873
+Sampling Time(s): 0.8694
+Loading Time(s): 9.5858
+Forward Time(s): 3.4681
+Backward Time(s): 1.1577
+Update Time(s): 0.0939
+Emb Update Time(s): 13.4864
+#seeds: 37724
+#inputs: 17173671
+=====================
+
+
+=====================
+Part 3, Epoch Time(s): 28.6884
+Sampling Time(s): 0.9448
+Loading Time(s): 9.8047
+Forward Time(s): 3.2365
+Backward Time(s): 1.1047
+Update Time(s): 0.0730
+Emb Update Time(s): 13.4976
+#seeds: 37724
+#inputs: 17042502
+=====================
+=====================
+Part 5, Epoch Time(s): 28.6877
+Sampling Time(s): 0.9684
+Loading Time(s): 10.2475
+Forward Time(s): 2.7196
+Backward Time(s): 1.1559
+Update Time(s): 0.0723
+Emb Update Time(s): 13.4970
+#seeds: 37725
+#inputs: 17012548
+=====================
+=====================
+Part 6, Epoch Time(s): 28.6881
+Sampling Time(s): 0.9097
+Loading Time(s): 9.5325
+Forward Time(s): 3.4773
+Backward Time(s): 1.1685
+Update Time(s): 0.0911
+Emb Update Time(s): 13.4825
+#seeds: 37724
+#inputs: 17126895
+==========================================
+Part 4, Epoch Time(s): 28.6877
+Sampling Time(s): 1.0122
+Loading Time(s): 10.1560
+Forward Time(s): 2.7629
+Backward Time(s): 1.1705
+Update Time(s): 0.0853
+Emb Update Time(s): 13.4756
+#seeds: 37724
+#inputs: 17067622
+==========================================
+Part 7, Epoch Time(s): 28.6878
+Sampling Time(s): 1.0834
+Loading Time(s): 9.0069
+Forward Time(s): 3.8190
+Backward Time(s): 1.1663
+Update Time(s): 0.0935
+Emb Update Time(s): 13.4914
+#seeds: 37725
+#inputs: 17148567
+=====================
+
+
+=====================
+Part 23, Epoch Time(s): 28.6871
+Sampling Time(s): 0.9925
+Loading Time(s): 9.6699
+Forward Time(s): 3.2725
+Backward Time(s): 1.1290
+Update Time(s): 0.0930
+Emb Update Time(s): 13.5068
+#seeds: 37724
+#inputs: 17142161
+==========================================
+Part 20, Epoch Time(s): 28.6873
+Sampling Time(s): 0.9418
+Loading Time(s): 9.1729
+Forward Time(s): 3.7742
+Backward Time(s): 1.1716
+Update Time(s): 0.0770
+Emb Update Time(s): 13.5260
+#seeds: 37725
+#inputs: 17160638
+==========================================
+Part 16, Epoch Time(s): 28.6876
+Sampling Time(s): 0.9573
+Loading Time(s): 9.4037
+Forward Time(s): 3.5743
+Backward Time(s): 1.1530
+Update Time(s): 0.0895
+Emb Update Time(s): 13.4856
+#seeds: 37724
+#inputs: 17129423
+==========================================
+Part 17, Epoch Time(s): 28.6868
+Sampling Time(s): 1.1031
+Loading Time(s): 9.4102
+Forward Time(s): 3.3646
+Backward Time(s): 1.2082
+Update Time(s): 0.0772
+Emb Update Time(s): 13.4981
+#seeds: 37724
+#inputs: 17153001
+=====================
+
+
+
+=====================
+Part 18, Epoch Time(s): 28.6872
+Sampling Time(s): 0.9656
+Loading Time(s): 7.7686
+Forward Time(s): 5.1585
+Backward Time(s): 1.1822
+Update Time(s): 0.0866
+Emb Update Time(s): 13.5003
+#seeds: 37725
+#inputs: 17082393
+=====================
+=====================
+Part 19, Epoch Time(s): 28.6870
+Sampling Time(s): 0.9689
+Loading Time(s): 9.4527
+Forward Time(s): 3.4388
+Backward Time(s): 1.2141
+Update Time(s): 0.0850
+Emb Update Time(s): 13.5041
+#seeds: 37725
+#inputs: 17193582
+==========================================
+Part 22, Epoch Time(s): 28.6878
+Sampling Time(s): 0.9839
+Loading Time(s): 8.5762
+Forward Time(s): 4.4043
+Backward Time(s): 1.1013
+Update Time(s): 0.0877
+Emb Update Time(s): 13.5104
+#seeds: 37724
+#inputs: 17114574
+=====================
+=====================
+Part 21, Epoch Time(s): 28.6862
+Sampling Time(s): 0.9972
+Loading Time(s): 9.2140
+Forward Time(s): 3.7558
+Backward Time(s): 1.0997
+Update Time(s): 0.0833
+Emb Update Time(s): 13.5112
+#seeds: 37724
+#inputs: 17143194
+=====================
+
+=====================
+Part 26, Epoch Time(s): 28.6879
+Sampling Time(s): 0.8952
+Loading Time(s): 7.9816
+Forward Time(s): 4.9928
+Backward Time(s): 1.1864
+Update Time(s): 0.0836
+Emb Update Time(s): 13.5242
+#seeds: 37724
+#inputs: 14102900
+==========================================
+Part 28, Epoch Time(s): 28.6873
+Sampling Time(s): 0.8802
+Loading Time(s): 8.2775
+Forward Time(s): 4.7453
+Backward Time(s): 1.1541
+Update Time(s): 0.0824
+Emb Update Time(s): 13.5250
+#seeds: 37724
+#inputs: 14066952
+==========================================
+Part 24, Epoch Time(s): 28.6878
+Sampling Time(s): 0.8676
+Loading Time(s): 7.5572
+Forward Time(s): 5.4726
+Backward Time(s): 1.1641
+Update Time(s): 0.0813
+Emb Update Time(s): 13.5202
+#seeds: 37725
+#inputs: 14113720
+=====================
+
+
+=====================
+Part 25, Epoch Time(s): 28.6877
+Sampling Time(s): 0.9179
+Loading Time(s): 8.1500
+Forward Time(s): 4.8397
+Backward Time(s): 1.1526
+Update Time(s): 0.0834
+Emb Update Time(s): 13.5203
+#seeds: 37724
+#inputs: 14125682
+==========================================
+Part 31, Epoch Time(s): 28.6881
+Sampling Time(s): 0.9715
+Loading Time(s): 7.2646
+Forward Time(s): 5.6731
+Backward Time(s): 1.1441
+Update Time(s): 0.0832
+Emb Update Time(s): 13.5250
+#seeds: 37724
+#inputs: 14089628
+=====================
+=====================
+Part 27, Epoch Time(s): 28.6879
+Sampling Time(s): 0.9006
+Loading Time(s): 8.0397
+Forward Time(s): 4.9629
+Backward Time(s): 1.1552
+Update Time(s): 0.0815
+Emb Update Time(s): 13.5242
+#seeds: 37725
+#inputs: 14094376
+=====================
+
+=====================
+Part 30, Epoch Time(s): 28.6871
+Sampling Time(s): 1.0185
+Loading Time(s): 7.2932
+Forward Time(s): 5.5841
+Backward Time(s): 1.1508
+Update Time(s): 0.0846
+Emb Update Time(s): 13.5256
+#seeds: 37724
+#inputs: 14069508
+==========================================
+Part 29, Epoch Time(s): 28.6880
+Sampling Time(s): 0.8270
+Loading Time(s): 6.9367
+Forward Time(s): 6.1189
+Backward Time(s): 1.1675
+Update Time(s): 0.0839
+Emb Update Time(s): 13.5262
+#seeds: 37724
+#inputs: 14112013
+=====================
+
+=====================
+Part 12, Epoch Time(s): 28.6878
+Sampling Time(s): 0.9999
+Loading Time(s): 9.1308
+Forward Time(s): 3.7587
+Backward Time(s): 1.1753
+Update Time(s): 0.0896
+Emb Update Time(s): 13.5073
+#seeds: 37725
+#inputs: 18305255
+==========================================
+Part 8, Epoch Time(s): 28.6882
+Sampling Time(s): 1.0092
+Loading Time(s): 10.5113
+Forward Time(s): 2.4419
+Backward Time(s): 1.1312
+Update Time(s): 0.0826
+Emb Update Time(s): 13.4846
+#seeds: 37724
+#inputs: 18300468
+==========================================
+Part 10, Epoch Time(s): 28.6875
+Sampling Time(s): 1.0236
+Loading Time(s): 9.3346
+Forward Time(s): 3.5651
+Backward Time(s): 1.1443
+Update Time(s): 0.0849
+Emb Update Time(s): 13.5096
+#seeds: 37725
+#inputs: 18290304
+==========================================
+Part 11, Epoch Time(s): 28.6879
+Sampling Time(s): 1.0662
+Loading Time(s): 9.2075
+Forward Time(s): 3.6211
+Backward Time(s): 1.1747
+Update Time(s): 0.0856
+Emb Update Time(s): 13.5051
+#seeds: 37725
+#inputs: 18296007
+==========================================
+Part 9, Epoch Time(s): 28.6882
+Sampling Time(s): 1.0226
+Loading Time(s): 10.4406
+Forward Time(s): 2.5101
+Backward Time(s): 1.1483
+Update Time(s): 0.0900
+Emb Update Time(s): 13.4488
+#seeds: 37724
+#inputs: 18247274
+=====================
+
+
+
+=====================
+Part 15, Epoch Time(s): 28.6876
+Sampling Time(s): 1.0333
+Loading Time(s): 10.4306
+Forward Time(s): 2.4625
+Backward Time(s): 1.1682
+Update Time(s): 0.0814
+Emb Update Time(s): 13.4841
+#seeds: 37724
+#inputs: 18381997
+=====================
+=====================
+Part 14, Epoch Time(s): 28.6878
+Sampling Time(s): 1.0592
+Loading Time(s): 9.1424
+Forward Time(s): 3.7570
+Backward Time(s): 1.1177
+Update Time(s): 0.0928
+Emb Update Time(s): 13.4909
+#seeds: 37724
+#inputs: 18246082
+=====================
+=====================
+Part 13, Epoch Time(s): 28.6874
+Sampling Time(s): 1.0342
+Loading Time(s): 9.8158
+Forward Time(s): 3.1025
+Backward Time(s): 1.1179
+Update Time(s): 0.0901
+Emb Update Time(s): 13.5009
+#seeds: 37724
+#inputs: 18291472
+=====================
+
+Part 1 | Epoch 00001 | Step 00000 | Loss 4.0980 | Train Acc 0.1160 | Speed (samples/sec) 1509.1672 | GPU 1315.3 MB | time 0.911 s
+Part 3 | Epoch 00001 | Step 00000 | Loss 4.0613 | Train Acc 0.1120 | Speed (samples/sec) 1509.3221 | GPU 1311.0 MB | time 0.911 s
+Part 17 | Epoch 00001 | Step 00000 | Loss 3.9842 | Train Acc 0.0730 | Speed (samples/sec) 1509.2924 | GPU 1300.1 MB | time 0.911 sPart 19 | Epoch 00001 | Step 00000 | Loss 3.9301 | Train Acc 0.0760 | Speed (samples/sec) 1509.1806 | GPU 1304.7 MB | time 0.911 s
+
+Part 18 | Epoch 00001 | Step 00000 | Loss 4.0030 | Train Acc 0.0800 | Speed (samples/sec) 1509.1824 | GPU 1288.0 MB | time 0.911 sPart 23 | Epoch 00001 | Step 00000 | Loss 3.9812 | Train Acc 0.0760 | Speed (samples/sec) 1509.1205 | GPU 1305.7 MB | time 0.911 s
+
+Part 22 | Epoch 00001 | Step 00000 | Loss 4.0281 | Train Acc 0.0540 | Speed (samples/sec) 1509.1566 | GPU 1298.6 MB | time 0.911 s
+Part 25 | Epoch 00001 | Step 00000 | Loss 3.0538 | Train Acc 0.3450 | Speed (samples/sec) 1509.1978 | GPU 1154.6 MB | time 0.911 s
+Part 28 | Epoch 00001 | Step 00000 | Loss 3.0832 | Train Acc 0.3390 | Speed (samples/sec) 1509.1700 | GPU 1146.3 MB | time 0.911 s
+Part 30 | Epoch 00001 | Step 00000 | Loss 3.0447 | Train Acc 0.3390 | Speed (samples/sec) 1509.4132 | GPU 1153.3 MB | time 0.911 sPart 27 | Epoch 00001 | Step 00000 | Loss 3.0071 | Train Acc 0.3600 | Speed (samples/sec) 1509.2300 | GPU 1162.7 MB | time 0.911 sPart 26 | Epoch 00001 | Step 00000 | Loss 3.0480 | Train Acc 0.3420 | Speed (samples/sec) 1509.3021 | GPU 1146.9 MB | time 0.911 sPart 29 | Epoch 00001 | Step 00000 | Loss 3.1197 | Train Acc 0.3260 | Speed (samples/sec) 1509.3186 | GPU 1156.3 MB | time 0.911 s
+
+
+
+Part 31 | Epoch 00001 | Step 00000 | Loss 3.1973 | Train Acc 0.3070 | Speed (samples/sec) 1509.3832 | GPU 1153.4 MB | time 0.911 s
+Part 16 | Epoch 00001 | Step 00000 | Loss 3.9555 | Train Acc 0.0800 | Speed (samples/sec) 1509.1656 | GPU 1293.4 MB | time 0.911 s
+Part 24 | Epoch 00001 | Step 00000 | Loss 3.1027 | Train Acc 0.3330 | Speed (samples/sec) 1509.4280 | GPU 1160.5 MB | time 0.911 s
+Part 20 | Epoch 00001 | Step 00000 | Loss 4.0052 | Train Acc 0.0620 | Speed (samples/sec) 1509.1954 | GPU 1285.8 MB | time 0.911 s
+Part 7 | Epoch 00001 | Step 00000 | Loss 4.1817 | Train Acc 0.1150 | Speed (samples/sec) 1509.2778 | GPU 1325.0 MB | time 0.911 s
+Part 6 | Epoch 00001 | Step 00000 | Loss 4.1937 | Train Acc 0.1000 | Speed (samples/sec) 1509.2625 | GPU 1317.7 MB | time 0.911 sPart 2 | Epoch 00001 | Step 00000 | Loss 4.1761 | Train Acc 0.1070 | Speed (samples/sec) 1509.2229 | GPU 1338.6 MB | time 0.911 s
+
+Part 5 | Epoch 00001 | Step 00000 | Loss 4.0970 | Train Acc 0.1190 | Speed (samples/sec) 1509.2307 | GPU 1314.8 MB | time 0.911 s
+Part 21 | Epoch 00001 | Step 00000 | Loss 3.9254 | Train Acc 0.0690 | Speed (samples/sec) 1509.1829 | GPU 1306.8 MB | time 0.911 s
+Part 0 | Epoch 00001 | Step 00000 | Loss 4.1078 | Train Acc 0.1190 | Speed (samples/sec) 1509.3577 | GPU 1314.2 MB | time 0.911 s
+Part 4 | Epoch 00001 | Step 00000 | Loss 4.1683 | Train Acc 0.1160 | Speed (samples/sec) 1509.1443 | GPU 1312.3 MB | time 0.911 s
+Part 12 | Epoch 00001 | Step 00000 | Loss 4.5173 | Train Acc 0.0700 | Speed (samples/sec) 1509.2537 | GPU 1372.4 MB | time 0.911 sPart 10 | Epoch 00001 | Step 00000 | Loss 4.6172 | Train Acc 0.0650 | Speed (samples/sec) 1509.2867 | GPU 1361.4 MB | time 0.911 s
+
+Part 15 | Epoch 00001 | Step 00000 | Loss 4.6493 | Train Acc 0.0470 | Speed (samples/sec) 1509.1814 | GPU 1379.4 MB | time 0.911 s
+Part 8 | Epoch 00001 | Step 00000 | Loss 4.5576 | Train Acc 0.0580 | Speed (samples/sec) 1509.2121 | GPU 1360.2 MB | time 0.911 s
+Part 11 | Epoch 00001 | Step 00000 | Loss 4.6112 | Train Acc 0.0560 | Speed (samples/sec) 1509.2444 | GPU 1370.5 MB | time 0.911 s
+Part 14 | Epoch 00001 | Step 00000 | Loss 4.6129 | Train Acc 0.0610 | Speed (samples/sec) 1509.1936 | GPU 1364.5 MB | time 0.911 s
+Part 13 | Epoch 00001 | Step 00000 | Loss 4.6114 | Train Acc 0.0450 | Speed (samples/sec) 1509.1557 | GPU 1370.5 MB | time 0.911 s
+Part 9 | Epoch 00001 | Step 00000 | Loss 4.5999 | Train Acc 0.0550 | Speed (samples/sec) 1509.1992 | GPU 1363.8 MB | time 0.911 s
+Avg train acc 0.1444
+Part 1 | Epoch 00001 | Step 00020 | Loss 3.4521 | Train Acc 0.2280 | Speed (samples/sec) 1504.0293 | GPU 1315.3 MB | time 13.997 sPart 3 | Epoch 00001 | Step 00020 | Loss 3.3073 | Train Acc 0.2480 | Speed (samples/sec) 1504.1569 | GPU 1311.6 MB | time 13.996 s
+
+Part 4 | Epoch 00001 | Step 00020 | Loss 3.3566 | Train Acc 0.2450 | Speed (samples/sec) 1504.0390 | GPU 1317.9 MB | time 13.996 s
+Part 5 | Epoch 00001 | Step 00020 | Loss 3.3215 | Train Acc 0.2580 | Speed (samples/sec) 1504.0685 | GPU 1322.5 MB | time 13.996 s
+Part 7 | Epoch 00001 | Step 00020 | Loss 3.4625 | Train Acc 0.2350 | Speed (samples/sec) 1504.0986 | GPU 1325.0 MB | time 13.996 sPart 2 | Epoch 00001 | Step 00020 | Loss 3.4009 | Train Acc 0.2420 | Speed (samples/sec) 1504.0688 | GPU 1338.6 MB | time 13.996 s
+
+Part 0 | Epoch 00001 | Step 00020 | Loss 3.3739 | Train Acc 0.2350 | Speed (samples/sec) 1504.1759 | GPU 1314.2 MB | time 13.995 s
+Part 23 | Epoch 00001 | Step 00020 | Loss 3.2065 | Train Acc 0.2830 | Speed (samples/sec) 1503.9624 | GPU 1305.7 MB | time 13.997 s
+Part 19 | Epoch 00001 | Step 00020 | Loss 3.2616 | Train Acc 0.2950 | Speed (samples/sec) 1503.9849 | GPU 1304.7 MB | time 13.997 s
+Part 22 | Epoch 00001 | Step 00020 | Loss 3.3088 | Train Acc 0.2600 | Speed (samples/sec) 1504.0148 | GPU 1298.6 MB | time 13.996 s
+Part 20 | Epoch 00001 | Step 00020 | Loss 3.3873 | Train Acc 0.2460 | Speed (samples/sec) 1504.0261 | GPU 1294.6 MB | time 13.996 s
+Part 18 | Epoch 00001 | Step 00020 | Loss 3.2515 | Train Acc 0.2710 | Speed (samples/sec) 1503.9959 | GPU 1300.5 MB | time 13.997 sPart 10 | Epoch 00001 | Step 00020 | Loss 4.1008 | Train Acc 0.1470 | Speed (samples/sec) 1504.1781 | GPU 1364.6 MB | time 13.994 s
+Part 12 | Epoch 00001 | Step 00020 | Loss 3.8454 | Train Acc 0.1970 | Speed (samples/sec) 1504.1288 | GPU 1372.4 MB | time 13.994 s
+
+Part 17 | Epoch 00001 | Step 00020 | Loss 3.2572 | Train Acc 0.2880 | Speed (samples/sec) 1504.0810 | GPU 1300.1 MB | time 13.997 s
+Part 29 | Epoch 00001 | Step 00020 | Loss 2.2867 | Train Acc 0.4640 | Speed (samples/sec) 1504.2126 | GPU 1156.3 MB | time 13.996 s
+Part 28 | Epoch 00001 | Step 00020 | Loss 2.2849 | Train Acc 0.4620 | Speed (samples/sec) 1503.9937 | GPU 1146.3 MB | time 13.997 sPart 26 | Epoch 00001 | Step 00020 | Loss 2.3635 | Train Acc 0.4620 | Speed (samples/sec) 1504.1090 | GPU 1146.9 MB | time 13.997 sPart 25 | Epoch 00001 | Step 00020 | Loss 2.2072 | Train Acc 0.4780 | Speed (samples/sec) 1504.0091 | GPU 1154.6 MB | time 13.997 s
+
+
+Part 24 | Epoch 00001 | Step 00020 | Loss 2.1566 | Train Acc 0.4780 | Speed (samples/sec) 1504.2481 | GPU 1160.5 MB | time 13.996 sPart 30 | Epoch 00001 | Step 00020 | Loss 2.1342 | Train Acc 0.4840 | Speed (samples/sec) 1504.2154 | GPU 1153.3 MB | time 13.996 s
+
+Part 27 | Epoch 00001 | Step 00020 | Loss 2.1733 | Train Acc 0.5110 | Speed (samples/sec) 1504.0561 | GPU 1162.7 MB | time 13.997 s
+Part 16 | Epoch 00001 | Step 00020 | Loss 3.2539 | Train Acc 0.2630 | Speed (samples/sec) 1504.0239 | GPU 1312.8 MB | time 13.997 s
+Part 21 | Epoch 00001 | Step 00020 | Loss 3.1917 | Train Acc 0.2830 | Speed (samples/sec) 1504.0070 | GPU 1306.8 MB | time 13.997 s
+Part 15 | Epoch 00001 | Step 00020 | Loss 4.0242 | Train Acc 0.1690 | Speed (samples/sec) 1504.0634 | GPU 1379.4 MB | time 13.996 s
+Part 8 | Epoch 00001 | Step 00020 | Loss 4.0604 | Train Acc 0.1500 | Speed (samples/sec) 1504.0802 | GPU 1364.1 MB | time 13.996 s
+Part 13 | Epoch 00001 | Step 00020 | Loss 4.0125 | Train Acc 0.1720 | Speed (samples/sec) 1504.0409 | GPU 1370.5 MB | time 13.995 sPart 11 | Epoch 00001 | Step 00020 | Loss 4.0474 | Train Acc 0.1510 | Speed (samples/sec) 1504.2126 | GPU 1370.5 MB | time 13.994 s
+
+Part 9 | Epoch 00001 | Step 00020 | Loss 4.0635 | Train Acc 0.1420 | Speed (samples/sec) 1504.0927 | GPU 1363.8 MB | time 13.995 s
+Part 31 | Epoch 00001 | Step 00020 | Loss 2.1717 | Train Acc 0.4880 | Speed (samples/sec) 1504.1500 | GPU 1153.4 MB | time 13.997 s
+Part 14 | Epoch 00001 | Step 00020 | Loss 4.0617 | Train Acc 0.1630 | Speed (samples/sec) 1504.0698 | GPU 1369.6 MB | time 13.995 s
+Part 6 | Epoch 00001 | Step 00020 | Loss 3.4489 | Train Acc 0.2350 | Speed (samples/sec) 1504.1021 | GPU 1317.7 MB | time 13.996 s
+Avg train acc 0.2885
+=====================
+Part 1, Epoch Time(s): 27.6184
+Sampling Time(s): 1.0561
+Loading Time(s): 8.3900
+Forward Time(s): 1.9966
+Backward Time(s): 1.1351
+Update Time(s): 0.0323
+Emb Update Time(s): 14.9911
+#seeds: 37724
+#inputs: 17124844
+==========================================
+Part 4, Epoch Time(s): 27.6183
+Sampling Time(s): 1.1033
+Loading Time(s): 8.4431
+Forward Time(s): 1.9093
+Backward Time(s): 1.1336
+Update Time(s): 0.0341
+Emb Update Time(s): 14.9770
+#seeds: 37724
+#inputs: 17075372
+==========================================
+Part 5, Epoch Time(s): 27.6184
+Sampling Time(s): 1.0939
+Loading Time(s): 8.1806
+Forward Time(s): 2.1797
+Backward Time(s): 1.1273
+Update Time(s): 0.0346
+Emb Update Time(s): 14.9845
+#seeds: 37725
+#inputs: 17005702
+==========================================
+Part 7, Epoch Time(s): 27.6184
+Sampling Time(s): 1.1079
+Loading Time(s): 7.8417
+Forward Time(s): 2.4935
+Backward Time(s): 1.1339
+Update Time(s): 0.0365
+Emb Update Time(s): 14.9869
+#seeds: 37725
+#inputs: 17123961
+=====================
+
+
+
+=====================
+Part 0, Epoch Time(s): 27.6184
+Sampling Time(s): 1.1027
+Loading Time(s): 8.5207
+Forward Time(s): 1.8270
+Backward Time(s): 1.1375
+Update Time(s): 0.0331
+Emb Update Time(s): 14.9773
+#seeds: 37725
+#inputs: 17069497
+==========================================
+Part 6, Epoch Time(s): 27.6184
+Sampling Time(s): 0.9560
+Loading Time(s): 7.8666
+Forward Time(s): 2.6058
+Backward Time(s): 1.1405
+Update Time(s): 0.0391
+Emb Update Time(s): 14.9909
+#seeds: 37724
+#inputs: 17126124
+=====================
+
+=====================
+Part 2, Epoch Time(s): 27.6187
+Sampling Time(s): 0.9422
+Loading Time(s): 7.9471
+Forward Time(s): 2.5321
+Backward Time(s): 1.1454
+Update Time(s): 0.0387
+Emb Update Time(s): 14.9940
+#seeds: 37724
+#inputs: 17161377
+=====================
+=====================
+Part 3, Epoch Time(s): 27.6184
+Sampling Time(s): 1.0035
+Loading Time(s): 8.1174
+Forward Time(s): 2.3160
+Backward Time(s): 1.1380
+Update Time(s): 0.0346
+Emb Update Time(s): 14.9912
+#seeds: 37724
+#inputs: 17033515
+=====================
+=====================
+Part 18, Epoch Time(s): 27.6184
+Sampling Time(s): 0.9636
+Loading Time(s): 6.7877
+Forward Time(s): 3.6670
+Backward Time(s): 1.1453
+Update Time(s): 0.0363
+Emb Update Time(s): 15.0010
+#seeds: 37725
+#inputs: 17077206
+==========================================
+Part 23, Epoch Time(s): 27.6184
+Sampling Time(s): 1.0069
+Loading Time(s): 8.5427
+Forward Time(s): 1.9099
+Backward Time(s): 1.1167
+Update Time(s): 0.0385
+Emb Update Time(s): 14.9866
+#seeds: 37724
+#inputs: 17147739
+=====================
+
+=====================
+Part 19, Epoch Time(s): 27.6184
+Sampling Time(s): 1.0825
+Loading Time(s): 8.2009
+Forward Time(s): 2.1496
+Backward Time(s): 1.1397
+Update Time(s): 0.0340
+Emb Update Time(s): 14.9954
+#seeds: 37725
+#inputs: 17183072
+==========================================
+Part 22, Epoch Time(s): 27.6184
+Sampling Time(s): 0.9541
+Loading Time(s): 7.6152
+Forward Time(s): 2.8522
+Backward Time(s): 1.1404
+Update Time(s): 0.0385
+Emb Update Time(s): 15.0003
+#seeds: 37724
+#inputs: 17131650
+=====================
+
+=====================
+Part 17, Epoch Time(s): 27.6185
+Sampling Time(s): 1.1085
+Loading Time(s): 7.8073
+Forward Time(s): 2.5159
+Backward Time(s): 1.1356
+Update Time(s): 0.0363
+Emb Update Time(s): 14.9971
+#seeds: 37724
+#inputs: 17153463
+==========================================
+Part 16, Epoch Time(s): 27.6184
+Sampling Time(s): 1.0199
+Loading Time(s): 8.5505
+Forward Time(s): 1.8639
+Backward Time(s): 1.1360
+Update Time(s): 0.0350
+Emb Update Time(s): 14.9958
+#seeds: 37724
+#inputs: 17130523
+=====================
+=====================
+Part 20, Epoch Time(s): 27.6185
+Sampling Time(s): 1.0368
+Loading Time(s): 8.3959
+Forward Time(s): 2.0062
+Backward Time(s): 1.1302
+Update Time(s): 0.0394
+Emb Update Time(s): 14.9924
+#seeds: 37725
+#inputs: 17155344
+=====================
+
+=====================
+Part 21, Epoch Time(s): 27.6184
+Sampling Time(s): 1.0016
+Loading Time(s): 8.2802
+Forward Time(s): 2.1585
+Backward Time(s): 1.1285
+Update Time(s): 0.0369
+Emb Update Time(s): 14.9954
+#seeds: 37724
+#inputs: 17145303
+=====================
+=====================
+Part 10, Epoch Time(s): 27.6185
+Sampling Time(s): 1.1604
+Loading Time(s): 8.1977
+Forward Time(s): 2.0548
+Backward Time(s): 1.1401
+Update Time(s): 0.0424
+Emb Update Time(s): 15.0030
+#seeds: 37725
+#inputs: 18287616
+==========================================
+Part 15, Epoch Time(s): 27.6184
+Sampling Time(s): 1.1383
+Loading Time(s): 8.9962
+Forward Time(s): 1.3792
+Backward Time(s): 1.0833
+Update Time(s): 0.0401
+Emb Update Time(s): 14.9627
+#seeds: 37724
+#inputs: 18377464
+==========================================
+Part 14, Epoch Time(s): 27.6183
+Sampling Time(s): 1.0722
+Loading Time(s): 8.4407
+Forward Time(s): 1.9503
+Backward Time(s): 1.0957
+Update Time(s): 0.0410
+Emb Update Time(s): 14.9987
+#seeds: 37724
+#inputs: 18229298
+==========================================
+Part 12, Epoch Time(s): 27.6186
+Sampling Time(s): 1.0640
+Loading Time(s): 8.0431
+Forward Time(s): 2.3191
+Backward Time(s): 1.1326
+Update Time(s): 0.0402
+Emb Update Time(s): 14.9994
+#seeds: 37725
+#inputs: 18299654
+==========================================
+Part 8, Epoch Time(s): 27.6184
+Sampling Time(s): 1.0900
+Loading Time(s): 8.7917
+Forward Time(s): 1.5822
+Backward Time(s): 1.1202
+Update Time(s): 0.0364
+Emb Update Time(s): 14.9796
+#seeds: 37724
+#inputs: 18294679
+==========================================
+Part 11, Epoch Time(s): 27.6184
+Sampling Time(s): 1.1755
+Loading Time(s): 8.3436
+Forward Time(s): 1.9021
+Backward Time(s): 1.1339
+Update Time(s): 0.0409
+Emb Update Time(s): 15.0003
+#seeds: 37725
+#inputs: 18304511
+==========================================
+Part 9, Epoch Time(s): 27.6185
+Sampling Time(s): 1.0865
+Loading Time(s): 9.0278
+Forward Time(s): 1.3546
+Backward Time(s): 1.1046
+Update Time(s): 0.0364
+Emb Update Time(s): 14.9888
+#seeds: 37724
+#inputs: 18257615
+=====================
+
+
+
+
+
+
+=====================
+Part 13, Epoch Time(s): 27.6184
+Sampling Time(s): 1.0126
+Loading Time(s): 8.9170
+Forward Time(s): 1.5239
+Backward Time(s): 1.1102
+Update Time(s): 0.0378
+Emb Update Time(s): 14.9975
+#seeds: 37724
+#inputs: 18299896
+=====================
+=====================
+Part 28, Epoch Time(s): 27.6185
+Sampling Time(s): 0.9732
+Loading Time(s): 7.2223
+Forward Time(s): 3.2257
+Backward Time(s): 1.1402
+Update Time(s): 0.0308
+Emb Update Time(s): 15.0097
+#seeds: 37724
+#inputs: 14051700
+==========================================
+Part 27, Epoch Time(s): 27.6184
+Sampling Time(s): 0.9529
+Loading Time(s): 7.1279
+Forward Time(s): 3.3390
+Backward Time(s): 1.1413
+Update Time(s): 0.0334
+Emb Update Time(s): 15.0068
+#seeds: 37725
+#inputs: 14091853
+==========================================
+Part 26, Epoch Time(s): 27.6184
+Sampling Time(s): 0.9962
+Loading Time(s): 7.2373
+Forward Time(s): 3.1866
+Backward Time(s): 1.1424
+Update Time(s): 0.0321
+Emb Update Time(s): 15.0067
+#seeds: 37724
+#inputs: 14093714
+==========================================
+Part 25, Epoch Time(s): 27.6184
+Sampling Time(s): 0.9651
+Loading Time(s): 7.2548
+Forward Time(s): 3.1997
+Backward Time(s): 1.1434
+Update Time(s): 0.0323
+Emb Update Time(s): 15.0061
+#seeds: 37724
+#inputs: 14124323
+==========================================
+Part 29, Epoch Time(s): 27.6184
+Sampling Time(s): 0.9182
+Loading Time(s): 6.4356
+Forward Time(s): 4.0629
+Backward Time(s): 1.1392
+Update Time(s): 0.0346
+Emb Update Time(s): 15.0100
+#seeds: 37724
+#inputs: 14119827
+==========================================
+Part 24, Epoch Time(s): 27.6184
+Sampling Time(s): 0.9204
+Loading Time(s): 6.4596
+Forward Time(s): 4.0372
+Backward Time(s): 1.1446
+Update Time(s): 0.0321
+Emb Update Time(s): 15.0072
+#seeds: 37725
+#inputs: 14112424
+=====================
+
+
+
+
+
+=====================
+Part 31, Epoch Time(s): 27.6189
+Sampling Time(s): 0.9819
+Loading Time(s): 6.5974
+Forward Time(s): 3.8399
+Backward Time(s): 1.1381
+Update Time(s): 0.0364
+Emb Update Time(s): 15.0075
+#seeds: 37724
+#inputs: 14101828
+==========================================
+Part 30, Epoch Time(s): 27.6187
+Sampling Time(s): 1.0779
+Loading Time(s): 6.4624
+Forward Time(s): 3.8782
+Backward Time(s): 1.1382
+Update Time(s): 0.0370
+Emb Update Time(s): 15.0072
+#seeds: 37724
+#inputs: 14058788
+=====================
+
+Part 1 | Epoch 00002 | Step 00000 | Loss 2.8186 | Train Acc 0.3510 | Speed (samples/sec) 1462.4925 | GPU 1322.5 MB | time 0.854 sPart 5 | Epoch 00002 | Step 00000 | Loss 2.7959 | Train Acc 0.3460 | Speed (samples/sec) 1462.5355 | GPU 1322.5 MB | time 0.854 s
+
+Part 7 | Epoch 00002 | Step 00000 | Loss 2.8382 | Train Acc 0.3490 | Speed (samples/sec) 1462.5722 | GPU 1325.0 MB | time 0.854 s
+Part 3 | Epoch 00002 | Step 00000 | Loss 2.8017 | Train Acc 0.3430 | Speed (samples/sec) 1462.5855 | GPU 1311.6 MB | time 0.854 s
+Part 23 | Epoch 00002 | Step 00000 | Loss 2.5714 | Train Acc 0.4100 | Speed (samples/sec) 1462.4552 | GPU 1305.7 MB | time 0.854 s
+Part 4 | Epoch 00002 | Step 00000 | Loss 2.8474 | Train Acc 0.3780 | Speed (samples/sec) 1462.4955 | GPU 1317.9 MB | time 0.854 s
+Part 25 | Epoch 00002 | Step 00000 | Loss 1.7408 | Train Acc 0.5940 | Speed (samples/sec) 1462.4788 | GPU 1155.2 MB | time 0.854 s
+Part 28 | Epoch 00002 | Step 00000 | Loss 1.7199 | Train Acc 0.6000 | Speed (samples/sec) 1462.4496 | GPU 1146.3 MB | time 0.854 s
+Part 26 | Epoch 00002 | Step 00000 | Loss 1.7771 | Train Acc 0.5900 | Speed (samples/sec) 1462.5387 | GPU 1146.9 MB | time 0.854 s
+Part 8 | Epoch 00002 | Step 00000 | Loss 3.3183 | Train Acc 0.2970 | Speed (samples/sec) 1462.5449 | GPU 1364.1 MB | time 0.854 s
+Part 15 | Epoch 00002 | Step 00000 | Loss 3.4255 | Train Acc 0.2670 | Speed (samples/sec) 1462.5287 | GPU 1379.4 MB | time 0.854 s
+Part 24 | Epoch 00002 | Step 00000 | Loss 1.6698 | Train Acc 0.5970 | Speed (samples/sec) 1462.6664 | GPU 1160.5 MB | time 0.854 sPart 29 | Epoch 00002 | Step 00000 | Loss 1.8291 | Train Acc 0.5860 | Speed (samples/sec) 1462.6233 | GPU 1156.3 MB | time 0.854 s
+
+Part 31 | Epoch 00002 | Step 00000 | Loss 1.7720 | Train Acc 0.5960 | Speed (samples/sec) 1462.5855 | GPU 1153.4 MB | time 0.854 s
+Part 30 | Epoch 00002 | Step 00000 | Loss 1.7738 | Train Acc 0.5900 | Speed (samples/sec) 1462.6229 | GPU 1153.3 MB | time 0.854 s
+Part 19 | Epoch 00002 | Step 00000 | Loss 2.5726 | Train Acc 0.3980 | Speed (samples/sec) 1462.4671 | GPU 1306.2 MB | time 0.854 s
+Part 27 | Epoch 00002 | Step 00000 | Loss 1.8685 | Train Acc 0.5560 | Speed (samples/sec) 1462.5261 | GPU 1162.7 MB | time 0.854 s
+Part 20 | Epoch 00002 | Step 00000 | Loss 2.5342 | Train Acc 0.4070 | Speed (samples/sec) 1462.5142 | GPU 1294.6 MB | time 0.854 s
+Part 16 | Epoch 00002 | Step 00000 | Loss 2.4933 | Train Acc 0.4270 | Speed (samples/sec) 1462.4892 | GPU 1312.8 MB | time 0.854 s
+Part 10 | Epoch 00002 | Step 00000 | Loss 3.3593 | Train Acc 0.2750 | Speed (samples/sec) 1462.6390 | GPU 1364.6 MB | time 0.854 s
+Part 11 | Epoch 00002 | Step 00000 | Loss 3.2571 | Train Acc 0.2820 | Speed (samples/sec) 1462.7363 | GPU 1370.5 MB | time 0.854 s
+Part 14 | Epoch 00002 | Step 00000 | Loss 3.3106 | Train Acc 0.2970 | Speed (samples/sec) 1462.5342 | GPU 1369.6 MB | time 0.854 s
+Part 9 | Epoch 00002 | Step 00000 | Loss 3.2993 | Train Acc 0.2970 | Speed (samples/sec) 1462.6274 | GPU 1363.8 MB | time 0.854 s
+Part 21 | Epoch 00002 | Step 00000 | Loss 2.5778 | Train Acc 0.4110 | Speed (samples/sec) 1462.4759 | GPU 1306.8 MB | time 0.854 s
+Part 0 | Epoch 00002 | Step 00000 | Loss 2.6973 | Train Acc 0.3770 | Speed (samples/sec) 1462.6483 | GPU 1314.2 MB | time 0.854 s
+Part 12 | Epoch 00002 | Step 00000 | Loss 3.4151 | Train Acc 0.2870 | Speed (samples/sec) 1462.5963 | GPU 1372.4 MB | time 0.854 sPart 13 | Epoch 00002 | Step 00000 | Loss 3.3961 | Train Acc 0.2830 | Speed (samples/sec) 1462.5010 | GPU 1373.3 MB | time 0.854 s
+
+Part 2 | Epoch 00002 | Step 00000 | Loss 2.8222 | Train Acc 0.3580 | Speed (samples/sec) 1462.5414 | GPU 1338.6 MB | time 0.854 s
+Part 22 | Epoch 00002 | Step 00000 | Loss 2.6256 | Train Acc 0.3920 | Speed (samples/sec) 1462.4790 | GPU 1303.1 MB | time 0.854 s
+Part 17 | Epoch 00002 | Step 00000 | Loss 2.5693 | Train Acc 0.4160 | Speed (samples/sec) 1462.5449 | GPU 1300.1 MB | time 0.854 s
+Part 18 | Epoch 00002 | Step 00000 | Loss 2.5042 | Train Acc 0.4340 | Speed (samples/sec) 1462.4935 | GPU 1300.5 MB | time 0.854 s
+Part 6 | Epoch 00002 | Step 00000 | Loss 2.8436 | Train Acc 0.3430 | Speed (samples/sec) 1462.5827 | GPU 1322.1 MB | time 0.854 s
+Avg train acc 0.4104
+Part 4 | Epoch 00002 | Step 00020 | Loss 2.3520 | Train Acc 0.4550 | Speed (samples/sec) 1446.3011 | GPU 1317.9 MB | time 14.834 s
+Part 0 | Epoch 00002 | Step 00020 | Loss 2.2065 | Train Acc 0.4540 | Speed (samples/sec) 1446.5510 | GPU 1317.6 MB | time 14.829 s
+Part 1 | Epoch 00002 | Step 00020 | Loss 2.2935 | Train Acc 0.4490 | Speed (samples/sec) 1446.2999 | GPU 1322.5 MB | time 14.833 s
+Part 5 | Epoch 00002 | Step 00020 | Loss 2.2862 | Train Acc 0.4650 | Speed (samples/sec) 1446.3337 | GPU 1322.5 MB | time 14.834 s
+Part 2 | Epoch 00002 | Step 00020 | Loss 2.3543 | Train Acc 0.4340 | Speed (samples/sec) 1446.4555 | GPU 1338.6 MB | time 14.830 s
+Part 3 | Epoch 00002 | Step 00020 | Loss 2.2180 | Train Acc 0.4850 | Speed (samples/sec) 1446.3744 | GPU 1317.6 MB | time 14.834 s
+Part 6 | Epoch 00002 | Step 00020 | Loss 2.2901 | Train Acc 0.4530 | Speed (samples/sec) 1446.5163 | GPU 1322.1 MB | time 14.828 s
+Part 7 | Epoch 00002 | Step 00020 | Loss 2.2910 | Train Acc 0.4720 | Speed (samples/sec) 1446.3631 | GPU 1325.0 MB | time 14.833 s
+Part 27 | Epoch 00002 | Step 00020 | Loss 1.4160 | Train Acc 0.6670 | Speed (samples/sec) 1446.3272 | GPU 1162.7 MB | time 14.834 sPart 26 | Epoch 00002 | Step 00020 | Loss 1.4063 | Train Acc 0.6420 | Speed (samples/sec) 1446.3352 | GPU 1156.5 MB | time 14.834 sPart 25 | Epoch 00002 | Step 00020 | Loss 1.4242 | Train Acc 0.6360 | Speed (samples/sec) 1446.2780 | GPU 1155.2 MB | time 14.834 s
+
+
+Part 8 | Epoch 00002 | Step 00020 | Loss 2.6448 | Train Acc 0.4190 | Speed (samples/sec) 1446.3287 | GPU 1364.1 MB | time 14.834 sPart 13 | Epoch 00002 | Step 00020 | Loss 2.6909 | Train Acc 0.4140 | Speed (samples/sec) 1446.3128 | GPU 1373.3 MB | time 14.833 sPart 15 | Epoch 00002 | Step 00020 | Loss 2.8147 | Train Acc 0.3920 | Speed (samples/sec) 1446.3209 | GPU 1379.4 MB | time 14.834 s
+
+
+Part 14 | Epoch 00002 | Step 00020 | Loss 2.7208 | Train Acc 0.4110 | Speed (samples/sec) 1446.3375 | GPU 1369.6 MB | time 14.833 s
+Part 9 | Epoch 00002 | Step 00020 | Loss 2.7026 | Train Acc 0.4070 | Speed (samples/sec) 1446.4142 | GPU 1363.8 MB | time 14.833 s
+Part 30 | Epoch 00002 | Step 00020 | Loss 1.4467 | Train Acc 0.6470 | Speed (samples/sec) 1446.4055 | GPU 1153.3 MB | time 14.833 s
+Part 12 | Epoch 00002 | Step 00020 | Loss 2.5270 | Train Acc 0.4490 | Speed (samples/sec) 1446.4098 | GPU 1372.4 MB | time 14.832 s
+Part 11 | Epoch 00002 | Step 00020 | Loss 2.5847 | Train Acc 0.4550 | Speed (samples/sec) 1446.5004 | GPU 1370.5 MB | time 14.833 s
+Part 29 | Epoch 00002 | Step 00020 | Loss 1.4208 | Train Acc 0.6460 | Speed (samples/sec) 1446.4019 | GPU 1156.3 MB | time 14.833 sPart 24 | Epoch 00002 | Step 00020 | Loss 1.5138 | Train Acc 0.6210 | Speed (samples/sec) 1446.4373 | GPU 1160.5 MB | time 14.834 s
+
+Part 31 | Epoch 00002 | Step 00020 | Loss 1.5331 | Train Acc 0.6240 | Speed (samples/sec) 1446.3709 | GPU 1153.4 MB | time 14.833 s
+Part 28 | Epoch 00002 | Step 00020 | Loss 1.4167 | Train Acc 0.6460 | Speed (samples/sec) 1446.2585 | GPU 1151.2 MB | time 14.834 s
+Part 10 | Epoch 00002 | Step 00020 | Loss 2.6701 | Train Acc 0.4130 | Speed (samples/sec) 1446.4217 | GPU 1364.6 MB | time 14.833 s
+Part 22 | Epoch 00002 | Step 00020 | Loss 2.0364 | Train Acc 0.5010 | Speed (samples/sec) 1446.2936 | GPU 1303.1 MB | time 14.833 s
+Part 17 | Epoch 00002 | Step 00020 | Loss 2.1419 | Train Acc 0.4790 | Speed (samples/sec) 1446.3868 | GPU 1300.1 MB | time 14.831 s
+Part 18 | Epoch 00002 | Step 00020 | Loss 2.0771 | Train Acc 0.5120 | Speed (samples/sec) 1446.3289 | GPU 1300.5 MB | time 14.832 s
+Part 16 | Epoch 00002 | Step 00020 | Loss 2.1683 | Train Acc 0.4750 | Speed (samples/sec) 1446.2877 | GPU 1312.8 MB | time 14.834 sPart 21 | Epoch 00002 | Step 00020 | Loss 2.1928 | Train Acc 0.4740 | Speed (samples/sec) 1446.2727 | GPU 1313.2 MB | time 14.834 s
+
+Part 23 | Epoch 00002 | Step 00020 | Loss 1.9506 | Train Acc 0.5150 | Speed (samples/sec) 1446.2477 | GPU 1305.7 MB | time 14.835 s
+Part 19 | Epoch 00002 | Step 00020 | Loss 2.0035 | Train Acc 0.5300 | Speed (samples/sec) 1446.2538 | GPU 1306.2 MB | time 14.835 s
+Part 20 | Epoch 00002 | Step 00020 | Loss 2.0639 | Train Acc 0.5040 | Speed (samples/sec) 1446.3110 | GPU 1294.6 MB | time 14.835 s
+Avg train acc 0.5046
+=====================
+Part 1, Epoch Time(s): 29.0545
+Sampling Time(s): 1.0839
+Loading Time(s): 8.1047
+Forward Time(s): 1.9465
+Backward Time(s): 1.0847
+Update Time(s): 0.0353
+Emb Update Time(s): 16.7794
+#seeds: 37724
+#inputs: 17119572
+==========================================
+Part 3, Epoch Time(s): 29.0543
+Sampling Time(s): 1.1556
+Loading Time(s): 8.0861
+Forward Time(s): 1.8830
+Backward Time(s): 1.0832
+Update Time(s): 0.0364
+Emb Update Time(s): 16.7907
+#seeds: 37724
+#inputs: 17043065
+==========================================
+Part 0, Epoch Time(s): 29.0545
+Sampling Time(s): 1.0872
+Loading Time(s): 7.8540
+Forward Time(s): 2.1709
+Backward Time(s): 1.1004
+Update Time(s): 0.0357
+Emb Update Time(s): 16.7789
+#seeds: 37725
+#inputs: 17064614
+==========================================
+Part 5, Epoch Time(s): 29.0545
+Sampling Time(s): 1.1098
+Loading Time(s): 7.9017
+Forward Time(s): 2.0991
+Backward Time(s): 1.0944
+Update Time(s): 0.0372
+Emb Update Time(s): 16.7928
+#seeds: 37725
+#inputs: 17014814
+==========================================
+Part 4, Epoch Time(s): 29.0545
+Sampling Time(s): 1.1260
+Loading Time(s): 8.0934
+Forward Time(s): 1.9315
+Backward Time(s): 1.0707
+Update Time(s): 0.0356
+Emb Update Time(s): 16.7782
+#seeds: 37724
+#inputs: 17077517
+=====================
+
+
+
+
+=====================
+Part 7, Epoch Time(s): 29.0545
+Sampling Time(s): 1.2763
+Loading Time(s): 7.6772
+Forward Time(s): 2.1781
+Backward Time(s): 1.0832
+Update Time(s): 0.0413
+Emb Update Time(s): 16.7769
+#seeds: 37725
+#inputs: 17144895
+=====================
+=====================
+Part 6, Epoch Time(s): 29.0547
+Sampling Time(s): 1.0755
+Loading Time(s): 7.5387
+Forward Time(s): 2.4965
+Backward Time(s): 1.0873
+Update Time(s): 0.0411
+Emb Update Time(s): 16.7889
+#seeds: 37724
+#inputs: 17130779
+==========================================
+Part 2, Epoch Time(s): 29.0547
+Sampling Time(s): 1.1386
+Loading Time(s): 7.5369
+Forward Time(s): 2.4332
+Backward Time(s): 1.0962
+Update Time(s): 0.0388
+Emb Update Time(s): 16.7865
+#seeds: 37724
+#inputs: 17157178
+=====================
+
+=====================
+Part 26, Epoch Time(s): 29.0544
+Sampling Time(s): 1.0425
+Loading Time(s): 7.2635
+Forward Time(s): 2.8002
+Backward Time(s): 1.1060
+Update Time(s): 0.0324
+Emb Update Time(s): 16.7908
+#seeds: 37724
+#inputs: 14105220
+==========================================
+Part 25, Epoch Time(s): 29.0544
+Sampling Time(s): 1.1487
+Loading Time(s): 7.1832
+Forward Time(s): 2.7743
+Backward Time(s): 1.1079
+Update Time(s): 0.0317
+Emb Update Time(s): 16.7893
+#seeds: 37724
+#inputs: 14128300
+==========================================
+Part 28, Epoch Time(s): 29.0544
+Sampling Time(s): 1.0932
+Loading Time(s): 7.2571
+Forward Time(s): 2.7563
+Backward Time(s): 1.1036
+Update Time(s): 0.0340
+Emb Update Time(s): 16.7912
+#seeds: 37724
+#inputs: 14059572
+==========================================
+Part 24, Epoch Time(s): 29.0545
+Sampling Time(s): 1.0135
+Loading Time(s): 6.3560
+Forward Time(s): 3.7357
+Backward Time(s): 1.1093
+Update Time(s): 0.0332
+Emb Update Time(s): 16.7867
+#seeds: 37725
+#inputs: 14105680
+==========================================
+Part 27, Epoch Time(s): 29.0544
+Sampling Time(s): 1.1769
+Loading Time(s): 7.3664
+Forward Time(s): 2.5630
+Backward Time(s): 1.1043
+Update Time(s): 0.0335
+Emb Update Time(s): 16.7908
+#seeds: 37725
+#inputs: 14095269
+==========================================
+Part 29, Epoch Time(s): 29.0545
+Sampling Time(s): 1.0570
+Loading Time(s): 6.5222
+Forward Time(s): 3.5247
+Backward Time(s): 1.0856
+Update Time(s): 0.0366
+Emb Update Time(s): 16.8074
+#seeds: 37724
+#inputs: 14127159
+==========================================
+Part 30, Epoch Time(s): 29.0545
+Sampling Time(s): 1.2513
+Loading Time(s): 6.5498
+Forward Time(s): 3.3100
+Backward Time(s): 1.0825
+Update Time(s): 0.0393
+Emb Update Time(s): 16.8009
+#seeds: 37724
+#inputs: 14050555
+=====================
+
+
+
+
+
+
+=====================
+Part 31, Epoch Time(s): 29.0545
+Sampling Time(s): 1.3118
+Loading Time(s): 6.7554
+Forward Time(s): 3.0381
+Backward Time(s): 1.0845
+Update Time(s): 0.0361
+Emb Update Time(s): 16.8084
+#seeds: 37724
+#inputs: 14095280
+=====================
+=====================
+Part 8, Epoch Time(s): 29.0545
+Sampling Time(s): 1.1198
+Loading Time(s): 8.8032
+Forward Time(s): 1.2530
+Backward Time(s): 1.0726
+Update Time(s): 0.0374
+Emb Update Time(s): 16.7494
+#seeds: 37724
+#inputs: 18298732
+==========================================
+Part 10, Epoch Time(s): 29.0545
+Sampling Time(s): 1.3430
+Loading Time(s): 7.9371
+Forward Time(s): 1.8228
+Backward Time(s): 1.1069
+Update Time(s): 0.0419
+Emb Update Time(s): 16.7806
+#seeds: 37725
+#inputs: 18275860
+=====================
+
+=====================
+Part 12, Epoch Time(s): 29.0545
+Sampling Time(s): 1.2489
+Loading Time(s): 7.4953
+Forward Time(s): 2.3678
+Backward Time(s): 1.0991
+Update Time(s): 0.0406
+Emb Update Time(s): 16.7792
+#seeds: 37725
+#inputs: 18303321
+=====================
+=====================
+Part 11, Epoch Time(s): 29.0546
+Sampling Time(s): 1.2373
+Loading Time(s): 7.9325
+Forward Time(s): 1.9431
+Backward Time(s): 1.1012
+Update Time(s): 0.0384
+Emb Update Time(s): 16.7808
+#seeds: 37725
+#inputs: 18296029
+==========================================
+Part 15, Epoch Time(s): 29.0546
+Sampling Time(s): 1.1359
+Loading Time(s): 9.0173
+Forward Time(s): 1.0718
+Backward Time(s): 1.0541
+Update Time(s): 0.0378
+Emb Update Time(s): 16.7181
+#seeds: 37724
+#inputs: 18366956
+==========================================
+Part 9, Epoch Time(s): 29.0545
+Sampling Time(s): 1.1476
+Loading Time(s): 8.9137
+Forward Time(s): 1.1114
+Backward Time(s): 1.0716
+Update Time(s): 0.0410
+Emb Update Time(s): 16.7491
+#seeds: 37724
+#inputs: 18241828
+=====================
+
+
+=====================
+Part 13, Epoch Time(s): 29.0545
+Sampling Time(s): 1.0629
+Loading Time(s): 8.7721
+Forward Time(s): 1.2840
+Backward Time(s): 1.0977
+Update Time(s): 0.0401
+Emb Update Time(s): 16.7778
+#seeds: 37724
+#inputs: 18287825
+=====================
+=====================
+Part 14, Epoch Time(s): 29.0547
+Sampling Time(s): 1.2878
+Loading Time(s): 7.8535
+Forward Time(s): 1.9872
+Backward Time(s): 1.0933
+Update Time(s): 0.0477
+Emb Update Time(s): 16.7642
+#seeds: 37724
+#inputs: 18236048
+=====================
+=====================
+Part 21, Epoch Time(s): 29.0543
+Sampling Time(s): 1.1612
+Loading Time(s): 8.0044
+Forward Time(s): 1.9488
+Backward Time(s): 1.1051
+Update Time(s): 0.0360
+Emb Update Time(s): 16.7776
+#seeds: 37724
+#inputs: 17144976
+==========================================
+Part 23, Epoch Time(s): 29.0545
+Sampling Time(s): 1.1622
+Loading Time(s): 8.3702
+Forward Time(s): 1.6155
+Backward Time(s): 1.0771
+Update Time(s): 0.0398
+Emb Update Time(s): 16.7683
+#seeds: 37724
+#inputs: 17148700
+==========================================
+Part 20, Epoch Time(s): 29.0544
+Sampling Time(s): 1.2006
+Loading Time(s): 8.3305
+Forward Time(s): 1.5997
+Backward Time(s): 1.0950
+Update Time(s): 0.0372
+Emb Update Time(s): 16.7696
+#seeds: 37725
+#inputs: 17150445
+=====================
+
+
+=====================
+Part 16, Epoch Time(s): 29.0546
+Sampling Time(s): 1.1106
+Loading Time(s): 8.0727
+Forward Time(s): 1.9304
+Backward Time(s): 1.1123
+Update Time(s): 0.0348
+Emb Update Time(s): 16.7727
+#seeds: 37724
+#inputs: 17132720
+=====================
+=====================
+Part 19, Epoch Time(s): 29.0546
+Sampling Time(s): 1.1152
+Loading Time(s): 8.1350
+Forward Time(s): 1.8726
+Backward Time(s): 1.1046
+Update Time(s): 0.0345
+Emb Update Time(s): 16.7716
+#seeds: 37725
+#inputs: 17192196
+==========================================
+Part 17, Epoch Time(s): 29.0545
+Sampling Time(s): 1.3061
+Loading Time(s): 7.4986
+Forward Time(s): 2.3097
+Backward Time(s): 1.0983
+Update Time(s): 0.0388
+Emb Update Time(s): 16.7785
+#seeds: 37724
+#inputs: 17168317
+=====================
+
+=====================
+Part 22, Epoch Time(s): 29.0546
+Sampling Time(s): 1.1396
+Loading Time(s): 7.3779
+Forward Time(s): 2.5896
+Backward Time(s): 1.1076
+Update Time(s): 0.0365
+Emb Update Time(s): 16.7821
+#seeds: 37724
+#inputs: 17123355
+=====================
+=====================
+Part 18, Epoch Time(s): 29.0547
+Sampling Time(s): 1.1556
+Loading Time(s): 7.3808
+Forward Time(s): 2.5649
+Backward Time(s): 1.1115
+Update Time(s): 0.0397
+Emb Update Time(s): 16.7794
+#seeds: 37725
+#inputs: 17083343
+=====================
+Part 1 | Epoch 00003 | Step 00000 | Loss 1.9847 | Train Acc 0.5090 | Speed (samples/sec) 1417.7195 | GPU 1322.5 MB | time 0.944 sPart 3 | Epoch 00003 | Step 00000 | Loss 1.9882 | Train Acc 0.5170 | Speed (samples/sec) 1417.7707 | GPU 1317.6 MB | time 0.944 sPart 4 | Epoch 00003 | Step 00000 | Loss 1.9474 | Train Acc 0.5260 | Speed (samples/sec) 1417.7045 | GPU 1317.9 MB | time 0.944 s
+
+
+Part 6 | Epoch 00003 | Step 00000 | Loss 1.9529 | Train Acc 0.5290 | Speed (samples/sec) 1417.9126 | GPU 1323.9 MB | time 0.944 s
+Part 0 | Epoch 00003 | Step 00000 | Loss 1.9344 | Train Acc 0.5260 | Speed (samples/sec) 1417.9909 | GPU 1317.6 MB | time 0.944 s
+Part 5 | Epoch 00003 | Step 00000 | Loss 1.9539 | Train Acc 0.5410 | Speed (samples/sec) 1417.7565 | GPU 1322.5 MB | time 0.944 s
+Part 7 | Epoch 00003 | Step 00000 | Loss 2.0622 | Train Acc 0.4990 | Speed (samples/sec) 1417.8052 | GPU 1325.0 MB | time 0.944 s
+Part 19 | Epoch 00003 | Step 00000 | Loss 1.7316 | Train Acc 0.5640 | Speed (samples/sec) 1417.7358 | GPU 1306.2 MB | time 0.944 s
+Part 23 | Epoch 00003 | Step 00000 | Loss 1.7908 | Train Acc 0.5630 | Speed (samples/sec) 1417.7135 | GPU 1305.7 MB | time 0.944 sPart 16 | Epoch 00003 | Step 00000 | Loss 1.7441 | Train Acc 0.5870 | Speed (samples/sec) 1417.7321 | GPU 1312.8 MB | time 0.944 s
+
+Part 20 | Epoch 00003 | Step 00000 | Loss 1.7693 | Train Acc 0.5510 | Speed (samples/sec) 1417.7883 | GPU 1295.2 MB | time 0.944 s
+Part 21 | Epoch 00003 | Step 00000 | Loss 1.6951 | Train Acc 0.5740 | Speed (samples/sec) 1417.7191 | GPU 1313.2 MB | time 0.944 s
+Part 2 | Epoch 00003 | Step 00000 | Loss 1.9449 | Train Acc 0.5190 | Speed (samples/sec) 1417.8611 | GPU 1338.6 MB | time 0.944 s
+Part 22 | Epoch 00003 | Step 00000 | Loss 1.7490 | Train Acc 0.5670 | Speed (samples/sec) 1417.7240 | GPU 1303.1 MB | time 0.944 s
+Part 26 | Epoch 00003 | Step 00000 | Loss 1.2502 | Train Acc 0.6740 | Speed (samples/sec) 1417.7396 | GPU 1156.5 MB | time 0.944 s
+Part 25 | Epoch 00003 | Step 00000 | Loss 1.2914 | Train Acc 0.6550 | Speed (samples/sec) 1417.6880 | GPU 1155.2 MB | time 0.944 s
+Part 30 | Epoch 00003 | Step 00000 | Loss 1.1998 | Train Acc 0.6780 | Speed (samples/sec) 1417.8082 | GPU 1153.3 MB | time 0.944 s
+Part 18 | Epoch 00003 | Step 00000 | Loss 1.8649 | Train Acc 0.5390 | Speed (samples/sec) 1417.7832 | GPU 1306.7 MB | time 0.944 s
+Part 17 | Epoch 00003 | Step 00000 | Loss 1.6794 | Train Acc 0.5530 | Speed (samples/sec) 1417.8775 | GPU 1300.1 MB | time 0.944 s
+Part 24 | Epoch 00003 | Step 00000 | Loss 1.1878 | Train Acc 0.6940 | Speed (samples/sec) 1417.8529 | GPU 1160.5 MB | time 0.944 s
+Part 28 | Epoch 00003 | Step 00000 | Loss 1.1880 | Train Acc 0.6840 | Speed (samples/sec) 1417.6775 | GPU 1151.8 MB | time 0.944 s
+Part 27 | Epoch 00003 | Step 00000 | Loss 1.1756 | Train Acc 0.6870 | Speed (samples/sec) 1417.7524 | GPU 1162.7 MB | time 0.944 s
+Part 29 | Epoch 00003 | Step 00000 | Loss 1.2381 | Train Acc 0.6860 | Speed (samples/sec) 1417.8148 | GPU 1166.4 MB | time 0.944 s
+Part 15 | Epoch 00003 | Step 00000 | Loss 2.1578 | Train Acc 0.5220 | Speed (samples/sec) 1417.7313 | GPU 1379.4 MB | time 0.944 s
+Part 9 | Epoch 00003 | Step 00000 | Loss 2.1691 | Train Acc 0.5200 | Speed (samples/sec) 1417.8105 | GPU 1363.8 MB | time 0.944 s
+Part 11 | Epoch 00003 | Step 00000 | Loss 2.1773 | Train Acc 0.5110 | Speed (samples/sec) 1417.9192 | GPU 1370.5 MB | time 0.944 s
+Part 12 | Epoch 00003 | Step 00000 | Loss 2.2734 | Train Acc 0.4860 | Speed (samples/sec) 1417.8680 | GPU 1372.4 MB | time 0.944 s
+Part 14 | Epoch 00003 | Step 00000 | Loss 2.4357 | Train Acc 0.4810 | Speed (samples/sec) 1417.7638 | GPU 1369.6 MB | time 0.944 s
+Part 8 | Epoch 00003 | Step 00000 | Loss 2.1463 | Train Acc 0.4910 | Speed (samples/sec) 1417.7317 | GPU 1377.6 MB | time 0.944 s
+Part 13 | Epoch 00003 | Step 00000 | Loss 2.2281 | Train Acc 0.5050 | Speed (samples/sec) 1417.7244 | GPU 1373.3 MB | time 0.944 s
+Part 10 | Epoch 00003 | Step 00000 | Loss 2.2458 | Train Acc 0.5020 | Speed (samples/sec) 1417.8773 | GPU 1364.6 MB | time 0.944 s
+Part 31 | Epoch 00003 | Step 00000 | Loss 1.1643 | Train Acc 0.6860 | Speed (samples/sec) 1417.7752 | GPU 1153.4 MB | time 0.944 s
+Avg train acc 0.5664
+Part 22 | Epoch 00003 | Step 00020 | Loss 1.6320 | Train Acc 0.5840 | Speed (samples/sec) 1414.5134 | GPU 1303.1 MB | time 14.636 sPart 21 | Epoch 00003 | Step 00020 | Loss 1.5895 | Train Acc 0.5870 | Speed (samples/sec) 1414.4879 | GPU 1313.2 MB | time 14.637 sPart 16 | Epoch 00003 | Step 00020 | Loss 1.6050 | Train Acc 0.5870 | Speed (samples/sec) 1414.5093 | GPU 1312.8 MB | time 14.637 s
+Part 20 | Epoch 00003 | Step 00020 | Loss 1.5810 | Train Acc 0.5980 | Speed (samples/sec) 1414.5583 | GPU 1295.3 MB | time 14.637 s
+
+
+Part 18 | Epoch 00003 | Step 00020 | Loss 1.5609 | Train Acc 0.6150 | Speed (samples/sec) 1414.5641 | GPU 1306.7 MB | time 14.636 s
+Part 17 | Epoch 00003 | Step 00020 | Loss 1.5604 | Train Acc 0.6060 | Speed (samples/sec) 1414.8323 | GPU 1304.5 MB | time 14.623 s
+Part 13 | Epoch 00003 | Step 00020 | Loss 1.8222 | Train Acc 0.5730 | Speed (samples/sec) 1414.5081 | GPU 1373.3 MB | time 14.637 s
+Part 8 | Epoch 00003 | Step 00020 | Loss 2.0101 | Train Acc 0.5390 | Speed (samples/sec) 1414.5115 | GPU 1377.6 MB | time 14.637 s
+Part 9 | Epoch 00003 | Step 00020 | Loss 1.7858 | Train Acc 0.5880 | Speed (samples/sec) 1414.5770 | GPU 1363.8 MB | time 14.637 s
+Part 12 | Epoch 00003 | Step 00020 | Loss 1.8420 | Train Acc 0.5690 | Speed (samples/sec) 1414.6322 | GPU 1372.4 MB | time 14.636 s
+Part 15 | Epoch 00003 | Step 00020 | Loss 1.7840 | Train Acc 0.5890 | Speed (samples/sec) 1414.5156 | GPU 1379.4 MB | time 14.637 s
+Part 10 | Epoch 00003 | Step 00020 | Loss 1.8208 | Train Acc 0.6020 | Speed (samples/sec) 1414.6471 | GPU 1364.6 MB | time 14.636 s
+Part 14 | Epoch 00003 | Step 00020 | Loss 1.8917 | Train Acc 0.5730 | Speed (samples/sec) 1414.5416 | GPU 1369.6 MB | time 14.636 sPart 11 | Epoch 00003 | Step 00020 | Loss 1.8833 | Train Acc 0.5640 | Speed (samples/sec) 1414.6776 | GPU 1370.5 MB | time 14.637 s
+
+Part 23 | Epoch 00003 | Step 00020 | Loss 1.5889 | Train Acc 0.5940 | Speed (samples/sec) 1414.4981 | GPU 1305.7 MB | time 14.637 s
+Part 6 | Epoch 00003 | Step 00020 | Loss 1.7215 | Train Acc 0.5650 | Speed (samples/sec) 1414.6593 | GPU 1323.9 MB | time 14.637 s
+Part 4 | Epoch 00003 | Step 00020 | Loss 1.7793 | Train Acc 0.5650 | Speed (samples/sec) 1414.4686 | GPU 1323.2 MB | time 14.638 sPart 0 | Epoch 00003 | Step 00020 | Loss 1.7259 | Train Acc 0.5790 | Speed (samples/sec) 1414.7563 | GPU 1322.2 MB | time 14.636 s
+Part 5 | Epoch 00003 | Step 00020 | Loss 1.6741 | Train Acc 0.5690 | Speed (samples/sec) 1414.5168 | GPU 1322.5 MB | time 14.638 s
+
+Part 3 | Epoch 00003 | Step 00020 | Loss 1.6668 | Train Acc 0.5790 | Speed (samples/sec) 1414.5299 | GPU 1319.5 MB | time 14.638 s
+Part 2 | Epoch 00003 | Step 00020 | Loss 1.7292 | Train Acc 0.5730 | Speed (samples/sec) 1414.6219 | GPU 1338.6 MB | time 14.637 s
+Part 27 | Epoch 00003 | Step 00020 | Loss 1.0877 | Train Acc 0.7070 | Speed (samples/sec) 1414.5321 | GPU 1162.7 MB | time 14.637 sPart 25 | Epoch 00003 | Step 00020 | Loss 1.0277 | Train Acc 0.7160 | Speed (samples/sec) 1414.4641 | GPU 1155.2 MB | time 14.638 sPart 28 | Epoch 00003 | Step 00020 | Loss 1.0900 | Train Acc 0.7310 | Speed (samples/sec) 1414.4591 | GPU 1151.8 MB | time 14.637 s
+
+
+Part 26 | Epoch 00003 | Step 00020 | Loss 1.0411 | Train Acc 0.7190 | Speed (samples/sec) 1414.5119 | GPU 1156.5 MB | time 14.638 s
+Part 19 | Epoch 00003 | Step 00020 | Loss 1.6160 | Train Acc 0.5910 | Speed (samples/sec) 1414.5103 | GPU 1306.2 MB | time 14.637 s
+Part 1 | Epoch 00003 | Step 00020 | Loss 1.6719 | Train Acc 0.5620 | Speed (samples/sec) 1414.4910 | GPU 1325.5 MB | time 14.638 s
+Part 7 | Epoch 00003 | Step 00020 | Loss 1.7963 | Train Acc 0.5460 | Speed (samples/sec) 1414.5615 | GPU 1325.0 MB | time 14.638 s
+Part 24 | Epoch 00003 | Step 00020 | Loss 1.0917 | Train Acc 0.7230 | Speed (samples/sec) 1414.6136 | GPU 1160.5 MB | time 14.637 sPart 31 | Epoch 00003 | Step 00020 | Loss 1.0227 | Train Acc 0.7200 | Speed (samples/sec) 1414.5695 | GPU 1153.4 MB | time 14.636 sPart 29 | Epoch 00003 | Step 00020 | Loss 1.0145 | Train Acc 0.7450 | Speed (samples/sec) 1414.5755 | GPU 1166.4 MB | time 14.637 s
+
+
+Part 30 | Epoch 00003 | Step 00020 | Loss 1.1454 | Train Acc 0.7050 | Speed (samples/sec) 1414.5635 | GPU 1153.3 MB | time 14.638 s
+Avg train acc 0.6145
+=====================
+Part 7, Epoch Time(s): 27.8255
+Sampling Time(s): 1.0726
+Loading Time(s): 7.9281
+Forward Time(s): 2.5096
+Backward Time(s): 1.1068
+Update Time(s): 0.0380
+Emb Update Time(s): 15.1517
+#seeds: 37725
+#inputs: 17134904
+==========================================
+Part 4, Epoch Time(s): 27.8255
+Sampling Time(s): 0.9879
+Loading Time(s): 8.6688
+Forward Time(s): 1.8566
+Backward Time(s): 1.1091
+Update Time(s): 0.0328
+Emb Update Time(s): 15.1538
+#seeds: 37724
+#inputs: 17064277
+==========================================
+Part 6, Epoch Time(s): 27.8254
+Sampling Time(s): 0.8908
+Loading Time(s): 8.1356
+Forward Time(s): 2.4878
+Backward Time(s): 1.1048
+Update Time(s): 0.0382
+Emb Update Time(s): 15.1503
+#seeds: 37724
+#inputs: 17119518
+==========================================
+Part 2, Epoch Time(s): 27.8254
+Sampling Time(s): 0.9586
+Loading Time(s): 8.4161
+Forward Time(s): 2.1511
+Backward Time(s): 1.1000
+Update Time(s): 0.0378
+Emb Update Time(s): 15.1433
+#seeds: 37724
+#inputs: 17153135
+=====================
+
+
+
+=====================
+Part 3, Epoch Time(s): 27.8256
+Sampling Time(s): 0.9907
+Loading Time(s): 8.3391
+Forward Time(s): 2.1570
+Backward Time(s): 1.1237
+Update Time(s): 0.0325
+Emb Update Time(s): 15.1656
+#seeds: 37724
+#inputs: 17035909
+==========================================
+Part 1, Epoch Time(s): 27.8256
+Sampling Time(s): 1.0269
+Loading Time(s): 8.6671
+Forward Time(s): 1.8079
+Backward Time(s): 1.1111
+Update Time(s): 0.0346
+Emb Update Time(s): 15.1606
+#seeds: 37724
+#inputs: 17111094
+==========================================
+Part 0, Epoch Time(s): 27.8256
+Sampling Time(s): 1.0321
+Loading Time(s): 8.3585
+Forward Time(s): 2.0913
+Backward Time(s): 1.1267
+Update Time(s): 0.0329
+Emb Update Time(s): 15.1627
+#seeds: 37725
+#inputs: 17065188
+=====================
+
+
+=====================
+Part 5, Epoch Time(s): 27.8257
+Sampling Time(s): 1.0263
+Loading Time(s): 8.4860
+Forward Time(s): 2.0019
+Backward Time(s): 1.1071
+Update Time(s): 0.0351
+Emb Update Time(s): 15.1519
+#seeds: 37725
+#inputs: 17016484
+=====================
+=====================
+Part 10, Epoch Time(s): 27.8255
+Sampling Time(s): 1.1850
+Loading Time(s): 8.4507
+Forward Time(s): 1.8554
+Backward Time(s): 1.1176
+Update Time(s): 0.0412
+Emb Update Time(s): 15.1566
+#seeds: 37725
+#inputs: 18286793
+==========================================
+Part 12, Epoch Time(s): 27.8255
+Sampling Time(s): 1.0123
+Loading Time(s): 8.0487
+Forward Time(s): 2.4311
+Backward Time(s): 1.1110
+Update Time(s): 0.0420
+Emb Update Time(s): 15.1616
+#seeds: 37725
+#inputs: 18307116
+==========================================
+Part 14, Epoch Time(s): 27.8255
+Sampling Time(s): 1.0933
+Loading Time(s): 8.4595
+Forward Time(s): 1.9577
+Backward Time(s): 1.0832
+Update Time(s): 0.0421
+Emb Update Time(s): 15.1713
+#seeds: 37724
+#inputs: 18232487
+==========================================
+Part 9, Epoch Time(s): 27.8254
+Sampling Time(s): 1.0868
+Loading Time(s): 9.3466
+Forward Time(s): 1.1016
+Backward Time(s): 1.0860
+Update Time(s): 0.0366
+Emb Update Time(s): 15.1504
+#seeds: 37724
+#inputs: 18240156
+==========================================
+Part 8, Epoch Time(s): 27.8259
+Sampling Time(s): 1.0608
+Loading Time(s): 9.2298
+Forward Time(s): 1.2721
+Backward Time(s): 1.0806
+Update Time(s): 0.0360
+Emb Update Time(s): 15.1288
+#seeds: 37724
+#inputs: 18302485
+==========================================
+Part 13, Epoch Time(s): 27.8254
+Sampling Time(s): 1.0132
+Loading Time(s): 9.4040
+Forward Time(s): 1.1740
+Backward Time(s): 1.0555
+Update Time(s): 0.0391
+Emb Update Time(s): 15.1218
+#seeds: 37724
+#inputs: 18277587
+=====================
+
+
+=====================
+Part 11, Epoch Time(s): 27.8258
+Sampling Time(s): 1.1524
+Loading Time(s): 8.7387
+Forward Time(s): 1.6164
+Backward Time(s): 1.1070
+Update Time(s): 0.0417
+Emb Update Time(s): 15.1510
+#seeds: 37725
+#inputs: 18307906
+=====================
+
+=====================
+Part 15, Epoch Time(s): 27.8256
+Sampling Time(s): 1.0540
+Loading Time(s): 9.3775
+Forward Time(s): 1.1651
+Backward Time(s): 1.0440
+Update Time(s): 0.0388
+Emb Update Time(s): 15.1281
+#seeds: 37724
+#inputs: 18388044
+=====================
+
+
+=====================
+Part 19, Epoch Time(s): 27.8255
+Sampling Time(s): 1.0108
+Loading Time(s): 8.1945
+Forward Time(s): 2.2770
+Backward Time(s): 1.1211
+Update Time(s): 0.0334
+Emb Update Time(s): 15.1701
+#seeds: 37725
+#inputs: 17185096
+==========================================
+Part 16, Epoch Time(s): 27.8255
+Sampling Time(s): 0.9942
+Loading Time(s): 8.2347
+Forward Time(s): 2.2706
+Backward Time(s): 1.1152
+Update Time(s): 0.0308
+Emb Update Time(s): 15.1622
+#seeds: 37724
+#inputs: 17136032
+==========================================
+Part 22, Epoch Time(s): 27.8254
+Sampling Time(s): 0.9928
+Loading Time(s): 7.6556
+Forward Time(s): 2.8314
+Backward Time(s): 1.1161
+Update Time(s): 0.0446
+Emb Update Time(s): 15.1660
+#seeds: 37724
+#inputs: 17121830
+==========================================
+Part 17, Epoch Time(s): 27.8255
+Sampling Time(s): 1.1530
+Loading Time(s): 7.8069
+Forward Time(s): 2.5078
+Backward Time(s): 1.1304
+Update Time(s): 0.0515
+Emb Update Time(s): 15.1437
+#seeds: 37724
+#inputs: 17166757
+==========================================
+Part 18, Epoch Time(s): 27.8255
+Sampling Time(s): 0.9696
+Loading Time(s): 7.3270
+Forward Time(s): 3.1852
+Backward Time(s): 1.1246
+Update Time(s): 0.0508
+Emb Update Time(s): 15.1495
+#seeds: 37725
+#inputs: 17084514
+=====================
+
+
+
+
+=====================
+Part 21, Epoch Time(s): 27.8257
+Sampling Time(s): 1.0622
+Loading Time(s): 8.2345
+Forward Time(s): 2.1873
+Backward Time(s): 1.1181
+Update Time(s): 0.0350
+Emb Update Time(s): 15.1710
+#seeds: 37724
+#inputs: 17144791
+==========================================
+Part 23, Epoch Time(s): 27.8255
+Sampling Time(s): 1.0227
+Loading Time(s): 8.4815
+Forward Time(s): 1.9916
+Backward Time(s): 1.0976
+Update Time(s): 0.0372
+Emb Update Time(s): 15.1763
+#seeds: 37724
+#inputs: 17137497
+==========================================
+Part 20, Epoch Time(s): 27.8255
+Sampling Time(s): 1.0035
+Loading Time(s): 8.5460
+Forward Time(s): 1.9431
+Backward Time(s): 1.1166
+Update Time(s): 0.0358
+Emb Update Time(s): 15.1625
+#seeds: 37725
+#inputs: 17147097
+=====================
+
+
+=====================
+Part 28, Epoch Time(s): 27.8255
+Sampling Time(s): 0.9762
+Loading Time(s): 7.3396
+Forward Time(s): 3.1682
+Backward Time(s): 1.1124
+Update Time(s): 0.0309
+Emb Update Time(s): 15.1809
+#seeds: 37724
+#inputs: 14058849
+==========================================
+Part 27, Epoch Time(s): 27.8255
+Sampling Time(s): 0.9854
+Loading Time(s): 7.5829
+Forward Time(s): 2.9164
+Backward Time(s): 1.1061
+Update Time(s): 0.0396
+Emb Update Time(s): 15.1770
+#seeds: 37725
+#inputs: 14098650
+==========================================
+Part 26, Epoch Time(s): 27.8255
+Sampling Time(s): 1.0259
+Loading Time(s): 7.4832
+Forward Time(s): 2.9695
+Backward Time(s): 1.1107
+Update Time(s): 0.0310
+Emb Update Time(s): 15.1880
+#seeds: 37724
+#inputs: 14105984
+==========================================
+Part 25, Epoch Time(s): 27.8255
+Sampling Time(s): 1.0457
+Loading Time(s): 7.2961
+Forward Time(s): 3.1433
+Backward Time(s): 1.1094
+Update Time(s): 0.0309
+Emb Update Time(s): 15.1831
+#seeds: 37724
+#inputs: 14123200
+==========================================
+Part 24, Epoch Time(s): 27.8255
+Sampling Time(s): 0.8811
+Loading Time(s): 6.5432
+Forward Time(s): 4.0533
+Backward Time(s): 1.1121
+Update Time(s): 0.0314
+Emb Update Time(s): 15.1845
+#seeds: 37725
+#inputs: 14111069
+=====================
+
+
+
+=====================
+Part 31, Epoch Time(s): 27.8255
+Sampling Time(s): 1.1194
+Loading Time(s): 6.5843
+Forward Time(s): 3.7730
+Backward Time(s): 1.1020
+Update Time(s): 0.0355
+Emb Update Time(s): 15.1898
+#seeds: 37724
+#inputs: 14088101
+==========================================
+Part 29, Epoch Time(s): 27.8255
+Sampling Time(s): 0.9299
+Loading Time(s): 6.3956
+Forward Time(s): 4.1535
+Backward Time(s): 1.1038
+Update Time(s): 0.0339
+Emb Update Time(s): 15.1892
+#seeds: 37724
+#inputs: 14118588
+=====================
+
+
+=====================
+Part 30, Epoch Time(s): 27.8255
+Sampling Time(s): 1.1024
+Loading Time(s): 6.6396
+Forward Time(s): 3.7362
+Backward Time(s): 1.1034
+Update Time(s): 0.0370
+Emb Update Time(s): 15.1875
+#seeds: 37724
+#inputs: 14056204
+=====================
+Part 5 | Epoch 00004 | Step 00000 | Loss 1.6034 | Train Acc 0.6000 | Speed (samples/sec) 1410.2717 | GPU 1322.5 MB | time 0.909 s
+Part 0 | Epoch 00004 | Step 00000 | Loss 1.4709 | Train Acc 0.6320 | Speed (samples/sec) 1410.5080 | GPU 1322.2 MB | time 0.909 s
+Part 4 | Epoch 00004 | Step 00000 | Loss 1.5123 | Train Acc 0.6010 | Speed (samples/sec) 1410.2168 | GPU 1323.2 MB | time 0.909 s
+Part 1 | Epoch 00004 | Step 00000 | Loss 1.6126 | Train Acc 0.5980 | Speed (samples/sec) 1410.2426 | GPU 1325.5 MB | time 0.909 s
+Part 3 | Epoch 00004 | Step 00000 | Loss 1.6032 | Train Acc 0.5980 | Speed (samples/sec) 1410.2742 | GPU 1319.5 MB | time 0.909 s
+Part 16 | Epoch 00004 | Step 00000 | Loss 1.3645 | Train Acc 0.6290 | Speed (samples/sec) 1410.2592 | GPU 1312.8 MB | time 0.909 s
+Part 8 | Epoch 00004 | Step 00000 | Loss 1.6875 | Train Acc 0.6070 | Speed (samples/sec) 1410.2463 | GPU 1377.6 MB | time 0.909 s
+Part 14 | Epoch 00004 | Step 00000 | Loss 1.7620 | Train Acc 0.6110 | Speed (samples/sec) 1410.2819 | GPU 1369.6 MB | time 0.909 sPart 12 | Epoch 00004 | Step 00000 | Loss 1.6394 | Train Acc 0.6110 | Speed (samples/sec) 1410.3749 | GPU 1372.4 MB | time 0.909 s
+
+Part 19 | Epoch 00004 | Step 00000 | Loss 1.5011 | Train Acc 0.6060 | Speed (samples/sec) 1410.2802 | GPU 1306.2 MB | time 0.909 s
+Part 13 | Epoch 00004 | Step 00000 | Loss 1.7029 | Train Acc 0.5960 | Speed (samples/sec) 1410.2489 | GPU 1373.3 MB | time 0.909 s
+Part 9 | Epoch 00004 | Step 00000 | Loss 1.7356 | Train Acc 0.5850 | Speed (samples/sec) 1410.3082 | GPU 1363.8 MB | time 0.909 s
+Part 21 | Epoch 00004 | Step 00000 | Loss 1.4892 | Train Acc 0.6170 | Speed (samples/sec) 1410.2415 | GPU 1313.2 MB | time 0.909 s
+Part 28 | Epoch 00004 | Step 00000 | Loss 0.9055 | Train Acc 0.7510 | Speed (samples/sec) 1410.2077 | GPU 1151.8 MB | time 0.909 s
+Part 29 | Epoch 00004 | Step 00000 | Loss 0.9828 | Train Acc 0.7360 | Speed (samples/sec) 1410.3431 | GPU 1166.4 MB | time 0.909 sPart 31 | Epoch 00004 | Step 00000 | Loss 1.0050 | Train Acc 0.7160 | Speed (samples/sec) 1410.3381 | GPU 1153.4 MB | time 0.909 s
+
+Part 15 | Epoch 00004 | Step 00000 | Loss 1.7203 | Train Acc 0.5990 | Speed (samples/sec) 1410.2575 | GPU 1379.4 MB | time 0.909 s
+Part 10 | Epoch 00004 | Step 00000 | Loss 1.6794 | Train Acc 0.6100 | Speed (samples/sec) 1410.3856 | GPU 1364.6 MB | time 0.909 s
+Part 20 | Epoch 00004 | Step 00000 | Loss 1.4305 | Train Acc 0.6290 | Speed (samples/sec) 1410.3288 | GPU 1295.3 MB | time 0.909 s
+Part 27 | Epoch 00004 | Step 00000 | Loss 0.8500 | Train Acc 0.7450 | Speed (samples/sec) 1410.2855 | GPU 1162.7 MB | time 0.909 s
+Part 25 | Epoch 00004 | Step 00000 | Loss 1.0199 | Train Acc 0.7200 | Speed (samples/sec) 1410.2126 | GPU 1155.2 MB | time 0.909 s
+Part 11 | Epoch 00004 | Step 00000 | Loss 1.6194 | Train Acc 0.6250 | Speed (samples/sec) 1410.4129 | GPU 1370.5 MB | time 0.909 s
+Part 26 | Epoch 00004 | Step 00000 | Loss 1.0130 | Train Acc 0.7390 | Speed (samples/sec) 1410.2578 | GPU 1156.5 MB | time 0.909 s
+Part 23 | Epoch 00004 | Step 00000 | Loss 1.5022 | Train Acc 0.6020 | Speed (samples/sec) 1410.2589 | GPU 1305.7 MB | time 0.909 s
+Part 24 | Epoch 00004 | Step 00000 | Loss 0.9037 | Train Acc 0.7620 | Speed (samples/sec) 1410.3845 | GPU 1160.5 MB | time 0.909 s
+Part 6 | Epoch 00004 | Step 00000 | Loss 1.6037 | Train Acc 0.5830 | Speed (samples/sec) 1410.3895 | GPU 1323.9 MB | time 0.909 s
+Part 30 | Epoch 00004 | Step 00000 | Loss 0.8363 | Train Acc 0.7700 | Speed (samples/sec) 1410.3278 | GPU 1153.3 MB | time 0.909 s
+Part 7 | Epoch 00004 | Step 00000 | Loss 1.3846 | Train Acc 0.6490 | Speed (samples/sec) 1410.3290 | GPU 1325.0 MB | time 0.909 s
+Part 22 | Epoch 00004 | Step 00000 | Loss 1.4223 | Train Acc 0.6370 | Speed (samples/sec) 1410.1805 | GPU 1303.1 MB | time 0.909 sPart 17 | Epoch 00004 | Step 00000 | Loss 1.3497 | Train Acc 0.6590 | Speed (samples/sec) 1410.5461 | GPU 1304.5 MB | time 0.909 sPart 18 | Epoch 00004 | Step 00000 | Loss 1.3944 | Train Acc 0.6280 | Speed (samples/sec) 1410.3149 | GPU 1306.7 MB | time 0.909 s
+
+
+Part 2 | Epoch 00004 | Step 00000 | Loss 1.5200 | Train Acc 0.6220 | Speed (samples/sec) 1410.3606 | GPU 1338.6 MB | time 0.909 s
+Avg train acc 0.6460
+Part 6 | Epoch 00004 | Step 00020 | Loss 1.4870 | Train Acc 0.6160 | Speed (samples/sec) 1401.7602 | GPU 1323.9 MB | time 15.326 s
+Part 0 | Epoch 00004 | Step 00020 | Loss 1.4679 | Train Acc 0.6140 | Speed (samples/sec) 1401.8777 | GPU 1322.2 MB | time 15.325 sPart 5 | Epoch 00004 | Step 00020 | Loss 1.3467 | Train Acc 0.6420 | Speed (samples/sec) 1401.6489 | GPU 1322.5 MB | time 15.327 sPart 4 | Epoch 00004 | Step 00020 | Loss 1.3839 | Train Acc 0.6100 | Speed (samples/sec) 1401.6001 | GPU 1323.2 MB | time 15.327 s
+
+
+Part 1 | Epoch 00004 | Step 00020 | Loss 1.3913 | Train Acc 0.6230 | Speed (samples/sec) 1401.6222 | GPU 1325.5 MB | time 15.327 s
+Part 7 | Epoch 00004 | Step 00020 | Loss 1.4071 | Train Acc 0.6410 | Speed (samples/sec) 1401.7082 | GPU 1325.0 MB | time 15.326 s
+Part 2 | Epoch 00004 | Step 00020 | Loss 1.3683 | Train Acc 0.6420 | Speed (samples/sec) 1401.7466 | GPU 1338.6 MB | time 15.325 s
+Part 3 | Epoch 00004 | Step 00020 | Loss 1.3780 | Train Acc 0.6520 | Speed (samples/sec) 1401.6550 | GPU 1319.5 MB | time 15.327 s
+Part 21 | Epoch 00004 | Step 00020 | Loss 1.2471 | Train Acc 0.6800 | Speed (samples/sec) 1401.6279 | GPU 1313.2 MB | time 15.327 sPart 20 | Epoch 00004 | Step 00020 | Loss 1.2998 | Train Acc 0.6530 | Speed (samples/sec) 1401.7113 | GPU 1302.1 MB | time 15.326 sPart 23 | Epoch 00004 | Step 00020 | Loss 1.3528 | Train Acc 0.6410 | Speed (samples/sec) 1401.6554 | GPU 1305.7 MB | time 15.326 s
+
+
+Part 16 | Epoch 00004 | Step 00020 | Loss 1.3636 | Train Acc 0.6350 | Speed (samples/sec) 1401.6350 | GPU 1312.8 MB | time 15.327 s
+Part 19 | Epoch 00004 | Step 00020 | Loss 1.2933 | Train Acc 0.6710 | Speed (samples/sec) 1401.6655 | GPU 1306.2 MB | time 15.327 s
+Part 18 | Epoch 00004 | Step 00020 | Loss 1.4295 | Train Acc 0.6290 | Speed (samples/sec) 1401.7103 | GPU 1306.7 MB | time 15.326 sPart 17 | Epoch 00004 | Step 00020 | Loss 1.2911 | Train Acc 0.6370 | Speed (samples/sec) 1401.9191 | GPU 1304.5 MB | time 15.325 sPart 22 | Epoch 00004 | Step 00020 | Loss 1.2730 | Train Acc 0.6450 | Speed (samples/sec) 1401.5899 | GPU 1303.1 MB | time 15.326 s
+
+
+Part 26 | Epoch 00004 | Step 00020 | Loss 0.7860 | Train Acc 0.7910 | Speed (samples/sec) 1401.6377 | GPU 1156.5 MB | time 15.327 sPart 25 | Epoch 00004 | Step 00020 | Loss 0.8739 | Train Acc 0.7520 | Speed (samples/sec) 1401.5975 | GPU 1155.2 MB | time 15.327 sPart 28 | Epoch 00004 | Step 00020 | Loss 0.8194 | Train Acc 0.7650 | Speed (samples/sec) 1401.5895 | GPU 1151.8 MB | time 15.327 s
+
+
+Part 27 | Epoch 00004 | Step 00020 | Loss 0.9146 | Train Acc 0.7440 | Speed (samples/sec) 1401.6639 | GPU 1162.7 MB | time 15.327 s
+Part 9 | Epoch 00004 | Step 00020 | Loss 1.5369 | Train Acc 0.6310 | Speed (samples/sec) 1401.6809 | GPU 1363.8 MB | time 15.327 s
+Part 14 | Epoch 00004 | Step 00020 | Loss 1.4291 | Train Acc 0.6500 | Speed (samples/sec) 1401.6570 | GPU 1369.6 MB | time 15.327 s
+Part 13 | Epoch 00004 | Step 00020 | Loss 1.4468 | Train Acc 0.6400 | Speed (samples/sec) 1401.6304 | GPU 1373.3 MB | time 15.327 s
+Part 15 | Epoch 00004 | Step 00020 | Loss 1.4360 | Train Acc 0.6630 | Speed (samples/sec) 1401.6430 | GPU 1381.4 MB | time 15.326 s
+Part 8 | Epoch 00004 | Step 00020 | Loss 1.4407 | Train Acc 0.6490 | Speed (samples/sec) 1401.6198 | GPU 1377.6 MB | time 15.327 s
+Part 11 | Epoch 00004 | Step 00020 | Loss 1.5241 | Train Acc 0.6440 | Speed (samples/sec) 1401.7972 | GPU 1373.2 MB | time 15.327 s
+Part 10 | Epoch 00004 | Step 00020 | Loss 1.4397 | Train Acc 0.6380 | Speed (samples/sec) 1401.7549 | GPU 1364.6 MB | time 15.326 s
+Part 12 | Epoch 00004 | Step 00020 | Loss 1.5383 | Train Acc 0.6250 | Speed (samples/sec) 1401.7395 | GPU 1372.4 MB | time 15.327 s
+Part 31 | Epoch 00004 | Step 00020 | Loss 0.9489 | Train Acc 0.7320 | Speed (samples/sec) 1401.7136 | GPU 1153.4 MB | time 15.327 s
+Part 30 | Epoch 00004 | Step 00020 | Loss 0.8456 | Train Acc 0.7650 | Speed (samples/sec) 1401.7087 | GPU 1154.6 MB | time 15.326 s
+Part 29 | Epoch 00004 | Step 00020 | Loss 0.8205 | Train Acc 0.7680 | Speed (samples/sec) 1401.7158 | GPU 1166.4 MB | time 15.327 s
+Part 24 | Epoch 00004 | Step 00020 | Loss 0.9594 | Train Acc 0.7500 | Speed (samples/sec) 1401.7566 | GPU 1160.5 MB | time 15.327 s
+Avg train acc 0.6699
+=====================
+Part 1, Epoch Time(s): 29.2232
+Sampling Time(s): 1.0027
+Loading Time(s): 8.1872
+Forward Time(s): 1.9565
+Backward Time(s): 1.1095
+Update Time(s): 0.0318
+Emb Update Time(s): 16.9193
+#seeds: 37724
+#inputs: 17116194
+==========================================
+Part 7, Epoch Time(s): 29.2233
+Sampling Time(s): 1.0616
+Loading Time(s): 7.4918
+Forward Time(s): 2.5835
+Backward Time(s): 1.1074
+Update Time(s): 0.0397
+Emb Update Time(s): 16.9217
+#seeds: 37725
+#inputs: 17134288
+==========================================
+Part 4, Epoch Time(s): 29.2233
+Sampling Time(s): 1.0303
+Loading Time(s): 8.1127
+Forward Time(s): 2.0252
+Backward Time(s): 1.0831
+Update Time(s): 0.0332
+Emb Update Time(s): 16.9229
+#seeds: 37724
+#inputs: 17068553
+=====================
+
+
+=====================
+Part 6, Epoch Time(s): 29.2234
+Sampling Time(s): 0.9129
+Loading Time(s): 7.5888
+Forward Time(s): 2.6301
+Backward Time(s): 1.1092
+Update Time(s): 0.0381
+Emb Update Time(s): 16.9267
+#seeds: 37724
+#inputs: 17131860
+==========================================
+Part 5, Epoch Time(s): 29.2233
+Sampling Time(s): 1.0414
+Loading Time(s): 8.2014
+Forward Time(s): 1.9221
+Backward Time(s): 1.0979
+Update Time(s): 0.0344
+Emb Update Time(s): 16.9099
+#seeds: 37725
+#inputs: 17008459
+==========================================
+Part 2, Epoch Time(s): 29.2233
+Sampling Time(s): 0.9057
+Loading Time(s): 7.8085
+Forward Time(s): 2.4304
+Backward Time(s): 1.1063
+Update Time(s): 0.0362
+Emb Update Time(s): 16.9181
+#seeds: 37724
+#inputs: 17172780
+==========================================
+Part 0, Epoch Time(s): 29.2233
+Sampling Time(s): 0.9852
+Loading Time(s): 8.2812
+Forward Time(s): 1.8782
+Backward Time(s): 1.1074
+Update Time(s): 0.0323
+Emb Update Time(s): 16.9186
+#seeds: 37725
+#inputs: 17065316
+==========================================
+Part 3, Epoch Time(s): 29.2233
+Sampling Time(s): 1.0635
+Loading Time(s): 7.9729
+Forward Time(s): 2.0981
+Backward Time(s): 1.1119
+Update Time(s): 0.0323
+Emb Update Time(s): 16.9278
+#seeds: 37724
+#inputs: 17028471
+=====================
+
+
+
+
+=====================
+Part 16, Epoch Time(s): 29.2233
+Sampling Time(s): 1.0444
+Loading Time(s): 8.2487
+Forward Time(s): 1.8506
+Backward Time(s): 1.1020
+Update Time(s): 0.0350
+Emb Update Time(s): 16.9263
+#seeds: 37724
+#inputs: 17142467
+==========================================
+Part 20, Epoch Time(s): 29.2232
+Sampling Time(s): 0.9811
+Loading Time(s): 8.5841
+Forward Time(s): 1.5978
+Backward Time(s): 1.0896
+Update Time(s): 0.0355
+Emb Update Time(s): 16.9181
+#seeds: 37725
+#inputs: 17152366
+==========================================
+Part 21, Epoch Time(s): 29.2232
+Sampling Time(s): 1.0151
+Loading Time(s): 8.2651
+Forward Time(s): 1.8836
+Backward Time(s): 1.0911
+Update Time(s): 0.0365
+Emb Update Time(s): 16.9153
+#seeds: 37724
+#inputs: 17146932
+==========================================
+Part 22, Epoch Time(s): 29.2233
+Sampling Time(s): 0.9531
+Loading Time(s): 7.8134
+Forward Time(s): 2.3972
+Backward Time(s): 1.0877
+Update Time(s): 0.0370
+Emb Update Time(s): 16.9173
+#seeds: 37724
+#inputs: 17126287
+==========================================
+Part 17, Epoch Time(s): 29.2233
+Sampling Time(s): 1.0857
+Loading Time(s): 7.8408
+Forward Time(s): 2.2279
+Backward Time(s): 1.0987
+Update Time(s): 0.0388
+Emb Update Time(s): 16.9122
+#seeds: 37724
+#inputs: 17169458
+=====================
+
+
+
+
+=====================
+Part 18, Epoch Time(s): 29.2234
+Sampling Time(s): 1.0264
+Loading Time(s): 7.4912
+Forward Time(s): 2.6234
+Backward Time(s): 1.1037
+Update Time(s): 0.0392
+Emb Update Time(s): 16.9212
+#seeds: 37725
+#inputs: 17090897
+==========================================
+Part 19, Epoch Time(s): 29.2236
+Sampling Time(s): 1.0698
+Loading Time(s): 8.1077
+Forward Time(s): 1.9549
+Backward Time(s): 1.1081
+Update Time(s): 0.0356
+Emb Update Time(s): 16.9305
+#seeds: 37725
+#inputs: 17192143
+=====================
+
+=====================
+Part 23, Epoch Time(s): 29.2234
+Sampling Time(s): 1.0030
+Loading Time(s): 8.3659
+Forward Time(s): 1.7990
+Backward Time(s): 1.0859
+Update Time(s): 0.0397
+Emb Update Time(s): 16.9125
+#seeds: 37724
+#inputs: 17144431
+=====================
+=====================
+Part 26, Epoch Time(s): 29.2233
+Sampling Time(s): 0.9819
+Loading Time(s): 7.4185
+Forward Time(s): 2.7311
+Backward Time(s): 1.1021
+Update Time(s): 0.0333
+Emb Update Time(s): 16.9398
+#seeds: 37724
+#inputs: 14110362
+==========================================
+Part 25, Epoch Time(s): 29.2233
+Sampling Time(s): 0.9674
+Loading Time(s): 7.3908
+Forward Time(s): 2.7732
+Backward Time(s): 1.1029
+Update Time(s): 0.0315
+Emb Update Time(s): 16.9412
+#seeds: 37724
+#inputs: 14129539
+==========================================
+Part 28, Epoch Time(s): 29.2233
+Sampling Time(s): 0.9730
+Loading Time(s): 7.5524
+Forward Time(s): 2.6065
+Backward Time(s): 1.0977
+Update Time(s): 0.0341
+Emb Update Time(s): 16.9432
+#seeds: 37724
+#inputs: 14068764
+=====================
+
+
+=====================
+Part 24, Epoch Time(s): 29.2233
+Sampling Time(s): 0.9242
+Loading Time(s): 6.6239
+Forward Time(s): 3.5785
+Backward Time(s): 1.1039
+Update Time(s): 0.0351
+Emb Update Time(s): 16.9395
+#seeds: 37725
+#inputs: 14122074
+==========================================
+Part 27, Epoch Time(s): 29.2233
+Sampling Time(s): 0.9487
+Loading Time(s): 7.3451
+Forward Time(s): 2.8473
+Backward Time(s): 1.0948
+Update Time(s): 0.0388
+Emb Update Time(s): 16.9315
+#seeds: 37725
+#inputs: 14097595
+=====================
+
+=====================
+Part 30, Epoch Time(s): 29.2233
+Sampling Time(s): 1.0598
+Loading Time(s): 7.1207
+Forward Time(s): 2.9479
+Backward Time(s): 1.0966
+Update Time(s): 0.0388
+Emb Update Time(s): 16.9413
+#seeds: 37724
+#inputs: 14060746
+==========================================
+Part 31, Epoch Time(s): 29.2233
+Sampling Time(s): 1.1040
+Loading Time(s): 6.7900
+Forward Time(s): 3.2344
+Backward Time(s): 1.0960
+Update Time(s): 0.0366
+Emb Update Time(s): 16.9444
+#seeds: 37724
+#inputs: 14095120
+=====================
+
+=====================
+Part 29, Epoch Time(s): 29.2234
+Sampling Time(s): 0.9473
+Loading Time(s): 6.4278
+Forward Time(s): 3.7519
+Backward Time(s): 1.0965
+Update Time(s): 0.0354
+Emb Update Time(s): 16.9462
+#seeds: 37724
+#inputs: 14117717
+=====================
+=====================
+Part 15, Epoch Time(s): 29.2233
+Sampling Time(s): 1.0914
+Loading Time(s): 8.9263
+Forward Time(s): 1.1550
+Backward Time(s): 1.0747
+Update Time(s): 0.0374
+Emb Update Time(s): 16.9202
+#seeds: 37724
+#inputs: 18369671
+==========================================
+Part 13, Epoch Time(s): 29.2233
+Sampling Time(s): 0.9706
+Loading Time(s): 8.9405
+Forward Time(s): 1.2785
+Backward Time(s): 1.0695
+Update Time(s): 0.0380
+Emb Update Time(s): 16.9092
+#seeds: 37724
+#inputs: 18295164
+==========================================
+Part 14, Epoch Time(s): 29.2234
+Sampling Time(s): 1.0927
+Loading Time(s): 7.7927
+Forward Time(s): 2.2478
+Backward Time(s): 1.0986
+Update Time(s): 0.0385
+Emb Update Time(s): 16.9357
+#seeds: 37724
+#inputs: 18224057
+==========================================
+Part 12, Epoch Time(s): 29.2234
+Sampling Time(s): 0.9566
+Loading Time(s): 7.3778
+Forward Time(s): 2.7929
+Backward Time(s): 1.1026
+Update Time(s): 0.0384
+Emb Update Time(s): 16.9357
+#seeds: 37725
+#inputs: 18304340
+==========================================
+Part 11, Epoch Time(s): 29.2233
+Sampling Time(s): 1.1759
+Loading Time(s): 8.0361
+Forward Time(s): 1.9309
+Backward Time(s): 1.1025
+Update Time(s): 0.0369
+Emb Update Time(s): 16.9230
+#seeds: 37725
+#inputs: 18279165
+==========================================
+Part 10, Epoch Time(s): 29.2234
+Sampling Time(s): 1.2075
+Loading Time(s): 8.0183
+Forward Time(s): 1.9236
+Backward Time(s): 1.0967
+Update Time(s): 0.0367
+Emb Update Time(s): 16.9216
+#seeds: 37725
+#inputs: 18275154
+=====================
+
+=====================
+Part 8, Epoch Time(s): 29.2238
+Sampling Time(s): 1.0761
+Loading Time(s): 8.8354
+Forward Time(s): 1.2762
+Backward Time(s): 1.0742
+Update Time(s): 0.0353
+Emb Update Time(s): 16.9076
+#seeds: 37724
+#inputs: 18304957
+=====================
+
+
+
+
+=====================
+Part 9, Epoch Time(s): 29.2239
+Sampling Time(s): 1.0869
+Loading Time(s): 8.9942
+Forward Time(s): 1.1491
+Backward Time(s): 1.0503
+Update Time(s): 0.0355
+Emb Update Time(s): 16.8898
+#seeds: 37724
+#inputs: 18242204
+=====================
+Part 3 | Epoch 00005 | Step 00000 | Loss 1.2295 | Train Acc 0.6750 | Speed (samples/sec) 1393.3088 | GPU 1319.5 MB | time 0.899 s
+Part 4 | Epoch 00005 | Step 00000 | Loss 1.2280 | Train Acc 0.6500 | Speed (samples/sec) 1393.2544 | GPU 1323.2 MB | time 0.899 s
+Part 0 | Epoch 00005 | Step 00000 | Loss 1.2503 | Train Acc 0.6600 | Speed (samples/sec) 1393.5504 | GPU 1322.2 MB | time 0.899 s
+Part 1 | Epoch 00005 | Step 00000 | Loss 1.2161 | Train Acc 0.6730 | Speed (samples/sec) 1393.2746 | GPU 1325.5 MB | time 0.899 s
+Part 7 | Epoch 00005 | Step 00000 | Loss 1.3049 | Train Acc 0.6600 | Speed (samples/sec) 1393.3695 | GPU 1325.0 MB | time 0.899 s
+Part 2 | Epoch 00005 | Step 00000 | Loss 1.2992 | Train Acc 0.6680 | Speed (samples/sec) 1393.3921 | GPU 1338.6 MB | time 0.899 sPart 6 | Epoch 00005 | Step 00000 | Loss 1.3350 | Train Acc 0.6580 | Speed (samples/sec) 1393.4051 | GPU 1323.9 MB | time 0.899 s
+
+Part 5 | Epoch 00005 | Step 00000 | Loss 1.3684 | Train Acc 0.6590 | Speed (samples/sec) 1393.3052 | GPU 1322.5 MB | time 0.899 s
+Part 22 | Epoch 00005 | Step 00000 | Loss 1.2607 | Train Acc 0.6620 | Speed (samples/sec) 1393.2568 | GPU 1303.1 MB | time 0.899 sPart 18 | Epoch 00005 | Step 00000 | Loss 1.1800 | Train Acc 0.6820 | Speed (samples/sec) 1393.3787 | GPU 1306.7 MB | time 0.899 sPart 23 | Epoch 00005 | Step 00000 | Loss 1.2240 | Train Acc 0.6780 | Speed (samples/sec) 1393.3156 | GPU 1305.7 MB | time 0.899 s
+Part 19 | Epoch 00005 | Step 00000 | Loss 1.2877 | Train Acc 0.6480 | Speed (samples/sec) 1393.3279 | GPU 1306.2 MB | time 0.899 s
+
+Part 20 | Epoch 00005 | Step 00000 | Loss 1.3499 | Train Acc 0.6700 | Speed (samples/sec) 1393.3699 | GPU 1302.1 MB | time 0.899 s
+
+Part 12 | Epoch 00005 | Step 00000 | Loss 1.3267 | Train Acc 0.6710 | Speed (samples/sec) 1393.4221 | GPU 1372.4 MB | time 0.899 sPart 14 | Epoch 00005 | Step 00000 | Loss 1.4498 | Train Acc 0.6530 | Speed (samples/sec) 1393.3153 | GPU 1369.6 MB | time 0.899 sPart 9 | Epoch 00005 | Step 00000 | Loss 1.2803 | Train Acc 0.6730 | Speed (samples/sec) 1393.3470 | GPU 1363.8 MB | time 0.899 s
+
+
+Part 13 | Epoch 00005 | Step 00000 | Loss 1.3151 | Train Acc 0.6670 | Speed (samples/sec) 1393.2951 | GPU 1373.3 MB | time 0.899 s
+Part 17 | Epoch 00005 | Step 00000 | Loss 1.1997 | Train Acc 0.6780 | Speed (samples/sec) 1393.5650 | GPU 1304.5 MB | time 0.899 s
+Part 29 | Epoch 00005 | Step 00000 | Loss 0.8767 | Train Acc 0.7600 | Speed (samples/sec) 1393.3886 | GPU 1166.4 MB | time 0.899 sPart 27 | Epoch 00005 | Step 00000 | Loss 0.9096 | Train Acc 0.7640 | Speed (samples/sec) 1393.3312 | GPU 1162.7 MB | time 0.899 s
+
+Part 26 | Epoch 00005 | Step 00000 | Loss 0.7871 | Train Acc 0.7780 | Speed (samples/sec) 1393.2971 | GPU 1156.5 MB | time 0.899 s
+Part 25 | Epoch 00005 | Step 00000 | Loss 0.7612 | Train Acc 0.7890 | Speed (samples/sec) 1393.2578 | GPU 1155.2 MB | time 0.899 s
+Part 28 | Epoch 00005 | Step 00000 | Loss 0.7854 | Train Acc 0.7680 | Speed (samples/sec) 1393.2543 | GPU 1151.8 MB | time 0.899 s
+Part 31 | Epoch 00005 | Step 00000 | Loss 0.8749 | Train Acc 0.7560 | Speed (samples/sec) 1393.3804 | GPU 1153.4 MB | time 0.899 sPart 24 | Epoch 00005 | Step 00000 | Loss 0.8020 | Train Acc 0.7750 | Speed (samples/sec) 1393.4283 | GPU 1160.5 MB | time 0.899 s
+
+Part 8 | Epoch 00005 | Step 00000 | Loss 1.3318 | Train Acc 0.6690 | Speed (samples/sec) 1393.3107 | GPU 1377.6 MB | time 0.899 s
+Part 10 | Epoch 00005 | Step 00000 | Loss 1.3709 | Train Acc 0.6610 | Speed (samples/sec) 1393.4095 | GPU 1364.6 MB | time 0.899 s
+Part 21 | Epoch 00005 | Step 00000 | Loss 1.2878 | Train Acc 0.6490 | Speed (samples/sec) 1393.2821 | GPU 1313.2 MB | time 0.899 s
+Part 15 | Epoch 00005 | Step 00000 | Loss 1.3303 | Train Acc 0.6720 | Speed (samples/sec) 1393.3132 | GPU 1381.4 MB | time 0.899 s
+Part 16 | Epoch 00005 | Step 00000 | Loss 1.2003 | Train Acc 0.6630 | Speed (samples/sec) 1393.2920 | GPU 1312.8 MB | time 0.899 s
+Part 11 | Epoch 00005 | Step 00000 | Loss 1.4690 | Train Acc 0.6290 | Speed (samples/sec) 1393.4553 | GPU 1373.2 MB | time 0.899 s
+Part 30 | Epoch 00005 | Step 00000 | Loss 0.7789 | Train Acc 0.7900 | Speed (samples/sec) 1393.3720 | GPU 1154.6 MB | time 0.899 s
+Avg train acc 0.6909
+Part 1 | Epoch 00005 | Step 00020 | Loss 1.3078 | Train Acc 0.6750 | Speed (samples/sec) 1390.1662 | GPU 1325.5 MB | time 15.131 sPart 4 | Epoch 00005 | Step 00020 | Loss 1.2852 | Train Acc 0.6600 | Speed (samples/sec) 1390.1398 | GPU 1323.2 MB | time 15.132 sPart 5 | Epoch 00005 | Step 00020 | Loss 1.2644 | Train Acc 0.6720 | Speed (samples/sec) 1390.1934 | GPU 1322.5 MB | time 15.131 s
+
+
+Part 3 | Epoch 00005 | Step 00020 | Loss 1.1471 | Train Acc 0.6900 | Speed (samples/sec) 1390.1958 | GPU 1319.5 MB | time 15.131 s
+Part 6 | Epoch 00005 | Step 00020 | Loss 1.2188 | Train Acc 0.6770 | Speed (samples/sec) 1390.2853 | GPU 1323.9 MB | time 15.131 s
+Part 2 | Epoch 00005 | Step 00020 | Loss 1.3055 | Train Acc 0.6490 | Speed (samples/sec) 1390.2741 | GPU 1338.6 MB | time 15.131 s
+Part 7 | Epoch 00005 | Step 00020 | Loss 1.2181 | Train Acc 0.6850 | Speed (samples/sec) 1390.2562 | GPU 1325.0 MB | time 15.131 s
+Part 0 | Epoch 00005 | Step 00020 | Loss 1.2655 | Train Acc 0.6570 | Speed (samples/sec) 1390.4303 | GPU 1322.2 MB | time 15.130 s
+Part 22 | Epoch 00005 | Step 00020 | Loss 1.1234 | Train Acc 0.7080 | Speed (samples/sec) 1390.1523 | GPU 1303.1 MB | time 15.131 s
+Part 23 | Epoch 00005 | Step 00020 | Loss 1.2064 | Train Acc 0.6760 | Speed (samples/sec) 1390.2082 | GPU 1305.7 MB | time 15.131 s
+Part 16 | Epoch 00005 | Step 00020 | Loss 1.2717 | Train Acc 0.6580 | Speed (samples/sec) 1390.1884 | GPU 1312.8 MB | time 15.131 s
+Part 19 | Epoch 00005 | Step 00020 | Loss 1.2229 | Train Acc 0.6740 | Speed (samples/sec) 1390.2115 | GPU 1306.2 MB | time 15.131 s
+Part 15 | Epoch 00005 | Step 00020 | Loss 1.2660 | Train Acc 0.6710 | Speed (samples/sec) 1390.2058 | GPU 1381.4 MB | time 15.131 sPart 8 | Epoch 00005 | Step 00020 | Loss 1.2569 | Train Acc 0.6850 | Speed (samples/sec) 1390.1997 | GPU 1377.6 MB | time 15.131 s
+
+Part 21 | Epoch 00005 | Step 00020 | Loss 1.0963 | Train Acc 0.6940 | Speed (samples/sec) 1390.1772 | GPU 1313.2 MB | time 15.131 s
+Part 20 | Epoch 00005 | Step 00020 | Loss 1.1658 | Train Acc 0.7000 | Speed (samples/sec) 1390.2506 | GPU 1302.1 MB | time 15.131 s
+Part 18 | Epoch 00005 | Step 00020 | Loss 1.1285 | Train Acc 0.6920 | Speed (samples/sec) 1390.2860 | GPU 1306.7 MB | time 15.131 s
+Part 10 | Epoch 00005 | Step 00020 | Loss 1.2998 | Train Acc 0.6730 | Speed (samples/sec) 1390.2910 | GPU 1364.6 MB | time 15.131 s
+Part 17 | Epoch 00005 | Step 00020 | Loss 1.1000 | Train Acc 0.6940 | Speed (samples/sec) 1390.4373 | GPU 1304.5 MB | time 15.130 s
+Part 14 | Epoch 00005 | Step 00020 | Loss 1.2270 | Train Acc 0.6820 | Speed (samples/sec) 1390.1986 | GPU 1369.6 MB | time 15.131 sPart 12 | Epoch 00005 | Step 00020 | Loss 1.3161 | Train Acc 0.6840 | Speed (samples/sec) 1390.2977 | GPU 1372.4 MB | time 15.131 s
+
+Part 13 | Epoch 00005 | Step 00020 | Loss 1.3706 | Train Acc 0.6520 | Speed (samples/sec) 1390.1855 | GPU 1373.3 MB | time 15.131 s
+Part 9 | Epoch 00005 | Step 00020 | Loss 1.2971 | Train Acc 0.6630 | Speed (samples/sec) 1390.2283 | GPU 1364.0 MB | time 15.131 s
+Part 28 | Epoch 00005 | Step 00020 | Loss 0.7230 | Train Acc 0.8050 | Speed (samples/sec) 1390.1500 | GPU 1151.8 MB | time 15.131 s
+Part 26 | Epoch 00005 | Step 00020 | Loss 0.7312 | Train Acc 0.7890 | Speed (samples/sec) 1390.1874 | GPU 1156.5 MB | time 15.131 s
+Part 27 | Epoch 00005 | Step 00020 | Loss 0.7757 | Train Acc 0.7810 | Speed (samples/sec) 1390.2198 | GPU 1162.7 MB | time 15.131 s
+Part 30 | Epoch 00005 | Step 00020 | Loss 0.8031 | Train Acc 0.7890 | Speed (samples/sec) 1390.2707 | GPU 1154.6 MB | time 15.130 s
+Part 25 | Epoch 00005 | Step 00020 | Loss 0.8240 | Train Acc 0.7650 | Speed (samples/sec) 1390.1520 | GPU 1155.2 MB | time 15.131 s
+Part 11 | Epoch 00005 | Step 00020 | Loss 1.1663 | Train Acc 0.6970 | Speed (samples/sec) 1390.3418 | GPU 1373.2 MB | time 15.130 s
+Part 29 | Epoch 00005 | Step 00020 | Loss 0.8505 | Train Acc 0.7530 | Speed (samples/sec) 1390.2763 | GPU 1166.4 MB | time 15.130 s
+Part 31 | Epoch 00005 | Step 00020 | Loss 0.7662 | Train Acc 0.7760 | Speed (samples/sec) 1390.2719 | GPU 1153.4 MB | time 15.130 s
+Part 24 | Epoch 00005 | Step 00020 | Loss 0.7365 | Train Acc 0.7860 | Speed (samples/sec) 1390.3116 | GPU 1160.5 MB | time 15.131 s
+Avg train acc 0.7035
+=====================
+Part 7, Epoch Time(s): 29.2306
+Sampling Time(s): 1.0951
+Loading Time(s): 7.5098
+Forward Time(s): 2.4814
+Backward Time(s): 1.1251
+Update Time(s): 0.0390
+Emb Update Time(s): 16.9625
+#seeds: 37725
+#inputs: 17138306
+==========================================
+Part 3, Epoch Time(s): 29.2305
+Sampling Time(s): 0.9605
+Loading Time(s): 7.9195
+Forward Time(s): 2.2174
+Backward Time(s): 1.1263
+Update Time(s): 0.0324
+Emb Update Time(s): 16.9575
+#seeds: 37724
+#inputs: 17038296
+=====================
+
+=====================
+Part 2, Epoch Time(s): 29.2306
+Sampling Time(s): 0.9382
+Loading Time(s): 7.7042
+Forward Time(s): 2.4511
+Backward Time(s): 1.1275
+Update Time(s): 0.0356
+Emb Update Time(s): 16.9568
+#seeds: 37724
+#inputs: 17160547
+==========================================
+Part 1, Epoch Time(s): 29.2305
+Sampling Time(s): 0.9567
+Loading Time(s): 7.9146
+Forward Time(s): 2.2189
+Backward Time(s): 1.1294
+Update Time(s): 0.0324
+Emb Update Time(s): 16.9623
+#seeds: 37724
+#inputs: 17111465
+==========================================
+Part 0, Epoch Time(s): 29.2307
+Sampling Time(s): 0.9807
+Loading Time(s): 7.9287
+Forward Time(s): 2.1775
+Backward Time(s): 1.1308
+Update Time(s): 0.0321
+Emb Update Time(s): 16.9613
+#seeds: 37725
+#inputs: 17071310
+=====================
+=====================
+Part 4, Epoch Time(s): 29.2307
+Sampling Time(s): 0.9876
+Loading Time(s): 8.0993
+Forward Time(s): 2.0073
+Backward Time(s): 1.1250
+Update Time(s): 0.0329
+Emb Update Time(s): 16.9623
+#seeds: 37724
+#inputs: 17066476
+=====================
+
+=====================
+Part 5, Epoch Time(s): 29.2308
+Sampling Time(s): 0.9614
+Loading Time(s): 8.2691
+Forward Time(s): 1.8667
+Backward Time(s): 1.1191
+Update Time(s): 0.0351
+Emb Update Time(s): 16.9618
+#seeds: 37725
+#inputs: 17020886
+=====================
+
+=====================
+Part 6, Epoch Time(s): 29.2309
+Sampling Time(s): 0.9054
+Loading Time(s): 7.6818
+Forward Time(s): 2.4998
+Backward Time(s): 1.1270
+Update Time(s): 0.0376
+Emb Update Time(s): 16.9620
+#seeds: 37724
+#inputs: 17114301
+=====================
+=====================
+Part 23, Epoch Time(s): 29.2303
+Sampling Time(s): 0.9970
+Loading Time(s): 8.1900
+Forward Time(s): 1.9107
+Backward Time(s): 1.1032
+Update Time(s): 0.0382
+Emb Update Time(s): 16.9737
+#seeds: 37724
+#inputs: 17157078
+==========================================
+Part 19, Epoch Time(s): 29.2304
+Sampling Time(s): 0.9968
+Loading Time(s): 8.2681
+Forward Time(s): 1.8265
+Backward Time(s): 1.1100
+Update Time(s): 0.0342
+Emb Update Time(s): 16.9778
+#seeds: 37725
+#inputs: 17183847
+==========================================
+Part 21, Epoch Time(s): 29.2304
+Sampling Time(s): 1.0097
+Loading Time(s): 8.2049
+Forward Time(s): 1.8944
+Backward Time(s): 1.1053
+Update Time(s): 0.0366
+Emb Update Time(s): 16.9620
+#seeds: 37724
+#inputs: 17149640
+==========================================
+Part 16, Epoch Time(s): 29.2304
+Sampling Time(s): 0.9865
+Loading Time(s): 8.0586
+Forward Time(s): 2.0349
+Backward Time(s): 1.1350
+Update Time(s): 0.0353
+Emb Update Time(s): 16.9624
+#seeds: 37724
+#inputs: 17145835
+==========================================
+Part 17, Epoch Time(s): 29.2304
+Sampling Time(s): 1.0960
+Loading Time(s): 7.6201
+Forward Time(s): 2.3644
+Backward Time(s): 1.1158
+Update Time(s): 0.0392
+Emb Update Time(s): 16.9756
+#seeds: 37724
+#inputs: 17158872
+==========================================
+Part 18, Epoch Time(s): 29.2304
+Sampling Time(s): 0.9314
+Loading Time(s): 7.0820
+Forward Time(s): 3.0515
+Backward Time(s): 1.1219
+Update Time(s): 0.0394
+Emb Update Time(s): 16.9860
+#seeds: 37725
+#inputs: 17081879
+=====================
+
+=====================
+Part 22, Epoch Time(s): 29.2304
+Sampling Time(s): 0.8931
+Loading Time(s): 7.4765
+Forward Time(s): 2.7082
+Backward Time(s): 1.1186
+Update Time(s): 0.0393
+Emb Update Time(s): 16.9771
+#seeds: 37724
+#inputs: 17109701
+=====================
+
+=====================
+Part 20, Epoch Time(s): 29.2305
+Sampling Time(s): 1.0081
+Loading Time(s): 8.3975
+Forward Time(s): 1.7143
+Backward Time(s): 1.0931
+Update Time(s): 0.0356
+Emb Update Time(s): 16.9647
+#seeds: 37725
+#inputs: 17143266
+=====================
+
+
+
+=====================
+Part 25, Epoch Time(s): 29.2307
+Sampling Time(s): 1.0348
+Loading Time(s): 7.5194
+Forward Time(s): 2.5288
+Backward Time(s): 1.1212
+Update Time(s): 0.0324
+Emb Update Time(s): 16.9760
+#seeds: 37724
+#inputs: 14119478
+==========================================
+Part 27, Epoch Time(s): 29.2306
+Sampling Time(s): 0.9819
+Loading Time(s): 7.3607
+Forward Time(s): 2.7374
+Backward Time(s): 1.1220
+Update Time(s): 0.0322
+Emb Update Time(s): 16.9782
+#seeds: 37725
+#inputs: 14093925
+==========================================
+Part 28, Epoch Time(s): 29.2307
+Sampling Time(s): 0.9820
+Loading Time(s): 7.2026
+Forward Time(s): 2.8917
+Backward Time(s): 1.1188
+Update Time(s): 0.0362
+Emb Update Time(s): 16.9818
+#seeds: 37724
+#inputs: 14059568
+==========================================
+Part 29, Epoch Time(s): 29.2306
+Sampling Time(s): 0.8872
+Loading Time(s): 6.2816
+Forward Time(s): 3.9033
+Backward Time(s): 1.1216
+Update Time(s): 0.0361
+Emb Update Time(s): 16.9820
+#seeds: 37724
+#inputs: 14116364
+=====================
+
+
+=====================
+Part 26, Epoch Time(s): 29.2311
+Sampling Time(s): 0.9820
+Loading Time(s): 7.2562
+Forward Time(s): 2.8378
+Backward Time(s): 1.1290
+Update Time(s): 0.0293
+Emb Update Time(s): 16.9791
+#seeds: 37724
+#inputs: 14097196
+=====================
+
+=====================
+Part 31, Epoch Time(s): 29.2308
+Sampling Time(s): 1.0514
+Loading Time(s): 6.3519
+Forward Time(s): 3.6694
+Backward Time(s): 1.1168
+Update Time(s): 0.0333
+Emb Update Time(s): 16.9887
+#seeds: 37724
+#inputs: 14101918
+==========================================
+Part 30, Epoch Time(s): 29.2311
+Sampling Time(s): 0.9957
+Loading Time(s): 7.1185
+Forward Time(s): 2.9585
+Backward Time(s): 1.1172
+Update Time(s): 0.0346
+Emb Update Time(s): 16.9872
+#seeds: 37724
+#inputs: 14056519
+=====================
+
+=====================
+Part 24, Epoch Time(s): 29.2310
+Sampling Time(s): 0.8445
+Loading Time(s): 6.3503
+Forward Time(s): 3.8773
+Backward Time(s): 1.1315
+Update Time(s): 0.0325
+Emb Update Time(s): 16.9756
+#seeds: 37725
+#inputs: 14099964
+=====================
+=====================
+Part 15, Epoch Time(s): 29.2305
+Sampling Time(s): 1.0831
+Loading Time(s): 9.1770
+Forward Time(s): 0.9625
+Backward Time(s): 1.0415
+Update Time(s): 0.0401
+Emb Update Time(s): 16.9091
+#seeds: 37724
+#inputs: 18381919
+==========================================
+Part 9, Epoch Time(s): 29.2304
+Sampling Time(s): 1.0349
+Loading Time(s): 8.8482
+Forward Time(s): 1.2500
+Backward Time(s): 1.0814
+Update Time(s): 0.0356
+Emb Update Time(s): 16.9631
+#seeds: 37724
+#inputs: 18242801
+==========================================
+Part 8, Epoch Time(s): 29.2305
+Sampling Time(s): 1.0342
+Loading Time(s): 9.0496
+Forward Time(s): 1.0701
+Backward Time(s): 1.0924
+Update Time(s): 0.0376
+Emb Update Time(s): 16.9292
+#seeds: 37724
+#inputs: 18303956
+=====================
+=====================
+Part 10, Epoch Time(s): 29.2305
+Sampling Time(s): 1.1258
+Loading Time(s): 8.3028
+Forward Time(s): 1.6565
+Backward Time(s): 1.1209
+Update Time(s): 0.0415
+Emb Update Time(s): 16.9645
+#seeds: 37725
+#inputs: 18288259
+=====================
+=====================
+Part 14, Epoch Time(s): 29.2305
+Sampling Time(s): 1.0550
+Loading Time(s): 7.9121
+Forward Time(s): 2.1098
+Backward Time(s): 1.1188
+Update Time(s): 0.0404
+Emb Update Time(s): 16.9771
+#seeds: 37724
+#inputs: 18231296
+=====================
+
+
+=====================
+Part 13, Epoch Time(s): 29.2305
+Sampling Time(s): 1.0173
+Loading Time(s): 8.9215
+Forward Time(s): 1.1739
+Backward Time(s): 1.0972
+Update Time(s): 0.0408
+Emb Update Time(s): 16.9625
+#seeds: 37724
+#inputs: 18312460
+=====================
+=====================
+Part 11, Epoch Time(s): 29.2305
+Sampling Time(s): 1.0985
+Loading Time(s): 8.3862
+Forward Time(s): 1.6099
+Backward Time(s): 1.1069
+Update Time(s): 0.0415
+Emb Update Time(s): 16.9682
+#seeds: 37725
+#inputs: 18288220
+==========================================
+Part 12, Epoch Time(s): 29.2306
+Sampling Time(s): 1.0044
+Loading Time(s): 8.2227
+Forward Time(s): 1.8726
+Backward Time(s): 1.1100
+Update Time(s): 0.0416
+Emb Update Time(s): 16.9611
+#seeds: 37725
+#inputs: 18307387
+=====================
+
+Part 3 | Epoch 00006 | Step 00000 | Loss 1.0901 | Train Acc 0.7070 | Speed (samples/sec) 1381.1281 | GPU 1319.6 MB | time 0.941 s
+Part 4 | Epoch 00006 | Step 00000 | Loss 1.1039 | Train Acc 0.7050 | Speed (samples/sec) 1381.0764 | GPU 1323.2 MB | time 0.941 s
+Part 0 | Epoch 00006 | Step 00000 | Loss 1.1304 | Train Acc 0.6860 | Speed (samples/sec) 1381.3624 | GPU 1322.2 MB | time 0.941 s
+Part 6 | Epoch 00006 | Step 00000 | Loss 1.2073 | Train Acc 0.6870 | Speed (samples/sec) 1381.2144 | GPU 1323.9 MB | time 0.941 sPart 2 | Epoch 00006 | Step 00000 | Loss 1.1956 | Train Acc 0.7120 | Speed (samples/sec) 1381.2062 | GPU 1338.6 MB | time 0.941 sPart 7 | Epoch 00006 | Step 00000 | Loss 1.0883 | Train Acc 0.7140 | Speed (samples/sec) 1381.1946 | GPU 1325.0 MB | time 0.941 s
+
+
+Part 5 | Epoch 00006 | Step 00000 | Loss 1.1308 | Train Acc 0.6910 | Speed (samples/sec) 1381.1363 | GPU 1322.5 MB | time 0.941 s
+Part 28 | Epoch 00006 | Step 00000 | Loss 0.7355 | Train Acc 0.8020 | Speed (samples/sec) 1381.0924 | GPU 1152.2 MB | time 0.941 s
+Part 26 | Epoch 00006 | Step 00000 | Loss 0.6700 | Train Acc 0.8230 | Speed (samples/sec) 1381.1249 | GPU 1156.5 MB | time 0.941 s
+Part 25 | Epoch 00006 | Step 00000 | Loss 0.7376 | Train Acc 0.7940 | Speed (samples/sec) 1381.0988 | GPU 1155.2 MB | time 0.941 s
+Part 19 | Epoch 00006 | Step 00000 | Loss 1.0663 | Train Acc 0.7210 | Speed (samples/sec) 1381.1531 | GPU 1306.2 MB | time 0.941 s
+Part 20 | Epoch 00006 | Step 00000 | Loss 1.0841 | Train Acc 0.7100 | Speed (samples/sec) 1381.1882 | GPU 1302.1 MB | time 0.941 s
+Part 27 | Epoch 00006 | Step 00000 | Loss 0.7044 | Train Acc 0.7990 | Speed (samples/sec) 1381.1663 | GPU 1162.7 MB | time 0.941 s
+Part 24 | Epoch 00006 | Step 00000 | Loss 0.7472 | Train Acc 0.8070 | Speed (samples/sec) 1381.2518 | GPU 1160.5 MB | time 0.941 sPart 29 | Epoch 00006 | Step 00000 | Loss 0.6798 | Train Acc 0.8140 | Speed (samples/sec) 1381.2078 | GPU 1174.4 MB | time 0.941 s
+
+Part 23 | Epoch 00006 | Step 00000 | Loss 1.0134 | Train Acc 0.7050 | Speed (samples/sec) 1381.1444 | GPU 1305.7 MB | time 0.941 s
+Part 21 | Epoch 00006 | Step 00000 | Loss 1.0862 | Train Acc 0.6810 | Speed (samples/sec) 1381.1161 | GPU 1313.2 MB | time 0.941 s
+Part 30 | Epoch 00006 | Step 00000 | Loss 0.6656 | Train Acc 0.8100 | Speed (samples/sec) 1381.2055 | GPU 1154.6 MB | time 0.941 s
+Part 13 | Epoch 00006 | Step 00000 | Loss 1.1405 | Train Acc 0.7140 | Speed (samples/sec) 1381.1227 | GPU 1373.3 MB | time 0.941 sPart 15 | Epoch 00006 | Step 00000 | Loss 1.2421 | Train Acc 0.6780 | Speed (samples/sec) 1381.1368 | GPU 1381.4 MB | time 0.941 s
+
+Part 14 | Epoch 00006 | Step 00000 | Loss 1.2842 | Train Acc 0.6830 | Speed (samples/sec) 1381.1356 | GPU 1369.6 MB | time 0.941 s
+Part 10 | Epoch 00006 | Step 00000 | Loss 1.2057 | Train Acc 0.6960 | Speed (samples/sec) 1381.2331 | GPU 1364.6 MB | time 0.941 s
+Part 9 | Epoch 00006 | Step 00000 | Loss 1.2714 | Train Acc 0.6750 | Speed (samples/sec) 1381.1623 | GPU 1364.0 MB | time 0.941 s
+Part 31 | Epoch 00006 | Step 00000 | Loss 0.7445 | Train Acc 0.7970 | Speed (samples/sec) 1381.2093 | GPU 1153.7 MB | time 0.941 s
+Part 8 | Epoch 00006 | Step 00000 | Loss 1.2126 | Train Acc 0.6990 | Speed (samples/sec) 1381.1337 | GPU 1378.2 MB | time 0.941 s
+Part 18 | Epoch 00006 | Step 00000 | Loss 1.1094 | Train Acc 0.6990 | Speed (samples/sec) 1381.2283 | GPU 1306.7 MB | time 0.941 s
+Part 1 | Epoch 00006 | Step 00000 | Loss 1.0724 | Train Acc 0.7170 | Speed (samples/sec) 1381.1008 | GPU 1325.5 MB | time 0.941 s
+Part 11 | Epoch 00006 | Step 00000 | Loss 1.0653 | Train Acc 0.7260 | Speed (samples/sec) 1381.2785 | GPU 1373.2 MB | time 0.941 s
+Part 22 | Epoch 00006 | Step 00000 | Loss 1.0904 | Train Acc 0.6940 | Speed (samples/sec) 1381.0917 | GPU 1303.1 MB | time 0.942 s
+Part 12 | Epoch 00006 | Step 00000 | Loss 1.0860 | Train Acc 0.7110 | Speed (samples/sec) 1381.2373 | GPU 1372.4 MB | time 0.941 s
+Part 17 | Epoch 00006 | Step 00000 | Loss 1.1080 | Train Acc 0.6900 | Speed (samples/sec) 1381.3597 | GPU 1305.2 MB | time 0.942 s
+Part 16 | Epoch 00006 | Step 00000 | Loss 1.0104 | Train Acc 0.7250 | Speed (samples/sec) 1381.1233 | GPU 1312.8 MB | time 0.942 s
+Avg train acc 0.7273
+Part 4 | Epoch 00006 | Step 00020 | Loss 1.0674 | Train Acc 0.6970 | Speed (samples/sec) 1379.4368 | GPU 1323.2 MB | time 15.005 s
+Part 3 | Epoch 00006 | Step 00020 | Loss 1.0394 | Train Acc 0.7350 | Speed (samples/sec) 1379.4858 | GPU 1319.6 MB | time 15.006 s
+Part 1 | Epoch 00006 | Step 00020 | Loss 1.0606 | Train Acc 0.7270 | Speed (samples/sec) 1379.4640 | GPU 1325.5 MB | time 15.005 s
+Part 20 | Epoch 00006 | Step 00020 | Loss 1.1207 | Train Acc 0.6830 | Speed (samples/sec) 1379.5421 | GPU 1302.1 MB | time 15.005 sPart 23 | Epoch 00006 | Step 00020 | Loss 1.0170 | Train Acc 0.7230 | Speed (samples/sec) 1379.5074 | GPU 1305.7 MB | time 15.005 s
+
+Part 19 | Epoch 00006 | Step 00020 | Loss 1.0094 | Train Acc 0.7180 | Speed (samples/sec) 1379.5093 | GPU 1306.2 MB | time 15.005 s
+Part 27 | Epoch 00006 | Step 00020 | Loss 0.5675 | Train Acc 0.8290 | Speed (samples/sec) 1379.5234 | GPU 1162.7 MB | time 15.005 sPart 30 | Epoch 00006 | Step 00020 | Loss 0.6947 | Train Acc 0.8110 | Speed (samples/sec) 1379.5626 | GPU 1156.0 MB | time 15.005 sPart 25 | Epoch 00006 | Step 00020 | Loss 0.6266 | Train Acc 0.8140 | Speed (samples/sec) 1379.4664 | GPU 1155.2 MB | time 15.005 sPart 26 | Epoch 00006 | Step 00020 | Loss 0.7140 | Train Acc 0.7870 | Speed (samples/sec) 1379.4834 | GPU 1158.2 MB | time 15.006 s
+
+
+
+Part 0 | Epoch 00006 | Step 00020 | Loss 1.0784 | Train Acc 0.7150 | Speed (samples/sec) 1379.7066 | GPU 1329.6 MB | time 15.004 s
+Part 24 | Epoch 00006 | Step 00020 | Loss 0.5910 | Train Acc 0.8220 | Speed (samples/sec) 1379.6079 | GPU 1160.5 MB | time 15.005 s
+Part 28 | Epoch 00006 | Step 00020 | Loss 0.6850 | Train Acc 0.7920 | Speed (samples/sec) 1379.4509 | GPU 1152.2 MB | time 15.006 s
+Part 5 | Epoch 00006 | Step 00020 | Loss 0.9959 | Train Acc 0.7380 | Speed (samples/sec) 1379.4961 | GPU 1322.5 MB | time 15.005 s
+Part 21 | Epoch 00006 | Step 00020 | Loss 0.9624 | Train Acc 0.7280 | Speed (samples/sec) 1379.4760 | GPU 1313.2 MB | time 15.005 s
+Part 31 | Epoch 00006 | Step 00020 | Loss 0.6650 | Train Acc 0.8270 | Speed (samples/sec) 1379.5669 | GPU 1155.0 MB | time 15.005 s
+Part 8 | Epoch 00006 | Step 00020 | Loss 1.1672 | Train Acc 0.6950 | Speed (samples/sec) 1379.4951 | GPU 1378.2 MB | time 15.005 sPart 15 | Epoch 00006 | Step 00020 | Loss 1.0981 | Train Acc 0.7090 | Speed (samples/sec) 1379.5002 | GPU 1381.4 MB | time 15.004 s
+
+Part 9 | Epoch 00006 | Step 00020 | Loss 1.0868 | Train Acc 0.7080 | Speed (samples/sec) 1379.5248 | GPU 1364.0 MB | time 15.005 s
+Part 18 | Epoch 00006 | Step 00020 | Loss 1.0207 | Train Acc 0.7110 | Speed (samples/sec) 1379.5861 | GPU 1306.7 MB | time 15.004 s
+Part 16 | Epoch 00006 | Step 00020 | Loss 1.0004 | Train Acc 0.7200 | Speed (samples/sec) 1379.4876 | GPU 1312.8 MB | time 15.004 s
+Part 29 | Epoch 00006 | Step 00020 | Loss 0.6077 | Train Acc 0.8210 | Speed (samples/sec) 1379.5673 | GPU 1174.4 MB | time 15.005 s
+Part 13 | Epoch 00006 | Step 00020 | Loss 1.0774 | Train Acc 0.7300 | Speed (samples/sec) 1379.4813 | GPU 1373.3 MB | time 15.005 s
+Part 22 | Epoch 00006 | Step 00020 | Loss 1.0570 | Train Acc 0.6960 | Speed (samples/sec) 1379.4634 | GPU 1303.1 MB | time 15.004 s
+Part 17 | Epoch 00006 | Step 00020 | Loss 0.9873 | Train Acc 0.7370 | Speed (samples/sec) 1379.7089 | GPU 1311.1 MB | time 15.004 s
+Part 10 | Epoch 00006 | Step 00020 | Loss 1.0959 | Train Acc 0.6930 | Speed (samples/sec) 1379.5873 | GPU 1364.6 MB | time 15.004 s
+Part 11 | Epoch 00006 | Step 00020 | Loss 1.0992 | Train Acc 0.7200 | Speed (samples/sec) 1379.6258 | GPU 1373.2 MB | time 15.004 sPart 14 | Epoch 00006 | Step 00020 | Loss 1.1247 | Train Acc 0.7080 | Speed (samples/sec) 1379.4953 | GPU 1369.6 MB | time 15.005 s
+
+Part 12 | Epoch 00006 | Step 00020 | Loss 1.1701 | Train Acc 0.7220 | Speed (samples/sec) 1379.5911 | GPU 1372.4 MB | time 15.004 s
+Part 7 | Epoch 00006 | Step 00020 | Loss 1.0813 | Train Acc 0.7110 | Speed (samples/sec) 1379.5516 | GPU 1325.0 MB | time 15.005 s
+Part 2 | Epoch 00006 | Step 00020 | Loss 1.1392 | Train Acc 0.7080 | Speed (samples/sec) 1379.5582 | GPU 1338.6 MB | time 15.005 s
+Part 6 | Epoch 00006 | Step 00020 | Loss 1.0573 | Train Acc 0.7220 | Speed (samples/sec) 1379.5673 | GPU 1323.9 MB | time 15.005 s
+Avg train acc 0.7393
+=====================
+Part 3, Epoch Time(s): 28.9213
+Sampling Time(s): 0.9908
+Loading Time(s): 8.3160
+Forward Time(s): 2.1336
+Backward Time(s): 1.1120
+Update Time(s): 0.0324
+Emb Update Time(s): 16.3156
+#seeds: 37724
+#inputs: 17048443
+==========================================
+Part 4, Epoch Time(s): 28.9212
+Sampling Time(s): 1.0645
+Loading Time(s): 8.3336
+Forward Time(s): 2.0576
+Backward Time(s): 1.0978
+Update Time(s): 0.0324
+Emb Update Time(s): 16.3146
+#seeds: 37724
+#inputs: 17067871
+==========================================
+Part 1, Epoch Time(s): 28.9213
+Sampling Time(s): 1.0216
+Loading Time(s): 8.2724
+Forward Time(s): 2.1249
+Backward Time(s): 1.1174
+Update Time(s): 0.0331
+Emb Update Time(s): 16.3303
+#seeds: 37724
+#inputs: 17120705
+==========================================
+Part 5, Epoch Time(s): 28.9212
+Sampling Time(s): 1.0187
+Loading Time(s): 8.1457
+Forward Time(s): 2.2652
+Backward Time(s): 1.1076
+Update Time(s): 0.0353
+Emb Update Time(s): 16.3270
+#seeds: 37725
+#inputs: 17021565
+=====================
+
+
+
+=====================
+Part 2, Epoch Time(s): 28.9212
+Sampling Time(s): 0.9342
+Loading Time(s): 7.9596
+Forward Time(s): 2.5246
+Backward Time(s): 1.1153
+Update Time(s): 0.0352
+Emb Update Time(s): 16.3288
+#seeds: 37724
+#inputs: 17157325
+=====================
+=====================
+Part 0, Epoch Time(s): 28.9215
+Sampling Time(s): 0.9736
+Loading Time(s): 8.2323
+Forward Time(s): 2.2108
+Backward Time(s): 1.1313
+Update Time(s): 0.0313
+Emb Update Time(s): 16.3182
+#seeds: 37725
+#inputs: 17066652
+=====================
+=====================
+Part 6, Epoch Time(s): 28.9214
+Sampling Time(s): 0.9521
+Loading Time(s): 7.8390
+Forward Time(s): 2.6223
+Backward Time(s): 1.1115
+Update Time(s): 0.0366
+Emb Update Time(s): 16.3362
+#seeds: 37724
+#inputs: 17126228
+==========================================
+Part 7, Epoch Time(s): 28.9215
+Sampling Time(s): 1.1166
+Loading Time(s): 7.9962
+Forward Time(s): 2.3499
+Backward Time(s): 1.0833
+Update Time(s): 0.0387
+Emb Update Time(s): 16.3128
+#seeds: 37725
+#inputs: 17131421
+=====================
+
+Rank 4, Avg Epoch Time(s): 28.8511
+Rank 3, Avg Epoch Time(s): 28.8510Rank 5, Avg Epoch Time(s): 28.8511
+
+Rank 2, Avg Epoch Time(s): 28.8510
+Rank 0, Avg Epoch Time(s): 28.8511
+=====================
+Part 31, Epoch Time(s): 28.9217
+Sampling Time(s): 1.0196
+Loading Time(s): 6.5934
+Forward Time(s): 3.7982
+Backward Time(s): 1.1320
+Update Time(s): 0.0385
+Emb Update Time(s): 16.3176
+#seeds: 37724
+#inputs: 14083598
+==========================================
+Part 26, Epoch Time(s): 28.9216
+Sampling Time(s): 0.9296
+Loading Time(s): 7.1360
+Forward Time(s): 3.3501
+Backward Time(s): 1.1357
+Update Time(s): 0.0314
+Emb Update Time(s): 16.3178
+#seeds: 37724
+#inputs: 14101647
+==========================================
+Part 25, Epoch Time(s): 28.9214
+Sampling Time(s): 0.9291
+Loading Time(s): 7.0539
+Forward Time(s): 3.4320
+Backward Time(s): 1.1367
+Update Time(s): 0.0321
+Emb Update Time(s): 16.3240
+#seeds: 37724
+#inputs: 14118938
+==========================================
+Part 27, Epoch Time(s): 28.9214
+Sampling Time(s): 0.9878
+Loading Time(s): 7.2716
+Forward Time(s): 3.1564
+Backward Time(s): 1.1342
+Update Time(s): 0.0319
+Emb Update Time(s): 16.3183
+#seeds: 37725
+#inputs: 14098224
+==========================================
+Part 28, Epoch Time(s): 28.9214
+Sampling Time(s): 0.8915
+Loading Time(s): 7.1059
+Forward Time(s): 3.4189
+Backward Time(s): 1.1335
+Update Time(s): 0.0308
+Emb Update Time(s): 16.3203
+#seeds: 37724
+#inputs: 14052686
+==========================================
+Part 30, Epoch Time(s): 28.9214
+Sampling Time(s): 0.9832
+Loading Time(s): 7.1694
+Forward Time(s): 3.2621
+Backward Time(s): 1.1320
+Update Time(s): 0.0336
+Emb Update Time(s): 16.3201
+#seeds: 37724
+#inputs: 14064319
+==========================================
+Part 24, Epoch Time(s): 28.9216
+Sampling Time(s): 0.8945
+Loading Time(s): 6.2532
+Forward Time(s): 4.2633
+Backward Time(s): 1.1372
+Update Time(s): 0.0357
+Emb Update Time(s): 16.3153
+#seeds: 37725
+#inputs: 14105265
+=====================
+
+
+
+
+
+
+=====================
+Part 29, Epoch Time(s): 28.9217
+Sampling Time(s): 0.9086
+Loading Time(s): 6.1132
+Forward Time(s): 4.3892
+Backward Time(s): 1.1324
+Update Time(s): 0.0348
+Emb Update Time(s): 16.3209
+#seeds: 37724
+#inputs: 14111138
+=====================
+Rank 28, Avg Epoch Time(s): 28.8510Rank 26, Avg Epoch Time(s): 28.8512
+
+Rank 30, Avg Epoch Time(s): 28.8511Rank 25, Avg Epoch Time(s): 28.8510
+
+Rank 24, Avg Epoch Time(s): 28.8512Rank 29, Avg Epoch Time(s): 28.8511
+
+=====================
+Part 23, Epoch Time(s): 28.9215
+Sampling Time(s): 1.0226
+Loading Time(s): 8.4832
+Forward Time(s): 1.9238
+Backward Time(s): 1.1311
+Update Time(s): 0.0386
+Emb Update Time(s): 16.3006
+#seeds: 37724
+#inputs: 17154789
+==========================================
+Part 20, Epoch Time(s): 28.9214
+Sampling Time(s): 0.9740
+Loading Time(s): 8.3059
+Forward Time(s): 2.1375
+Backward Time(s): 1.1429
+Update Time(s): 0.0352
+Emb Update Time(s): 16.3050
+#seeds: 37725
+#inputs: 17150199
+==========================================
+Part 18, Epoch Time(s): 28.9214
+Sampling Time(s): 0.9180
+Loading Time(s): 6.9385
+Forward Time(s): 3.5556
+Backward Time(s): 1.1468
+Update Time(s): 0.0397
+Emb Update Time(s): 16.3000
+#seeds: 37725
+#inputs: 17075498
+==========================================
+Part 21, Epoch Time(s): 28.9213
+Sampling Time(s): 0.9509
+Loading Time(s): 8.2534
+Forward Time(s): 2.2123
+Backward Time(s): 1.1414
+Update Time(s): 0.0352
+Emb Update Time(s): 16.3068
+#seeds: 37724
+#inputs: 17152757
+==========================================
+Part 16, Epoch Time(s): 28.9213
+Sampling Time(s): 1.0035
+Loading Time(s): 8.2446
+Forward Time(s): 2.1669
+Backward Time(s): 1.1488
+Update Time(s): 0.0345
+Emb Update Time(s): 16.3011
+#seeds: 37724
+#inputs: 17143521
+==========================================
+Part 19, Epoch Time(s): 28.9213
+Sampling Time(s): 0.9940
+Loading Time(s): 8.3548
+Forward Time(s): 2.0694
+Backward Time(s): 1.1445
+Update Time(s): 0.0337
+Emb Update Time(s): 16.3041
+#seeds: 37725
+#inputs: 17193005
+=====================
+
+
+
+
+
+=====================
+Part 17, Epoch Time(s): 28.9214
+Sampling Time(s): 1.0570
+Loading Time(s): 8.0081
+Forward Time(s): 2.3649
+Backward Time(s): 1.1398
+Update Time(s): 0.0394
+Emb Update Time(s): 16.2889
+#seeds: 37724
+#inputs: 17166717
+=====================
+=====================
+Part 22, Epoch Time(s): 28.9217
+Sampling Time(s): 0.9860
+Loading Time(s): 7.7034
+Forward Time(s): 2.7137
+Backward Time(s): 1.1398
+Update Time(s): 0.0395
+Emb Update Time(s): 16.3160
+#seeds: 37724
+#inputs: 17116986
+=====================
+Rank 18, Avg Epoch Time(s): 28.8511Rank 20, Avg Epoch Time(s): 28.8510Rank 21, Avg Epoch Time(s): 28.8510Rank 19, Avg Epoch Time(s): 28.8511Rank 16, Avg Epoch Time(s): 28.8510
+Rank 23, Avg Epoch Time(s): 28.8510
+
+
+
+
+Rank 31, Avg Epoch Time(s): 28.8511
+Rank 27, Avg Epoch Time(s): 28.8511
+=====================
+Part 8, Epoch Time(s): 28.9209
+Sampling Time(s): 1.0926
+Loading Time(s): 9.1636
+Forward Time(s): 1.1987
+Backward Time(s): 1.1181
+Update Time(s): 0.0361
+Emb Update Time(s): 16.2895
+#seeds: 37724
+#inputs: 18296468
+==========================================
+Part 9, Epoch Time(s): 28.9210
+Sampling Time(s): 1.0762
+Loading Time(s): 9.4754
+Forward Time(s): 0.9611
+Backward Time(s): 1.0788
+Update Time(s): 0.0372
+Emb Update Time(s): 16.2695
+#seeds: 37724
+#inputs: 18243278
+=====================
+
+=====================
+Part 13, Epoch Time(s): 28.9208
+Sampling Time(s): 1.0300
+Loading Time(s): 9.4626
+Forward Time(s): 1.0355
+Backward Time(s): 1.0775
+Update Time(s): 0.0413
+Emb Update Time(s): 16.2515
+#seeds: 37724
+#inputs: 18295765
+==========================================
+Part 15, Epoch Time(s): 28.9211
+Sampling Time(s): 1.0446
+Loading Time(s): 9.5761
+Forward Time(s): 0.9076
+Backward Time(s): 1.0770
+Update Time(s): 0.0402
+Emb Update Time(s): 16.2521
+#seeds: 37724
+#inputs: 18372050
+=====================
+
+=====================
+Part 11, Epoch Time(s): 28.9206
+Sampling Time(s): 1.1599
+Loading Time(s): 8.9540
+Forward Time(s): 1.3380
+Backward Time(s): 1.1252
+Update Time(s): 0.0414
+Emb Update Time(s): 16.2786
+#seeds: 37725
+#inputs: 18299894
+==========================================
+Part 10, Epoch Time(s): 28.9210
+Sampling Time(s): 1.1970
+Loading Time(s): 8.4873
+Forward Time(s): 1.7357
+Backward Time(s): 1.1359
+Update Time(s): 0.0425
+Emb Update Time(s): 16.2986
+#seeds: 37725
+#inputs: 18279269
+=====================
+
+=====================
+Part 14, Epoch Time(s): 28.9214
+Sampling Time(s): 1.1326
+Loading Time(s): 8.1236
+Forward Time(s): 2.1551
+Backward Time(s): 1.1365
+Update Time(s): 0.0429
+Emb Update Time(s): 16.3086
+#seeds: 37724
+#inputs: 18224032
+==========================================
+Part 12, Epoch Time(s): 28.9207
+Sampling Time(s): 1.0600
+Loading Time(s): 8.3895
+Forward Time(s): 1.9765
+Backward Time(s): 1.1348
+Update Time(s): 0.0434
+Emb Update Time(s): 16.2920
+#seeds: 37725
+#inputs: 18304936
+=====================
+
+Rank 8, Avg Epoch Time(s): 28.8511
+Rank 9, Avg Epoch Time(s): 28.8510
+Rank 15, Avg Epoch Time(s): 28.8510
+Rank 13, Avg Epoch Time(s): 28.8509
+Rank 6, Avg Epoch Time(s): 28.8512
+Rank 1, Avg Epoch Time(s): 28.8510
+Rank 7, Avg Epoch Time(s): 28.8511
+Rank 17, Avg Epoch Time(s): 28.8510
+Rank 22, Avg Epoch Time(s): 28.8511
+Rank 11, Avg Epoch Time(s): 28.8509
+Rank 12, Avg Epoch Time(s): 28.8509Rank 10, Avg Epoch Time(s): 28.8510
+
+Rank 14, Avg Epoch Time(s): 28.8511
+All parts avg epoch time 28.8511 sec, throughput 41841.7604 seeds/sec
+parent ends
+Client[3] in group[0] is exiting...
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+Client[5] in group[0] is exiting...
+Client[8] in group[0] is exiting...
+Client[10] in group[0] is exiting...
+parent ends
+Client[1] in group[0] is exiting...
+Client[7] in group[0] is exiting...
+Client[14] in group[0] is exiting...
+parent ends
+parent ends
+parent ends
+parent ends
+Client[50] in group[0] is exiting...
+parent ends
+parent ends
+parent ends
+Client[57] in group[0] is exiting...
+parent ends
+Client[13] in group[0] is exiting...
+Client[51] in group[0] is exiting...
+Client[61] in group[0] is exiting...
+Client[48] in group[0] is exiting...
+Client[49] in group[0] is exiting...
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+Client[56] in group[0] is exiting...
+parent ends
+Client[22] in group[0] is exiting...
+parent ends
+parent ends
+Client[40] in group[0] is exiting...
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+Client[54] in group[0] is exiting...
+Client[20] in group[0] is exiting...
+parent ends
+Client[21] in group[0] is exiting...
+Client[29] in group[0] is exiting...
+Client[19] in group[0] is exiting...
+Client[25] in group[0] is exiting...
+Client[30] in group[0] is exiting...
+Client[47] in group[0] is exiting...
+parent ends
+Client[34] in group[0] is exiting...
+Client[35] in group[0] is exiting...
+Client[42] in group[0] is exiting...
+Client[36] in group[0] is exiting...
+Client[41] in group[0] is exiting...
+parent ends
+Client[26] in group[0] is exiting...
+Client[46] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+load ogb-paper100M
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 0 for part 0
+Server is waiting for connections on [172.31.20.34:30050]...
+Server (0) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+load ogb-paper100M
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 16 for part 1
+Server is waiting for connections on [172.31.25.229:30050]...
+Server (16) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+load ogb-paper100M
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 32 for part 2
+Server is waiting for connections on [172.31.20.203:30050]...
+Server (32) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+load ogb-paper100M
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 48 for part 3
+Server is waiting for connections on [172.31.16.179:30050]...
+Server (48) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 35 for part 2
+Server is waiting for connections on [172.31.20.203:30053]...
+Server (35) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 1 for part 0
+Server is waiting for connections on [172.31.20.34:30051]...
+Server (1) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 61 for part 3
+Server is waiting for connections on [172.31.16.179:30063]...
+Server (61) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 20 for part 1
+Server is waiting for connections on [172.31.25.229:30054]...
+Server (20) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 27 for part 1
+Server is waiting for connections on [172.31.25.229:30061]...
+Server (27) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 25 for part 1
+Server is waiting for connections on [172.31.25.229:30059]...
+Server (25) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 24 for part 1
+Server is waiting for connections on [172.31.25.229:30058]...
+Server (24) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 17 for part 1
+Server is waiting for connections on [172.31.25.229:30051]...
+Server (17) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 28 for part 1
+Server is waiting for connections on [172.31.25.229:30062]...
+Server (28) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 23 for part 1
+Server is waiting for connections on [172.31.25.229:30057]...
+Server (23) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 22 for part 1
+Server is waiting for connections on [172.31.25.229:30056]...
+Server (22) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 19 for part 1
+Server is waiting for connections on [172.31.25.229:30053]...
+Server (19) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 26 for part 1
+Server is waiting for connections on [172.31.25.229:30060]...
+Server (26) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 21 for part 1
+Server is waiting for connections on [172.31.25.229:30055]...
+Server (21) shutdown.
+Server is exiting...
+Client [634550] waits on 172.31.25.229:47135
+Machine (1) group (0) client (55) connect to server successfuly!
+Client[55] in group[0] is exiting...
+Client [634547] waits on 172.31.25.229:56969
+Machine (1) group (0) client (60) connect to server successfuly!
+Client[60] in group[0] is exiting...
+Client [634557] waits on 172.31.25.229:59979
+Machine (1) group (0) client (63) connect to server successfuly!
+Client[63] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 31 for part 1
+Server is waiting for connections on [172.31.25.229:30065]...
+Server (31) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 30 for part 1
+Server is waiting for connections on [172.31.25.229:30064]...
+Server (30) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 18 for part 1
+Server is waiting for connections on [172.31.25.229:30052]...
+Server (18) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 29 for part 1
+Server is waiting for connections on [172.31.25.229:30063]...
+Server (29) shutdown.
+Server is exiting...
+Client [634556] waits on 172.31.25.229:39929
+Machine (1) group (0) client (53) connect to server successfuly!
+Client[53] in group[0] is exiting...
+Client [634558] waits on 172.31.25.229:59567
+Machine (1) group (0) client (62) connect to server successfuly!
+Client[62] in group[0] is exiting...
+Client [634575] waits on 172.31.25.229:38105
+Machine (1) group (0) client (52) connect to server successfuly!
+Client[52] in group[0] is exiting...
+Client [634553] waits on 172.31.25.229:52721
+Machine (1) group (0) client (58) connect to server successfuly!
+Client[58] in group[0] is exiting...
+Client [634549] waits on 172.31.25.229:53447
+Machine (1) group (0) client (59) connect to server successfuly!
+Client[59] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 3 for part 0
+Server is waiting for connections on [172.31.20.34:30053]...
+Server (3) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 15 for part 0
+Server is waiting for connections on [172.31.20.34:30065]...
+Server (15) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 6 for part 0
+Server is waiting for connections on [172.31.20.34:30056]...
+Server (6) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 9 for part 0
+Server is waiting for connections on [172.31.20.34:30059]...
+Server (9) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 7 for part 0
+Server is waiting for connections on [172.31.20.34:30057]...
+Server (7) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 2 for part 0
+Server is waiting for connections on [172.31.20.34:30052]...
+Server (2) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 8 for part 0
+Server is waiting for connections on [172.31.20.34:30058]...
+Server (8) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 4 for part 0
+Server is waiting for connections on [172.31.20.34:30054]...
+Server (4) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 10 for part 0
+Server is waiting for connections on [172.31.20.34:30060]...
+Server (10) shutdown.
+Server is exiting...
+Client [1916837] waits on 172.31.20.34:49321
+Machine (0) group (0) client (39) connect to server successfuly!
+Client[39] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 12 for part 0
+Server is waiting for connections on [172.31.20.34:30062]...
+Server (12) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 14 for part 0
+Server is waiting for connections on [172.31.20.34:30064]...
+Server (14) shutdown.
+Server is exiting...
+Client [1916813] waits on 172.31.20.34:55749
+Machine (0) group (0) client (43) connect to server successfuly!
+Client[43] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 11 for part 0
+Server is waiting for connections on [172.31.20.34:30061]...
+Server (11) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 5 for part 0
+Server is waiting for connections on [172.31.20.34:30055]...
+Server (5) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 13 for part 0
+Server is waiting for connections on [172.31.20.34:30063]...
+Server (13) shutdown.
+Server is exiting...
+Client [1916817] waits on 172.31.20.34:57915
+Machine (0) group (0) client (45) connect to server successfuly!
+Client[45] in group[0] is exiting...
+Client [1916849] waits on 172.31.20.34:33009
+Machine (0) group (0) client (32) connect to server successfuly!
+Client[32] in group[0] is exiting...
+Client [1916828] waits on 172.31.20.34:57129
+Machine (0) group (0) client (44) connect to server successfuly!
+Client[44] in group[0] is exiting...
+Client [1916803] waits on 172.31.20.34:38871
+Machine (0) group (0) client (37) connect to server successfuly!
+Client[37] in group[0] is exiting...
+Client [1916820] waits on 172.31.20.34:34375
+Machine (0) group (0) client (33) connect to server successfuly!
+Client[33] in group[0] is exiting...
+Client [1916886] waits on 172.31.20.34:40293
+Machine (0) group (0) client (38) connect to server successfuly!
+Client[38] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 62 for part 3
+Server is waiting for connections on [172.31.16.179:30064]...
+Server (62) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 49 for part 3
+Server is waiting for connections on [172.31.16.179:30051]...
+Server (49) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 54 for part 3
+Server is waiting for connections on [172.31.16.179:30056]...
+Server (54) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 59 for part 3
+Server is waiting for connections on [172.31.16.179:30061]...
+Server (59) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 63 for part 3
+Server is waiting for connections on [172.31.16.179:30065]...
+Server (63) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 55 for part 3
+Server is waiting for connections on [172.31.16.179:30057]...
+Server (55) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 52 for part 3
+Server is waiting for connections on [172.31.16.179:30054]...
+Server (52) shutdown.
+Server is exiting...
+Client [612561] waits on 172.31.16.179:45695
+Machine (3) group (0) client (6) connect to server successfuly!
+Client[6] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 53 for part 3
+Server is waiting for connections on [172.31.16.179:30055]...
+Server (53) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 58 for part 3
+Server is waiting for connections on [172.31.16.179:30060]...
+Server (58) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 57 for part 3
+Server is waiting for connections on [172.31.16.179:30059]...
+Server (57) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 50 for part 3
+Server is waiting for connections on [172.31.16.179:30052]...
+Server (50) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 60 for part 3
+Server is waiting for connections on [172.31.16.179:30062]...
+Server (60) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 51 for part 3
+Server is waiting for connections on [172.31.16.179:30053]...
+Server (51) shutdown.
+Server is exiting...
+Client [612560] waits on 172.31.16.179:34169
+Machine (3) group (0) client (0) connect to server successfuly!
+Client[0] in group[0] is exiting...
+Client [612576] waits on 172.31.16.179:40087
+Machine (3) group (0) client (2) connect to server successfuly!
+Client[2] in group[0] is exiting...
+Client [612552] waits on 172.31.16.179:59713
+Machine (3) group (0) client (15) connect to server successfuly!
+Client[15] in group[0] is exiting...
+Client [612563] waits on 172.31.16.179:50541
+Machine (3) group (0) client (9) connect to server successfuly!
+Client[9] in group[0] is exiting...
+Client [612564] waits on 172.31.16.179:53723
+Machine (3) group (0) client (12) connect to server successfuly!
+Client[12] in group[0] is exiting...
+Client [612558] waits on 172.31.16.179:53475
+Machine (3) group (0) client (11) connect to server successfuly!
+Client[11] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 56 for part 3
+Server is waiting for connections on [172.31.16.179:30058]...
+Server (56) shutdown.
+Server is exiting...
+Client [612554] waits on 172.31.16.179:41027
+Machine (3) group (0) client (4) connect to server successfuly!
+Client[4] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 34 for part 2
+Server is waiting for connections on [172.31.20.203:30052]...
+Server (34) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 38 for part 2
+Server is waiting for connections on [172.31.20.203:30056]...
+Server (38) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 43 for part 2
+Server is waiting for connections on [172.31.20.203:30061]...
+Server (43) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 36 for part 2
+Server is waiting for connections on [172.31.20.203:30054]...
+Server (36) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 45 for part 2
+Server is waiting for connections on [172.31.20.203:30063]...
+Server (45) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 42 for part 2
+Server is waiting for connections on [172.31.20.203:30060]...
+Server (42) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 46 for part 2
+Server is waiting for connections on [172.31.20.203:30064]...
+Server (46) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 44 for part 2
+Server is waiting for connections on [172.31.20.203:30062]...
+Server (44) shutdown.
+Server is exiting...
+Client [607478] waits on 172.31.20.203:34245
+Machine (2) group (0) client (17) connect to server successfuly!
+Client[17] in group[0] is exiting...
+Client [607484] waits on 172.31.20.203:50105
+Machine (2) group (0) client (27) connect to server successfuly!
+Client[27] in group[0] is exiting...
+Client [607457] waits on 172.31.20.203:43025
+Machine (2) group (0) client (23) connect to server successfuly!
+Client[23] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 33 for part 2
+Server is waiting for connections on [172.31.20.203:30051]...
+Server (33) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 41 for part 2
+Server is waiting for connections on [172.31.20.203:30059]...
+Server (41) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 37 for part 2
+Server is waiting for connections on [172.31.20.203:30055]...
+Server (37) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 39 for part 2
+Server is waiting for connections on [172.31.20.203:30057]...
+Server (39) shutdown.
+Server is exiting...
+Client [607486] waits on 172.31.20.203:33151
+Machine (2) group (0) client (16) connect to server successfuly!
+Client[16] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 40 for part 2
+Server is waiting for connections on [172.31.20.203:30058]...
+Server (40) shutdown.
+Server is exiting...
+Client [607470] waits on 172.31.20.203:50883
+Machine (2) group (0) client (28) connect to server successfuly!
+Client[28] in group[0] is exiting...
+Client [607454] waits on 172.31.20.203:43481
+Machine (2) group (0) client (24) connect to server successfuly!
+Client[24] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.3, emb_cache_rate=0.2)
+start graph service on server 47 for part 2
+Server is waiting for connections on [172.31.20.203:30065]...
+Server (47) shutdown.
+Server is exiting...
+Client [607508] waits on 172.31.20.203:34371
+Machine (2) group (0) client (18) connect to server successfuly!
+Client[18] in group[0] is exiting...
+Client [607458] waits on 172.31.20.203:54521
+Machine (2) group (0) client (31) connect to server successfuly!
+Client[31] in group[0] is exiting...
+cleanup process runs

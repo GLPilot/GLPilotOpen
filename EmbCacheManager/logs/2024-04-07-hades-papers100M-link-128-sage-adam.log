@@ -1,0 +1,385 @@
+The number of OMP threads per trainer is set to 6
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+
+
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config='/home/ubuntu/workspace/datasets/papers100m_ud_4p/ogb-paper100M.json', num_gpus=8, num_epochs=10, num_hidden=256, fan_out='15,10,5', batch_size=1000, batch_size_eval=1000, log_every=20, eval_every=1, lr=0.001, dropout=0.2, model_num_hidden=256, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adam', model='sage', state_cache=False, train_edge_ratio=0.01, val_edge_ratio=0.01, test_edge_ratio=0.01, val_neg_edge_ratio=0.001, test_neg_edge_ratio=0.001, num_negs=1, remove_edge=False, infer_method='nodewise')
+Client [689292] waits on 172.31.20.203:53155
+Machine (2) group (0) client (28) connect to server successfuly!
+Client [689284] waits on 172.31.20.203:49167
+Client [689303] waits on 172.31.20.203:38355
+Client [689282] waits on 172.31.20.203:34825
+Machine (2) group (0) client (24) connect to server successfuly!
+Client [743412] waits on 172.31.25.229:55377
+Machine (1) group (0) client (61) connect to server successfuly!
+Client [386922] waits on 172.31.16.179:60637
+Client [743415] waits on 172.31.25.229:52389
+Client [386928] waits on 172.31.16.179:45249
+Client [386905] waits on 172.31.16.179:44153
+Machine (1) group (0) client (59) connect to server successfuly!
+Client [386902] waits on 172.31.16.179:53989
+Client [386911] waits on 172.31.16.179:57595
+Client [689285] waits on 172.31.20.203:42827
+Machine (2) group (0) client (20) connect to server successfuly!
+Client [386901] waits on 172.31.16.179:41145
+Client [386904] waits on 172.31.16.179:57921
+Client [689286] waits on 172.31.20.203:60067
+Client [743439] waits on 172.31.25.229:33487
+Client [743414] waits on 172.31.25.229:37161
+Client [689283] waits on 172.31.20.203:38969
+Client [2299108] waits on 172.31.20.34:40611
+Client [2299134] waits on 172.31.20.34:33505
+Client [2299107] waits on 172.31.20.34:41017
+Client [2299111] waits on 172.31.20.34:56817
+Client [2299128] waits on 172.31.20.34:59131
+Client [2299109] waits on 172.31.20.34:34929
+Client [743416] waits on 172.31.25.229:55347
+Client [2299110] waits on 172.31.20.34:51367
+Client [2299117] waits on 172.31.20.34:57557
+Machine (1) group (0) client (60) connect to server successfuly!
+Client [689309] waits on 172.31.20.203:58039
+Client [386903] waits on 172.31.16.179:40853
+Machine (2) group (0) client (17) connect to server successfuly!
+Machine (2) group (0) client (16) connect to server successfuly!
+Machine (2) group (0) client (31) connect to server successfuly!
+Machine (1) group (0) client (50) connect to server successfuly!
+Client [743428] waits on 172.31.25.229:37773
+Machine (1) group (0) client (51) connect to server successfuly!
+Client [743422] waits on 172.31.25.229:40741
+Machine (1) group (0) client (55) connect to server successfuly!
+Client [743413] waits on 172.31.25.229:45897
+Machine (1) group (0) client (57) connect to server successfuly!
+Machine (3) group (0) client (4) connect to server successfuly!
+Machine (3) group (0) client (6) connect to server successfuly!
+Machine (3) group (0) client (10) connect to server successfuly!
+Machine (3) group (0) client (11) connect to server successfuly!
+Machine (3) group (0) client (5) connect to server successfuly!
+Machine (3) group (0) client (12) connect to server successfuly!
+Machine (3) group (0) client (15) connect to server successfuly!
+Machine (1) group (0) client (48) connect to server successfuly!
+Machine (2) group (0) client (18) connect to server successfuly!
+Machine (2) group (0) client (29) connect to server successfuly!
+Machine (3) group (0) client (3) connect to server successfuly!
+Machine (0) group (0) client (45) connect to server successfuly!Machine (0) group (0) client (38) connect to server successfuly!Machine (0) group (0) client (37) connect to server successfuly!
+
+
+Machine (0) group (0) client (40) connect to server successfuly!
+Machine (0) group (0) client (32) connect to server successfuly!
+Machine (0) group (0) client (44) connect to server successfuly!
+Machine (0) group (0) client (47) connect to server successfuly!
+Machine (0) group (0) client (33) connect to server successfuly!
+rank: 1
+rank: 7
+rank: 24
+rank: 14
+rank: 12
+rank: 25
+rank: 13
+rank: 18
+rank: 5
+rank: 19
+rank: 6
+rank: 27
+rank: 26
+rank:rank:  2122
+
+rank: rank: 0
+9
+rank: 15
+rank: 28
+rank: 11
+rank: 4
+rank: 3
+rank: 8
+rank: 23
+rank: 10
+rank: 2
+rank: 16
+rank: 29
+rank: 30
+rank: 17
+rank: 20
+rank: 31
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])
+Train mask: tensor([False, False, False,  ..., False, False, False])
+Valid mask: tensor([False, False, False,  ..., False, False, False])
+Test mask: tensor([False, False, False,  ..., False, False, False])
+Val neg src: tensor([51191917, 91700932, 12566585,  ..., 27951448, 85332371, 21592707])
+Val neg dst: tensor([50503735,  2852002, 64323044,  ..., 89201539, 21733867, 15464969])
+Test neg src: tensor([69695159, 42203585, 41312688,  ..., 10819044, 85025110, 42541608])
+Test neg dst: tensor([ 27450970, 109777125,  52534806,  ...,  49389206,  24923107,
+         19450896])

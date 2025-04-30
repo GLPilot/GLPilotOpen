@@ -1,0 +1,1409 @@
+The number of OMP threads per trainer is set to 6
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=128, model_num_hidden=1024, fan_out='5,10,15', batch_size=1000, batch_size_eval=50000, log_every=20, eval_every=1, lr=0.001, dropout=0.1, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1)
+Client [211530] waits on 172.31.25.229:60263
+Client [211539] waits on 172.31.25.229:59977
+Client [211533] waits on 172.31.25.229:59003
+Client [211531] waits on 172.31.25.229:54723
+Client [652755] waits on 172.31.20.34:51461
+Client [652783] waits on 172.31.20.34:58389
+Client [652772] waits on 172.31.20.34:54213
+Client [652760] waits on 172.31.20.34:49329
+Client [652766] waits on 172.31.20.34:39149
+Client [652789] waits on 172.31.20.34:38787
+Client [652759] waits on 172.31.20.34:34531
+Client [204875] waits on 172.31.20.203:60203
+Client [204854] waits on 172.31.20.203:57341
+Client [204855] waits on 172.31.20.203:35641
+Client [204857] waits on 172.31.20.203:39625
+Client [204858] waits on 172.31.20.203:39901
+Client [204856] waits on 172.31.20.203:39279
+Client [204864] waits on 172.31.20.203:47035
+Client [204881] waits on 172.31.20.203:50471
+Client [652758] waits on 172.31.20.34:59889
+Client [212373] waits on 172.31.24.75:39409
+Client [212374] waits on 172.31.24.75:38149
+Client [212370] waits on 172.31.24.75:48479
+Client [212372] waits on 172.31.24.75:49605
+Client [212402] waits on 172.31.24.75:58461
+Client [212371] waits on 172.31.24.75:58385
+Client [212380] waits on 172.31.24.75:59373
+Client [212391] waits on 172.31.24.75:60995
+Client [211532] waits on 172.31.25.229:33977
+Client [211550] waits on 172.31.25.229:43911
+Client [211529] waits on 172.31.25.229:35109
+Client [211561] waits on 172.31.25.229:48439
+Machine (2) group (0) client (0) connect to server successfuly!
+Machine (2) group (0) client (3) connect to server successfuly!
+Machine (2) group (0) client (4) connect to server successfuly!
+Machine (2) group (0) client (7) connect to server successfuly!
+Machine (2) group (0) client (2) connect to server successfuly!
+Machine (2) group (0) client (10) connect to server successfuly!
+Machine (0) group (0) client (17) connect to server successfuly!
+Machine (2) group (0) client (15) connect to server successfuly!
+Machine (2) group (0) client (13) connect to server successfuly!
+Machine (0) group (0) client (19) connect to server successfuly!
+Machine (0) group (0) client (20) connect to server successfuly!
+Machine (0) group (0) client (24) connect to server successfuly!
+Machine (0) group (0) client (25) connect to server successfuly!
+Machine (0) group (0) client (26) connect to server successfuly!
+Machine (0) group (0) client (28) connect to server successfuly!Machine (0) group (0) client (29) connect to server successfuly!
+
+Machine (3) group (0) client (35) connect to server successfuly!
+Machine (3) group (0) client (34) connect to server successfuly!
+Machine (3) group (0) client (41) connect to server successfuly!
+Machine (3) group (0) client (43) connect to server successfuly!
+Machine (3) group (0) client (47) connect to server successfuly!Machine (3) group (0) client (44) connect to server successfuly!
+
+Machine (1) group (0) client (48) connect to server successfuly!
+Machine (3) group (0) client (45) connect to server successfuly!
+Machine (3) group (0) client (40) connect to server successfuly!
+Machine (1) group (0) client (50) connect to server successfuly!
+Machine (1) group (0) client (54) connect to server successfuly!
+Machine (1) group (0) client (57) connect to server successfuly!
+Machine (1) group (0) client (60) connect to server successfuly!
+Machine (1) group (0) client (61) connect to server successfuly!
+Machine (1) group (0) client (63) connect to server successfuly!
+Machine (1) group (0) client (62) connect to server successfuly!
+rank: 2
+rank: 6
+rank: 10
+rank: 7
+rank: 26
+rank: 25
+rank: 17
+rank: 1
+rank: 28rank: 
+16
+rank: 13
+rank: 30
+rank: 29
+rank: 20
+rank: 15
+rank: 0
+rank: 18
+rank: 23
+rank: 22rank: 
+4
+rank: 11
+rank: rank: 8
+rank: 3
+12
+rank: 31
+rank: 24
+rank: 5
+rank: 9
+rank:rank: 14
+ 27
+rank: 19
+rank: 21
+part 0, train: 37724 (local: 32897), val: 3915 (local: 3229), test: 6698 (local: 5132)
+part 5, train: 37724 (local: 32931), val: 3914 (local: 3197), test: 6698 (local: 5181)
+part 2, train: 37725 (local: 32932), val: 3915 (local: 3215), test: 6699 (local: 5201)
+part 7, train: 37725 (local: 32912), val: 3915 (local: 3241), test: 6698 (local: 5225)
+part 13, train: 37724 (local: 34479), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 1, train: 37724 (local: 32870), val: 3914 (local: 3224), test: 6698 (local: 5176)
+part 3, train: 37724 (local: 32809), val: 3915 (local: 3258), test: 6698 (local: 5205)
+part 11, train: 37725 (local: 34558), val: 3915 (local: 3915), test: 6699 (local: 6699)
+part 9, train: 37724 (local: 34545), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 14, train: 37725 (local: 34493), val: 3915 (local: 3915), test: 6698 (local: 6698)
+part 6, train: 37724 (local: 33002), val: 3914 (local: 3189), test: 6698 (local: 5113)
+part 4, train: 37725 (local: 32901), val: 3915 (local: 3205), test: 6698 (local: 5163)
+part 8, train: 37725 (local: 34419), val: 3915 (local: 3915), test: 6698 (local: 6698)
+part 10, train: 37724 (local: 34514), val: 3914 (local: 3914), test: 6698 (local: 6698)
+#labels: 172
+part 29, train: 37724 (local: 37724), val: 3914 (local: 2824), test: 6698 (local: 4559)
+part 28, train: 37725 (local: 37725), val: 3915 (local: 2753), test: 6698 (local: 4504)
+part 30, train: 37724 (local: 37724), val: 3914 (local: 2762), test: 6698 (local: 4573)
+part 12, train: 37724 (local: 34478), val: 3914 (local: 3914), test: 6698 (local: 6698)
+#labels: 172
+part 15, train: 37724 (local: 34621), val: 3915 (local: 3915), test: 6698 (local: 6698)
+#labels: 172
+part 26, train: 37724 (local: 37724), val: 3915 (local: 2755), test: 6698 (local: 4600)
+part 25, train: 37724 (local: 37724), val: 3914 (local: 2779), test: 6698 (local: 4549)
+#labels: 172
+part 31, train: 37724 (local: 37724), val: 3914 (local: 2724), test: 6698 (local: 4557)
+part 16, train: 37724 (local: 36111), val: 3914 (local: 1726), test: 6698 (local: 2552)
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+part 22, train: 37724 (local: 36071), val: 3914 (local: 1790), test: 6698 (local: 2499)
+#labels: 172
+#labels: 172
+part 18, train: 37725 (local: 36084), val: 3915 (local: 1685), test: 6698 (local: 2482)
+part 17, train: 37725 (local: 36159), val: 3915 (local: 1708), test: 6698 (local: 2525)
+#labels: 172
+#labels: 172
+part 19, train: 37725 (local: 36136), val: 3915 (local: 1810), test: 6698 (local: 2503)
+#labels: 172
+part 20, train: 37724 (local: 36170), val: 3915 (local: 1765), test: 6698 (local: 2489)
+part 27, train: 37725 (local: 37725), val: 3915 (local: 2789), test: 6698 (local: 4540)
+part 21, train: 37724 (local: 36075), val: 3914 (local: 1725), test: 6698 (local: 2487)
+#labels: 172
+part 23, train: 37724 (local: 36158), val: 3914 (local: 1736), test: 6698 (local: 2472)
+part 24, train: 37724 (local: 37724), val: 3915 (local: 2756), test: 6698 (local: 4510)
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+#hot_nodes = 990671
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+#hot_nodes = 990671
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+#hot_nodes = 990671
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 5 build_connection start.
+Client 5 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 6 build_connection start.
+Client 6 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 1 build_connection start.
+Client 4 build_connection start.
+Client 1 build_connection succeed.
+Client 4 build_connection succeed.
+Client 6 build_connection start.
+Client 6 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 5 build_connection start.
+Client 5 build_connection succeed.
+Client 6 build_connection start.
+Client 6 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 6 build_connection start.
+Client 6 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 5 build_connection start.
+Client 5 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 5 build_connection start.
+Client 5 build_connection succeed.
+Client register_cache succeed.Client register_cache succeed.
+
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.Client register_cache succeed.
+
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.Client register_cache succeed.
+
+Client register_cache succeed.Client register_cache succeed.
+
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.Client register_cache succeed.
+
+Client register_cache succeed.
+Client register_cache succeed.Client register_cache succeed.
+
+Client register_cache succeed.
+========================================
+Rank 2 builds state cache in GPU
+GPU alloca_mem_size 11.833 GB
+Local node num 3261546
+GPU cached node num 3261546
+GPU cache size 3.317 GB
+========================================
+
+========================================
+Rank 1 builds state cache in GPU
+GPU alloca_mem_size 11.835 GB
+Local node num 3261546
+GPU cached node num 3261546
+GPU cache size 3.317 GB
+========================================
+
+Part 26 | Epoch 00000 | Step 00000 | Loss 5.7233 | Train Acc 0.0010 | Speed (samples/sec) nan | GPU 4329.5 MB | time 6.203 s
+========================================
+Rank 5 builds state cache in GPU
+GPU alloca_mem_size 11.856 GB
+Local node num 3261546
+GPU cached node num 3261546
+GPU cache size 3.317 GB
+========================================
+
+========================================
+Rank 5 builds state cache in GPU
+GPU alloca_mem_size 11.674 GB
+Local node num 3383985
+GPU cached node num 3383985
+GPU cache size 3.442 GB
+========================================
+
+Part 25 | Epoch 00000 | Step 00000 | Loss 5.7892 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 4338.1 MB | time 6.221 s
+Part 29 | Epoch 00000 | Step 00000 | Loss 5.7597 | Train Acc 0.0010 | Speed (samples/sec) nan | GPU 4328.7 MB | time 6.235 s
+Part 5 | Epoch 00000 | Step 00000 | Loss 5.8039 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 4585.4 MB | time 6.237 s
+========================================
+Rank 3 builds state cache in GPU
+GPU alloca_mem_size 11.667 GB
+Local node num 3383986
+GPU cached node num 3383986
+GPU cache size 3.442 GB
+========================================
+
+Part 3 | Epoch 00000 | Step 00000 | Loss 5.8407 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 4588.7 MB | time 6.278 s
+========================================
+Rank 0 builds state cache in GPU
+GPU alloca_mem_size 11.660 GB
+Local node num 3383986
+GPU cached node num 3383986
+GPU cache size 3.442 GB
+========================================
+
+========================================
+Rank 0 builds state cache in GPU
+GPU alloca_mem_size 11.834 GB
+Local node num 3261546
+GPU cached node num 3261546
+GPU cache size 3.317 GB
+========================================
+
+Part 0 | Epoch 00000 | Step 00000 | Loss 5.7935 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 4585.2 MB | time 6.392 s
+Part 24 | Epoch 00000 | Step 00000 | Loss 5.7368 | Train Acc 0.0010 | Speed (samples/sec) nan | GPU 4330.7 MB | time 6.414 s
+========================================
+Rank 2 builds state cache in GPU
+GPU alloca_mem_size 11.644 GB
+Local node num 3618481
+GPU cached node num 3618481
+GPU cache size 3.680 GB
+========================================
+
+========================================
+Rank 2 builds state cache in GPU
+GPU alloca_mem_size 11.736 GB
+Local node num 3618482
+GPU cached node num 3618482
+GPU cache size 3.680 GB
+========================================
+
+========================================
+Rank 4 builds state cache in GPU
+GPU alloca_mem_size 11.640 GB
+Local node num 3383985
+GPU cached node num 3383985
+GPU cache size 3.442 GB
+========================================
+
+========================================
+Rank 1 builds state cache in GPU
+GPU alloca_mem_size 11.742 GB
+Local node num 3618482
+GPU cached node num 3618482
+GPU cache size 3.680 GB
+========================================
+
+Part 4 | Epoch 00000 | Step 00000 | Loss 5.7772 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 4606.0 MB | time 6.476 s
+========================================
+Rank 3 builds state cache in GPU
+GPU alloca_mem_size 11.824 GB
+Local node num 3261546
+GPU cached node num 3261546
+GPU cache size 3.317 GB
+========================================
+
+Part 10 | Epoch 00000 | Step 00000 | Loss 5.6926 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 4909.4 MB | time 6.468 s
+========================================
+Rank 6 builds state cache in GPU
+GPU alloca_mem_size 11.681 GB
+Local node num 3383985
+GPU cached node num 3383985
+GPU cache size 3.442 GB
+========================================
+
+Part 18 | Epoch 00000 | Step 00000 | Loss 5.5405 | Train Acc 0.0100 | Speed (samples/sec) nan | GPU 4851.7 MB | time 6.485 sPart 17 | Epoch 00000 | Step 00000 | Loss 5.5115 | Train Acc 0.0130 | Speed (samples/sec) nan | GPU 4855.5 MB | time 6.491 s
+
+========================================
+Rank 7 builds state cache in GPU
+GPU alloca_mem_size 11.813 GB
+Local node num 3261546
+GPU cached node num 3261546
+GPU cache size 3.317 GB
+========================================
+
+========================================
+Rank 4 builds state cache in GPU
+GPU alloca_mem_size 11.849 GB
+Local node num 3261546
+GPU cached node num 3261546
+GPU cache size 3.317 GB
+========================================
+
+========================================
+Rank 6 builds state cache in GPU
+GPU alloca_mem_size 11.833 GB
+Local node num 3261546
+GPU cached node num 3261546
+GPU cache size 3.317 GB
+========================================
+
+Part 27 | Epoch 00000 | Step 00000 | Loss 5.7236 | Train Acc 0.0070 | Speed (samples/sec) nan | GPU 4339.9 MB | time 6.533 s
+Part 6 | Epoch 00000 | Step 00000 | Loss 5.7559 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 4583.9 MB | time 6.539 s
+Part 31 | Epoch 00000 | Step 00000 | Loss 5.7458 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 4348.1 MB | time 6.552 s
+Part 28 | Epoch 00000 | Step 00000 | Loss 5.7247 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 4328.6 MB | time 6.565 s
+Part 30 | Epoch 00000 | Step 00000 | Loss 5.7168 | Train Acc 0.0030 | Speed (samples/sec) nan | GPU 4333.8 MB | time 6.569 s
+========================================
+Rank 2 builds state cache in GPU
+GPU alloca_mem_size 11.694 GB
+Local node num 3383986
+GPU cached node num 3383986
+GPU cache size 3.442 GB
+========================================
+
+========================================
+Rank 6 builds state cache in GPU
+GPU alloca_mem_size 11.733 GB
+Local node num 3618482
+GPU cached node num 3618482
+GPU cache size 3.680 GB
+========================================
+
+Part 2 | Epoch 00000 | Step 00000 | Loss 5.7852 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 4590.1 MB | time 6.629 s
+========================================
+Rank 0 builds state cache in GPU
+GPU alloca_mem_size 11.637 GB
+Local node num 3618481
+GPU cached node num 3618481
+GPU cache size 3.680 GB
+========================================
+
+Part 22 | Epoch 00000 | Step 00000 | Loss 5.5212 | Train Acc 0.0110 | Speed (samples/sec) nan | GPU 4866.0 MB | time 6.655 s
+========================================
+Rank 7 builds state cache in GPU
+GPU alloca_mem_size 11.639 GB
+Local node num 3383985
+GPU cached node num 3383985
+GPU cache size 3.442 GB
+========================================
+
+Part 8 | Epoch 00000 | Step 00000 | Loss 5.6328 | Train Acc 0.0030 | Speed (samples/sec) nan | GPU 4908.1 MB | time 6.667 s
+========================================
+Rank 1 builds state cache in GPU
+GPU alloca_mem_size 11.674 GB
+Local node num 3383986
+GPU cached node num 3383986
+GPU cache size 3.442 GB
+========================================
+
+========================================
+Rank 5 builds state cache in GPU
+GPU alloca_mem_size 11.662 GB
+Local node num 3618482
+GPU cached node num 3618482
+GPU cache size 3.680 GB
+========================================
+
+Part 7 | Epoch 00000 | Step 00000 | Loss 5.8394 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 4607.0 MB | time 6.695 s
+Part 1 | Epoch 00000 | Step 00000 | Loss 5.7716 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 4586.7 MB | time 6.701 s
+Part 13 | Epoch 00000 | Step 00000 | Loss 5.6317 | Train Acc 0.0080 | Speed (samples/sec) nan | GPU 4898.2 MB | time 6.725 s
+========================================
+Rank 0 builds state cache in GPU
+GPU alloca_mem_size 11.764 GB
+Local node num 3618482
+GPU cached node num 3618482
+GPU cache size 3.680 GB
+========================================
+
+========================================
+Rank 6 builds state cache in GPU
+GPU alloca_mem_size 11.645 GB
+Local node num 3618481
+GPU cached node num 3618481
+GPU cache size 3.680 GB
+========================================
+
+========================================
+Rank 5 builds state cache in GPU
+GPU alloca_mem_size 11.771 GB
+Local node num 3618481
+GPU cached node num 3618481
+GPU cache size 3.680 GB
+========================================
+
+========================================
+Rank 7 builds state cache in GPU
+GPU alloca_mem_size 11.719 GB
+Local node num 3618482
+GPU cached node num 3618482
+GPU cache size 3.680 GB
+========================================
+
+Part 16 | Epoch 00000 | Step 00000 | Loss 5.4631 | Train Acc 0.0170 | Speed (samples/sec) nan | GPU 4843.8 MB | time 6.771 s
+Part 14 | Epoch 00000 | Step 00000 | Loss 5.6504 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 4904.3 MB | time 6.772 s
+Part 21 | Epoch 00000 | Step 00000 | Loss 5.5538 | Train Acc 0.0090 | Speed (samples/sec) nan | GPU 4844.3 MB | time 6.780 s
+Part 23 | Epoch 00000 | Step 00000 | Loss 5.5556 | Train Acc 0.0050 | Speed (samples/sec) nan | GPU 4868.4 MB | time 6.794 s
+========================================
+Rank 1 builds state cache in GPU
+GPU alloca_mem_size 11.661 GB
+Local node num 3618481
+GPU cached node num 3618481
+GPU cache size 3.680 GB
+========================================
+
+Part 9 | Epoch 00000 | Step 00000 | Loss 5.6851 | Train Acc 0.0070 | Speed (samples/sec) nan | GPU 4902.2 MB | time 6.897 s
+========================================
+Rank 4 builds state cache in GPU
+GPU alloca_mem_size 11.607 GB
+Local node num 3618482
+GPU cached node num 3618482
+GPU cache size 3.680 GB
+========================================
+
+========================================
+Rank 3 builds state cache in GPU
+GPU alloca_mem_size 11.644 GB
+Local node num 3618481
+GPU cached node num 3618481
+GPU cache size 3.680 GB
+========================================
+
+Part 12 | Epoch 00000 | Step 00000 | Loss 5.6491 | Train Acc 0.0040 | Speed (samples/sec) nan | GPU 4919.3 MB | time 6.952 s
+Part 11 | Epoch 00000 | Step 00000 | Loss 5.6338 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 4909.2 MB | time 6.960 s
+========================================
+Rank 3 builds state cache in GPU
+GPU alloca_mem_size 11.731 GB
+Local node num 3618482
+GPU cached node num 3618482
+GPU cache size 3.680 GB
+========================================
+
+Part 19 | Epoch 00000 | Step 00000 | Loss 5.4814 | Train Acc 0.0200 | Speed (samples/sec) nan | GPU 4867.5 MB | time 7.046 s
+========================================
+Rank 7 builds state cache in GPU
+GPU alloca_mem_size 11.662 GB
+Local node num 3618481
+GPU cached node num 3618481
+GPU cache size 3.680 GB
+========================================
+
+Part 15 | Epoch 00000 | Step 00000 | Loss 5.6600 | Train Acc 0.0020 | Speed (samples/sec) nan | GPU 4898.4 MB | time 7.153 s
+========================================
+Rank 4 builds state cache in GPU
+GPU alloca_mem_size 11.759 GB
+Local node num 3618481
+GPU cached node num 3618481
+GPU cache size 3.680 GB
+========================================
+
+Part 20 | Epoch 00000 | Step 00000 | Loss 5.4593 | Train Acc 0.0110 | Speed (samples/sec) nan | GPU 4845.6 MB | time 7.843 s
+Part 20 | Epoch 00000 | Step 00020 | Loss 4.0882 | Train Acc 0.0740 | Speed (samples/sec) 1047.5675 | GPU 6304.9 MB | time 19.072 s
+Part 19 | Epoch 00000 | Step 00020 | Loss 4.0489 | Train Acc 0.0720 | Speed (samples/sec) 1047.5577 | GPU 6297.6 MB | time 19.868 s
+Part 12 | Epoch 00000 | Step 00020 | Loss 4.5804 | Train Acc 0.0640 | Speed (samples/sec) 1047.5498 | GPU 6406.4 MB | time 19.965 s
+Part 9 | Epoch 00000 | Step 00020 | Loss 4.6777 | Train Acc 0.0540 | Speed (samples/sec) 1047.5635 | GPU 6414.9 MB | time 20.020 s
+Part 15 | Epoch 00000 | Step 00020 | Loss 4.6225 | Train Acc 0.0500 | Speed (samples/sec) 1047.5609 | GPU 6424.7 MB | time 19.764 s
+Part 23 | Epoch 00000 | Step 00020 | Loss 3.9830 | Train Acc 0.0860 | Speed (samples/sec) 1047.5805 | GPU 6278.9 MB | time 20.121 s
+Part 14 | Epoch 00000 | Step 00020 | Loss 4.4749 | Train Acc 0.0670 | Speed (samples/sec) 1047.5698 | GPU 6430.3 MB | time 20.142 s
+Part 22 | Epoch 00000 | Step 00020 | Loss 4.0063 | Train Acc 0.0830 | Speed (samples/sec) 1047.5654 | GPU 6289.8 MB | time 20.262 s
+Part 8 | Epoch 00000 | Step 00020 | Loss 4.5494 | Train Acc 0.0810 | Speed (samples/sec) 1047.5841 | GPU 6409.8 MB | time 20.249 s
+Part 21 | Epoch 00000 | Step 00020 | Loss 4.0289 | Train Acc 0.0730 | Speed (samples/sec) 1047.5775 | GPU 6308.9 MB | time 20.137 s
+Part 13 | Epoch 00000 | Step 00020 | Loss 4.6114 | Train Acc 0.0590 | Speed (samples/sec) 1047.5953 | GPU 6411.6 MB | time 20.190 sPart 10 | Epoch 00000 | Step 00020 | Loss 4.6353 | Train Acc 0.0580 | Speed (samples/sec) 1047.5963 | GPU 6430.6 MB | time 20.426 s
+
+Part 18 | Epoch 00000 | Step 00020 | Loss 3.9972 | Train Acc 0.0780 | Speed (samples/sec) 1047.5578 | GPU 6313.9 MB | time 20.406 s
+Part 11 | Epoch 00000 | Step 00020 | Loss 4.5563 | Train Acc 0.0620 | Speed (samples/sec) 1047.5601 | GPU 6432.5 MB | time 19.955 s
+Part 27 | Epoch 00000 | Step 00020 | Loss 3.1666 | Train Acc 0.3970 | Speed (samples/sec) 1047.6400 | GPU 5718.3 MB | time 20.383 sPart 31 | Epoch 00000 | Step 00020 | Loss 3.2229 | Train Acc 0.3760 | Speed (samples/sec) 1047.5411 | GPU 5718.8 MB | time 20.366 s
+
+Part 24 | Epoch 00000 | Step 00020 | Loss 3.1976 | Train Acc 0.3890 | Speed (samples/sec) 1047.5458 | GPU 5719.2 MB | time 20.505 s
+Part 28 | Epoch 00000 | Step 00020 | Loss 3.2083 | Train Acc 0.3840 | Speed (samples/sec) 1047.5681 | GPU 5700.9 MB | time 20.352 s
+Part 30 | Epoch 00000 | Step 00020 | Loss 3.2422 | Train Acc 0.3740 | Speed (samples/sec) 1047.5676 | GPU 5705.7 MB | time 20.347 s
+Part 0 | Epoch 00000 | Step 00020 | Loss 4.0979 | Train Acc 0.2020 | Speed (samples/sec) 1047.6178 | GPU 6097.4 MB | time 20.522 s
+Part 1 | Epoch 00000 | Step 00020 | Loss 4.2287 | Train Acc 0.1760 | Speed (samples/sec) 1047.5929 | GPU 6113.6 MB | time 20.215 sPart 2 | Epoch 00000 | Step 00020 | Loss 4.1279 | Train Acc 0.1910 | Speed (samples/sec) 1047.5728 | GPU 6095.6 MB | time 20.288 s
+
+Part 4 | Epoch 00000 | Step 00020 | Loss 4.1783 | Train Acc 0.1930 | Speed (samples/sec) 1047.6153 | GPU 6117.2 MB | time 20.438 s
+Part 6 | Epoch 00000 | Step 00020 | Loss 4.1300 | Train Acc 0.2020 | Speed (samples/sec) 1047.5865 | GPU 6115.7 MB | time 20.376 s
+Part 7 | Epoch 00000 | Step 00020 | Loss 4.2083 | Train Acc 0.1790 | Speed (samples/sec) 1047.5783 | GPU 6100.8 MB | time 20.222 s
+Part 3 | Epoch 00000 | Step 00020 | Loss 4.1901 | Train Acc 0.1880 | Speed (samples/sec) 1047.6190 | GPU 6135.5 MB | time 20.637 s
+Part 5 | Epoch 00000 | Step 00020 | Loss 4.1328 | Train Acc 0.1840 | Speed (samples/sec) 1047.6204 | GPU 6103.1 MB | time 20.679 s
+Part 16 | Epoch 00000 | Step 00020 | Loss 4.0284 | Train Acc 0.0680 | Speed (samples/sec) 1047.5542 | GPU 6292.6 MB | time 20.145 s
+Part 25 | Epoch 00000 | Step 00020 | Loss 3.1877 | Train Acc 0.3920 | Speed (samples/sec) 1047.5949 | GPU 5715.7 MB | time 20.696 s
+Part 29 | Epoch 00000 | Step 00020 | Loss 3.2589 | Train Acc 0.3760 | Speed (samples/sec) 1047.5957 | GPU 5695.6 MB | time 20.681 s
+Part 26 | Epoch 00000 | Step 00020 | Loss 3.2469 | Train Acc 0.3670 | Speed (samples/sec) 1047.5941 | GPU 5704.1 MB | time 20.712 s
+Part 17 | Epoch 00000 | Step 00020 | Loss 3.9993 | Train Acc 0.0730 | Speed (samples/sec) 1047.4365 | GPU 6278.2 MB | time 20.408 s
+=====================
+Part 0, Epoch Time(s): 42.1742
+Sampling Time(s): 0.9583
+Loading Time(s): 14.1848
+Forward Time(s): 6.6315
+Backward Time(s): 4.4145
+Update Time(s): 0.0946
+Emb Update Time(s): 15.8604
+#seeds: 37724
+#inputs: 17043528
+==========================================
+Part 5, Epoch Time(s): 42.1736
+Sampling Time(s): 0.9885
+Loading Time(s): 13.7904
+Forward Time(s): 7.1164
+Backward Time(s): 4.4303
+Update Time(s): 0.0965
+Emb Update Time(s): 15.7221
+#seeds: 37724
+#inputs: 17114674
+=====================
+
+=====================
+Part 1, Epoch Time(s): 42.1738
+Sampling Time(s): 0.9988
+Loading Time(s): 14.3896
+Forward Time(s): 6.0240
+Backward Time(s): 4.4673
+Update Time(s): 0.1134
+Emb Update Time(s): 16.1521
+#seeds: 37724
+#inputs: 17130084
+=====================Start eval=====================
+Part 2, Epoch Time(s): 42.1750
+Sampling Time(s): 0.9732
+Loading Time(s): 14.5086
+Forward Time(s): 6.2098
+Backward Time(s): 4.2612
+Update Time(s): 0.0957
+Emb Update Time(s): 16.0982
+#seeds: 37725
+#inputs: 17018908
+=====================Start eval
+
+
+
+Start eval
+=====================
+Part 6, Epoch Time(s): 42.1749
+Sampling Time(s): 0.9952
+Loading Time(s): 15.0762
+Forward Time(s): 5.7553
+Backward Time(s): 4.2028
+Update Time(s): 0.1065
+Emb Update Time(s): 16.0093
+#seeds: 37724
+#inputs: 17071304
+==========================================
+Part 3, Epoch Time(s): 42.1743
+Sampling Time(s): 0.9809
+Loading Time(s): 13.6281
+Forward Time(s): 7.2740
+Backward Time(s): 4.4101
+Update Time(s): 0.1107
+Emb Update Time(s): 15.7398
+#seeds: 37724
+#inputs: 17153039
+==========================================
+Part 7, Epoch Time(s): 42.1749
+Sampling Time(s): 1.0280
+Loading Time(s): 13.9025
+Forward Time(s): 6.9092
+Backward Time(s): 4.0352
+Update Time(s): 0.1149
+Emb Update Time(s): 16.1568
+#seeds: 37725
+#inputs: 17063507
+=====================Start eval
+
+
+
+Start evalStart eval
+
+=====================
+Part 4, Epoch Time(s): 42.1749
+Sampling Time(s): 0.9759
+Loading Time(s): 13.6219
+Forward Time(s): 7.1075
+Backward Time(s): 4.3831
+Update Time(s): 0.1073
+Emb Update Time(s): 15.9486
+#seeds: 37725
+#inputs: 17135234
+=====================model.module() 5model.module() 1
+
+model.module() 2Start eval
+
+
+model.eval() 1model.eval() 5
+
+Start eval
+model.eval() 2
+model.module() 0
+model.module() 6
+model.module() 3model.eval() 0
+
+model.eval() 6
+model.eval() 3
+model.module() 4
+model.module() 7
+model.eval() 4
+model.eval() 7
+emb_layer.eval() 1
+load_embs 1
+dgl.distributed.node_split 1emb_layer.eval() 0
+
+emb_layer.eval() 5emb_layer.eval() 2
+
+emb_layer.eval() 6
+load_embs 5load_embs 0emb_layer.eval() 3load_embs 2
+
+
+
+dgl.distributed.node_split 5dgl.distributed.node_split 0
+
+dgl.distributed.node_split 2
+emb_layer.eval() 7
+load_embs 6
+load_embs 3
+dgl.distributed.node_split 6
+dgl.distributed.node_split 3
+=====================
+Part 19, Epoch Time(s): 42.1736
+Sampling Time(s): 1.0361
+Loading Time(s): 11.4158
+Forward Time(s): 8.6308
+Backward Time(s): 4.4450
+Update Time(s): 0.1461
+Emb Update Time(s): 16.4720
+#seeds: 37725
+#inputs: 17149340
+=====================
+=====================
+Part 16, Epoch Time(s): 42.1739
+Sampling Time(s): 1.0544
+Loading Time(s): 11.5221
+Forward Time(s): 8.8318
+Backward Time(s): 4.4033
+Update Time(s): 0.1501
+Emb Update Time(s): 16.1838
+#seeds: 37724
+#inputs: 17148965
+==========================================
+Part 20, Epoch Time(s): 42.1738
+Sampling Time(s): 0.9707
+Loading Time(s): 12.0741
+Forward Time(s): 7.2506
+Backward Time(s): 4.4349
+Update Time(s): 0.1486
+Emb Update Time(s): 17.2680
+#seeds: 37724
+#inputs: 17130698
+==========================================
+Part 18, Epoch Time(s): 42.1735
+Sampling Time(s): 0.8911
+Loading Time(s): 10.8126
+Forward Time(s): 9.9758
+Backward Time(s): 4.3881
+Update Time(s): 0.1470
+Emb Update Time(s): 15.9073
+#seeds: 37725
+#inputs: 17194490
+=====================Start eval
+=====================
+Part 22, Epoch Time(s): 42.1739
+Sampling Time(s): 0.9186
+Loading Time(s): 12.2655
+Forward Time(s): 8.3548
+Backward Time(s): 4.3770
+Update Time(s): 0.1476
+Emb Update Time(s): 16.0846
+#seeds: 37724
+#inputs: 17139037
+=====================
+
+
+
+=====================
+Part 17, Epoch Time(s): 42.1737
+Sampling Time(s): 0.9654
+Loading Time(s): 11.6843
+Forward Time(s): 9.0153
+Backward Time(s): 4.4021
+Update Time(s): 0.1457
+Emb Update Time(s): 15.9143
+#seeds: 37725
+#inputs: 17083194
+=====================Start evalStart eval
+
+Start eval
+
+=====================
+Part 23, Epoch Time(s): 42.1737
+Sampling Time(s): 0.9325
+Loading Time(s): 11.8055
+Forward Time(s): 8.6616
+Backward Time(s): 4.3762
+Update Time(s): 0.1473
+Emb Update Time(s): 16.2241
+#seeds: 37724
+#inputs: 17138093
+==========================================
+Part 21, Epoch Time(s): 42.1738
+Sampling Time(s): 0.9907
+Loading Time(s): 11.1625
+Forward Time(s): 9.1996
+Backward Time(s): 4.4402
+Update Time(s): 0.1480
+Emb Update Time(s): 16.2076
+#seeds: 37724
+#inputs: 17150378
+=====================Start eval
+
+
+Start eval
+Start eval
+Start eval
+model.module() 19
+model.module() 20
+model.eval() 19
+model.eval() 20
+model.module() 18
+model.module() 22
+model.eval() 18
+model.eval() 22
+model.module() 16
+model.module() 23
+model.module() 17
+model.eval() 16
+model.module() 21
+model.eval() 23
+model.eval() 17
+model.eval() 21
+load_embs 7
+dgl.distributed.node_split 7
+=====================
+Part 30, Epoch Time(s): 42.1739
+Sampling Time(s): 1.0921
+Loading Time(s): 10.5639
+Forward Time(s): 9.8417
+Backward Time(s): 4.4915
+Update Time(s): 0.1074
+Emb Update Time(s): 16.0507
+#seeds: 37724
+#inputs: 14136201
+==========================================
+Part 24, Epoch Time(s): 42.1739
+Sampling Time(s): 0.9647
+Loading Time(s): 10.8346
+Forward Time(s): 9.8787
+Backward Time(s): 4.4925
+Update Time(s): 0.0967
+Emb Update Time(s): 15.8829
+#seeds: 37724
+#inputs: 14116919
+==========================================
+Part 26, Epoch Time(s): 42.1743
+Sampling Time(s): 0.9802
+Loading Time(s): 9.8467
+Forward Time(s): 11.0601
+Backward Time(s): 4.4787
+Update Time(s): 0.1121
+Emb Update Time(s): 15.6672
+#seeds: 37724
+#inputs: 14071904
+=====================
+
+
+=====================
+Part 29, Epoch Time(s): 42.1739
+Sampling Time(s): 0.9081
+Loading Time(s): 8.8027
+Forward Time(s): 12.1264
+Backward Time(s): 4.4864
+Update Time(s): 0.0966
+Emb Update Time(s): 15.7264
+#seeds: 37724
+#inputs: 14053416
+=====================Start evalStart eval=====================
+Part 25, Epoch Time(s): 42.1740
+Sampling Time(s): 0.9511
+Loading Time(s): 9.6622
+Forward Time(s): 11.2888
+Backward Time(s): 4.4505
+Update Time(s): 0.1031
+Emb Update Time(s): 15.6916
+#seeds: 37724
+#inputs: 14098311
+=====================
+
+
+
+Start eval=====================
+Part 27, Epoch Time(s): 42.1737
+Sampling Time(s): 1.1120
+Loading Time(s): 9.8882
+Forward Time(s): 10.5419
+Backward Time(s): 4.4903
+Update Time(s): 0.0992
+Emb Update Time(s): 16.0148
+#seeds: 37725
+#inputs: 14112121
+==========================================
+Part 28, Epoch Time(s): 42.1739
+Sampling Time(s): 0.8953
+Loading Time(s): 8.4145
+Forward Time(s): 12.1901
+Backward Time(s): 4.5012
+Update Time(s): 0.0982
+Emb Update Time(s): 16.0490
+#seeds: 37725
+#inputs: 14096509
+=====================Start eval
+Start eval
+
+=====================
+Part 31, Epoch Time(s): 42.1737
+Sampling Time(s): 0.9878
+Loading Time(s): 9.3738
+Forward Time(s): 11.1810
+Backward Time(s): 4.4677
+Update Time(s): 0.0888
+Emb Update Time(s): 16.0498
+#seeds: 37724
+#inputs: 14096073
+=====================
+
+
+model.module() 30
+Start eval
+Start eval
+model.module() 24
+Start evalmodel.eval() 30
+
+model.module() 25
+model.eval() 24model.module() 29
+
+model.eval() 25
+model.module() 26
+model.eval() 29
+model.module() 27
+model.module() 28
+model.eval() 26
+model.module() 31
+model.eval() 28model.eval() 27
+
+model.eval() 31
+emb_layer.eval() 25emb_layer.eval() 30
+
+emb_layer.eval() 24
+emb_layer.eval() 20emb_layer.eval() 19
+
+emb_layer.eval() 18
+emb_layer.eval() 22
+load_embs 25
+emb_layer.eval() 29emb_layer.eval() 26load_embs 30
+
+
+load_embs 24dgl.distributed.node_split 25=====================
+Part 10, Epoch Time(s): 42.1742
+Sampling Time(s): 1.0980
+Loading Time(s): 13.7030
+Forward Time(s): 7.0005
+Backward Time(s): 4.2757
+Update Time(s): 0.1064
+Emb Update Time(s): 15.9424
+#seeds: 37724
+#inputs: 18288802
+==========================================
+Part 9, Epoch Time(s): 42.1737
+Sampling Time(s): 0.9773
+Loading Time(s): 13.0266
+Forward Time(s): 7.2401
+Backward Time(s): 4.4280
+Update Time(s): 0.1062
+Emb Update Time(s): 16.3705
+#seeds: 37724
+#inputs: 18370288
+==========================================
+Part 11, Epoch Time(s): 42.1738
+Sampling Time(s): 1.1317
+Loading Time(s): 14.1847
+Forward Time(s): 5.8955
+Backward Time(s): 4.3885
+Update Time(s): 0.1086
+Emb Update Time(s): 16.4375
+#seeds: 37725
+#inputs: 18296696
+==========================================
+Part 12, Epoch Time(s): 42.1738
+Sampling Time(s): 1.0624
+Loading Time(s): 13.6200
+Forward Time(s): 6.6266
+Backward Time(s): 4.3095
+Update Time(s): 0.1069
+Emb Update Time(s): 16.4241
+#seeds: 37724
+#inputs: 18298667
+==========================================
+Part 13, Epoch Time(s): 42.1740
+Sampling Time(s): 1.1170
+Loading Time(s): 13.6335
+Forward Time(s): 6.6689
+Backward Time(s): 4.4090
+Update Time(s): 0.1064
+Emb Update Time(s): 16.2113
+#seeds: 37724
+#inputs: 18221647
+=====================
+
+
+
+
+Start evalStart eval
+Start evalStart eval
+
+=====================
+Part 8, Epoch Time(s): 42.1739
+Sampling Time(s): 1.0066
+Loading Time(s): 13.3349
+Forward Time(s): 7.1774
+Backward Time(s): 4.3822
+Update Time(s): 0.1051
+Emb Update Time(s): 16.1413
+#seeds: 37725
+#inputs: 18295217
+=====================
+=====================
+Part 14, Epoch Time(s): 42.1737
+Sampling Time(s): 1.0983
+Loading Time(s): 13.2020
+Forward Time(s): 7.1577
+Backward Time(s): 4.3315
+Update Time(s): 0.1168
+Emb Update Time(s): 16.2403
+#seeds: 37725
+#inputs: 18276012
+=====================
+
+=====================
+Part 15, Epoch Time(s): 42.1739
+Sampling Time(s): 1.0428
+Loading Time(s): 12.9745
+Forward Time(s): 7.0229
+Backward Time(s): 4.3739
+Update Time(s): 0.1079
+Emb Update Time(s): 16.6272
+#seeds: 37724
+#inputs: 18252168
+=====================Start eval
+Start eval
+
+Start eval
+model.module() 9model.module() 12
+Start evalmodel.module() 11
+
+
+model.eval() 12model.eval() 9
+
+model.eval() 11
+model.module() 13
+model.module() 10
+model.module() 15
+model.eval() 13
+model.eval() 10model.module() 8
+
+model.module() 14
+model.eval() 15
+model.eval() 8
+model.eval() 14
+emb_layer.eval() 4
+load_embs 20
+load_embs 18
+load_embs 19
+dgl.distributed.node_split 20
+dgl.distributed.node_split 18emb_layer.eval() 16
+
+dgl.distributed.node_split 19
+load_embs 22
+dgl.distributed.node_split 22
+emb_layer.eval() 17
+load_embs 16
+emb_layer.eval() 21
+
+dgl.distributed.node_split 30
+dgl.distributed.node_split 24
+emb_layer.eval() 28
+emb_layer.eval() 27load_embs 26emb_layer.eval() 31
+load_embs 4
+
+emb_layer.eval() 23
+dgl.distributed.node_split 16
+load_embs 17
+
+load_embs 29
+
+dgl.distributed.node_split 29
+dgl.distributed.node_split 26
+dgl.distributed.node_split 4
+emb_layer.eval() 12emb_layer.eval() 9
+
+emb_layer.eval() 11
+load_embs 9load_embs 12
+
+emb_layer.eval() 10
+dgl.distributed.node_split 9dgl.distributed.node_split 12emb_layer.eval() 13
+
+
+load_embs 11
+dgl.distributed.node_split 11
+load_embs 28
+load_embs 21
+dgl.distributed.node_split 17
+dgl.distributed.node_split 21
+emb_layer.eval() 15
+emb_layer.eval() 14
+load_embs 10
+emb_layer.eval() 8
+load_embs 13
+dgl.distributed.node_split 13dgl.distributed.node_split 10
+
+load_embs 15
+dgl.distributed.node_split 28
+load_embs 31load_embs 27
+
+dgl.distributed.node_split 31
+dgl.distributed.node_split 27
+load_embs 14dgl.distributed.node_split 15
+
+load_embs 8
+load_embs 23
+dgl.distributed.node_split 23
+dgl.distributed.node_split 14
+dgl.distributed.node_split 8
+x = dgl.distributed.DistTensor 5
+x = dgl.distributed.DistTensor 6
+x = dgl.distributed.DistTensor 29
+x = dgl.distributed.DistTensor 0
+x = dgl.distributed.DistTensor 3
+x = dgl.distributed.DistTensor 25
+x = dgl.distributed.DistTensor 1
+x = dgl.distributed.DistTensor 26
+x = dgl.distributed.DistTensor 24
+x = dgl.distributed.DistTensor 2
+x = dgl.distributed.DistTensor 7
+x = dgl.distributed.DistTensor 17
+x = dgl.distributed.DistTensor 18
+x = dgl.distributed.DistTensor 8
+x = dgl.distributed.DistTensor 28
+x = dgl.distributed.DistTensor 13
+x = dgl.distributed.DistTensor 31
+x = dgl.distributed.DistTensor 30
+x = dgl.distributed.DistTensor 12
+x = dgl.distributed.DistTensor 19
+x = dgl.distributed.DistTensor 27
+x = dgl.distributed.DistTensor 10
+x = dgl.distributed.DistTensor 15
+x = dgl.distributed.DistTensor 9
+x = dgl.distributed.DistTensor 16
+x = dgl.distributed.DistTensor 11
+x = dgl.distributed.DistTensor 21
+x = dgl.distributed.DistTensor 22
+x = dgl.distributed.DistTensor 20
+x = dgl.distributed.DistTensor 23
+x = dgl.distributed.DistTensor 4
+x = dgl.distributed.DistTensor 14
+Start load 2
+Start load 7
+Start load 6
+Start load 10
+Start load 26
+Start load 25
+Start load 13
+Start load 17
+Start load 18
+Start load 28
+Start load 16
+Start load 22Start load 29
+
+Start load 30
+Start load 20
+Start load 0
+Start load 1
+Start load 15Start load 11
+
+Start load 4
+Start load 24
+Start load 23
+Start load 3
+Start load 8
+Start load 12
+Start load 31
+Start load 5
+Start load 19
+Start load 27
+Start load 9
+Start load 21
+Start load 14
+g.barrier 5
+g.barrier 13
+g.barrier 8
+g.barrier 10
+g.barrier 0
+g.barrier 15
+g.barrier 3
+g.barrier 11
+g.barrier 9
+g.barrier 19
+g.barrier 7
+g.barrier 23
+g.barrier 12
+g.barrier 18
+g.barrier 4
+g.barrier 17
+g.barrier 14
+g.barrier 22
+g.barrier 16
+g.barrier 21
+g.barrier 6
+g.barrier 20
+g.barrier 26
+g.barrier 2
+g.barrier 1
+g.barrier 24
+g.barrier 30
+g.barrier 25
+g.barrier 31
+g.barrier 27
+g.barrier 29
+g.barrier 28
+model.inference 6
+nodes = dgl.distributed.node_split 6
+model.inference 10
+nodes = dgl.distributed.node_split 10
+model.inference 29
+model.inference 13
+nodes = dgl.distributed.node_split 29
+nodes = dgl.distributed.node_split 13
+model.inference 22
+nodes = dgl.distributed.node_split 22
+model.inference 30
+model.inference 1
+nodes = dgl.distributed.node_split 1
+nodes = dgl.distributed.node_split 30
+model.inference 20
+nodes = dgl.distributed.node_split 20
+model.inference 24
+model.inference 11
+model.inference 15
+nodes = dgl.distributed.node_split 11
+nodes = dgl.distributed.node_split 15
+nodes = dgl.distributed.node_split 24model.inference 27
+
+model.inference 4
+nodes = dgl.distributed.node_split 4
+nodes = dgl.distributed.node_split 27
+model.inference 3
+model.inference 31
+model.inference 8
+model.inference 5
+model.inference 19
+nodes = dgl.distributed.node_split 31
+nodes = dgl.distributed.node_split 8
+nodes = dgl.distributed.node_split 3
+nodes = dgl.distributed.node_split 5
+nodes = dgl.distributed.node_split 19
+model.inference 12
+nodes = dgl.distributed.node_split 12
+model.inference 21
+nodes = dgl.distributed.node_split 21
+model.inference 9
+model.inference 14
+nodes = dgl.distributed.node_split 9
+nodes = dgl.distributed.node_split 14
+model.inference 28
+nodes = dgl.distributed.node_split 28
+model.inference 25
+nodes = dgl.distributed.node_split 25
+model.inference 26
+nodes = dgl.distributed.node_split 26
+model.inference 17
+nodes = dgl.distributed.node_split 17
+model.inference 0
+nodes = dgl.distributed.node_split 0
+model.inference 18
+model.inference 7
+nodes = dgl.distributed.node_split 18
+nodes = dgl.distributed.node_split 7
+model.inference 2
+nodes = dgl.distributed.node_split 2
+model.inference 23
+nodes = dgl.distributed.node_split 23
+model.inference 16
+nodes = dgl.distributed.node_split 16
+y = dgl.distributed.DistTensor 7
+y = dgl.distributed.DistTensor 6
+y = dgl.distributed.DistTensor 31
+y = dgl.distributed.DistTensor 30
+y = dgl.distributed.DistTensor 27
+y = dgl.distributed.DistTensor 28
+y = dgl.distributed.DistTensor 22
+y = dgl.distributed.DistTensor 25
+y = dgl.distributed.DistTensor 17
+y = dgl.distributed.DistTensor 29
+y = dgl.distributed.DistTensor 26
+y = dgl.distributed.DistTensor 24
+y = dgl.distributed.DistTensor 18
+y = dgl.distributed.DistTensor 5
+y = dgl.distributed.DistTensor 21
+y = dgl.distributed.DistTensor 0
+y = dgl.distributed.DistTensor 23
+y = dgl.distributed.DistTensor 3
+y = dgl.distributed.DistTensor 4
+y = dgl.distributed.DistTensor 1
+y = dgl.distributed.DistTensor 19
+y = dgl.distributed.DistTensor 2
+y = dgl.distributed.DistTensor 20
+y = dgl.distributed.DistTensor 15
+y = dgl.distributed.DistTensor 16
+y = dgl.distributed.DistTensor 8
+y = dgl.distributed.DistTensor 13
+y = dgl.distributed.DistTensor 10
+y = dgl.distributed.DistTensor 14
+y = dgl.distributed.DistTensor 9
+y = dgl.distributed.DistTensor 12
+y = dgl.distributed.DistTensor 11

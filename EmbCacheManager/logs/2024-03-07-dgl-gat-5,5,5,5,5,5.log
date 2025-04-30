@@ -1,0 +1,177 @@
+The number of OMP threads per trainer is set to 6
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Namespace(graph_name='ogbn-products', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, fan_out='5,5,5,5,5,5', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, feat_dropout=0.1, attn_dropout=0.1, model_num_hidden=32, heads='8,8,8,8,8,1', local_rank=None, standalone=False, sparse_lr=0.01, dgl_sparse=True)
+Client [904398] waits on 172.31.25.229:59507
+Client [904415] waits on 172.31.25.229:58531
+Client [896987] waits on 172.31.20.203:51889
+Client [896976] waits on 172.31.20.203:51815
+Client [896970] waits on 172.31.20.203:49959
+Client [896961] waits on 172.31.20.203:47779
+Client [896964] waits on 172.31.20.203:46527
+Client [896993] waits on 172.31.20.203:40783Client [896962] waits on 172.31.20.203:41347
+
+Client [894453] waits on 172.31.16.179:60685
+Client [894479] waits on 172.31.16.179:35139
+Client [894454] waits on 172.31.16.179:35675
+Client [894456] waits on 172.31.16.179:40643
+Client [894462] waits on 172.31.16.179:41517
+Client [894485] waits on 172.31.16.179:47859
+Client [894455] waits on 172.31.16.179:49227
+Client [894468] waits on 172.31.16.179:53177
+Client [896963] waits on 172.31.20.203:52667
+Client [1614152] waits on 172.31.20.34:40811
+Client [1614148] waits on 172.31.20.34:41691
+Client [1614180] waits on 172.31.20.34:49783
+Client [1614169] waits on 172.31.20.34:55703
+Client [1614150] waits on 172.31.20.34:56421
+Client [1614158] waits on 172.31.20.34:57845
+Client [1614149] waits on 172.31.20.34:58513
+Client [1614151] waits on 172.31.20.34:60267
+Client [904396] waits on 172.31.25.229:33067
+Machine (3) group (0) client (1) connect to server successfuly!
+Client [904426] waits on 172.31.25.229:35917
+Client [904397] waits on 172.31.25.229:40637
+Machine (3) group (0) client (3) connect to server successfuly!
+Client [904395] waits on 172.31.25.229:41199Client [904394] waits on 172.31.25.229:43115
+
+Client [904404] waits on 172.31.25.229:48803
+Machine (3) group (0) client (5) connect to server successfuly!
+Machine (3) group (0) client (4) connect to server successfuly!
+Machine (3) group (0) client (9) connect to server successfuly!
+Machine (3) group (0) client (10) connect to server successfuly!
+Machine (3) group (0) client (12) connect to server successfuly!
+Machine (3) group (0) client (15) connect to server successfuly!
+Machine (2) group (0) client (21) connect to server successfuly!
+Machine (2) group (0) client (23) connect to server successfuly!
+Machine (2) group (0) client (20) connect to server successfuly!
+Machine (2) group (0) client (25) connect to server successfuly!
+Machine (2) group (0) client (27) connect to server successfuly!
+Machine (2) group (0) client (28) connect to server successfuly!
+Machine (2) group (0) client (24) connect to server successfuly!
+Machine (2) group (0) client (30) connect to server successfuly!
+Machine (0) group (0) client (34) connect to server successfuly!
+Machine (0) group (0) client (35) connect to server successfuly!
+Machine (0) group (0) client (39) connect to server successfuly!
+Machine (0) group (0) client (42) connect to server successfuly!
+Machine (0) group (0) client (41) connect to server successfuly!
+Machine (0) group (0) client (45) connect to server successfuly!
+Machine (0) group (0) client (47) connect to server successfuly!
+Machine (0) group (0) client (44) connect to server successfuly!
+Machine (1) group (0) client (48) connect to server successfuly!
+Machine (1) group (0) client (52) connect to server successfuly!
+Machine (1) group (0) client (54) connect to server successfuly!
+Machine (1) group (0) client (57) connect to server successfuly!
+Machine (1) group (0) client (55) connect to server successfuly!
+Machine (1) group (0) client (56) connect to server successfuly!
+Machine (1) group (0) client (62) connect to server successfuly!
+Machine (1) group (0) client (63) connect to server successfuly!
+rank: 27
+rank: 6
+rank: 4
+rank: 1rank: 8
+rank: 14
+rank: 26
+
+rank: 3rank: 30
+
+rank:rank:  299
+rank: 16
+
+rank: 25
+rank: 28
+rank: 2
+rank: 10
+rank:rank: 22 
+18
+rank:rank: 5rank:
+ rank:17
+ 19
+ rank:0
+ 7
+rank: 21rank: 15
+rank: 31rank:
+
+rank:  24
+20
+rank: 13
+rank: 12
+rank: 23
+rank: 11
+part 0, train: 6145 (local: 6145), val: 1229 (local: 1229), test: 69159 (local: 69159)
+part 3, train: 6144 (local: 6144), val: 1228 (local: 1228), test: 69159 (local: 69159)
+part 7, train: 6144 (local: 6144), val: 1229 (local: 1229), test: 69159 (local: 69159)
+part 2, train: 6144 (local: 6144), val: 1229 (local: 1229), test: 69159 (local: 69159)
+part 5, train: 6144 (local: 6144), val: 1229 (local: 1229), test: 69159 (local: 69159)
+part 1, train: 6144 (local: 6144), val: 1229 (local: 1229), test: 69159 (local: 69159)
+part 4, train: 6145 (local: 6145), val: 1229 (local: 1229), test: 69160 (local: 69160)
+part 6, train: 6144 (local: 6144), val: 1229 (local: 1229), test: 69159 (local: 69159)
+Client[15] in group[0] is exiting...
+Client[10] in group[0] is exiting...
+Client[63] in group[0] is exiting...
+Client[48] in group[0] is exiting...
+Client[55] in group[0] is exiting...
+Client[56] in group[0] is exiting...
+Client[62] in group[0] is exiting...
+Client[12] in group[0] is exiting...
+Client[54] in group[0] is exiting...
+Client[57] in group[0] is exiting...
+Client[5] in group[0] is exiting...
+Client[9] in group[0] is exiting...
+Client[1] in group[0] is exiting...
+Client[3] in group[0] is exiting...
+Client[4] in group[0] is exiting...
+Client[52] in group[0] is exiting...
+#labels: 47
+Create emb_layer
+#labels: 47
+#labels: 47
+Create emb_layer
+#labels: 47
+Create emb_layerCreate emb_layer
+#labels: 47
+
+Create emb_layer
+#labels: 47
+Create emb_layer
+#labels: 47
+Create emb_layer
+#labels: 47
+Create emb_layer
+Client[23] in group[0] is exiting...
+Client[28] in group[0] is exiting...
+Client[20] in group[0] is exiting...
+Client[21] in group[0] is exiting...
+Client[25] in group[0] is exiting...
+Client[30] in group[0] is exiting...
+Client[27] in group[0] is exiting...
+Client[24] in group[0] is exiting...

@@ -1,0 +1,3352 @@
+The number of OMP threads per trainer is set to 6
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+Client [857790] waits on 172.31.20.203:53303
+Client [886690] waits on 172.31.25.229:59875
+Client [857792] waits on 172.31.20.203:48111
+Client [857798] waits on 172.31.20.203:46451
+Client [857791] waits on 172.31.20.203:43217
+Machine (2) group (0) client (22) connect to server successfuly!
+Machine (2) group (0) client (24) connect to server successfuly!
+Machine (2) group (0) client (28) connect to server successfuly!Machine (2) group (0) client (26) connect to server successfuly!
+
+Machine (1) group (0) client (63) connect to server successfuly!
+Client [857815] waits on 172.31.20.203:35279
+Client [857788] waits on 172.31.20.203:35647
+Client [861466] waits on 172.31.16.179:57875
+Client [861472] waits on 172.31.16.179:35057
+Client [861445] waits on 172.31.16.179:53999
+Client [861449] waits on 172.31.16.179:35089
+Client [861446] waits on 172.31.16.179:43391
+Client [2593109] waits on 172.31.20.34:33123
+Client [861447] waits on 172.31.16.179:40581
+Client [861455] waits on 172.31.16.179:51295
+Client [861448] waits on 172.31.16.179:34459
+Client [2593110] waits on 172.31.20.34:40467Client [886688] waits on 172.31.25.229:33909
+
+Client [2593111] waits on 172.31.20.34:35853
+Client [2593126] waits on 172.31.20.34:53349
+Client [2593135] waits on 172.31.20.34:46389
+Client [857789] waits on 172.31.20.203:41733
+Client [857809] waits on 172.31.20.203:55903
+Machine (2) group (0) client (21) connect to server successfuly!
+Client [2593118] waits on 172.31.20.34:54959
+Client [2593112] waits on 172.31.20.34:51709
+Client [886696] waits on 172.31.25.229:40901
+Client [886702] waits on 172.31.25.229:44163
+Client [886687] waits on 172.31.25.229:42951
+Machine (1) group (0) client (51) connect to server successfuly!
+Client [886686] waits on 172.31.25.229:48399
+Client [2593108] waits on 172.31.20.34:55095
+Machine (1) group (0) client (53) connect to server successfuly!
+Machine (1) group (0) client (52) connect to server successfuly!
+Machine (1) group (0) client (54) connect to server successfuly!
+Machine (2) group (0) client (18) connect to server successfuly!
+Machine (3) group (0) client (15) connect to server successfuly!
+Machine (3) group (0) client (3) connect to server successfuly!
+Client [886713] waits on 172.31.25.229:50071
+Client [886689] waits on 172.31.25.229:50887
+Machine (1) group (0) client (56) connect to server successfuly!
+Machine (1) group (0) client (58) connect to server successfuly!
+Machine (1) group (0) client (50) connect to server successfuly!
+Machine (0) group (0) client (32) connect to server successfuly!
+Machine (0) group (0) client (42) connect to server successfuly!
+Machine (0) group (0) client (35) connect to server successfuly!
+Machine (0) group (0) client (45) connect to server successfuly!
+Machine (0) group (0) client (38) connect to server successfuly!
+Machine (0) group (0) client (43) connect to server successfuly!
+Machine (0) group (0) client (33) connect to server successfuly!
+Machine (2) group (0) client (29) connect to server successfuly!
+Machine (2) group (0) client (17) connect to server successfuly!
+Machine (3) group (0) client (13) connect to server successfuly!
+Machine (3) group (0) client (1) connect to server successfuly!
+Machine (3) group (0) client (11) connect to server successfuly!
+Machine (3) group (0) client (4) connect to server successfuly!
+Machine (3) group (0) client (8) connect to server successfuly!
+Machine (3) group (0) client (7) connect to server successfuly!
+Machine (0) group (0) client (46) connect to server successfuly!
+rank: 15
+rank: 11
+rank: 13
+rank:rank:  61
+
+rank: 28
+rank: 25
+rank: 19
+rank: 20
+rank: 14
+rank: 27
+rank: 5
+rank:rank:  73
+
+rank: 21
+rank: 31
+rank: 26
+rank: 18
+rank: 23
+rank: 4
+rank: 10
+rank: 9
+rank: 17
+rank: 2
+rank: 0
+rank: 29
+rank: 22
+rank: 12
+rank: 8
+rank: 24
+rank: 30
+rank: 16
+part 5, train: 37724 (local: 33002), val: 3914 (local: 3189), test: 6698 (local: 5113)
+part 3, train: 37725 (local: 32912), val: 3915 (local: 3241), test: 6698 (local: 5225)
+part 2, train: 37725 (local: 32901), val: 3915 (local: 3205), test: 6698 (local: 5163)
+part 0, train: 37724 (local: 32870), val: 3914 (local: 3224), test: 6698 (local: 5176)
+part 1, train: 37725 (local: 32932), val: 3915 (local: 3215), test: 6699 (local: 5201)
+part 7, train: 37724 (local: 32809), val: 3915 (local: 3258), test: 6698 (local: 5205)
+part 6, train: 37724 (local: 32931), val: 3914 (local: 3197), test: 6698 (local: 5181)
+part 4, train: 37724 (local: 32897), val: 3915 (local: 3229), test: 6698 (local: 5132)
+part 8, train: 37724 (local: 34514), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 14, train: 37724 (local: 34621), val: 3915 (local: 3915), test: 6698 (local: 6698)
+part 12, train: 37724 (local: 34545), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 13, train: 37725 (local: 34419), val: 3915 (local: 3915), test: 6698 (local: 6698)
+part 11, train: 37724 (local: 34479), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 15, train: 37724 (local: 34478), val: 3914 (local: 3914), test: 6698 (local: 6698)
+part 10, train: 37725 (local: 34558), val: 3915 (local: 3915), test: 6699 (local: 6699)
+part 9, train: 37725 (local: 34493), val: 3915 (local: 3915), test: 6698 (local: 6698)
+part 28, train: 37724 (local: 37724), val: 3915 (local: 2756), test: 6698 (local: 4510)
+#labels: 172
+part 26, train: 37724 (local: 37724), val: 3915 (local: 2755), test: 6698 (local: 4600)
+#labels: 172
+part 29, train: 37724 (local: 37724), val: 3914 (local: 2724), test: 6698 (local: 4557)
+part 25, train: 37724 (local: 37724), val: 3914 (local: 2779), test: 6698 (local: 4549)
+part 31, train: 37725 (local: 37725), val: 3915 (local: 2789), test: 6698 (local: 4540)
+#labels: 172
+#labels: 172
+part 24, train: 37724 (local: 37724), val: 3914 (local: 2824), test: 6698 (local: 4559)
+part 27, train: 37725 (local: 37725), val: 3915 (local: 2753), test: 6698 (local: 4504)
+#labels: 172
+part 20, train: 37724 (local: 36158), val: 3914 (local: 1736), test: 6698 (local: 2472)
+#labels: 172
+part 30, train: 37724 (local: 37724), val: 3914 (local: 2762), test: 6698 (local: 4573)
+#labels: 172
+#labels: 172
+part 16, train: 37725 (local: 36084), val: 3915 (local: 1685), test: 6698 (local: 2482)
+#labels: 172
+part 21, train: 37724 (local: 36075), val: 3914 (local: 1725), test: 6698 (local: 2487)
+part 17, train: 37725 (local: 36136), val: 3915 (local: 1810), test: 6698 (local: 2503)
+part 18, train: 37724 (local: 36111), val: 3914 (local: 1726), test: 6698 (local: 2552)
+part 19, train: 37724 (local: 36170), val: 3915 (local: 1765), test: 6698 (local: 2489)
+part 23, train: 37725 (local: 36159), val: 3915 (local: 1708), test: 6698 (local: 2525)
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+part 22, train: 37724 (local: 36071), val: 3914 (local: 1790), test: 6698 (local: 2499)
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+#labels: 172
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+Presampling done, max: 1.000 min: 0.001 avg: 0.014
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+#hot_nodes = 990638
+Create modelCreate model
+
+Create model
+Create modelCreate model
+
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create modelCreate model
+
+Create model
+Create modelCreate model
+
+Create modelCreate model
+
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizerCreate model optimizer
+
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start trainStart train
+Start train
+
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+Start train
+=====================
+Part 4, Epoch Time(s): 70.2263
+Sampling Time(s): 1.0279
+Loading Time(s): 12.5518
+Forward Time(s): 3.8474
+Backward Time(s): 1.1326
+Update Time(s): 0.0796
+Emb Update Time(s): 51.3460
+#seeds: 37724
+#inputs: 17039609
+==========================================
+Part 3, Epoch Time(s): 70.2262
+Sampling Time(s): 0.8787
+Loading Time(s): 12.0086
+Forward Time(s): 4.5319
+Backward Time(s): 1.1302
+Update Time(s): 0.0775
+Emb Update Time(s): 51.3571
+#seeds: 37725
+#inputs: 17076019
+==========================================
+Part 2, Epoch Time(s): 70.2261
+Sampling Time(s): 1.0678
+Loading Time(s): 12.7124
+Forward Time(s): 3.6626
+Backward Time(s): 1.1133
+Update Time(s): 0.0825
+Emb Update Time(s): 51.3304
+#seeds: 37725
+#inputs: 17140083
+==========================================
+Part 0, Epoch Time(s): 70.2261
+Sampling Time(s): 0.9706
+Loading Time(s): 12.6609
+Forward Time(s): 3.8384
+Backward Time(s): 1.1086
+Update Time(s): 0.0803
+Emb Update Time(s): 51.3223
+#seeds: 37724
+#inputs: 17130503
+==========================================
+Part 1, Epoch Time(s): 70.2267
+Sampling Time(s): 0.9912
+Loading Time(s): 12.5338
+Forward Time(s): 3.9185
+Backward Time(s): 1.1257
+Update Time(s): 0.0770
+Emb Update Time(s): 51.3439
+#seeds: 37725
+#inputs: 17017211
+=====================
+
+
+
+
+=====================
+Part 5, Epoch Time(s): 70.2266
+Sampling Time(s): 1.0544
+Loading Time(s): 12.3293
+Forward Time(s): 4.0340
+Backward Time(s): 1.1357
+Update Time(s): 0.0799
+Emb Update Time(s): 51.3471
+#seeds: 37724
+#inputs: 17071041
+=====================
+=====================
+Part 6, Epoch Time(s): 70.2267
+Sampling Time(s): 1.2256
+Loading Time(s): 11.7699
+Forward Time(s): 4.4327
+Backward Time(s): 1.1378
+Update Time(s): 0.0839
+Emb Update Time(s): 51.3328
+#seeds: 37724
+#inputs: 17123218
+=====================
+=====================
+Part 7, Epoch Time(s): 70.2265
+Sampling Time(s): 0.9538
+Loading Time(s): 12.2025
+Forward Time(s): 4.2929
+Backward Time(s): 1.1236
+Update Time(s): 0.0835
+Emb Update Time(s): 51.3324
+#seeds: 37724
+#inputs: 17154731
+=====================
+=====================
+Part 16, Epoch Time(s): 70.2260
+Sampling Time(s): 0.8868
+Loading Time(s): 8.9634
+Forward Time(s): 7.5490
+Backward Time(s): 1.1301
+Update Time(s): 0.0758
+Emb Update Time(s): 51.3663
+#seeds: 37725
+#inputs: 17195628
+==========================================
+Part 20, Epoch Time(s): 70.2265
+Sampling Time(s): 0.9684
+Loading Time(s): 9.9667
+Forward Time(s): 6.4511
+Backward Time(s): 1.1361
+Update Time(s): 0.0743
+Emb Update Time(s): 51.3739
+#seeds: 37724
+#inputs: 17132193
+==========================================
+Part 17, Epoch Time(s): 70.2263
+Sampling Time(s): 0.9437
+Loading Time(s): 10.0442
+Forward Time(s): 6.3899
+Backward Time(s): 1.1315
+Update Time(s): 0.0774
+Emb Update Time(s): 51.3643
+#seeds: 37725
+#inputs: 17146756
+=====================
+
+
+=====================
+Part 23, Epoch Time(s): 70.2264
+Sampling Time(s): 0.9053
+Loading Time(s): 10.5022
+Forward Time(s): 5.9615
+Backward Time(s): 1.1549
+Update Time(s): 0.0704
+Emb Update Time(s): 51.3739
+#seeds: 37725
+#inputs: 17078415
+==========================================
+Part 21, Epoch Time(s): 70.2267
+Sampling Time(s): 0.9441
+Loading Time(s): 10.6243
+Forward Time(s): 5.8263
+Backward Time(s): 1.1336
+Update Time(s): 0.0801
+Emb Update Time(s): 51.3682
+#seeds: 37724
+#inputs: 17152865
+==========================================
+Part 22, Epoch Time(s): 70.2262
+Sampling Time(s): 1.0847
+Loading Time(s): 10.4778
+Forward Time(s): 5.7721
+Backward Time(s): 1.1762
+Update Time(s): 0.0762
+Emb Update Time(s): 51.3734
+#seeds: 37724
+#inputs: 17143691
+=====================
+
+=====================
+Part 19, Epoch Time(s): 70.2268
+Sampling Time(s): 0.9987
+Loading Time(s): 9.8564
+Forward Time(s): 6.5339
+Backward Time(s): 1.1365
+Update Time(s): 0.0816
+Emb Update Time(s): 51.3650
+#seeds: 37724
+#inputs: 17132249
+=====================
+
+=====================
+Part 18, Epoch Time(s): 70.2265
+Sampling Time(s): 1.1540
+Loading Time(s): 10.1065
+Forward Time(s): 6.1160
+Backward Time(s): 1.1516
+Update Time(s): 0.0755
+Emb Update Time(s): 51.3692
+#seeds: 37724
+#inputs: 17152409
+=====================
+=====================
+Part 8, Epoch Time(s): 70.2262
+Sampling Time(s): 0.9125
+Loading Time(s): 11.5057
+Forward Time(s): 4.9697
+Backward Time(s): 1.1418
+Update Time(s): 0.0618
+Emb Update Time(s): 51.3857
+#seeds: 37724
+#inputs: 18289745
+==========================================
+Part 12, Epoch Time(s): 70.2263
+Sampling Time(s): 0.9324
+Loading Time(s): 12.0882
+Forward Time(s): 4.3408
+Backward Time(s): 1.1676
+Update Time(s): 0.0711
+Emb Update Time(s): 51.3742
+#seeds: 37724
+#inputs: 18380935
+=====================
+
+=====================
+Part 10, Epoch Time(s): 70.2265
+Sampling Time(s): 1.0176
+Loading Time(s): 12.4473
+Forward Time(s): 3.9420
+Backward Time(s): 1.1255
+Update Time(s): 0.0797
+Emb Update Time(s): 51.3626
+#seeds: 37725
+#inputs: 18271687
+==========================================
+Part 14, Epoch Time(s): 70.2268
+Sampling Time(s): 1.0111
+Loading Time(s): 12.3007
+Forward Time(s): 4.0747
+Backward Time(s): 1.1321
+Update Time(s): 0.0718
+Emb Update Time(s): 51.3679
+#seeds: 37724
+#inputs: 18248407
+==========================================
+Part 11, Epoch Time(s): 70.2271
+Sampling Time(s): 0.9602
+Loading Time(s): 12.0221
+Forward Time(s): 4.3873
+Backward Time(s): 1.1639
+Update Time(s): 0.0783
+Emb Update Time(s): 51.3554
+#seeds: 37724
+#inputs: 18243563
+==========================================
+Part 13, Epoch Time(s): 70.2270
+Sampling Time(s): 1.0234
+Loading Time(s): 12.4139
+Forward Time(s): 3.9831
+Backward Time(s): 1.1127
+Update Time(s): 0.0735
+Emb Update Time(s): 51.3607
+#seeds: 37725
+#inputs: 18310768
+=====================
+=====================
+Part 9, Epoch Time(s): 70.2266
+Sampling Time(s): 1.0248
+Loading Time(s): 11.1964
+Forward Time(s): 5.1891
+Backward Time(s): 1.1193
+Update Time(s): 0.0717
+Emb Update Time(s): 51.3650
+#seeds: 37725
+#inputs: 18296245
+=====================
+
+
+
+=====================
+Part 15, Epoch Time(s): 70.2273
+Sampling Time(s): 1.0262
+Loading Time(s): 12.0224
+Forward Time(s): 4.3649
+Backward Time(s): 1.1233
+Update Time(s): 0.0678
+Emb Update Time(s): 51.3636
+#seeds: 37724
+#inputs: 18293729
+=====================
+=====================
+Part 25, Epoch Time(s): 70.2268
+Sampling Time(s): 0.8639
+Loading Time(s): 8.5321
+Forward Time(s): 8.0202
+Backward Time(s): 1.1405
+Update Time(s): 0.0814
+Emb Update Time(s): 51.3696
+#seeds: 37724
+#inputs: 14108081
+==========================================
+Part 24, Epoch Time(s): 70.2263
+Sampling Time(s): 0.8634
+Loading Time(s): 9.2052
+Forward Time(s): 7.3494
+Backward Time(s): 1.1422
+Update Time(s): 0.0732
+Emb Update Time(s): 51.3757
+#seeds: 37724
+#inputs: 14071097
+==========================================
+Part 28, Epoch Time(s): 70.2270
+Sampling Time(s): 0.8865
+Loading Time(s): 8.5450
+Forward Time(s): 7.9813
+Backward Time(s): 1.1398
+Update Time(s): 0.0758
+Emb Update Time(s): 51.3788
+#seeds: 37724
+#inputs: 14124842
+==========================================
+Part 30, Epoch Time(s): 70.2263
+Sampling Time(s): 0.9133
+Loading Time(s): 8.4507
+Forward Time(s): 8.0541
+Backward Time(s): 1.1295
+Update Time(s): 0.0762
+Emb Update Time(s): 51.3810
+#seeds: 37724
+#inputs: 14139566
+=====================
+
+
+
+=====================
+Part 27, Epoch Time(s): 70.2265
+Sampling Time(s): 0.9633
+Loading Time(s): 8.0166
+Forward Time(s): 8.4433
+Backward Time(s): 1.1303
+Update Time(s): 0.0614
+Emb Update Time(s): 51.3920
+#seeds: 37725
+#inputs: 14098194
+==========================================
+Part 29, Epoch Time(s): 70.2260
+Sampling Time(s): 0.9255
+Loading Time(s): 8.3167
+Forward Time(s): 8.1896
+Backward Time(s): 1.1273
+Update Time(s): 0.0770
+Emb Update Time(s): 51.3785
+#seeds: 37724
+#inputs: 14085314
+=====================
+=====================
+Part 26, Epoch Time(s): 70.2260
+Sampling Time(s): 1.0663
+Loading Time(s): 9.6362
+Forward Time(s): 6.7022
+Backward Time(s): 1.1413
+Update Time(s): 0.0812
+Emb Update Time(s): 51.3735
+#seeds: 37724
+#inputs: 14064111
+=====================
+=====================
+Part 31, Epoch Time(s): 70.2268
+Sampling Time(s): 0.8943
+Loading Time(s): 9.5939
+Forward Time(s): 6.9083
+Backward Time(s): 1.1513
+Update Time(s): 0.0682
+Emb Update Time(s): 51.3844
+#seeds: 37725
+#inputs: 14106527
+=====================
+
+=====================
+Part 5, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8497
+Loading Time(s): 11.2603
+Forward Time(s): 3.1373
+Backward Time(s): 1.0899
+Update Time(s): 0.0233
+Emb Update Time(s): 44.3167
+#seeds: 37724
+#inputs: 17068316
+==========================================
+Part 1, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8766
+Loading Time(s): 11.7335
+Forward Time(s): 2.6662
+Backward Time(s): 1.0814
+Update Time(s): 0.0240
+Emb Update Time(s): 44.2916
+#seeds: 37725
+#inputs: 17008936
+==========================================
+Part 2, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9048
+Loading Time(s): 11.9241
+Forward Time(s): 2.4352
+Backward Time(s): 1.0869
+Update Time(s): 0.0266
+Emb Update Time(s): 44.2989
+#seeds: 37725
+#inputs: 17136780
+==========================================
+Part 0, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8999
+Loading Time(s): 11.5532
+Forward Time(s): 2.7787
+Backward Time(s): 1.1059
+Update Time(s): 0.0231
+Emb Update Time(s): 44.3132
+#seeds: 37724
+#inputs: 17124761
+==========================================
+Part 4, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9149
+Loading Time(s): 11.3741
+Forward Time(s): 2.9790
+Backward Time(s): 1.0836
+Update Time(s): 0.0241
+Emb Update Time(s): 44.3042
+#seeds: 37724
+#inputs: 17048755
+==========================================
+Part 3, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8461
+Loading Time(s): 11.7836
+Forward Time(s): 2.6644
+Backward Time(s): 1.0674
+Update Time(s): 0.0224
+Emb Update Time(s): 44.2926
+#seeds: 37725
+#inputs: 17068594
+=====================
+
+=====================
+Part 7, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8103
+Loading Time(s): 10.7081
+Forward Time(s): 3.7202
+Backward Time(s): 1.0945
+Update Time(s): 0.0231
+Emb Update Time(s): 44.3136
+#seeds: 37724
+#inputs: 17166735
+=====================
+
+
+
+
+=====================
+Part 6, Epoch Time(s): 60.9213
+Sampling Time(s): 1.0372
+Loading Time(s): 11.7796
+Forward Time(s): 2.4298
+Backward Time(s): 1.0887
+Update Time(s): 0.0303
+Emb Update Time(s): 44.3018
+#seeds: 37724
+#inputs: 17114981
+=====================
+=====================
+Part 25, Epoch Time(s): 60.9212
+Sampling Time(s): 0.7837
+Loading Time(s): 7.9943
+Forward Time(s): 6.4515
+Backward Time(s): 1.1053
+Update Time(s): 0.0239
+Emb Update Time(s): 44.3391
+#seeds: 37724
+#inputs: 14095705
+==========================================
+Part 24, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9641
+Loading Time(s): 8.7365
+Forward Time(s): 5.5219
+Backward Time(s): 1.1067
+Update Time(s): 0.0264
+Emb Update Time(s): 44.3373
+#seeds: 37724
+#inputs: 14060706
+==========================================
+Part 29, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8516
+Loading Time(s): 7.4740
+Forward Time(s): 6.9048
+Backward Time(s): 1.1001
+Update Time(s): 0.0241
+Emb Update Time(s): 44.3446
+#seeds: 37724
+#inputs: 14099637
+==========================================
+Part 26, Epoch Time(s): 60.9212
+Sampling Time(s): 1.0694
+Loading Time(s): 9.0205
+Forward Time(s): 5.1302
+Backward Time(s): 1.1047
+Update Time(s): 0.0271
+Emb Update Time(s): 44.3429
+#seeds: 37724
+#inputs: 14061998
+==========================================
+Part 30, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8172
+Loading Time(s): 8.3316
+Forward Time(s): 6.0798
+Backward Time(s): 1.1000
+Update Time(s): 0.0251
+Emb Update Time(s): 44.3440
+#seeds: 37724
+#inputs: 14112809
+=====================
+
+=====================
+Part 28, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8277
+Loading Time(s): 7.9957
+Forward Time(s): 6.4131
+Backward Time(s): 1.1018
+Update Time(s): 0.0243
+Emb Update Time(s): 44.3425
+#seeds: 37724
+#inputs: 14118076
+=====================
+=====================
+Part 31, Epoch Time(s): 60.9212
+Sampling Time(s): 1.0625
+Loading Time(s): 8.7181
+Forward Time(s): 5.4408
+Backward Time(s): 1.0990
+Update Time(s): 0.0283
+Emb Update Time(s): 44.3451
+#seeds: 37725
+#inputs: 14117895
+==========================================
+Part 27, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9168
+Loading Time(s): 7.6607
+Forward Time(s): 6.6487
+Backward Time(s): 1.1036
+Update Time(s): 0.0255
+Emb Update Time(s): 44.3408
+#seeds: 37725
+#inputs: 14095662
+=====================
+
+
+
+
+=====================
+Part 16, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8697
+Loading Time(s): 8.3825
+Forward Time(s): 5.9585
+Backward Time(s): 1.1113
+Update Time(s): 0.0242
+Emb Update Time(s): 44.3312
+#seeds: 37725
+#inputs: 17201215
+==========================================
+Part 19, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9642
+Loading Time(s): 8.8907
+Forward Time(s): 5.3397
+Backward Time(s): 1.1024
+Update Time(s): 0.0277
+Emb Update Time(s): 44.3330
+#seeds: 37724
+#inputs: 17107323
+==========================================
+Part 20, Epoch Time(s): 60.9213
+Sampling Time(s): 0.8704
+Loading Time(s): 8.7544
+Forward Time(s): 5.5842
+Backward Time(s): 1.1059
+Update Time(s): 0.0241
+Emb Update Time(s): 44.3366
+#seeds: 37724
+#inputs: 17136962
+=====================
+
+=====================
+Part 23, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9057
+Loading Time(s): 9.4262
+Forward Time(s): 4.8712
+Backward Time(s): 1.1029
+Update Time(s): 0.0264
+Emb Update Time(s): 44.3377
+#seeds: 37725
+#inputs: 17077938
+=====================
+=====================
+Part 21, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9204
+Loading Time(s): 9.7030
+Forward Time(s): 4.5867
+Backward Time(s): 1.1007
+Update Time(s): 0.0254
+Emb Update Time(s): 44.3300
+#seeds: 37724
+#inputs: 17143407
+==========================================
+Part 17, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9120
+Loading Time(s): 9.3789
+Forward Time(s): 4.9104
+Backward Time(s): 1.1104
+Update Time(s): 0.0235
+Emb Update Time(s): 44.3322
+#seeds: 37725
+#inputs: 17159904
+=====================
+=====================
+Part 22, Epoch Time(s): 60.9213
+Sampling Time(s): 1.0716
+Loading Time(s): 9.9324
+Forward Time(s): 4.2027
+Backward Time(s): 1.0991
+Update Time(s): 0.0267
+Emb Update Time(s): 44.3307
+#seeds: 37724
+#inputs: 17147614
+=====================
+
+
+=====================
+Part 18, Epoch Time(s): 60.9212
+Sampling Time(s): 1.0747
+Loading Time(s): 9.4149
+Forward Time(s): 4.7074
+Backward Time(s): 1.1089
+Update Time(s): 0.0268
+Emb Update Time(s): 44.3323
+#seeds: 37724
+#inputs: 17141836
+=====================
+=====================
+Part 8, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8554
+Loading Time(s): 11.1803
+Forward Time(s): 3.1735
+Backward Time(s): 1.1020
+Update Time(s): 0.0238
+Emb Update Time(s): 44.3386
+#seeds: 37724
+#inputs: 18298638
+==========================================
+Part 12, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8165
+Loading Time(s): 10.5123
+Forward Time(s): 3.8763
+Backward Time(s): 1.0948
+Update Time(s): 0.0237
+Emb Update Time(s): 44.3373
+#seeds: 37724
+#inputs: 18383852
+==========================================
+Part 10, Epoch Time(s): 60.9212
+Sampling Time(s): 0.8918
+Loading Time(s): 10.7382
+Forward Time(s): 3.5803
+Backward Time(s): 1.0978
+Update Time(s): 0.0238
+Emb Update Time(s): 44.3368
+#seeds: 37725
+#inputs: 18310575
+==========================================
+Part 15, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9340
+Loading Time(s): 10.7197
+Forward Time(s): 3.5845
+Backward Time(s): 1.0825
+Update Time(s): 0.0259
+Emb Update Time(s): 44.3185
+#seeds: 37724
+#inputs: 18296020
+==========================================
+Part 14, Epoch Time(s): 60.9212
+Sampling Time(s): 0.9059
+Loading Time(s): 11.0635
+Forward Time(s): 3.2351
+Backward Time(s): 1.0971
+Update Time(s): 0.0244
+Emb Update Time(s): 44.3444
+#seeds: 37724
+#inputs: 18254964
+==========================================
+Part 13, Epoch Time(s): 60.9213
+Sampling Time(s): 1.1046
+Loading Time(s): 11.7114
+Forward Time(s): 2.4135
+Backward Time(s): 1.0837
+Update Time(s): 0.0264
+Emb Update Time(s): 44.3212
+#seeds: 37725
+#inputs: 18293728
+=====================
+=====================
+Part 11, Epoch Time(s): 60.9213
+Sampling Time(s): 0.8715
+Loading Time(s): 11.1369
+Forward Time(s): 3.2038
+Backward Time(s): 1.0968
+Update Time(s): 0.0237
+Emb Update Time(s): 44.3394
+#seeds: 37724
+#inputs: 18234624
+=====================
+
+
+
+
+=====================
+Part 9, Epoch Time(s): 60.9212
+Sampling Time(s): 1.0919
+Loading Time(s): 10.8079
+Forward Time(s): 3.3190
+Backward Time(s): 1.0950
+Update Time(s): 0.0258
+Emb Update Time(s): 44.3247
+#seeds: 37725
+#inputs: 18286017
+=====================
+
+=====================
+Part 0, Epoch Time(s): 60.1326
+Sampling Time(s): 0.9601
+Loading Time(s): 11.6786
+Forward Time(s): 2.8549
+Backward Time(s): 1.0880
+Update Time(s): 0.0224
+Emb Update Time(s): 43.2849
+#seeds: 37724
+#inputs: 17129856
+==========================================
+Part 4, Epoch Time(s): 60.1326
+Sampling Time(s): 0.9897
+Loading Time(s): 11.8043
+Forward Time(s): 2.6881
+Backward Time(s): 1.0878
+Update Time(s): 0.0245
+Emb Update Time(s): 43.2915
+#seeds: 37724
+#inputs: 17050558
+==========================================
+Part 2, Epoch Time(s): 60.1326
+Sampling Time(s): 0.9706
+Loading Time(s): 11.1733
+Forward Time(s): 3.3318
+Backward Time(s): 1.0963
+Update Time(s): 0.0233
+Emb Update Time(s): 43.2926
+#seeds: 37725
+#inputs: 17145006
+==========================================
+Part 7, Epoch Time(s): 60.1326
+Sampling Time(s): 1.0256
+Loading Time(s): 11.1371
+Forward Time(s): 3.3208
+Backward Time(s): 1.0886
+Update Time(s): 0.0237
+Emb Update Time(s): 43.2968
+#seeds: 37724
+#inputs: 17156078
+==========================================
+Part 1, Epoch Time(s): 60.1326
+Sampling Time(s): 0.9527
+Loading Time(s): 11.1794
+Forward Time(s): 3.3298
+Backward Time(s): 1.1009
+Update Time(s): 0.0236
+Emb Update Time(s): 43.2974
+#seeds: 37725
+#inputs: 17018682
+=====================
+
+
+=====================
+Part 3, Epoch Time(s): 60.1327
+Sampling Time(s): 0.9343
+Loading Time(s): 11.3381
+Forward Time(s): 3.1897
+Backward Time(s): 1.0977
+Update Time(s): 0.0232
+Emb Update Time(s): 43.3006
+#seeds: 37725
+#inputs: 17065301
+=====================
+
+
+=====================
+Part 6, Epoch Time(s): 60.1327
+Sampling Time(s): 1.0656
+Loading Time(s): 10.8828
+Forward Time(s): 3.5366
+Backward Time(s): 1.0844
+Update Time(s): 0.0285
+Emb Update Time(s): 43.2879
+#seeds: 37724
+#inputs: 17107017
+==========================================
+Part 5, Epoch Time(s): 60.1328
+Sampling Time(s): 0.9995
+Loading Time(s): 11.4936
+Forward Time(s): 2.9953
+Backward Time(s): 1.0781
+Update Time(s): 0.0302
+Emb Update Time(s): 43.2781
+#seeds: 37724
+#inputs: 17070587
+=====================
+
+=====================
+Part 16, Epoch Time(s): 60.1331
+Sampling Time(s): 1.0692
+Loading Time(s): 8.3962
+Forward Time(s): 5.9712
+Backward Time(s): 1.1089
+Update Time(s): 0.0232
+Emb Update Time(s): 43.3166
+#seeds: 37725
+#inputs: 17187431
+==========================================
+Part 20, Epoch Time(s): 60.1327
+Sampling Time(s): 0.9722
+Loading Time(s): 9.3242
+Forward Time(s): 5.1612
+Backward Time(s): 1.0953
+Update Time(s): 0.0236
+Emb Update Time(s): 43.3109
+#seeds: 37724
+#inputs: 17145027
+==========================================
+Part 17, Epoch Time(s): 60.1327
+Sampling Time(s): 0.9338
+Loading Time(s): 9.6410
+Forward Time(s): 4.8651
+Backward Time(s): 1.1031
+Update Time(s): 0.0235
+Emb Update Time(s): 43.3104
+#seeds: 37725
+#inputs: 17156728
+==========================================
+Part 21, Epoch Time(s): 60.1327
+Sampling Time(s): 1.0443
+Loading Time(s): 9.4106
+Forward Time(s): 4.9865
+Backward Time(s): 1.0987
+Update Time(s): 0.0260
+Emb Update Time(s): 43.3124
+#seeds: 37724
+#inputs: 17148966
+=====================
+
+=====================
+Part 23, Epoch Time(s): 60.1332
+Sampling Time(s): 0.9758
+Loading Time(s): 9.9567
+Forward Time(s): 4.5077
+Backward Time(s): 1.0912
+Update Time(s): 0.0252
+Emb Update Time(s): 43.3146
+#seeds: 37725
+#inputs: 17080780
+==========================================
+Part 19, Epoch Time(s): 60.1327
+Sampling Time(s): 1.1408
+Loading Time(s): 9.3143
+Forward Time(s): 4.9553
+Backward Time(s): 1.1054
+Update Time(s): 0.0317
+Emb Update Time(s): 43.3133
+#seeds: 37724
+#inputs: 17121565
+==========================================
+Part 18, Epoch Time(s): 60.1333
+Sampling Time(s): 1.2836
+Loading Time(s): 9.0589
+Forward Time(s): 5.0700
+Backward Time(s): 1.1061
+Update Time(s): 0.0281
+Emb Update Time(s): 43.3155
+#seeds: 37724
+#inputs: 17162118
+=====================
+
+
+
+
+=====================
+Part 22, Epoch Time(s): 60.1333
+Sampling Time(s): 1.2234
+Loading Time(s): 9.8926
+Forward Time(s): 4.3108
+Backward Time(s): 1.1027
+Update Time(s): 0.0287
+Emb Update Time(s): 43.3179
+#seeds: 37724
+#inputs: 17134503
+=====================
+=====================
+Part 25, Epoch Time(s): 60.1327
+Sampling Time(s): 0.8696
+Loading Time(s): 7.9539
+Forward Time(s): 6.6391
+Backward Time(s): 1.1053
+Update Time(s): 0.0236
+Emb Update Time(s): 43.3210
+#seeds: 37724
+#inputs: 14106906
+==========================================
+Part 29, Epoch Time(s): 60.1327
+Sampling Time(s): 1.1002
+Loading Time(s): 7.9813
+Forward Time(s): 6.3785
+Backward Time(s): 1.1003
+Update Time(s): 0.0240
+Emb Update Time(s): 43.3258
+#seeds: 37724
+#inputs: 14095248
+==========================================
+Part 27, Epoch Time(s): 60.1327
+Sampling Time(s): 1.0502
+Loading Time(s): 7.6719
+Forward Time(s): 6.7400
+Backward Time(s): 1.1021
+Update Time(s): 0.0260
+Emb Update Time(s): 43.3233
+#seeds: 37725
+#inputs: 14101297
+==========================================
+Part 28, Epoch Time(s): 60.1327
+Sampling Time(s): 0.9363
+Loading Time(s): 7.7267
+Forward Time(s): 6.8012
+Backward Time(s): 1.1015
+Update Time(s): 0.0241
+Emb Update Time(s): 43.3244
+#seeds: 37724
+#inputs: 14123251
+=====================
+
+
+=====================
+Part 30, Epoch Time(s): 60.1327
+Sampling Time(s): 0.9047
+Loading Time(s): 8.3814
+Forward Time(s): 6.1762
+Backward Time(s): 1.0992
+Update Time(s): 0.0247
+Emb Update Time(s): 43.3262
+#seeds: 37724
+#inputs: 14126692
+==========================================
+Part 31, Epoch Time(s): 60.1328
+Sampling Time(s): 1.1086
+Loading Time(s): 8.5227
+Forward Time(s): 5.8157
+Backward Time(s): 1.0991
+Update Time(s): 0.0298
+Emb Update Time(s): 43.3264
+#seeds: 37725
+#inputs: 14120707
+==========================================
+Part 24, Epoch Time(s): 60.1328
+Sampling Time(s): 1.1241
+Loading Time(s): 9.0079
+Forward Time(s): 5.3261
+Backward Time(s): 1.1072
+Update Time(s): 0.0262
+Emb Update Time(s): 43.3179
+#seeds: 37724
+#inputs: 14062548
+=====================
+
+
+
+=====================
+Part 26, Epoch Time(s): 60.1328
+Sampling Time(s): 1.1319
+Loading Time(s): 8.7904
+Forward Time(s): 5.5419
+Backward Time(s): 1.1042
+Update Time(s): 0.0240
+Emb Update Time(s): 43.3219
+#seeds: 37724
+#inputs: 14057232
+=====================
+=====================
+Part 8, Epoch Time(s): 60.1327
+Sampling Time(s): 1.0066
+Loading Time(s): 10.8163
+Forward Time(s): 3.6143
+Backward Time(s): 1.1040
+Update Time(s): 0.0236
+Emb Update Time(s): 43.3221
+#seeds: 37724
+#inputs: 18296429
+==========================================
+Part 9, Epoch Time(s): 60.1327
+Sampling Time(s): 1.2686
+Loading Time(s): 10.6320
+Forward Time(s): 3.5140
+Backward Time(s): 1.1029
+Update Time(s): 0.0263
+Emb Update Time(s): 43.3214
+#seeds: 37725
+#inputs: 18277237
+==========================================
+Part 12, Epoch Time(s): 60.1327
+Sampling Time(s): 1.0266
+Loading Time(s): 10.9284
+Forward Time(s): 3.5142
+Backward Time(s): 1.0845
+Update Time(s): 0.0234
+Emb Update Time(s): 43.3070
+#seeds: 37724
+#inputs: 18373525
+=====================
+
+=====================
+Part 10, Epoch Time(s): 60.1327
+Sampling Time(s): 0.9604
+Loading Time(s): 11.1480
+Forward Time(s): 3.3235
+Backward Time(s): 1.1010
+Update Time(s): 0.0241
+Emb Update Time(s): 43.3242
+#seeds: 37725
+#inputs: 18291932
+=====================
+=====================
+Part 11, Epoch Time(s): 60.1326
+Sampling Time(s): 1.0060
+Loading Time(s): 11.1568
+Forward Time(s): 3.2625
+Backward Time(s): 1.0954
+Update Time(s): 0.0245
+Emb Update Time(s): 43.3203
+#seeds: 37724
+#inputs: 18227397
+==========================================
+Part 14, Epoch Time(s): 60.1327
+Sampling Time(s): 1.0264
+Loading Time(s): 11.3671
+Forward Time(s): 3.0526
+Backward Time(s): 1.0851
+Update Time(s): 0.0252
+Emb Update Time(s): 43.3200
+#seeds: 37724
+#inputs: 18248128
+==========================================
+Part 13, Epoch Time(s): 60.1328
+Sampling Time(s): 1.2237
+Loading Time(s): 11.5267
+Forward Time(s): 2.7248
+Backward Time(s): 1.0808
+Update Time(s): 0.0271
+Emb Update Time(s): 43.2973
+#seeds: 37725
+#inputs: 18295064
+==========================================
+Part 15, Epoch Time(s): 60.1327
+Sampling Time(s): 1.0625
+Loading Time(s): 10.3216
+Forward Time(s): 4.0542
+Backward Time(s): 1.0924
+Update Time(s): 0.0244
+Emb Update Time(s): 43.3221
+#seeds: 37724
+#inputs: 18294328
+=====================
+
+
+
+
+=====================
+Part 0, Epoch Time(s): 60.6486
+Sampling Time(s): 0.8684
+Loading Time(s): 11.2895
+Forward Time(s): 2.8892
+Backward Time(s): 1.0937
+Update Time(s): 0.0221
+Emb Update Time(s): 44.2465
+#seeds: 37724
+#inputs: 17114317
+==========================================
+Part 2, Epoch Time(s): 60.6485
+Sampling Time(s): 0.8672
+Loading Time(s): 11.3713
+Forward Time(s): 2.7675
+Backward Time(s): 1.1040
+Update Time(s): 0.0226
+Emb Update Time(s): 44.2613
+#seeds: 37725
+#inputs: 17141722
+==========================================
+Part 4, Epoch Time(s): 60.6485
+Sampling Time(s): 0.8785
+Loading Time(s): 11.4652
+Forward Time(s): 2.6742
+Backward Time(s): 1.0977
+Update Time(s): 0.0245
+Emb Update Time(s): 44.2624
+#seeds: 37724
+#inputs: 17039423
+=====================
+
+
+=====================
+Part 7, Epoch Time(s): 60.6485
+Sampling Time(s): 0.8493
+Loading Time(s): 10.6726
+Forward Time(s): 3.4910
+Backward Time(s): 1.0966
+Update Time(s): 0.0233
+Emb Update Time(s): 44.2615
+#seeds: 37724
+#inputs: 17153984
+==========================================
+Part 3, Epoch Time(s): 60.6485
+Sampling Time(s): 0.8189
+Loading Time(s): 11.0774
+Forward Time(s): 3.1296
+Backward Time(s): 1.1013
+Update Time(s): 0.0225
+Emb Update Time(s): 44.2578
+#seeds: 37725
+#inputs: 17068287
+==========================================
+Part 5, Epoch Time(s): 60.6487
+Sampling Time(s): 0.9910
+Loading Time(s): 11.8491
+Forward Time(s): 2.1675
+Backward Time(s): 1.0887
+Update Time(s): 0.0333
+Emb Update Time(s): 44.2511
+#seeds: 37724
+#inputs: 17072350
+==========================================
+Part 1, Epoch Time(s): 60.6485
+Sampling Time(s): 0.8955
+Loading Time(s): 11.3931
+Forward Time(s): 2.7335
+Backward Time(s): 1.0906
+Update Time(s): 0.0275
+Emb Update Time(s): 44.2495
+#seeds: 37725
+#inputs: 17004823
+==========================================
+Part 6, Epoch Time(s): 60.6485
+Sampling Time(s): 0.9143
+Loading Time(s): 11.0957
+Forward Time(s): 3.0371
+Backward Time(s): 1.0849
+Update Time(s): 0.0244
+Emb Update Time(s): 44.2468
+#seeds: 37724
+#inputs: 17123887
+=====================
+
+
+
+
+=====================
+Part 16, Epoch Time(s): 60.6486
+Sampling Time(s): 0.8694
+Loading Time(s): 8.5129
+Forward Time(s): 5.6110
+Backward Time(s): 1.1062
+Update Time(s): 0.0237
+Emb Update Time(s): 44.2793
+#seeds: 37725
+#inputs: 17182926
+==========================================
+Part 19, Epoch Time(s): 60.6485
+Sampling Time(s): 0.9796
+Loading Time(s): 8.9474
+Forward Time(s): 5.0252
+Backward Time(s): 1.1085
+Update Time(s): 0.0270
+Emb Update Time(s): 44.2820
+#seeds: 37724
+#inputs: 17121577
+==========================================
+Part 20, Epoch Time(s): 60.6485
+Sampling Time(s): 0.8715
+Loading Time(s): 9.4128
+Forward Time(s): 4.6880
+Backward Time(s): 1.1063
+Update Time(s): 0.0235
+Emb Update Time(s): 44.2859
+#seeds: 37724
+#inputs: 17128873
+==========================================
+Part 18, Epoch Time(s): 60.6485
+Sampling Time(s): 1.0902
+Loading Time(s): 8.8453
+Forward Time(s): 5.0548
+Backward Time(s): 1.1036
+Update Time(s): 0.0252
+Emb Update Time(s): 44.2770
+#seeds: 37724
+#inputs: 17157257
+=====================
+
+
+
+=====================
+Part 23, Epoch Time(s): 60.6485
+Sampling Time(s): 0.8861
+Loading Time(s): 9.6499
+Forward Time(s): 4.4452
+Backward Time(s): 1.1052
+Update Time(s): 0.0252
+Emb Update Time(s): 44.2851
+#seeds: 37725
+#inputs: 17078561
+==========================================
+Part 17, Epoch Time(s): 60.6485
+Sampling Time(s): 0.9559
+Loading Time(s): 9.6964
+Forward Time(s): 4.3266
+Backward Time(s): 1.1097
+Update Time(s): 0.0235
+Emb Update Time(s): 44.2822
+#seeds: 37725
+#inputs: 17157835
+==========================================
+Part 21, Epoch Time(s): 60.6485
+Sampling Time(s): 0.9342
+Loading Time(s): 9.6694
+Forward Time(s): 4.3776
+Backward Time(s): 1.1054
+Update Time(s): 0.0247
+Emb Update Time(s): 44.2856
+#seeds: 37724
+#inputs: 17145471
+=====================
+
+
+=====================
+Part 22, Epoch Time(s): 60.6485
+Sampling Time(s): 1.0266
+Loading Time(s): 10.0854
+Forward Time(s): 3.8671
+Backward Time(s): 1.1044
+Update Time(s): 0.0266
+Emb Update Time(s): 44.2849
+#seeds: 37724
+#inputs: 17151466
+=====================
+=====================
+Part 8, Epoch Time(s): 60.6486
+Sampling Time(s): 0.8635
+Loading Time(s): 11.0515
+Forward Time(s): 3.0839
+Backward Time(s): 1.1013
+Update Time(s): 0.0226
+Emb Update Time(s): 44.2807
+#seeds: 37724
+#inputs: 18273104
+=====================
+=====================
+Part 13, Epoch Time(s): 60.6485
+Sampling Time(s): 1.0939
+Loading Time(s): 11.3720
+Forward Time(s): 2.5428
+Backward Time(s): 1.0859
+Update Time(s): 0.0259
+Emb Update Time(s): 44.2685
+#seeds: 37725
+#inputs: 18301287
+==========================================
+Part 14, Epoch Time(s): 60.6485
+Sampling Time(s): 0.9465
+Loading Time(s): 11.1569
+Forward Time(s): 2.9147
+Backward Time(s): 1.0813
+Update Time(s): 0.0265
+Emb Update Time(s): 44.2675
+#seeds: 37724
+#inputs: 18241726
+==========================================
+Part 12, Epoch Time(s): 60.6486
+Sampling Time(s): 0.9261
+Loading Time(s): 11.1055
+Forward Time(s): 2.9841
+Backward Time(s): 1.0880
+Update Time(s): 0.0229
+Emb Update Time(s): 44.2721
+#seeds: 37724
+#inputs: 18379122
+==========================================
+Part 11, Epoch Time(s): 60.6486
+Sampling Time(s): 0.9138
+Loading Time(s): 11.2061
+Forward Time(s): 2.8683
+Backward Time(s): 1.1004
+Update Time(s): 0.0238
+Emb Update Time(s): 44.2844
+#seeds: 37724
+#inputs: 18231232
+==========================================
+Part 9, Epoch Time(s): 60.6487
+Sampling Time(s): 1.1560
+Loading Time(s): 10.8381
+Forward Time(s): 3.0015
+Backward Time(s): 1.0919
+Update Time(s): 0.0250
+Emb Update Time(s): 44.2736
+#seeds: 37725
+#inputs: 18282065
+=====================
+
+
+
+=====================
+Part 10, Epoch Time(s): 60.6486
+Sampling Time(s): 0.9268
+Loading Time(s): 11.2011
+Forward Time(s): 2.8758
+Backward Time(s): 1.0917
+Update Time(s): 0.0255
+Emb Update Time(s): 44.2721
+#seeds: 37725
+#inputs: 18302528
+=====================
+
+=====================
+Part 15, Epoch Time(s): 60.6486
+Sampling Time(s): 0.9444
+Loading Time(s): 10.5577
+Forward Time(s): 3.4919
+Backward Time(s): 1.0948
+Update Time(s): 0.0243
+Emb Update Time(s): 44.2868
+#seeds: 37724
+#inputs: 18310641
+=====================
+=====================
+Part 26, Epoch Time(s): 60.6486
+Sampling Time(s): 0.9098
+Loading Time(s): 7.9335
+Forward Time(s): 6.1724
+Backward Time(s): 1.1060
+Update Time(s): 0.0246
+Emb Update Time(s): 44.2860
+#seeds: 37724
+#inputs: 14055760
+==========================================
+Part 24, Epoch Time(s): 60.6485
+Sampling Time(s): 1.0849
+Loading Time(s): 9.1990
+Forward Time(s): 4.7216
+Backward Time(s): 1.1042
+Update Time(s): 0.0280
+Emb Update Time(s): 44.2815
+#seeds: 37724
+#inputs: 14060231
+==========================================
+Part 25, Epoch Time(s): 60.6486
+Sampling Time(s): 0.7874
+Loading Time(s): 8.3705
+Forward Time(s): 5.8568
+Backward Time(s): 1.1095
+Update Time(s): 0.0231
+Emb Update Time(s): 44.2848
+#seeds: 37724
+#inputs: 14106275
+==========================================
+Part 30, Epoch Time(s): 60.6486
+Sampling Time(s): 0.8474
+Loading Time(s): 8.3001
+Forward Time(s): 5.8575
+Backward Time(s): 1.1025
+Update Time(s): 0.0254
+Emb Update Time(s): 44.2898
+#seeds: 37724
+#inputs: 14127587
+==========================================
+Part 29, Epoch Time(s): 60.6486
+Sampling Time(s): 0.9305
+Loading Time(s): 8.0714
+Forward Time(s): 6.0082
+Backward Time(s): 1.1024
+Update Time(s): 0.0245
+Emb Update Time(s): 44.2905
+#seeds: 37724
+#inputs: 14097602
+==========================================
+Part 31, Epoch Time(s): 60.6486
+Sampling Time(s): 0.9333
+Loading Time(s): 8.4596
+Forward Time(s): 5.6135
+Backward Time(s): 1.1025
+Update Time(s): 0.0253
+Emb Update Time(s): 44.2910
+#seeds: 37725
+#inputs: 14116355
+==========================================
+Part 27, Epoch Time(s): 60.6486
+Sampling Time(s): 0.8362
+Loading Time(s): 7.1373
+Forward Time(s): 7.0406
+Backward Time(s): 1.1047
+Update Time(s): 0.0250
+Emb Update Time(s): 44.2881
+#seeds: 37725
+#inputs: 14089515
+=====================
+
+
+
+
+
+
+=====================
+Part 28, Epoch Time(s): 60.6489
+Sampling Time(s): 1.0012
+Loading Time(s): 8.1498
+Forward Time(s): 5.8453
+Backward Time(s): 1.1031
+Update Time(s): 0.0287
+Emb Update Time(s): 44.2875
+#seeds: 37724
+#inputs: 14123847
+=====================
+=====================
+Part 2, Epoch Time(s): 60.2001
+Sampling Time(s): 0.8193
+Loading Time(s): 11.4542
+Forward Time(s): 3.0502
+Backward Time(s): 1.0879
+Update Time(s): 0.0231
+Emb Update Time(s): 43.5244
+#seeds: 37725
+#inputs: 17143927
+==========================================
+Part 0, Epoch Time(s): 60.2001
+Sampling Time(s): 0.9228
+Loading Time(s): 11.6502
+Forward Time(s): 2.7679
+Backward Time(s): 1.0808
+Update Time(s): 0.0221
+Emb Update Time(s): 43.5164
+#seeds: 37724
+#inputs: 17132449
+==========================================
+Part 1, Epoch Time(s): 60.2001
+Sampling Time(s): 0.8871
+Loading Time(s): 11.2610
+Forward Time(s): 3.1423
+Backward Time(s): 1.0997
+Update Time(s): 0.0237
+Emb Update Time(s): 43.5452
+#seeds: 37725
+#inputs: 17023582
+==========================================
+Part 3, Epoch Time(s): 60.2001
+Sampling Time(s): 0.9051
+Loading Time(s): 11.1416
+Forward Time(s): 3.2533
+Backward Time(s): 1.0909
+Update Time(s): 0.0232
+Emb Update Time(s): 43.5336
+#seeds: 37725
+#inputs: 17049913
+==========================================
+Part 6, Epoch Time(s): 60.2002
+Sampling Time(s): 0.8551
+Loading Time(s): 10.5178
+Forward Time(s): 3.9018
+Backward Time(s): 1.1032
+Update Time(s): 0.0231
+Emb Update Time(s): 43.5575
+#seeds: 37724
+#inputs: 17117166
+=====================
+=====================
+Part 7, Epoch Time(s): 60.2001
+Sampling Time(s): 0.8289
+Loading Time(s): 10.9563
+Forward Time(s): 3.5235
+Backward Time(s): 1.0844
+Update Time(s): 0.0233
+Emb Update Time(s): 43.5404
+#seeds: 37724
+#inputs: 17164216
+=====================
+
+
+=====================
+Part 5, Epoch Time(s): 60.2003
+Sampling Time(s): 1.0035
+Loading Time(s): 11.6164
+Forward Time(s): 2.6774
+Backward Time(s): 1.0824
+Update Time(s): 0.0331
+Emb Update Time(s): 43.5281
+#seeds: 37724
+#inputs: 17070381
+=====================
+=====================
+Part 4, Epoch Time(s): 60.2002
+Sampling Time(s): 0.9304
+Loading Time(s): 11.2666
+Forward Time(s): 3.1146
+Backward Time(s): 1.0868
+Update Time(s): 0.0255
+Emb Update Time(s): 43.5287
+#seeds: 37724
+#inputs: 17024755
+=====================
+
+
+=====================
+Part 16, Epoch Time(s): 60.2001
+Sampling Time(s): 0.9056
+Loading Time(s): 8.4627
+Forward Time(s): 5.9002
+Backward Time(s): 1.1053
+Update Time(s): 0.0234
+Emb Update Time(s): 43.5558
+#seeds: 37725
+#inputs: 17195447
+==========================================
+Part 20, Epoch Time(s): 60.2001
+Sampling Time(s): 0.9171
+Loading Time(s): 9.3201
+Forward Time(s): 5.0241
+Backward Time(s): 1.0965
+Update Time(s): 0.0254
+Emb Update Time(s): 43.5596
+#seeds: 37724
+#inputs: 17129213
+==========================================
+Part 19, Epoch Time(s): 60.2002
+Sampling Time(s): 0.8496
+Loading Time(s): 8.8444
+Forward Time(s): 5.5753
+Backward Time(s): 1.0960
+Update Time(s): 0.0251
+Emb Update Time(s): 43.5524
+#seeds: 37724
+#inputs: 17126331
+==========================================
+Part 17, Epoch Time(s): 60.2001
+Sampling Time(s): 0.9128
+Loading Time(s): 9.9342
+Forward Time(s): 4.4171
+Backward Time(s): 1.1046
+Update Time(s): 0.0236
+Emb Update Time(s): 43.5559
+#seeds: 37725
+#inputs: 17167277
+=====================
+
+
+=====================
+Part 22, Epoch Time(s): 60.2002
+Sampling Time(s): 1.0097
+Loading Time(s): 9.8560
+Forward Time(s): 4.3764
+Backward Time(s): 1.0981
+Update Time(s): 0.0265
+Emb Update Time(s): 43.5601
+#seeds: 37724
+#inputs: 17145026
+=====================
+=====================
+Part 21, Epoch Time(s): 60.2002
+Sampling Time(s): 0.9302
+Loading Time(s): 9.7267
+Forward Time(s): 4.5966
+Backward Time(s): 1.0987
+Update Time(s): 0.0247
+Emb Update Time(s): 43.5608
+#seeds: 37724
+#inputs: 17127958
+==========================================
+Part 18, Epoch Time(s): 60.2002
+Sampling Time(s): 1.0631
+Loading Time(s): 8.7208
+Forward Time(s): 5.4806
+Backward Time(s): 1.1033
+Update Time(s): 0.0252
+Emb Update Time(s): 43.5572
+#seeds: 37724
+#inputs: 17154801
+=====================
+
+=====================
+Part 23, Epoch Time(s): 60.2002
+Sampling Time(s): 0.8874
+Loading Time(s): 9.4765
+Forward Time(s): 4.9048
+Backward Time(s): 1.0984
+Update Time(s): 0.0253
+Emb Update Time(s): 43.5607
+#seeds: 37725
+#inputs: 17092791
+=====================
+
+=====================
+Part 8, Epoch Time(s): 60.2002
+Sampling Time(s): 0.8456
+Loading Time(s): 10.8225
+Forward Time(s): 3.6228
+Backward Time(s): 1.0877
+Update Time(s): 0.0230
+Emb Update Time(s): 43.5433
+#seeds: 37724
+#inputs: 18292516
+==========================================
+Part 12, Epoch Time(s): 60.2001
+Sampling Time(s): 0.9015
+Loading Time(s): 10.9672
+Forward Time(s): 3.4106
+Backward Time(s): 1.0886
+Update Time(s): 0.0233
+Emb Update Time(s): 43.5603
+#seeds: 37724
+#inputs: 18368868
+==========================================
+Part 15, Epoch Time(s): 60.2001
+Sampling Time(s): 0.8833
+Loading Time(s): 10.6587
+Forward Time(s): 3.7255
+Backward Time(s): 1.0868
+Update Time(s): 0.0243
+Emb Update Time(s): 43.5628
+#seeds: 37724
+#inputs: 18293980
+=====================
+
+=====================
+Part 10, Epoch Time(s): 60.2001
+Sampling Time(s): 1.0383
+Loading Time(s): 11.0925
+Forward Time(s): 3.1323
+Backward Time(s): 1.0920
+Update Time(s): 0.0232
+Emb Update Time(s): 43.5670
+#seeds: 37725
+#inputs: 18288784
+==========================================
+Part 11, Epoch Time(s): 60.2001
+Sampling Time(s): 0.9354
+Loading Time(s): 11.3868
+Forward Time(s): 2.9930
+Backward Time(s): 1.0771
+Update Time(s): 0.0238
+Emb Update Time(s): 43.5381
+#seeds: 37724
+#inputs: 18225440
+=====================
+=====================
+Part 13, Epoch Time(s): 60.2002
+Sampling Time(s): 1.0293
+Loading Time(s): 11.5698
+Forward Time(s): 2.6994
+Backward Time(s): 1.0723
+Update Time(s): 0.0261
+Emb Update Time(s): 43.5412
+#seeds: 37725
+#inputs: 18296852
+=====================
+
+=====================
+Part 14, Epoch Time(s): 60.2002
+Sampling Time(s): 0.9023
+Loading Time(s): 11.0788
+Forward Time(s): 3.3086
+Backward Time(s): 1.0806
+Update Time(s): 0.0251
+Emb Update Time(s): 43.5536
+#seeds: 37724
+#inputs: 18252230
+=====================
+
+=====================
+Part 9, Epoch Time(s): 60.2003
+Sampling Time(s): 1.1860
+Loading Time(s): 10.7982
+Forward Time(s): 3.2789
+Backward Time(s): 1.0916
+Update Time(s): 0.0287
+Emb Update Time(s): 43.5558
+#seeds: 37725
+#inputs: 18285024
+=====================
+=====================
+Part 24, Epoch Time(s): 60.2002
+Sampling Time(s): 1.0194
+Loading Time(s): 9.2288
+Forward Time(s): 5.0406
+Backward Time(s): 1.1017
+Update Time(s): 0.0270
+Emb Update Time(s): 43.5603
+#seeds: 37724
+#inputs: 14069488
+==========================================
+Part 26, Epoch Time(s): 60.2001
+Sampling Time(s): 0.8493
+Loading Time(s): 6.8991
+Forward Time(s): 7.5477
+Backward Time(s): 1.0981
+Update Time(s): 0.0220
+Emb Update Time(s): 43.5649
+#seeds: 37724
+#inputs: 14062716
+==========================================
+Part 27, Epoch Time(s): 60.2002
+Sampling Time(s): 0.8783
+Loading Time(s): 7.1903
+Forward Time(s): 7.2279
+Backward Time(s): 1.0970
+Update Time(s): 0.0243
+Emb Update Time(s): 43.5655
+#seeds: 37725
+#inputs: 14086596
+==========================================
+Part 25, Epoch Time(s): 60.2002
+Sampling Time(s): 0.7938
+Loading Time(s): 7.9750
+Forward Time(s): 6.5219
+Backward Time(s): 1.1001
+Update Time(s): 0.0235
+Emb Update Time(s): 43.5634
+#seeds: 37724
+#inputs: 14113171
+==========================================
+Part 29, Epoch Time(s): 60.2001
+Sampling Time(s): 0.8427
+Loading Time(s): 7.5360
+Forward Time(s): 6.9195
+Backward Time(s): 1.0949
+Update Time(s): 0.0236
+Emb Update Time(s): 43.5673
+#seeds: 37724
+#inputs: 14095822
+=====================
+
+
+
+
+=====================
+Part 31, Epoch Time(s): 60.2002
+Sampling Time(s): 0.8545
+Loading Time(s): 8.8833
+Forward Time(s): 5.5564
+Backward Time(s): 1.0880
+Update Time(s): 0.0253
+Emb Update Time(s): 43.5637
+#seeds: 37725
+#inputs: 14126578
+==========================================
+Part 30, Epoch Time(s): 60.2002
+Sampling Time(s): 0.8269
+Loading Time(s): 8.6783
+Forward Time(s): 5.7920
+Backward Time(s): 1.0879
+Update Time(s): 0.0248
+Emb Update Time(s): 43.5674
+#seeds: 37724
+#inputs: 14132720
+=====================
+
+=====================
+Part 28, Epoch Time(s): 60.2002
+Sampling Time(s): 0.9922
+Loading Time(s): 8.9908
+Forward Time(s): 5.2856
+Backward Time(s): 1.0959
+Update Time(s): 0.0332
+Emb Update Time(s): 43.5625
+#seeds: 37724
+#inputs: 14116168
+=====================
+=====================
+Part 0, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8563
+Loading Time(s): 11.7166
+Forward Time(s): 2.8843
+Backward Time(s): 1.0887
+Update Time(s): 0.0223
+Emb Update Time(s): 43.9027
+#seeds: 37724
+#inputs: 17114600
+==========================================
+Part 3, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8546
+Loading Time(s): 10.8386
+Forward Time(s): 3.7278
+Backward Time(s): 1.1017
+Update Time(s): 0.0228
+Emb Update Time(s): 43.9269
+#seeds: 37725
+#inputs: 17069653
+==========================================
+Part 2, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8448
+Loading Time(s): 11.2999
+Forward Time(s): 3.2832
+Backward Time(s): 1.0930
+Update Time(s): 0.0229
+Emb Update Time(s): 43.9111
+#seeds: 37725
+#inputs: 17133251
+==========================================
+Part 6, Epoch Time(s): 60.7148
+Sampling Time(s): 0.9147
+Loading Time(s): 10.5585
+Forward Time(s): 3.9477
+Backward Time(s): 1.0982
+Update Time(s): 0.0232
+Emb Update Time(s): 43.9302
+#seeds: 37724
+#inputs: 17104434
+=====================
+
+
+=====================
+Part 4, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8409
+Loading Time(s): 11.7136
+Forward Time(s): 2.9261
+Backward Time(s): 1.0753
+Update Time(s): 0.0237
+Emb Update Time(s): 43.8929
+#seeds: 37724
+#inputs: 17044868
+==========================================
+Part 7, Epoch Time(s): 60.7149
+Sampling Time(s): 0.8726
+Loading Time(s): 11.1423
+Forward Time(s): 3.4324
+Backward Time(s): 1.0875
+Update Time(s): 0.0232
+Emb Update Time(s): 43.9173
+#seeds: 37724
+#inputs: 17170468
+=====================
+=====================
+Part 1, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8647
+Loading Time(s): 11.7462
+Forward Time(s): 2.8358
+Backward Time(s): 1.0876
+Update Time(s): 0.0230
+Emb Update Time(s): 43.9134
+#seeds: 37725
+#inputs: 17021616
+=====================
+
+
+=====================
+Part 5, Epoch Time(s): 60.7150
+Sampling Time(s): 0.9702
+Loading Time(s): 11.4182
+Forward Time(s): 3.0345
+Backward Time(s): 1.0859
+Update Time(s): 0.0334
+Emb Update Time(s): 43.9052
+#seeds: 37724
+#inputs: 17065650
+=====================
+=====================
+Part 16, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8546
+Loading Time(s): 8.1181
+Forward Time(s): 6.4315
+Backward Time(s): 1.1014
+Update Time(s): 0.0237
+Emb Update Time(s): 43.9384
+#seeds: 37725
+#inputs: 17173969
+==========================================
+Part 20, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8592
+Loading Time(s): 9.0858
+Forward Time(s): 5.4543
+Backward Time(s): 1.0974
+Update Time(s): 0.0247
+Emb Update Time(s): 43.9412
+#seeds: 37724
+#inputs: 17146964
+==========================================
+Part 19, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8473
+Loading Time(s): 8.8044
+Forward Time(s): 5.7462
+Backward Time(s): 1.0978
+Update Time(s): 0.0252
+Emb Update Time(s): 43.9418
+#seeds: 37724
+#inputs: 17109094
+==========================================
+Part 18, Epoch Time(s): 60.7149
+Sampling Time(s): 1.0590
+Loading Time(s): 8.6937
+Forward Time(s): 5.6405
+Backward Time(s): 1.0981
+Update Time(s): 0.0275
+Emb Update Time(s): 43.9379
+#seeds: 37724
+#inputs: 17155036
+=====================
+
+=====================
+Part 17, Epoch Time(s): 60.7149
+Sampling Time(s): 0.8650
+Loading Time(s): 9.4697
+Forward Time(s): 5.0691
+Backward Time(s): 1.1003
+Update Time(s): 0.0231
+Emb Update Time(s): 43.9394
+#seeds: 37725
+#inputs: 17131901
+=====================
+
+=====================
+Part 23, Epoch Time(s): 60.7148
+Sampling Time(s): 0.9389
+Loading Time(s): 9.5455
+Forward Time(s): 4.9136
+Backward Time(s): 1.0953
+Update Time(s): 0.0261
+Emb Update Time(s): 43.9418
+#seeds: 37725
+#inputs: 17086912
+==========================================
+Part 21, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8850
+Loading Time(s): 9.9301
+Forward Time(s): 4.5839
+Backward Time(s): 1.0960
+Update Time(s): 0.0250
+Emb Update Time(s): 43.9417
+#seeds: 37724
+#inputs: 17156065
+==========================================
+Part 22, Epoch Time(s): 60.7149
+Sampling Time(s): 1.0595
+Loading Time(s): 10.1242
+Forward Time(s): 4.2251
+Backward Time(s): 1.0916
+Update Time(s): 0.0283
+Emb Update Time(s): 43.9339
+#seeds: 37724
+#inputs: 17147514
+=====================
+
+
+
+=====================
+Part 27, Epoch Time(s): 60.7148
+Sampling Time(s): 0.9027
+Loading Time(s): 7.2130
+Forward Time(s): 7.3204
+Backward Time(s): 1.0953
+Update Time(s): 0.0235
+Emb Update Time(s): 43.9463
+#seeds: 37725
+#inputs: 14086946
+==========================================
+Part 26, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8276
+Loading Time(s): 7.2309
+Forward Time(s): 7.3773
+Backward Time(s): 1.0968
+Update Time(s): 0.0227
+Emb Update Time(s): 43.9446
+#seeds: 37724
+#inputs: 14062306
+==========================================
+Part 25, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8302
+Loading Time(s): 8.2097
+Forward Time(s): 6.3873
+Backward Time(s): 1.0988
+Update Time(s): 0.0241
+Emb Update Time(s): 43.9423
+#seeds: 37724
+#inputs: 14097385
+==========================================
+Part 31, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8041
+Loading Time(s): 7.9571
+Forward Time(s): 6.6561
+Backward Time(s): 1.0928
+Update Time(s): 0.0251
+Emb Update Time(s): 43.9473
+#seeds: 37725
+#inputs: 14119255
+=====================
+
+
+=====================
+Part 29, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8821
+Loading Time(s): 8.3756
+Forward Time(s): 6.1688
+Backward Time(s): 1.0912
+Update Time(s): 0.0249
+Emb Update Time(s): 43.9478
+#seeds: 37724
+#inputs: 14104903
+=====================
+=====================
+Part 24, Epoch Time(s): 60.7149
+Sampling Time(s): 1.0027
+Loading Time(s): 9.5713
+Forward Time(s): 4.8550
+Backward Time(s): 1.0947
+Update Time(s): 0.0265
+Emb Update Time(s): 43.9361
+#seeds: 37724
+#inputs: 14058476
+==========================================
+Part 30, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8235
+Loading Time(s): 8.3680
+Forward Time(s): 6.2396
+Backward Time(s): 1.0892
+Update Time(s): 0.0246
+Emb Update Time(s): 43.9477
+#seeds: 37724
+#inputs: 14119698
+=====================
+
+
+=====================
+Part 28, Epoch Time(s): 60.7149
+Sampling Time(s): 1.0383
+Loading Time(s): 9.0407
+Forward Time(s): 5.3208
+Backward Time(s): 1.0948
+Update Time(s): 0.0344
+Emb Update Time(s): 43.9428
+#seeds: 37724
+#inputs: 14121762
+=====================
+=====================
+Part 8, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8228
+Loading Time(s): 10.9373
+Forward Time(s): 3.6555
+Backward Time(s): 1.0947
+Update Time(s): 0.0234
+Emb Update Time(s): 43.9356
+#seeds: 37724
+#inputs: 18299037
+==========================================
+Part 15, Epoch Time(s): 60.7149
+Sampling Time(s): 0.8801
+Loading Time(s): 10.4793
+Forward Time(s): 4.0680
+Backward Time(s): 1.0765
+Update Time(s): 0.0236
+Emb Update Time(s): 43.9311
+#seeds: 37724
+#inputs: 18305618
+==========================================
+Part 13, Epoch Time(s): 60.7149
+Sampling Time(s): 0.9970
+Loading Time(s): 11.5095
+Forward Time(s): 2.9153
+Backward Time(s): 1.0821
+Update Time(s): 0.0271
+Emb Update Time(s): 43.9333
+#seeds: 37725
+#inputs: 18303770
+==========================================
+Part 10, Epoch Time(s): 60.7148
+Sampling Time(s): 0.9657
+Loading Time(s): 11.3994
+Forward Time(s): 3.0489
+Backward Time(s): 1.0829
+Update Time(s): 0.0241
+Emb Update Time(s): 43.9366
+#seeds: 37725
+#inputs: 18285754
+==========================================
+Part 11, Epoch Time(s): 60.7148
+Sampling Time(s): 0.9488
+Loading Time(s): 11.1158
+Forward Time(s): 3.3280
+Backward Time(s): 1.0883
+Update Time(s): 0.0258
+Emb Update Time(s): 43.9388
+#seeds: 37724
+#inputs: 18227768
+==========================================
+Part 14, Epoch Time(s): 60.7148
+Sampling Time(s): 0.8753
+Loading Time(s): 11.5010
+Forward Time(s): 3.0516
+Backward Time(s): 1.0782
+Update Time(s): 0.0242
+Emb Update Time(s): 43.9325
+#seeds: 37724
+#inputs: 18259992
+=====================
+
+=====================
+Part 9, Epoch Time(s): 60.7149
+Sampling Time(s): 1.0659
+Loading Time(s): 11.3179
+Forward Time(s): 3.0119
+Backward Time(s): 1.0924
+Update Time(s): 0.0301
+Emb Update Time(s): 43.9318
+#seeds: 37725
+#inputs: 18290007
+==========================================
+Part 12, Epoch Time(s): 60.7149
+Sampling Time(s): 0.8813
+Loading Time(s): 11.2644
+Forward Time(s): 3.2856
+Backward Time(s): 1.0816
+Update Time(s): 0.0226
+Emb Update Time(s): 43.9347
+#seeds: 37724
+#inputs: 18381178
+=====================
+
+
+
+
+
+=====================
+Part 0, Epoch Time(s): 60.4021
+Sampling Time(s): 0.9006
+Loading Time(s): 11.5667
+Forward Time(s): 2.9643
+Backward Time(s): 1.0927
+Update Time(s): 0.0224
+Emb Update Time(s): 43.6102
+#seeds: 37724
+#inputs: 17124018
+==========================================
+Part 2, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8298
+Loading Time(s): 11.0851
+Forward Time(s): 3.5224
+Backward Time(s): 1.0911
+Update Time(s): 0.0235
+Emb Update Time(s): 43.6101
+#seeds: 37725
+#inputs: 17126032
+==========================================
+Part 3, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8452
+Loading Time(s): 11.3266
+Forward Time(s): 3.2506
+Backward Time(s): 1.0853
+Update Time(s): 0.0233
+Emb Update Time(s): 43.6201
+#seeds: 37725
+#inputs: 17062837
+=====================
+
+
+=====================
+Part 5, Epoch Time(s): 60.4018
+Sampling Time(s): 0.9396
+Loading Time(s): 11.8046
+Forward Time(s): 2.6964
+Backward Time(s): 1.0800
+Update Time(s): 0.0291
+Emb Update Time(s): 43.6049
+#seeds: 37724
+#inputs: 17067803
+==========================================
+Part 4, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8782
+Loading Time(s): 11.5728
+Forward Time(s): 3.0179
+Backward Time(s): 1.0732
+Update Time(s): 0.0238
+Emb Update Time(s): 43.5949
+#seeds: 37724
+#inputs: 17049184
+==========================================
+Part 1, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8322
+Loading Time(s): 11.4781
+Forward Time(s): 3.1215
+Backward Time(s): 1.0904
+Update Time(s): 0.0231
+Emb Update Time(s): 43.6169
+#seeds: 37725
+#inputs: 17017399
+=====================
+=====================
+Part 7, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8549
+Loading Time(s): 11.3645
+Forward Time(s): 3.2279
+Backward Time(s): 1.0784
+Update Time(s): 0.0237
+Emb Update Time(s): 43.6102
+#seeds: 37724
+#inputs: 17162405
+=====================
+
+
+=====================
+Part 6, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8146
+Loading Time(s): 10.4903
+Forward Time(s): 4.1066
+Backward Time(s): 1.0945
+Update Time(s): 0.0236
+Emb Update Time(s): 43.6291
+#seeds: 37724
+#inputs: 17129168
+=====================
+Rank 2, Avg Epoch Time(s): 60.4196Rank 0, Avg Epoch Time(s): 60.4196Rank 1, Avg Epoch Time(s): 60.4196
+
+
+=====================
+Part 16, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8496
+Loading Time(s): 8.7404
+Forward Time(s): 5.7936
+Backward Time(s): 1.1012
+Update Time(s): 0.0237
+Emb Update Time(s): 43.6359
+#seeds: 37725
+#inputs: 17187098
+==========================================
+Part 18, Epoch Time(s): 60.4021
+Sampling Time(s): 1.1477
+Loading Time(s): 9.3460
+Forward Time(s): 4.8745
+Backward Time(s): 1.0981
+Update Time(s): 0.0274
+Emb Update Time(s): 43.6364
+#seeds: 37724
+#inputs: 17168517
+==========================================
+Part 19, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8601
+Loading Time(s): 8.1293
+Forward Time(s): 6.4056
+Backward Time(s): 1.0969
+Update Time(s): 0.0239
+Emb Update Time(s): 43.6395
+#seeds: 37724
+#inputs: 17119532
+==========================================
+Part 17, Epoch Time(s): 60.4021
+Sampling Time(s): 0.9013
+Loading Time(s): 9.6310
+Forward Time(s): 4.8627
+Backward Time(s): 1.0999
+Update Time(s): 0.0234
+Emb Update Time(s): 43.6364
+#seeds: 37725
+#inputs: 17148564
+==========================================
+Part 20, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8852
+Loading Time(s): 9.3615
+Forward Time(s): 5.1597
+Backward Time(s): 1.0909
+Update Time(s): 0.0244
+Emb Update Time(s): 43.6321
+#seeds: 37724
+#inputs: 17141751
+=====================
+
+
+
+
+=====================
+Part 21, Epoch Time(s): 60.4022
+Sampling Time(s): 0.9219
+Loading Time(s): 9.4540
+Forward Time(s): 5.0203
+Backward Time(s): 1.0916
+Update Time(s): 0.0251
+Emb Update Time(s): 43.6360
+#seeds: 37724
+#inputs: 17153422
+==========================================
+Part 22, Epoch Time(s): 60.4022
+Sampling Time(s): 1.0980
+Loading Time(s): 9.7971
+Forward Time(s): 4.4977
+Backward Time(s): 1.0952
+Update Time(s): 0.0266
+Emb Update Time(s): 43.6386
+#seeds: 37724
+#inputs: 17144249
+=====================
+=====================
+Part 23, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8469
+Loading Time(s): 9.1486
+Forward Time(s): 5.3925
+Backward Time(s): 1.0948
+Update Time(s): 0.0251
+Emb Update Time(s): 43.6400
+#seeds: 37725
+#inputs: 17084556
+=====================
+
+Rank 3, Avg Epoch Time(s): 60.4197Rank 4, Avg Epoch Time(s): 60.4196
+
+Rank 5, Avg Epoch Time(s): 60.4197
+Rank 7, Avg Epoch Time(s): 60.4197
+Rank 6, Avg Epoch Time(s): 60.4197
+=====================
+Part 27, Epoch Time(s): 60.4021
+Sampling Time(s): 0.9183
+Loading Time(s): 7.5004
+Forward Time(s): 6.9921
+Backward Time(s): 1.0949
+Update Time(s): 0.0264
+Emb Update Time(s): 43.6415
+#seeds: 37725
+#inputs: 14098391
+==========================================
+Part 26, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8573
+Loading Time(s): 6.9229
+Forward Time(s): 7.6513
+Backward Time(s): 1.0959
+Update Time(s): 0.0218
+Emb Update Time(s): 43.6422
+#seeds: 37724
+#inputs: 14066628
+==========================================
+Part 29, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8659
+Loading Time(s): 7.7452
+Forward Time(s): 6.8085
+Backward Time(s): 1.0925
+Update Time(s): 0.0241
+Emb Update Time(s): 43.6454
+#seeds: 37724
+#inputs: 14087936
+==========================================
+Part 25, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8126
+Loading Time(s): 8.6971
+Forward Time(s): 5.8977
+Backward Time(s): 1.0976
+Update Time(s): 0.0237
+Emb Update Time(s): 43.6404
+#seeds: 37724
+#inputs: 14096073
+==========================================
+Part 31, Epoch Time(s): 60.4021
+Sampling Time(s): 0.7654
+Loading Time(s): 7.9470
+Forward Time(s): 6.7068
+Backward Time(s): 1.0913
+Update Time(s): 0.0245
+Emb Update Time(s): 43.6456
+#seeds: 37725
+#inputs: 14108119
+=====================
+
+
+
+=====================
+Part 30, Epoch Time(s): 60.4021
+Sampling Time(s): 0.7429
+Loading Time(s): 8.1485
+Forward Time(s): 6.5275
+Backward Time(s): 1.0916
+Update Time(s): 0.0244
+Emb Update Time(s): 43.6457
+#seeds: 37724
+#inputs: 14118791
+=====================
+=====================
+Part 24, Epoch Time(s): 60.4022
+Sampling Time(s): 0.9388
+Loading Time(s): 8.8477
+Forward Time(s): 5.6336
+Backward Time(s): 1.0941
+Update Time(s): 0.0264
+Emb Update Time(s): 43.6327
+#seeds: 37724
+#inputs: 14051332
+=====================
+
+=====================
+Part 28, Epoch Time(s): 60.4021
+Sampling Time(s): 1.0749
+Loading Time(s): 8.9333
+Forward Time(s): 5.3704
+Backward Time(s): 1.0945
+Update Time(s): 0.0344
+Emb Update Time(s): 43.6384
+#seeds: 37724
+#inputs: 14117325
+=====================
+=====================
+Part 12, Epoch Time(s): 60.4021
+Sampling Time(s): 0.8490
+Loading Time(s): 10.8298
+Forward Time(s): 3.7228
+Backward Time(s): 1.0884
+Update Time(s): 0.0235
+Emb Update Time(s): 43.6385
+#seeds: 37724
+#inputs: 18381474
+==========================================
+Part 8, Epoch Time(s): 60.4022
+Sampling Time(s): 0.8378
+Loading Time(s): 11.0809
+Forward Time(s): 3.4777
+Backward Time(s): 1.0900
+Update Time(s): 0.0237
+Emb Update Time(s): 43.6344
+#seeds: 37724
+#inputs: 18289332
+==========================================
+Part 15, Epoch Time(s): 60.4022
+Sampling Time(s): 0.9020
+Loading Time(s): 10.8444
+Forward Time(s): 3.6522
+Backward Time(s): 1.0803
+Update Time(s): 0.0237
+Emb Update Time(s): 43.6394
+#seeds: 37724
+#inputs: 18285516
+==========================================
+Part 10, Epoch Time(s): 60.4021
+Sampling Time(s): 0.9135
+Loading Time(s): 10.8163
+Forward Time(s): 3.6742
+Backward Time(s): 1.0868
+Update Time(s): 0.0234
+Emb Update Time(s): 43.6326
+#seeds: 37725
+#inputs: 18299831
+=====================
+
+
+=====================
+Part 13, Epoch Time(s): 60.4021
+Sampling Time(s): 1.0568
+Loading Time(s): 11.5012
+Forward Time(s): 2.8935
+Backward Time(s): 1.0651
+Update Time(s): 0.0282
+Emb Update Time(s): 43.6051
+#seeds: 37725
+#inputs: 18315786
+==========================================
+Part 14, Epoch Time(s): 60.4021
+Sampling Time(s): 0.9482
+Loading Time(s): 11.2218
+Forward Time(s): 3.2215
+Backward Time(s): 1.0879
+Update Time(s): 0.0246
+Emb Update Time(s): 43.6465
+#seeds: 37724
+#inputs: 18241267
+=====================
+=====================
+Part 11, Epoch Time(s): 60.4021
+Sampling Time(s): 0.9095
+Loading Time(s): 11.2143
+Forward Time(s): 3.2752
+Backward Time(s): 1.0898
+Update Time(s): 0.0232
+Emb Update Time(s): 43.6426
+#seeds: 37724
+#inputs: 18230305
+==========================================
+Part 9, Epoch Time(s): 60.4022
+Sampling Time(s): 1.0783
+Loading Time(s): 11.4206
+Forward Time(s): 2.9492
+Backward Time(s): 1.0636
+Update Time(s): 0.0277
+Emb Update Time(s): 43.5926
+#seeds: 37725
+#inputs: 18294549
+=====================
+
+
+
+Rank 17, Avg Epoch Time(s): 60.4197Rank 23, Avg Epoch Time(s): 60.4198
+
+Rank 22, Avg Epoch Time(s): 60.4198
+Rank 21, Avg Epoch Time(s): 60.4197
+Rank 19, Avg Epoch Time(s): 60.4197Rank 16, Avg Epoch Time(s): 60.4197
+
+Rank 18, Avg Epoch Time(s): 60.4198
+Rank 20, Avg Epoch Time(s): 60.4197
+Rank 10, Avg Epoch Time(s): 60.4197Rank 12, Avg Epoch Time(s): 60.4197Rank 15, Avg Epoch Time(s): 60.4197
+Rank 11, Avg Epoch Time(s): 60.4197
+Rank 8, Avg Epoch Time(s): 60.4197
+
+
+Rank 13, Avg Epoch Time(s): 60.4197Rank 14, Avg Epoch Time(s): 60.4197
+
+Rank 30, Avg Epoch Time(s): 60.4197Rank 31, Avg Epoch Time(s): 60.4197Rank 25, Avg Epoch Time(s): 60.4197
+
+
+Rank 24, Avg Epoch Time(s): 60.4197
+Rank 27, Avg Epoch Time(s): 60.4197
+Rank 29, Avg Epoch Time(s): 60.4197
+Rank 28, Avg Epoch Time(s): 60.4197
+Rank 26, Avg Epoch Time(s): 60.4197
+Rank 9, Avg Epoch Time(s): 60.4197
+All parts avg epoch time 60.4197 sec, throughput 19979.8943 seeds/sec
+num_fetch_from_kv = 532963397
+num_fetch_total = 532963397
+num_fetch_from_local_kv = 352677639
+num_local_grads = 232142289
+num_global_grads = 383813160
+num_update_uniqued = 238568104
+num_cpu2gpu = 524580879
+num_gpu2cpu = 524580879
+
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent ends
+parent endsparent ends
+
+parent ends
+parent ends
+parent ends
+parent ends
+Client[54] in group[0] is exiting...
+Client[4] in group[0] is exiting...
+Client[63] in group[0] is exiting...
+Client[26] in group[0] is exiting...
+Client[33] in group[0] is exiting...
+Client[45] in group[0] is exiting...
+Client[51] in group[0] is exiting...
+Client[56] in group[0] is exiting...
+Client[58] in group[0] is exiting...
+Client[53] in group[0] is exiting...
+Client[42] in group[0] is exiting...
+Client[50] in group[0] is exiting...
+Client[46] in group[0] is exiting...
+Client[32] in group[0] is exiting...
+Client[52] in group[0] is exiting...
+Client[11] in group[0] is exiting...
+Client[7] in group[0] is exiting...
+Client[8] in group[0] is exiting...
+Client[3] in group[0] is exiting...
+Client[35] in group[0] is exiting...
+Client[15] in group[0] is exiting...
+Client[43] in group[0] is exiting...
+Client[38] in group[0] is exiting...
+Client[1] in group[0] is exiting...
+Client[24] in group[0] is exiting...
+Client[13] in group[0] is exiting...
+Client[28] in group[0] is exiting...
+Client[22] in group[0] is exiting...
+Client[21] in group[0] is exiting...
+Client[18] in group[0] is exiting...
+Client[17] in group[0] is exiting...
+Client[29] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+load ogb-paper100M
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 48 for part 3
+Server is waiting for connections on [172.31.16.179:30050]...
+Server (48) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+load ogb-paper100M
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 16 for part 1
+Server is waiting for connections on [172.31.25.229:30050]...
+Server (16) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+load ogb-paper100M
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 0 for part 0
+Server is waiting for connections on [172.31.20.34:30050]...
+Server (0) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+load ogb-paper100M
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 32 for part 2
+Server is waiting for connections on [172.31.20.203:30050]...
+Server (32) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 4 for part 0
+Server is waiting for connections on [172.31.20.34:30054]...
+Server (4) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 22 for part 1
+Server is waiting for connections on [172.31.25.229:30056]...
+Server (22) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 50 for part 3
+Server is waiting for connections on [172.31.16.179:30052]...
+Server (50) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 37 for part 2
+Server is waiting for connections on [172.31.20.203:30055]...
+Server (37) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 25 for part 1
+Server is waiting for connections on [172.31.25.229:30059]...
+Server (25) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 30 for part 1
+Server is waiting for connections on [172.31.25.229:30064]...
+Server (30) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 29 for part 1
+Server is waiting for connections on [172.31.25.229:30063]...
+Server (29) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 23 for part 1
+Server is waiting for connections on [172.31.25.229:30057]...
+Server (23) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 28 for part 1
+Server is waiting for connections on [172.31.25.229:30062]...
+Server (28) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 31 for part 1
+Server is waiting for connections on [172.31.25.229:30065]...
+Server (31) shutdown.
+Server is exiting...
+Client [886809] waits on 172.31.25.229:55407
+Machine (1) group (0) client (59) connect to server successfuly!
+Client[59] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 24 for part 1
+Server is waiting for connections on [172.31.25.229:30058]...
+Server (24) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 17 for part 1
+Server is waiting for connections on [172.31.25.229:30051]...
+Server (17) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 21 for part 1
+Server is waiting for connections on [172.31.25.229:30055]...
+Server (21) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 20 for part 1
+Server is waiting for connections on [172.31.25.229:30054]...
+Server (20) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 27 for part 1
+Server is waiting for connections on [172.31.25.229:30061]...
+Server (27) shutdown.
+Server is exiting...
+Client [886779] waits on 172.31.25.229:59863
+Machine (1) group (0) client (62) connect to server successfuly!
+Client[62] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 19 for part 1
+Server is waiting for connections on [172.31.25.229:30053]...
+Server (19) shutdown.
+Server is exiting...
+Client [886801] waits on 172.31.25.229:57931
+Machine (1) group (0) client (61) connect to server successfuly!
+Client[61] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 18 for part 1
+Server is waiting for connections on [172.31.25.229:30052]...
+Server (18) shutdown.
+Server is exiting...
+Client [886802] waits on 172.31.25.229:32971
+Machine (1) group (0) client (48) connect to server successfuly!
+Client[48] in group[0] is exiting...
+Client [886781] waits on 172.31.25.229:49283
+Machine (1) group (0) client (55) connect to server successfuly!
+Client[55] in group[0] is exiting...
+Client [886776] waits on 172.31.25.229:55651
+Machine (1) group (0) client (60) connect to server successfuly!
+Client[60] in group[0] is exiting...
+Client [886800] waits on 172.31.25.229:33501
+Machine (1) group (0) client (49) connect to server successfuly!
+Client[49] in group[0] is exiting...
+Client [886777] waits on 172.31.25.229:50259
+Machine (1) group (0) client (57) connect to server successfuly!
+Client[57] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 26 for part 1
+Server is waiting for connections on [172.31.25.229:30060]...
+Server (26) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 43 for part 2
+Server is waiting for connections on [172.31.20.203:30061]...
+Server (43) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 41 for part 2
+Server is waiting for connections on [172.31.20.203:30059]...
+Server (41) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 36 for part 2
+Server is waiting for connections on [172.31.20.203:30054]...
+Server (36) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 46 for part 2
+Server is waiting for connections on [172.31.20.203:30064]...
+Server (46) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 42 for part 2
+Server is waiting for connections on [172.31.20.203:30060]...
+Server (42) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 38 for part 2
+Server is waiting for connections on [172.31.20.203:30056]...
+Server (38) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 33 for part 2
+Server is waiting for connections on [172.31.20.203:30051]...
+Server (33) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 47 for part 2
+Server is waiting for connections on [172.31.20.203:30065]...
+Server (47) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 35 for part 2
+Server is waiting for connections on [172.31.20.203:30053]...
+Server (35) shutdown.
+Server is exiting...
+Client [857883] waits on 172.31.20.203:46867
+Machine (2) group (0) client (25) connect to server successfuly!
+Client[25] in group[0] is exiting...
+Client [857882] waits on 172.31.20.203:34357
+Machine (2) group (0) client (16) connect to server successfuly!
+Client[16] in group[0] is exiting...
+Client [857874] waits on 172.31.20.203:50099
+Machine (2) group (0) client (27) connect to server successfuly!
+Client[27] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 40 for part 2
+Server is waiting for connections on [172.31.20.203:30058]...
+Server (40) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 34 for part 2
+Server is waiting for connections on [172.31.20.203:30052]...
+Server (34) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 44 for part 2
+Server is waiting for connections on [172.31.20.203:30062]...
+Server (44) shutdown.
+Server is exiting...
+Client [857897] waits on 172.31.20.203:40271
+Machine (2) group (0) client (19) connect to server successfuly!
+Client[19] in group[0] is exiting...
+Client [857921] waits on 172.31.20.203:60479
+Machine (2) group (0) client (31) connect to server successfuly!
+Client[31] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 39 for part 2
+Server is waiting for connections on [172.31.20.203:30057]...
+Server (39) shutdown.
+Server is exiting...
+Client [857896] waits on 172.31.20.203:40289
+Machine (2) group (0) client (20) connect to server successfuly!
+Client[20] in group[0] is exiting...
+Client [857909] waits on 172.31.20.203:43407
+Machine (2) group (0) client (23) connect to server successfuly!
+Client[23] in group[0] is exiting...
+Client [857873] waits on 172.31.20.203:56317
+Machine (2) group (0) client (30) connect to server successfuly!
+Client[30] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 45 for part 2
+Server is waiting for connections on [172.31.20.203:30063]...
+Server (45) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 5 for part 0
+Server is waiting for connections on [172.31.20.34:30055]...
+Server (5) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 9 for part 0
+Server is waiting for connections on [172.31.20.34:30059]...
+Server (9) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 12 for part 0
+Server is waiting for connections on [172.31.20.34:30062]...
+Server (12) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 7 for part 0
+Server is waiting for connections on [172.31.20.34:30057]...
+Server (7) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 11 for part 0
+Server is waiting for connections on [172.31.20.34:30061]...
+Server (11) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 2 for part 0
+Server is waiting for connections on [172.31.20.34:30052]...
+Server (2) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 15 for part 0
+Server is waiting for connections on [172.31.20.34:30065]...
+Server (15) shutdown.
+Server is exiting...
+Client [2593481] waits on 172.31.20.34:42205
+Machine (0) group (0) client (36) connect to server successfuly!
+Client[36] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 13 for part 0
+Server is waiting for connections on [172.31.20.34:30063]...
+Server (13) shutdown.
+Server is exiting...
+Client [2593490] waits on 172.31.20.34:43867
+Machine (0) group (0) client (37) connect to server successfuly!
+Client[37] in group[0] is exiting...
+Client [2593484] waits on 172.31.20.34:40063
+Machine (0) group (0) client (34) connect to server successfuly!
+Client[34] in group[0] is exiting...
+Client [2593492] waits on 172.31.20.34:49741
+Machine (0) group (0) client (40) connect to server successfuly!
+Client[40] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 3 for part 0
+Server is waiting for connections on [172.31.20.34:30053]...
+Server (3) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 10 for part 0
+Server is waiting for connections on [172.31.20.34:30060]...
+Server (10) shutdown.
+Server is exiting...
+Client [2593529] waits on 172.31.20.34:49271
+Machine (0) group (0) client (39) connect to server successfuly!
+Client[39] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 6 for part 0
+Server is waiting for connections on [172.31.20.34:30056]...
+Server (6) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 14 for part 0
+Server is waiting for connections on [172.31.20.34:30064]...
+Server (14) shutdown.
+Server is exiting...
+Client [2593487] waits on 172.31.20.34:54283
+Machine (0) group (0) client (44) connect to server successfuly!
+Client[44] in group[0] is exiting...
+Client [2593486] waits on 172.31.20.34:51443
+Machine (0) group (0) client (41) connect to server successfuly!
+Client[41] in group[0] is exiting...
+Client [2593491] waits on 172.31.20.34:56631
+Machine (0) group (0) client (47) connect to server successfuly!
+Client[47] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 1 for part 0
+Server is waiting for connections on [172.31.20.34:30051]...
+Server (1) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 8 for part 0
+Server is waiting for connections on [172.31.20.34:30058]...
+Server (8) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 53 for part 3
+Server is waiting for connections on [172.31.16.179:30055]...
+Server (53) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 58 for part 3
+Server is waiting for connections on [172.31.16.179:30060]...
+Server (58) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 49 for part 3
+Server is waiting for connections on [172.31.16.179:30051]...
+Server (49) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 54 for part 3
+Server is waiting for connections on [172.31.16.179:30056]...
+Server (54) shutdown.
+Server is exiting...
+Client [861544] waits on 172.31.16.179:40529
+Machine (3) group (0) client (6) connect to server successfuly!
+Client[6] in group[0] is exiting...
+Client [861546] waits on 172.31.16.179:53947
+Machine (3) group (0) client (12) connect to server successfuly!
+Client[12] in group[0] is exiting...
+Client [861534] waits on 172.31.16.179:50983
+Machine (3) group (0) client (10) connect to server successfuly!
+Client[10] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 63 for part 3
+Server is waiting for connections on [172.31.16.179:30065]...
+Server (63) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 55 for part 3
+Server is waiting for connections on [172.31.16.179:30057]...
+Server (55) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 51 for part 3
+Server is waiting for connections on [172.31.16.179:30053]...
+Server (51) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 60 for part 3
+Server is waiting for connections on [172.31.16.179:30062]...
+Server (60) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 59 for part 3
+Server is waiting for connections on [172.31.16.179:30061]...
+Server (59) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 52 for part 3
+Server is waiting for connections on [172.31.16.179:30054]...
+Server (52) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 56 for part 3
+Server is waiting for connections on [172.31.16.179:30058]...
+Server (56) shutdown.
+Server is exiting...
+Client [861541] waits on 172.31.16.179:33801
+Machine (3) group (0) client (0) connect to server successfuly!
+Client[0] in group[0] is exiting...
+Client [861539] waits on 172.31.16.179:38861
+Machine (3) group (0) client (5) connect to server successfuly!
+Client[5] in group[0] is exiting...
+Client [861583] waits on 172.31.16.179:44437
+Machine (3) group (0) client (9) connect to server successfuly!
+Client[9] in group[0] is exiting...
+Client [861540] waits on 172.31.16.179:34785
+Machine (3) group (0) client (2) connect to server successfuly!
+Client[2] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 61 for part 3
+Server is waiting for connections on [172.31.16.179:30063]...
+Server (61) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 62 for part 3
+Server is waiting for connections on [172.31.16.179:30064]...
+Server (62) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogb-paper100M', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=7, num_hidden=128, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=21, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, emb_cache_rate=0.2)
+start graph service on server 57 for part 3
+Server is waiting for connections on [172.31.16.179:30059]...
+Server (57) shutdown.
+Server is exiting...
+Client [861542] waits on 172.31.16.179:55883
+Machine (3) group (0) client (14) connect to server successfuly!
+Client[14] in group[0] is exiting...
+cleanup process runs

@@ -1,0 +1,1569 @@
+The number of OMP threads per trainer is set to 6
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='reddit', id=None, ip_config='ip_config4.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=5, num_hidden=256, model_num_hidden=128, fan_out='5,5', batch_size=1565, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, num_negs=1, remove_edge=False, sparse_lr=0.01, presampling=True, hot_threshold=0.0, hot_low_threshold=0, emb_cache_rate=0.2, optim='adam', model='sage', infer_method='nodewise', state_cache=False)
+Client [151960] waits on 172.31.20.203:54001
+Client [143023] waits on 172.31.25.229:58423
+Client [151963] waits on 172.31.20.203:54055
+Client [143026] waits on 172.31.25.229:59301
+Client [151970] waits on 172.31.20.203:51923
+Machine (2) group (0) client (27) connect to server successfuly!
+Machine (2) group (0) client (28) connect to server successfuly!
+Machine (2) group (0) client (26) connect to server successfuly!
+Machine (1) group (0) client (60) connect to server successfuly!
+Machine (1) group (0) client (61) connect to server successfuly!
+Client [151961] waits on 172.31.20.203:37555
+Client [153717] waits on 172.31.16.179:47157
+Client [153719] waits on 172.31.16.179:46049
+Client [153743] waits on 172.31.16.179:39729
+Client [153718] waits on 172.31.16.179:48005
+Client [153708] waits on 172.31.16.179:59315
+Client [153720] waits on 172.31.16.179:59339
+Client [151964] waits on 172.31.20.203:56585
+Client [780423] waits on 172.31.20.34:37653
+Client [153726] waits on 172.31.16.179:58599
+Client [780442] waits on 172.31.20.34:45779
+Client [151962] waits on 172.31.20.203:55079
+Client [780424] waits on 172.31.20.34:47977
+Client [780421] waits on 172.31.20.34:50733
+Client [780425] waits on 172.31.20.34:44289
+Client [143027] waits on 172.31.25.229:38321
+Client [153737] waits on 172.31.16.179:49591
+Client [780431] waits on 172.31.20.34:44557
+Client [780453] waits on 172.31.20.34:39667
+Client [151981] waits on 172.31.20.203:41895
+Client [780422] waits on 172.31.20.34:50085
+Client [151992] waits on 172.31.20.203:35075
+Client [143055] waits on 172.31.25.229:37971
+Machine (3) group (0) client (6) connect to server successfuly!
+Machine (3) group (0) client (12) connect to server successfuly!
+Machine (3) group (0) client (5) connect to server successfuly!
+Machine (3) group (0) client (14) connect to server successfuly!
+Machine (3) group (0) client (8) connect to server successfuly!
+Client [143024] waits on 172.31.25.229:45309
+Machine (1) group (0) client (52) connect to server successfuly!
+Client [143025] waits on 172.31.25.229:48941
+Client [143044] waits on 172.31.25.229:39205
+Machine (1) group (0) client (56) connect to server successfuly!
+Machine (1) group (0) client (51) connect to server successfuly!
+Machine (2) group (0) client (29) connect to server successfuly!
+Client [143033] waits on 172.31.25.229:55313
+Machine (0) group (0) client (37) connect to server successfuly!
+Machine (0) group (0) client (33) connect to server successfuly!
+Machine (0) group (0) client (34) connect to server successfuly!
+Machine (0) group (0) client (39) connect to server successfuly!
+Machine (1) group (0) client (58) connect to server successfuly!
+Machine (0) group (0) client (41) connect to server successfuly!
+Machine (2) group (0) client (18) connect to server successfuly!
+Machine (3) group (0) client (0) connect to server successfuly!
+Machine (3) group (0) client (4) connect to server successfuly!
+Machine (1) group (0) client (49) connect to server successfuly!
+Machine (1) group (0) client (50) connect to server successfuly!
+Machine (3) group (0) client (13) connect to server successfuly!
+Machine (0) group (0) client (35) connect to server successfuly!
+Machine (0) group (0) client (40) connect to server successfuly!Machine (0) group (0) client (36) connect to server successfuly!
+
+Machine (2) group (0) client (17) connect to server successfuly!
+Machine (2) group (0) client (20) connect to server successfuly!
+Machine (2) group (0) client (30) connect to server successfuly!
+rank: 0
+rank: 15
+rank: rank:10
+rank: 6
+ 13
+rank: 14
+rank: 8
+rank: 5
+rank: 27
+rank: 30
+rank:rank:  72
+
+rank: 29
+rank: 21
+rank:rank: 4 19
+rank: 9
+rank:
+rank: 28
+ 11
+rank: 3
+rank: 23
+rank: 20
+rank:rank: 16
+ 12
+rank: rank:1
+ 25
+rank:rank: 24
+rank: 31
+ 17
+rank: 26
+rank: 18
+rank: 22
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+number of train 153431
+number of valid 23831
+number of test 55703
+Rank 7 Presampling time: 99.278 s
+Rank 18 Presampling time: 99.242 s
+Rank 21 Presampling time: 99.248 s
+Rank 17 Presampling time: 98.928 s
+Rank 16 Presampling time: 99.210 s
+Rank 11 Presampling time: 99.209 s
+Rank 13 Presampling time: 99.130 s
+Rank 24 Presampling time: 98.898 s
+Rank 3 Presampling time: 99.090 s
+Rank 5 Presampling time: 99.298 sRank 0 Presampling time: 99.285 sRank 2 Presampling time: 98.948 s
+
+
+Rank 6 Presampling time: 99.304 s
+Rank 1 Presampling time: 99.252 s
+Rank 14 Presampling time: 99.184 s
+Rank 8 Presampling time: 99.125 s
+Rank 19 Presampling time: 99.272 s
+Rank 12 Presampling time: 99.130 s
+Rank 31 Presampling time: 99.205 s
+Rank 28 Presampling time: 99.209 s
+Rank 25 Presampling time: 99.187 s
+Rank 29 Presampling time: 99.089 s
+Rank 9 Presampling time: 99.263 s
+Rank 10 Presampling time: 99.034 sRank 15 Presampling time: 99.301 s
+
+Rank 4 Presampling time: 99.082 s
+Rank 26 Presampling time: 99.193 sRank 30 Presampling time: 99.328 s
+
+Rank 23 Presampling time: 98.913 s
+Rank 22 Presampling time: 99.220 s
+Rank 27 Presampling time: 98.900 s
+Rank 24 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 20 Presampling time: 99.209 s
+Rank 18 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 21 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 6 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 17 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 12 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 7 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 16 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 11 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 0 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 19 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 1 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 13 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 5 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 3 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 2 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 14 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 24 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 8 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 31 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 25 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 28 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 4 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 26 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 23 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 10 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 6 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 15 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 29 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Create distemb
+Rank 30 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 9 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 12 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 21 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 18 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 27 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Rank 17 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Rank 16 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 19 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Create distemb
+Rank 22 Local hotness max: 1.000 min: 0.003 avg: 0.486
+Create distemb
+Rank 7 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 20 Local hotness max: 1.000 min: 0.003 avg: 0.486Create distemb
+
+Rank 11 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 0 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 1 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 13 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Create distemb
+Rank 5 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 2 Remote hotness max: 1.000 min: 0.003 avg: 0.238Rank 3 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+
+Create distemb
+Create distemb
+Create distemb
+Rank 23 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Create distemb
+Rank 10 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Rank 8 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distembCreate distemb
+
+Rank 4 Remote hotness max: 1.000 min: 0.003 avg: 0.238Rank 28 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 31 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+
+Rank 25 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 26 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 14 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Rank 15 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Rank 29 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distembRank 9 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+
+Create distemb
+Rank 27 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Create distemb
+Rank 30 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Create distemb
+Create distemb
+Create distemb
+Create distemb
+Rank 22 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Create distemb
+Create distemb
+Create distemb
+Rank 20 Remote hotness max: 1.000 min: 0.003 avg: 0.238
+Create distemb
+Create distemb
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 0 build_connection start.
+Client 0 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 6 build_connection start.
+Client 1 build_connection start.
+Client 6 build_connection succeed.
+Client 1 build_connection succeed.
+Client 4 build_connection start.
+Client 4 build_connection succeed.
+Client 1 build_connection start.
+Client 2 build_connection start.
+Client 5 build_connection start.
+Client 2 build_connection succeed.
+Client 5 build_connection succeed.
+Client 5 build_connection start.
+Client 3 build_connection start.
+Client 5 build_connection succeed.
+Client 1 build_connection succeed.
+Client 3 build_connection succeed.
+Client 6 build_connection start.
+Client 2 build_connection start.
+Client 3 build_connection start.
+Client 6 build_connection succeed.
+Client 3 build_connection succeed.
+Client 0 build_connection start.
+Client 4 build_connection start.
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 0 build_connection succeed.
+Client 4 build_connection succeed.
+Client 5 build_connection start.
+Client 2 build_connection succeed.
+Client 5 build_connection succeed.
+Client 0 build_connection start.
+Client 7 build_connection start.
+Client 6 build_connection start.
+Client 0 build_connection succeed.
+Client 7 build_connection succeed.
+Client 3 build_connection start.
+Client 4 build_connection start.
+Client 6 build_connection succeed.
+Client 3 build_connection succeed.
+Client 4 build_connection succeed.
+Client 7 build_connection start.
+Client 1 build_connection start.
+Client 0 build_connection start.
+Client 7 build_connection succeed.
+Client 6 build_connection start.
+Client 1 build_connection succeed.
+Client 4 build_connection start.Client 0 build_connection succeed.
+
+Client 6 build_connection succeed.
+Client 4 build_connection succeed.
+Client 5 build_connection start.
+Client 2 build_connection start.Client 5 build_connection succeed.
+
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 2 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client register_cache succeed.
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Create model
+Create model
+Create model
+Create model
+Client register_cache succeed.
+Create model
+Client register_cache succeed.
+Create model
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Create model
+Client register_cache succeed.
+Create model
+Create model
+Client register_cache succeed.Client register_cache succeed.Create model
+
+
+Create model
+Create model
+Create model
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Create model
+Client register_cache succeed.Create model
+
+Client register_cache succeed.
+Create model
+Client register_cache succeed.
+Client register_cache succeed.Client register_cache succeed.
+
+Create model
+Create model
+Create model
+Create model
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.Create model
+
+Client register_cache succeed.
+Client register_cache succeed.
+Create model
+Client register_cache succeed.
+Client register_cache succeed.
+Create model
+Create modelCreate model
+
+Create model
+Create model
+Client register_cache succeed.
+Create model
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizerCreate model optimizer
+
+Create model optimizer
+Create model optimizerCreate model optimizer
+
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizerCreate emb optimizer
+
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizerCreate emb optimizer
+
+set hot threshold
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+set hot threshold
+set hot threshold
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+Start train
+set hot threshold
+set hot threshold
+set hot threshold
+set hot threshold
+set hot threshold
+set hot threshold
+set hot threshold
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+set hot threshold
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+set hot threshold
+Start train
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+Start train
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+set hot threshold
+set hot threshold
+Start train
+set hot threshold
+set hot threshold
+Start train
+set hot threshold
+set hot threshold
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+set hot threshold
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+set hot threshold
+Start train
+set hot threshold
+set hot threshold
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+set hot threshold
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+set hot threshold
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+Start train
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000Start train
+
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+set hot threshold
+set hot threshold
+Start train
+set hot threshold
+set hot threshold
+set hot threshold
+Start train
+set hot threshold
+set hot threshold
+set hot threshold
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+Start train#accessed (remote) nodes = 232965
+
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+#accessed (remote) nodes = 232965
+#hot_nodes = 232965, rate = 1.000
+#extreme_cold_nodes = 0, rate = 0.000
+Start train
+Start train
+Start train
+Start train
+Part 19 | Epoch 00000 | Step 00000 | Loss 40.7012 | Speed (samples/sec) nan | GPU 388.9 MB | time 2.778 s | duration 2.779 s
+Part 3 | Epoch 00000 | Step 00000 | Loss 40.9976 | Speed (samples/sec) nan | GPU 399.5 MB | time 2.762 s | duration 2.764 s
+Part 5 | Epoch 00000 | Step 00000 | Loss 39.9636 | Speed (samples/sec) nan | GPU 399.3 MB | time 2.763 s | duration 2.764 s
+Part 2 | Epoch 00000 | Step 00000 | Loss 39.9214 | Speed (samples/sec) nan | GPU 395.3 MB | time 2.764 s | duration 2.765 s
+Part 1 | Epoch 00000 | Step 00000 | Loss 40.5985 | Speed (samples/sec) nan | GPU 395.2 MB | time 2.764 s | duration 2.765 sPart 0 | Epoch 00000 | Step 00000 | Loss 40.4119 | Speed (samples/sec) nan | GPU 393.6 MB | time 2.764 s | duration 2.765 s
+
+Part 20 | Epoch 00000 | Step 00000 | Loss 40.7131 | Speed (samples/sec) nan | GPU 390.5 MB | time 2.777 s | duration 2.778 s
+Part 11 | Epoch 00000 | Step 00000 | Loss 41.3836 | Speed (samples/sec) nan | GPU 388.8 MB | time 2.768 s | duration 2.769 s
+Part 16 | Epoch 00000 | Step 00000 | Loss 40.6091 | Speed (samples/sec) nan | GPU 385.7 MB | time 2.777 s | duration 2.778 s
+Part 29 | Epoch 00000 | Step 00000 | Loss 40.7682 | Speed (samples/sec) nan | GPU 401.1 MB | time 2.772 s | duration 2.773 s
+Part 28 | Epoch 00000 | Step 00000 | Loss 40.4832 | Speed (samples/sec) nan | GPU 401.1 MB | time 2.778 s | duration 2.779 s
+Part 26 | Epoch 00000 | Step 00000 | Loss 40.2761 | Speed (samples/sec) nan | GPU 401.1 MB | time 2.770 s | duration 2.771 s
+Part 30 | Epoch 00000 | Step 00000 | Loss 40.3299 | Speed (samples/sec) nan | GPU 399.8 MB | time 2.769 s | duration 2.770 s
+Part 9 | Epoch 00000 | Step 00000 | Loss 40.3585 | Speed (samples/sec) nan | GPU 390.5 MB | time 2.784 s | duration 2.785 sPart 14 | Epoch 00000 | Step 00000 | Loss 40.3173 | Speed (samples/sec) nan | GPU 390.5 MB | time 2.765 s | duration 2.766 s
+
+Part 27 | Epoch 00000 | Step 00000 | Loss 40.6287 | Speed (samples/sec) nan | GPU 399.7 MB | time 2.770 s | duration 2.771 s
+Part 17 | Epoch 00000 | Step 00000 | Loss 40.4435 | Speed (samples/sec) nan | GPU 390.5 MB | time 2.775 s | duration 2.777 s
+Part 6 | Epoch 00000 | Step 00000 | Loss 40.0537 | Speed (samples/sec) nan | GPU 393.9 MB | time 2.764 s | duration 2.766 s
+Part 13 | Epoch 00000 | Step 00000 | Loss 40.7948 | Speed (samples/sec) nan | GPU 390.4 MB | time 2.770 s | duration 2.771 s
+Part 31 | Epoch 00000 | Step 00000 | Loss 40.7613 | Speed (samples/sec) nan | GPU 401.1 MB | time 2.773 s | duration 2.774 s
+Part 22 | Epoch 00000 | Step 00000 | Loss 40.8104 | Speed (samples/sec) nan | GPU 383.6 MB | time 2.775 s | duration 2.776 s
+Part 23 | Epoch 00000 | Step 00000 | Loss 39.7829 | Speed (samples/sec) nan | GPU 390.5 MB | time 2.777 s | duration 2.778 s
+Part 10 | Epoch 00000 | Step 00000 | Loss 39.9920 | Speed (samples/sec) nan | GPU 390.4 MB | time 2.769 s | duration 2.771 s
+Part 12 | Epoch 00000 | Step 00000 | Loss 40.1103 | Speed (samples/sec) nan | GPU 390.5 MB | time 2.784 s | duration 2.786 sPart 15 | Epoch 00000 | Step 00000 | Loss 40.4441 | Speed (samples/sec) nan | GPU 390.5 MB | time 2.769 s | duration 2.770 s
+
+Part 8 | Epoch 00000 | Step 00000 | Loss 40.8483 | Speed (samples/sec) nan | GPU 386.0 MB | time 2.767 s | duration 2.769 s
+Part 24 | Epoch 00000 | Step 00000 | Loss 40.6283 | Speed (samples/sec) nan | GPU 401.1 MB | time 2.772 s | duration 2.774 s
+Part 18 | Epoch 00000 | Step 00000 | Loss 40.8176 | Speed (samples/sec) nan | GPU 390.5 MB | time 2.779 s | duration 2.780 s
+Part 21 | Epoch 00000 | Step 00000 | Loss 39.9839 | Speed (samples/sec) nan | GPU 384.6 MB | time 2.774 s | duration 2.776 s
+Part 4 | Epoch 00000 | Step 00000 | Loss 40.4138 | Speed (samples/sec) nan | GPU 399.4 MB | time 2.763 s | duration 2.765 s
+Part 25 | Epoch 00000 | Step 00000 | Loss 40.0444 | Speed (samples/sec) nan | GPU 401.1 MB | time 2.788 s | duration 2.790 s
+Part 7 | Epoch 00000 | Step 00000 | Loss 40.1512 | Speed (samples/sec) nan | GPU 396.5 MB | time 2.764 s | duration 2.767 s
+Part 3 | Epoch 00000 | Step 00020 | Loss 3.5679 | Speed (samples/sec) 18542.5881 | GPU 401.4 MB | time 5.300 s | duration 8.067 sPart 2 | Epoch 00000 | Step 00020 | Loss 3.4145 | Speed (samples/sec) 18480.2895 | GPU 400.5 MB | time 5.300 s | duration 8.068 sPart 0 | Epoch 00000 | Step 00020 | Loss 3.3987 | Speed (samples/sec) 18504.1867 | GPU 400.5 MB | time 5.300 s | duration 8.068 s
+
+
+Part 7 | Epoch 00000 | Step 00020 | Loss 3.6787 | Speed (samples/sec) 18521.0919 | GPU 401.6 MB | time 5.299 s | duration 8.069 sPart 5 | Epoch 00000 | Step 00020 | Loss 3.5458 | Speed (samples/sec) 18528.6485 | GPU 400.5 MB | time 5.300 s | duration 8.068 s
+
+Part 1 | Epoch 00000 | Step 00020 | Loss 3.6701 | Speed (samples/sec) 18530.5858 | GPU 400.5 MB | time 5.300 s | duration 8.068 s
+Part 6 | Epoch 00000 | Step 00020 | Loss 3.4876 | Speed (samples/sec) 18524.6544 | GPU 401.8 MB | time 5.300 s | duration 8.069 s
+Part 4 | Epoch 00000 | Step 00020 | Loss 3.5446 | Speed (samples/sec) 18518.9726 | GPU 401.1 MB | time 5.299 s | duration 8.067 s
+Part 19 | Epoch 00000 | Step 00020 | Loss 3.6016 | Speed (samples/sec) 18530.2396 | GPU 391.3 MB | time 5.300 s | duration 8.083 s
+Part 21 | Epoch 00000 | Step 00020 | Loss 3.5964 | Speed (samples/sec) 18515.5659 | GPU 390.5 MB | time 5.300 s | duration 8.079 sPart 16 | Epoch 00000 | Step 00020 | Loss 3.3689 | Speed (samples/sec) 18502.4875 | GPU 392.3 MB | time 5.300 s | duration 8.082 s
+
+Part 18 | Epoch 00000 | Step 00020 | Loss 3.4469 | Speed (samples/sec) 18506.9869 | GPU 390.8 MB | time 5.300 s | duration 8.083 sPart 23 | Epoch 00000 | Step 00020 | Loss 3.6527 | Speed (samples/sec) 18478.2393 | GPU 391.1 MB | time 5.300 s | duration 8.081 sPart 20 | Epoch 00000 | Step 00020 | Loss 3.5424 | Speed (samples/sec) 18534.5352 | GPU 391.6 MB | time 5.300 s | duration 8.081 s
+
+Part 17 | Epoch 00000 | Step 00020 | Loss 3.4325 | Speed (samples/sec) 18522.8672 | GPU 390.5 MB | time 5.300 s | duration 8.080 s
+
+Part 22 | Epoch 00000 | Step 00020 | Loss 3.4402 | Speed (samples/sec) 18525.4230 | GPU 390.8 MB | time 5.300 s | duration 8.080 s
+Part 24 | Epoch 00000 | Step 00020 | Loss 3.6979 | Speed (samples/sec) 18657.3192 | GPU 402.7 MB | time 5.300 s | duration 8.077 sPart 27 | Epoch 00000 | Step 00020 | Loss 3.4456 | Speed (samples/sec) 18663.3323 | GPU 401.1 MB | time 5.300 s | duration 8.074 s
+
+Part 31 | Epoch 00000 | Step 00020 | Loss 3.4469 | Speed (samples/sec) 18675.2632 | GPU 401.2 MB | time 5.300 s | duration 8.077 sPart 28 | Epoch 00000 | Step 00020 | Loss 3.6768 | Speed (samples/sec) 18638.5435 | GPU 401.3 MB | time 5.300 s | duration 8.083 sPart 25 | Epoch 00000 | Step 00020 | Loss 3.8155 | Speed (samples/sec) 18633.0449 | GPU 401.4 MB | time 5.300 s | duration 8.093 s
+
+
+Part 26 | Epoch 00000 | Step 00020 | Loss 3.4210 | Speed (samples/sec) 18649.5422 | GPU 401.2 MB | time 5.300 s | duration 8.075 sPart 29 | Epoch 00000 | Step 00020 | Loss 3.6934 | Speed (samples/sec) 18660.5273 | GPU 402.0 MB | time 5.300 s | duration 8.076 s
+
+Part 9 | Epoch 00000 | Step 00020 | Loss 3.6041 | Speed (samples/sec) 18571.9349 | GPU 392.5 MB | time 5.300 s | duration 8.089 sPart 12 | Epoch 00000 | Step 00020 | Loss 3.5976 | Speed (samples/sec) 18565.9960 | GPU 390.5 MB | time 5.300 s | duration 8.089 s
+
+Part 14 | Epoch 00000 | Step 00020 | Loss 3.5035 | Speed (samples/sec) 18558.3707 | GPU 390.5 MB | time 5.301 s | duration 8.070 sPart 8 | Epoch 00000 | Step 00020 | Loss 3.5611 | Speed (samples/sec) 18585.5723 | GPU 392.0 MB | time 5.300 s | duration 8.072 s
+Part 15 | Epoch 00000 | Step 00020 | Loss 3.5311 | Speed (samples/sec) 18557.7174 | GPU 392.1 MB | time 5.300 s | duration 8.073 s
+
+Part 10 | Epoch 00000 | Step 00020 | Loss 3.6788 | Speed (samples/sec) 18566.5069 | GPU 390.5 MB | time 5.300 s | duration 8.074 sPart 11 | Epoch 00000 | Step 00020 | Loss 3.6957 | Speed (samples/sec) 18565.6511 | GPU 390.9 MB | time 5.300 s | duration 8.073 s
+
+Part 13 | Epoch 00000 | Step 00020 | Loss 3.7096 | Speed (samples/sec) 18569.1284 | GPU 391.4 MB | time 5.300 s | duration 8.074 s
+Part 30 | Epoch 00000 | Step 00020 | Loss 3.8212 | Speed (samples/sec) 18657.4769 | GPU 401.1 MB | time 5.300 s | duration 8.074 s
+Part 3 | Epoch 00000 | Step 00040 | Loss 0.8052 | Speed (samples/sec) 18556.1378 | GPU 401.4 MB | time 5.345 s | duration 13.414 sPart 0 | Epoch 00000 | Step 00040 | Loss 0.8115 | Speed (samples/sec) 18527.4199 | GPU 400.5 MB | time 5.345 s | duration 13.416 sPart 5 | Epoch 00000 | Step 00040 | Loss 0.8438 | Speed (samples/sec) 18526.2556 | GPU 400.5 MB | time 5.345 s | duration 13.415 s
+
+
+Part 6 | Epoch 00000 | Step 00040 | Loss 0.8241 | Speed (samples/sec) 18537.5140 | GPU 401.8 MB | time 5.344 s | duration 13.416 sPart 7 | Epoch 00000 | Step 00040 | Loss 0.8034 | Speed (samples/sec) 18530.7115 | GPU 401.6 MB | time 5.345 s | duration 13.417 s
+
+Part 1 | Epoch 00000 | Step 00040 | Loss 0.8183 | Speed (samples/sec) 18551.7784 | GPU 400.9 MB | time 5.344 s | duration 13.416 s
+Part 2 | Epoch 00000 | Step 00040 | Loss 0.8119 | Speed (samples/sec) 18510.5305 | GPU 400.5 MB | time 5.345 s | duration 13.416 s
+Part 16 | Epoch 00000 | Step 00040 | Loss 0.8172 | Speed (samples/sec) 18521.8236 | GPU 392.3 MB | time 5.345 s | duration 13.429 sPart 20 | Epoch 00000 | Step 00040 | Loss 0.8214 | Speed (samples/sec) 18544.3449 | GPU 391.6 MB | time 5.345 s | duration 13.429 sPart 21 | Epoch 00000 | Step 00040 | Loss 0.8323 | Speed (samples/sec) 18530.3553 | GPU 390.9 MB | time 5.345 s | duration 13.426 sPart 19 | Epoch 00000 | Step 00040 | Loss 0.8524 | Speed (samples/sec) 18532.4265 | GPU 391.3 MB | time 5.345 s | duration 13.430 s
+
+
+
+Part 18 | Epoch 00000 | Step 00040 | Loss 0.8332 | Speed (samples/sec) 18523.8906 | GPU 391.2 MB | time 5.345 s | duration 13.431 s
+Part 22 | Epoch 00000 | Step 00040 | Loss 0.8137 | Speed (samples/sec) 18542.3960 | GPU 390.8 MB | time 5.344 s | duration 13.427 sPart 17 | Epoch 00000 | Step 00040 | Loss 0.8266 | Speed (samples/sec) 18532.6745 | GPU 390.8 MB | time 5.345 s | duration 13.428 s
+
+Part 4 | Epoch 00000 | Step 00040 | Loss 0.8253 | Speed (samples/sec) 18538.1834 | GPU 401.1 MB | time 5.344 s | duration 13.415 s
+Part 14 | Epoch 00000 | Step 00040 | Loss 0.8166 | Speed (samples/sec) 18572.6242 | GPU 392.3 MB | time 5.345 s | duration 13.417 sPart 8 | Epoch 00000 | Step 00040 | Loss 0.8225 | Speed (samples/sec) 18589.5105 | GPU 392.0 MB | time 5.345 s | duration 13.420 sPart 9 | Epoch 00000 | Step 00040 | Loss 0.8486 | Speed (samples/sec) 18576.0321 | GPU 392.6 MB | time 5.345 s | duration 13.436 s
+
+
+Part 15 | Epoch 00000 | Step 00040 | Loss 0.8268 | Speed (samples/sec) 18585.8423 | GPU 392.3 MB | time 5.345 s | duration 13.421 s
+Part 11 | Epoch 00000 | Step 00040 | Loss 0.8376 | Speed (samples/sec) 18563.7709 | GPU 391.0 MB | time 5.345 s | duration 13.420 s
+Part 13 | Epoch 00000 | Step 00040 | Loss 0.8354 | Speed (samples/sec) 18571.7381 | GPU 391.4 MB | time 5.344 s | duration 13.422 s
+Part 10 | Epoch 00000 | Step 00040 | Loss 0.8307 | Speed (samples/sec) 18588.9908 | GPU 392.6 MB | time 5.345 s | duration 13.422 s
+Part 12 | Epoch 00000 | Step 00040 | Loss 0.8154 | Speed (samples/sec) 18568.2493 | GPU 392.0 MB | time 5.344 s | duration 13.437 s
+Part 29 | Epoch 00000 | Step 00040 | Loss 0.8473 | Speed (samples/sec) 18667.6065 | GPU 402.0 MB | time 5.345 s | duration 13.424 sPart 24 | Epoch 00000 | Step 00040 | Loss 0.8373 | Speed (samples/sec) 18665.1571 | GPU 402.7 MB | time 5.345 s | duration 13.424 s
+
+Part 28 | Epoch 00000 | Step 00040 | Loss 0.8548 | Speed (samples/sec) 18649.8482 | GPU 401.9 MB | time 5.345 s | duration 13.430 s
+Part 27 | Epoch 00000 | Step 00040 | Loss 0.8580 | Speed (samples/sec) 18678.9794 | GPU 401.2 MB | time 5.345 s | duration 13.422 s
+Part 26 | Epoch 00000 | Step 00040 | Loss 0.8439 | Speed (samples/sec) 18666.4918 | GPU 401.2 MB | time 5.345 s | duration 13.423 s
+Part 30 | Epoch 00000 | Step 00040 | Loss 0.8419 | Speed (samples/sec) 18668.9864 | GPU 401.1 MB | time 5.345 s | duration 13.421 s
+Part 25 | Epoch 00000 | Step 00040 | Loss 0.8386 | Speed (samples/sec) 18655.3789 | GPU 401.4 MB | time 5.345 s | duration 13.441 s
+Part 31 | Epoch 00000 | Step 00040 | Loss 0.8191 | Speed (samples/sec) 18667.5512 | GPU 401.4 MB | time 5.345 s | duration 13.425 s
+Part 23 | Epoch 00000 | Step 00040 | Loss 0.8031 | Speed (samples/sec) 18514.0649 | GPU 391.1 MB | time 5.345 s | duration 13.430 s
+Part 3 | Epoch 00000 | Step 00060 | Loss 0.7114 | Speed (samples/sec) 19225.5677 | GPU 401.4 MB | time 4.705 s | duration 18.122 sPart 5 | Epoch 00000 | Step 00060 | Loss 0.7086 | Speed (samples/sec) 19200.4901 | GPU 400.5 MB | time 4.705 s | duration 18.123 sPart 2 | Epoch 00000 | Step 00060 | Loss 0.7006 | Speed (samples/sec) 19185.4260 | GPU 400.7 MB | time 4.705 s | duration 18.124 s
+
+
+Part 6 | Epoch 00000 | Step 00060 | Loss 0.7076 | Speed (samples/sec) 19207.9606 | GPU 401.8 MB | time 4.705 s | duration 18.124 sPart 7 | Epoch 00000 | Step 00060 | Loss 0.7080 | Speed (samples/sec) 19200.4398 | GPU 401.6 MB | time 4.705 s | duration 18.124 s
+
+Part 0 | Epoch 00000 | Step 00060 | Loss 0.7096 | Speed (samples/sec) 19200.8283 | GPU 401.2 MB | time 4.705 s | duration 18.124 s
+Part 4 | Epoch 00000 | Step 00060 | Loss 0.7044 | Speed (samples/sec) 19217.6352 | GPU 401.1 MB | time 4.704 s | duration 18.123 s
+Part 16 | Epoch 00000 | Step 00060 | Loss 0.7103 | Speed (samples/sec) 19197.5091 | GPU 392.3 MB | time 4.705 s | duration 18.137 sPart 21 | Epoch 00000 | Step 00060 | Loss 0.7039 | Speed (samples/sec) 19205.7492 | GPU 391.2 MB | time 4.705 s | duration 18.134 sPart 19 | Epoch 00000 | Step 00060 | Loss 0.7116 | Speed (samples/sec) 19205.6223 | GPU 391.3 MB | time 4.705 s | duration 18.138 s
+
+
+Part 20 | Epoch 00000 | Step 00060 | Loss 0.7120 | Speed (samples/sec) 19212.9892 | GPU 391.6 MB | time 4.705 s | duration 18.137 s
+Part 23 | Epoch 00000 | Step 00060 | Loss 0.7072 | Speed (samples/sec) 19201.7917 | GPU 391.1 MB | time 4.704 s | duration 18.137 sPart 17 | Epoch 00000 | Step 00060 | Loss 0.7061 | Speed (samples/sec) 19205.3973 | GPU 390.8 MB | time 4.705 s | duration 18.135 s
+Part 22 | Epoch 00000 | Step 00060 | Loss 0.7051 | Speed (samples/sec) 19212.7104 | GPU 390.8 MB | time 4.705 s | duration 18.135 s
+
+Part 24 | Epoch 00000 | Step 00060 | Loss 0.7180 | Speed (samples/sec) 19339.6192 | GPU 402.7 MB | time 4.705 s | duration 18.132 sPart 29 | Epoch 00000 | Step 00060 | Loss 0.7081 | Speed (samples/sec) 19345.6515 | GPU 402.0 MB | time 4.705 s | duration 18.132 sPart 28 | Epoch 00000 | Step 00060 | Loss 0.7098 | Speed (samples/sec) 19323.0630 | GPU 401.9 MB | time 4.705 s | duration 18.138 sPart 27 | Epoch 00000 | Step 00060 | Loss 0.7178 | Speed (samples/sec) 19343.7307 | GPU 401.2 MB | time 4.705 s | duration 18.130 s
+
+
+
+Part 26 | Epoch 00000 | Step 00060 | Loss 0.7206 | Speed (samples/sec) 19351.2907 | GPU 401.2 MB | time 4.705 s | duration 18.130 s
+Part 30 | Epoch 00000 | Step 00060 | Loss 0.7161 | Speed (samples/sec) 19347.0520 | GPU 401.5 MB | time 4.705 s | duration 18.129 s
+Part 14 | Epoch 00000 | Step 00060 | Loss 0.7156 | Speed (samples/sec) 19242.4844 | GPU 392.3 MB | time 4.705 s | duration 18.125 sPart 15 | Epoch 00000 | Step 00060 | Loss 0.7140 | Speed (samples/sec) 19249.8303 | GPU 392.3 MB | time 4.705 s | duration 18.129 s
+
+Part 10 | Epoch 00000 | Step 00060 | Loss 0.7163 | Speed (samples/sec) 19252.6274 | GPU 392.6 MB | time 4.705 s | duration 18.130 s
+Part 11 | Epoch 00000 | Step 00060 | Loss 0.7048 | Speed (samples/sec) 19240.9122 | GPU 392.4 MB | time 4.705 s | duration 18.128 sPart 13 | Epoch 00000 | Step 00060 | Loss 0.7121 | Speed (samples/sec) 19241.3804 | GPU 391.4 MB | time 4.705 s | duration 18.130 s
+
+Part 12 | Epoch 00000 | Step 00060 | Loss 0.7170 | Speed (samples/sec) 19239.9060 | GPU 392.8 MB | time 4.705 s | duration 18.144 s
+Part 8 | Epoch 00000 | Step 00060 | Loss 0.7051 | Speed (samples/sec) 19266.2039 | GPU 392.0 MB | time 4.705 s | duration 18.128 s
+Part 1 | Epoch 00000 | Step 00060 | Loss 0.7148 | Speed (samples/sec) 19214.4691 | GPU 401.4 MB | time 4.704 s | duration 18.124 s
+Part 18 | Epoch 00000 | Step 00060 | Loss 0.7163 | Speed (samples/sec) 19195.8065 | GPU 391.2 MB | time 4.705 s | duration 18.139 s
+Part 9 | Epoch 00000 | Step 00060 | Loss 0.7018 | Speed (samples/sec) 19241.8962 | GPU 394.0 MB | time 4.705 s | duration 18.144 s
+Part 31 | Epoch 00000 | Step 00060 | Loss 0.7204 | Speed (samples/sec) 19338.9751 | GPU 401.4 MB | time 4.704 s | duration 18.133 s
+Part 25 | Epoch 00000 | Step 00060 | Loss 0.7144 | Speed (samples/sec) 19331.9132 | GPU 401.4 MB | time 4.705 s | duration 18.149 s
+Part 0 | Epoch 00000 | Step 00080 | Loss 0.7059 | Speed (samples/sec) 19251.8268 | GPU 401.2 MB | time 5.099 s | duration 23.226 s
+Part 1 | Epoch 00000 | Step 00080 | Loss 0.6956 | Speed (samples/sec) 19259.1957 | GPU 401.4 MB | time 5.099 s | duration 23.226 s
+Part 4 | Epoch 00000 | Step 00080 | Loss 0.7017 | Speed (samples/sec) 19264.7731 | GPU 401.1 MB | time 5.099 s | duration 23.225 s
+Part 3 | Epoch 00000 | Step 00080 | Loss 0.7040 | Speed (samples/sec) 19273.9126 | GPU 401.4 MB | time 5.099 s | duration 23.225 s
+Part 6 | Epoch 00000 | Step 00080 | Loss 0.7029 | Speed (samples/sec) 19264.1097 | GPU 401.8 MB | time 5.099 s | duration 23.227 s
+Part 5 | Epoch 00000 | Step 00080 | Loss 0.6979 | Speed (samples/sec) 19252.7015 | GPU 400.5 MB | time 5.099 s | duration 23.226 s
+Part 7 | Epoch 00000 | Step 00080 | Loss 0.6942 | Speed (samples/sec) 19250.3920 | GPU 401.6 MB | time 5.099 s | duration 23.227 s
+Part 21 | Epoch 00000 | Step 00080 | Loss 0.6977 | Speed (samples/sec) 19257.2689 | GPU 391.2 MB | time 5.100 s | duration 23.237 s
+Part 18 | Epoch 00000 | Step 00080 | Loss 0.6929 | Speed (samples/sec) 19247.7251 | GPU 392.0 MB | time 5.099 s | duration 23.241 sPart 17 | Epoch 00000 | Step 00080 | Loss 0.6960 | Speed (samples/sec) 19255.3100 | GPU 390.8 MB | time 5.099 s | duration 23.238 s
+
+Part 20 | Epoch 00000 | Step 00080 | Loss 0.6977 | Speed (samples/sec) 19264.9930 | GPU 392.8 MB | time 5.100 s | duration 23.239 sPart 19 | Epoch 00000 | Step 00080 | Loss 0.6955 | Speed (samples/sec) 19259.3957 | GPU 391.3 MB | time 5.100 s | duration 23.241 s
+
+Part 27 | Epoch 00000 | Step 00080 | Loss 0.7018 | Speed (samples/sec) 19388.7119 | GPU 401.2 MB | time 5.100 s | duration 23.232 sPart 24 | Epoch 00000 | Step 00080 | Loss 0.6971 | Speed (samples/sec) 19379.5225 | GPU 402.7 MB | time 5.100 s | duration 23.235 sPart 29 | Epoch 00000 | Step 00080 | Loss 0.7048 | Speed (samples/sec) 19393.3251 | GPU 402.0 MB | time 5.100 s | duration 23.234 s
+
+
+Part 31 | Epoch 00000 | Step 00080 | Loss 0.7069 | Speed (samples/sec) 19385.9950 | GPU 402.8 MB | time 5.099 s | duration 23.235 sPart 30 | Epoch 00000 | Step 00080 | Loss 0.7021 | Speed (samples/sec) 19393.2882 | GPU 401.5 MB | time 5.099 s | duration 23.232 sPart 25 | Epoch 00000 | Step 00080 | Loss 0.7073 | Speed (samples/sec) 19381.1224 | GPU 401.4 MB | time 5.099 s | duration 23.251 s
+
+
+Part 28 | Epoch 00000 | Step 00080 | Loss 0.7006 | Speed (samples/sec) 19377.0301 | GPU 401.9 MB | time 5.100 s | duration 23.241 s
+Part 22 | Epoch 00000 | Step 00080 | Loss 0.7009 | Speed (samples/sec) 19260.2201 | GPU 390.8 MB | time 5.099 s | duration 23.238 s
+Part 26 | Epoch 00000 | Step 00080 | Loss 0.7001 | Speed (samples/sec) 19398.8416 | GPU 401.2 MB | time 5.099 s | duration 23.233 s
+Part 16 | Epoch 00000 | Step 00080 | Loss 0.6970 | Speed (samples/sec) 19246.5102 | GPU 392.3 MB | time 5.100 s | duration 23.240 s
+Part 15 | Epoch 00000 | Step 00080 | Loss 0.7083 | Speed (samples/sec) 19298.7657 | GPU 392.3 MB | time 5.100 s | duration 23.231 s
+Part 9 | Epoch 00000 | Step 00080 | Loss 0.7005 | Speed (samples/sec) 19291.6326 | GPU 394.0 MB | time 5.099 s | duration 23.247 s
+Part 13 | Epoch 00000 | Step 00080 | Loss 0.6966 | Speed (samples/sec) 19294.8974 | GPU 391.4 MB | time 5.099 s | duration 23.232 s
+Part 8 | Epoch 00000 | Step 00080 | Loss 0.6990 | Speed (samples/sec) 19313.9297 | GPU 392.4 MB | time 5.099 s | duration 23.230 s
+Part 14 | Epoch 00000 | Step 00080 | Loss 0.6955 | Speed (samples/sec) 19289.4492 | GPU 392.3 MB | time 5.100 s | duration 23.228 s
+Part 10 | Epoch 00000 | Step 00080 | Loss 0.6917 | Speed (samples/sec) 19301.2797 | GPU 392.6 MB | time 5.099 s | duration 23.232 s
+Part 23 | Epoch 00000 | Step 00080 | Loss 0.7033 | Speed (samples/sec) 19250.7702 | GPU 391.1 MB | time 5.099 s | duration 23.240 s
+Part 11 | Epoch 00000 | Step 00080 | Loss 0.6983 | Speed (samples/sec) 19291.3673 | GPU 392.4 MB | time 5.099 s | duration 23.231 s
+Part 12 | Epoch 00000 | Step 00080 | Loss 0.6940 | Speed (samples/sec) 19293.8955 | GPU 392.8 MB | time 5.099 s | duration 23.247 s
+Part 2 | Epoch 00000 | Step 00080 | Loss 0.7046 | Speed (samples/sec) 19236.2457 | GPU 400.7 MB | time 5.101 s | duration 23.228 s
+Part 3 | Epoch 00000 | Step 00100 | Loss 0.6949 | Speed (samples/sec) 19150.3128 | GPU 401.4 MB | time 5.330 s | duration 28.558 s
+Part 0 | Epoch 00000 | Step 00100 | Loss 0.6947 | Speed (samples/sec) 19130.4967 | GPU 401.2 MB | time 5.330 s | duration 28.560 sPart 6 | Epoch 00000 | Step 00100 | Loss 0.6925 | Speed (samples/sec) 19144.5617 | GPU 401.8 MB | time 5.330 s | duration 28.560 s
+
+Part 2 | Epoch 00000 | Step 00100 | Loss 0.6966 | Speed (samples/sec) 19120.6290 | GPU 400.7 MB | time 5.329 s | duration 28.560 s
+Part 5 | Epoch 00000 | Step 00100 | Loss 0.6940 | Speed (samples/sec) 19132.3297 | GPU 401.1 MB | time 5.330 s | duration 28.559 s
+Part 7 | Epoch 00000 | Step 00100 | Loss 0.7003 | Speed (samples/sec) 19137.5299 | GPU 401.6 MB | time 5.330 s | duration 28.560 s
+Part 1 | Epoch 00000 | Step 00100 | Loss 0.6954 | Speed (samples/sec) 19137.0142 | GPU 401.4 MB | time 5.330 s | duration 28.560 s
+Part 21 | Epoch 00000 | Step 00100 | Loss 0.6961 | Speed (samples/sec) 19136.2127 | GPU 391.6 MB | time 5.330 s | duration 28.570 sPart 19 | Epoch 00000 | Step 00100 | Loss 0.6970 | Speed (samples/sec) 19138.9590 | GPU 392.3 MB | time 5.330 s | duration 28.574 s
+
+Part 20 | Epoch 00000 | Step 00100 | Loss 0.7012 | Speed (samples/sec) 19146.1953 | GPU 392.8 MB | time 5.330 s | duration 28.572 s
+Part 17 | Epoch 00000 | Step 00100 | Loss 0.6997 | Speed (samples/sec) 19133.3110 | GPU 392.8 MB | time 5.330 s | duration 28.571 sPart 16 | Epoch 00000 | Step 00100 | Loss 0.6958 | Speed (samples/sec) 19130.5143 | GPU 392.3 MB | time 5.330 s | duration 28.573 s
+
+Part 14 | Epoch 00000 | Step 00100 | Loss 0.6956 | Speed (samples/sec) 19169.0058 | GPU 392.3 MB | time 5.330 s | duration 28.561 sPart 9 | Epoch 00000 | Step 00100 | Loss 0.6953 | Speed (samples/sec) 19176.3365 | GPU 394.0 MB | time 5.330 s | duration 28.580 s
+
+Part 8 | Epoch 00000 | Step 00100 | Loss 0.6953 | Speed (samples/sec) 19190.2892 | GPU 392.6 MB | time 5.330 s | duration 28.563 s
+Part 10 | Epoch 00000 | Step 00100 | Loss 0.6991 | Speed (samples/sec) 19181.9069 | GPU 392.8 MB | time 5.330 s | duration 28.565 s
+Part 18 | Epoch 00000 | Step 00100 | Loss 0.6972 | Speed (samples/sec) 19131.1044 | GPU 392.0 MB | time 5.330 s | duration 28.574 s
+Part 22 | Epoch 00000 | Step 00100 | Loss 0.6990 | Speed (samples/sec) 19137.9058 | GPU 391.6 MB | time 5.330 s | duration 28.571 s
+Part 29 | Epoch 00000 | Step 00100 | Loss 0.7031 | Speed (samples/sec) 19271.5615 | GPU 402.0 MB | time 5.330 s | duration 28.567 sPart 27 | Epoch 00000 | Step 00100 | Loss 0.6964 | Speed (samples/sec) 19271.9363 | GPU 401.2 MB | time 5.330 s | duration 28.566 sPart 28 | Epoch 00000 | Step 00100 | Loss 0.7014 | Speed (samples/sec) 19263.3600 | GPU 401.9 MB | time 5.330 s | duration 28.574 s
+
+
+Part 26 | Epoch 00000 | Step 00100 | Loss 0.6975 | Speed (samples/sec) 19276.9769 | GPU 401.5 MB | time 5.330 s | duration 28.566 s
+Part 24 | Epoch 00000 | Step 00100 | Loss 0.7001 | Speed (samples/sec) 19262.3964 | GPU 402.7 MB | time 5.330 s | duration 28.568 s
+Part 15 | Epoch 00000 | Step 00100 | Loss 0.6980 | Speed (samples/sec) 19182.8883 | GPU 393.0 MB | time 5.330 s | duration 28.565 s
+Part 4 | Epoch 00000 | Step 00100 | Loss 0.6997 | Speed (samples/sec) 19138.0997 | GPU 401.1 MB | time 5.330 s | duration 28.559 s
+Part 31 | Epoch 00000 | Step 00100 | Loss 0.6950 | Speed (samples/sec) 19268.7247 | GPU 402.8 MB | time 5.330 s | duration 28.569 sPart 30 | Epoch 00000 | Step 00100 | Loss 0.6982 | Speed (samples/sec) 19269.2807 | GPU 403.0 MB | time 5.330 s | duration 28.565 s
+
+Part 25 | Epoch 00000 | Step 00100 | Loss 0.6924 | Speed (samples/sec) 19261.6193 | GPU 402.1 MB | time 5.330 s | duration 28.584 s
+Part 11 | Epoch 00000 | Step 00100 | Loss 0.6943 | Speed (samples/sec) 19169.8602 | GPU 392.4 MB | time 5.330 s | duration 28.564 s
+Part 13 | Epoch 00000 | Step 00100 | Loss 0.6933 | Speed (samples/sec) 19177.5535 | GPU 391.4 MB | time 5.330 s | duration 28.566 s
+Part 12 | Epoch 00000 | Step 00100 | Loss 0.6944 | Speed (samples/sec) 19170.3075 | GPU 392.8 MB | time 5.330 s | duration 28.580 s
+Part 23 | Epoch 00000 | Step 00100 | Loss 0.6930 | Speed (samples/sec) 19127.2252 | GPU 391.1 MB | time 5.330 s | duration 28.573 s
+Part 6 | Epoch 00000 | Step 00120 | Loss 0.6907 | Speed (samples/sec) 19113.8554 | GPU 401.8 MB | time 5.262 s | duration 33.825 s
+Part 5 | Epoch 00000 | Step 00120 | Loss 0.6947 | Speed (samples/sec) 19101.7305 | GPU 401.1 MB | time 5.262 s | duration 33.824 s
+Part 1 | Epoch 00000 | Step 00120 | Loss 0.6940 | Speed (samples/sec) 19103.0675 | GPU 401.4 MB | time 5.261 s | duration 33.824 s
+Part 16 | Epoch 00000 | Step 00120 | Loss 0.6964 | Speed (samples/sec) 19100.7563 | GPU 392.3 MB | time 5.262 s | duration 33.838 sPart 21 | Epoch 00000 | Step 00120 | Loss 0.6954 | Speed (samples/sec) 19106.3478 | GPU 391.6 MB | time 5.262 s | duration 33.835 sPart 19 | Epoch 00000 | Step 00120 | Loss 0.6912 | Speed (samples/sec) 19104.6628 | GPU 392.3 MB | time 5.262 s | duration 33.839 sPart 20 | Epoch 00000 | Step 00120 | Loss 0.6956 | Speed (samples/sec) 19114.9445 | GPU 392.8 MB | time 5.262 s | duration 33.837 s
+
+
+
+Part 18 | Epoch 00000 | Step 00120 | Loss 0.6985 | Speed (samples/sec) 19101.1372 | GPU 392.0 MB | time 5.262 s | duration 33.839 s
+Part 17 | Epoch 00000 | Step 00120 | Loss 0.6921 | Speed (samples/sec) 19101.3671 | GPU 392.8 MB | time 5.262 s | duration 33.836 s
+Part 3 | Epoch 00000 | Step 00120 | Loss 0.6930 | Speed (samples/sec) 19117.2437 | GPU 401.4 MB | time 5.262 s | duration 33.823 s
+Part 2 | Epoch 00000 | Step 00120 | Loss 0.6984 | Speed (samples/sec) 19094.3779 | GPU 401.1 MB | time 5.262 s | duration 33.825 sPart 7 | Epoch 00000 | Step 00120 | Loss 0.6912 | Speed (samples/sec) 19099.1283 | GPU 401.6 MB | time 5.261 s | duration 33.825 s
+
+Part 9 | Epoch 00000 | Step 00120 | Loss 0.6900 | Speed (samples/sec) 19146.4632 | GPU 394.0 MB | time 5.262 s | duration 33.845 sPart 14 | Epoch 00000 | Step 00120 | Loss 0.6930 | Speed (samples/sec) 19141.0028 | GPU 392.3 MB | time 5.262 s | duration 33.826 sPart 15 | Epoch 00000 | Step 00120 | Loss 0.6929 | Speed (samples/sec) 19149.6456 | GPU 393.0 MB | time 5.262 s | duration 33.829 sPart 8 | Epoch 00000 | Step 00120 | Loss 0.6969 | Speed (samples/sec) 19154.1228 | GPU 392.6 MB | time 5.262 s | duration 33.828 s
+
+
+
+Part 0 | Epoch 00000 | Step 00120 | Loss 0.6931 | Speed (samples/sec) 19094.6610 | GPU 401.2 MB | time 5.262 s | duration 33.825 s
+Part 22 | Epoch 00000 | Step 00120 | Loss 0.6926 | Speed (samples/sec) 19105.9635 | GPU 391.6 MB | time 5.261 s | duration 33.836 s
+Part 23 | Epoch 00000 | Step 00120 | Loss 0.6943 | Speed (samples/sec) 19103.2711 | GPU 392.3 MB | time 5.261 s | duration 33.837 s
+Part 11 | Epoch 00000 | Step 00120 | Loss 0.6952 | Speed (samples/sec) 19139.2674 | GPU 392.8 MB | time 5.262 s | duration 33.829 sPart 10 | Epoch 00000 | Step 00120 | Loss 0.6951 | Speed (samples/sec) 19145.5903 | GPU 392.8 MB | time 5.262 s | duration 33.830 s
+
+Part 13 | Epoch 00000 | Step 00120 | Loss 0.6953 | Speed (samples/sec) 19149.6216 | GPU 391.4 MB | time 5.261 s | duration 33.830 s
+Part 24 | Epoch 00000 | Step 00120 | Loss 0.6940 | Speed (samples/sec) 19229.7806 | GPU 402.7 MB | time 5.262 s | duration 33.833 sPart 29 | Epoch 00000 | Step 00120 | Loss 0.6988 | Speed (samples/sec) 19237.0507 | GPU 402.0 MB | time 5.262 s | duration 33.832 s
+
+Part 31 | Epoch 00000 | Step 00120 | Loss 0.6955 | Speed (samples/sec) 19237.2906 | GPU 402.8 MB | time 5.262 s | duration 33.833 s
+Part 27 | Epoch 00000 | Step 00120 | Loss 0.6933 | Speed (samples/sec) 19237.4650 | GPU 401.2 MB | time 5.262 s | duration 33.830 s
+Part 28 | Epoch 00000 | Step 00120 | Loss 0.6930 | Speed (samples/sec) 19234.1384 | GPU 402.1 MB | time 5.262 s | duration 33.839 s
+Part 26 | Epoch 00000 | Step 00120 | Loss 0.6957 | Speed (samples/sec) 19245.6811 | GPU 401.5 MB | time 5.262 s | duration 33.831 s
+Part 25 | Epoch 00000 | Step 00120 | Loss 0.6932 | Speed (samples/sec) 19230.0923 | GPU 402.1 MB | time 5.261 s | duration 33.849 s
+Part 30 | Epoch 00000 | Step 00120 | Loss 0.6941 | Speed (samples/sec) 19236.6078 | GPU 403.0 MB | time 5.262 s | duration 33.830 s
+Part 12 | Epoch 00000 | Step 00120 | Loss 0.6978 | Speed (samples/sec) 19144.5171 | GPU 392.8 MB | time 5.261 s | duration 33.845 s
+Part 4 | Epoch 00000 | Step 00120 | Loss 0.6887 | Speed (samples/sec) 19100.5470 | GPU 401.1 MB | time 5.261 s | duration 33.824 s
+Part 5 | Epoch 00000 | Step 00140 | Loss 0.6946 | Speed (samples/sec) 19330.2603 | GPU 401.1 MB | time 4.672 s | duration 38.498 sPart 2 | Epoch 00000 | Step 00140 | Loss 0.6918 | Speed (samples/sec) 19321.9116 | GPU 401.1 MB | time 4.671 s | duration 38.499 s
+Part 3 | Epoch 00000 | Step 00140 | Loss 0.6979 | Speed (samples/sec) 19346.9891 | GPU 401.4 MB | time 4.672 s | duration 38.497 s
+
+Part 7 | Epoch 00000 | Step 00140 | Loss 0.6928 | Speed (samples/sec) 19328.5076 | GPU 401.6 MB | time 4.671 s | duration 38.500 sPart 6 | Epoch 00000 | Step 00140 | Loss 0.6915 | Speed (samples/sec) 19343.1626 | GPU 401.8 MB | time 4.671 s | duration 38.499 sPart 1 | Epoch 00000 | Step 00140 | Loss 0.6926 | Speed (samples/sec) 19332.7905 | GPU 401.4 MB | time 4.671 s | duration 38.499 s
+
+
+Part 0 | Epoch 00000 | Step 00140 | Loss 0.6886 | Speed (samples/sec) 19327.0219 | GPU 401.2 MB | time 4.671 s | duration 38.499 s
+Part 4 | Epoch 00000 | Step 00140 | Loss 0.7002 | Speed (samples/sec) 19330.2139 | GPU 401.9 MB | time 4.671 s | duration 38.498 s
+Part 16 | Epoch 00000 | Step 00140 | Loss 0.6975 | Speed (samples/sec) 19330.4173 | GPU 392.3 MB | time 4.672 s | duration 38.512 s
+Part 19 | Epoch 00000 | Step 00140 | Loss 0.7001 | Speed (samples/sec) 19334.1335 | GPU 392.3 MB | time 4.672 s | duration 38.513 s
+Part 21 | Epoch 00000 | Step 00140 | Loss 0.6934 | Speed (samples/sec) 19341.8493 | GPU 391.6 MB | time 4.672 s | duration 38.509 sPart 20 | Epoch 00000 | Step 00140 | Loss 0.6967 | Speed (samples/sec) 19342.6974 | GPU 392.8 MB | time 4.672 s | duration 38.512 s
+
+Part 23 | Epoch 00000 | Step 00140 | Loss 0.6910 | Speed (samples/sec) 19333.1134 | GPU 392.3 MB | time 4.671 s | duration 38.512 s
+Part 18 | Epoch 00000 | Step 00140 | Loss 0.6944 | Speed (samples/sec) 19332.0301 | GPU 392.0 MB | time 4.671 s | duration 38.514 s
+Part 17 | Epoch 00000 | Step 00140 | Loss 0.6960 | Speed (samples/sec) 19331.3654 | GPU 392.8 MB | time 4.671 s | duration 38.511 sPart 22 | Epoch 00000 | Step 00140 | Loss 0.6892 | Speed (samples/sec) 19337.8244 | GPU 391.6 MB | time 4.671 s | duration 38.510 sPart 29 | Epoch 00000 | Step 00140 | Loss 0.6921 | Speed (samples/sec) 19466.0525 | GPU 402.0 MB | time 4.672 s | duration 38.507 s
+Part 27 | Epoch 00000 | Step 00140 | Loss 0.6928 | Speed (samples/sec) 19466.4299 | GPU 401.8 MB | time 4.672 s | duration 38.505 s
+Part 26 | Epoch 00000 | Step 00140 | Loss 0.6953 | Speed (samples/sec) 19474.5137 | GPU 401.5 MB | time 4.671 s | duration 38.505 s
+Part 24 | Epoch 00000 | Step 00140 | Loss 0.6971 | Speed (samples/sec) 19461.4236 | GPU 402.7 MB | time 4.672 s | duration 38.507 sPart 28 | Epoch 00000 | Step 00140 | Loss 0.6915 | Speed (samples/sec) 19468.9431 | GPU 402.1 MB | time 4.672 s | duration 38.513 s
+
+
+
+Part 14 | Epoch 00000 | Step 00140 | Loss 0.6912 | Speed (samples/sec) 19372.4896 | GPU 392.8 MB | time 4.672 s | duration 38.500 sPart 15 | Epoch 00000 | Step 00140 | Loss 0.6936 | Speed (samples/sec) 19382.8593 | GPU 393.0 MB | time 4.672 s | duration 38.504 s
+
+Part 10 | Epoch 00000 | Step 00140 | Loss 0.6938 | Speed (samples/sec) 19374.5569 | GPU 392.8 MB | time 4.672 s | duration 38.505 s
+Part 11 | Epoch 00000 | Step 00140 | Loss 0.6904 | Speed (samples/sec) 19374.6856 | GPU 392.8 MB | time 4.671 s | duration 38.503 sPart 13 | Epoch 00000 | Step 00140 | Loss 0.6906 | Speed (samples/sec) 19379.7041 | GPU 391.4 MB | time 4.671 s | duration 38.505 s
+
+Part 9 | Epoch 00000 | Step 00140 | Loss 0.6876 | Speed (samples/sec) 19377.2357 | GPU 394.0 MB | time 4.672 s | duration 38.519 s
+Part 8 | Epoch 00000 | Step 00140 | Loss 0.6929 | Speed (samples/sec) 19378.9700 | GPU 392.6 MB | time 4.672 s | duration 38.503 s
+Part 31 | Epoch 00000 | Step 00140 | Loss 0.6897 | Speed (samples/sec) 19468.9737 | GPU 402.8 MB | time 4.671 s | duration 38.508 sPart 30 | Epoch 00000 | Step 00140 | Loss 0.6898 | Speed (samples/sec) 19466.5024 | GPU 403.0 MB | time 4.671 s | duration 38.504 s
+
+Part 25 | Epoch 00000 | Step 00140 | Loss 0.6987 | Speed (samples/sec) 19463.8906 | GPU 402.1 MB | time 4.671 s | duration 38.523 s
+Part 12 | Epoch 00000 | Step 00140 | Loss 0.6901 | Speed (samples/sec) 19377.3855 | GPU 392.8 MB | time 4.671 s | duration 38.520 s
+Part 3 | Epoch 00000 | Step 00160 | Loss 0.6904 | Speed (samples/sec) 19390.9543 | GPU 401.4 MB | time 4.994 s | duration 43.494 sPart 0 | Epoch 00000 | Step 00160 | Loss 0.6919 | Speed (samples/sec) 19372.0387 | GPU 401.2 MB | time 4.994 s | duration 43.496 sPart 5 | Epoch 00000 | Step 00160 | Loss 0.6915 | Speed (samples/sec) 19376.4677 | GPU 401.1 MB | time 4.994 s | duration 43.495 sPart 2 | Epoch 00000 | Step 00160 | Loss 0.6883 | Speed (samples/sec) 19364.9776 | GPU 401.1 MB | time 4.994 s | duration 43.496 s
+
+
+
+Part 1 | Epoch 00000 | Step 00160 | Loss 0.6912 | Speed (samples/sec) 19377.5725 | GPU 401.4 MB | time 4.994 s | duration 43.496 sPart 7 | Epoch 00000 | Step 00160 | Loss 0.6947 | Speed (samples/sec) 19374.2733 | GPU 401.6 MB | time 4.994 s | duration 43.496 s
+Part 6 | Epoch 00000 | Step 00160 | Loss 0.6892 | Speed (samples/sec) 19385.4127 | GPU 401.8 MB | time 4.994 s | duration 43.496 s
+
+Part 4 | Epoch 00000 | Step 00160 | Loss 0.6875 | Speed (samples/sec) 19375.3578 | GPU 401.9 MB | time 4.993 s | duration 43.495 s
+Part 21 | Epoch 00000 | Step 00160 | Loss 0.6882 | Speed (samples/sec) 19384.4678 | GPU 391.9 MB | time 4.994 s | duration 43.506 sPart 20 | Epoch 00000 | Step 00160 | Loss 0.6891 | Speed (samples/sec) 19385.2216 | GPU 392.9 MB | time 4.994 s | duration 43.508 s
+
+Part 18 | Epoch 00000 | Step 00160 | Loss 0.6895 | Speed (samples/sec) 19377.2567 | GPU 392.0 MB | time 4.994 s | duration 43.510 sPart 19 | Epoch 00000 | Step 00160 | Loss 0.6908 | Speed (samples/sec) 19377.3836 | GPU 392.3 MB | time 4.994 s | duration 43.510 s
+Part 22 | Epoch 00000 | Step 00160 | Loss 0.6904 | Speed (samples/sec) 19381.1731 | GPU 393.7 MB | time 4.993 s | duration 43.507 s
+
+Part 16 | Epoch 00000 | Step 00160 | Loss 0.6936 | Speed (samples/sec) 19373.6512 | GPU 392.5 MB | time 4.994 s | duration 43.509 s
+Part 17 | Epoch 00000 | Step 00160 | Loss 0.6881 | Speed (samples/sec) 19376.4265 | GPU 392.8 MB | time 4.993 s | duration 43.507 s
+Part 14 | Epoch 00000 | Step 00160 | Loss 0.6960 | Speed (samples/sec) 19416.5338 | GPU 392.8 MB | time 4.994 s | duration 43.497 sPart 9 | Epoch 00000 | Step 00160 | Loss 0.6896 | Speed (samples/sec) 19423.3992 | GPU 394.0 MB | time 4.994 s | duration 43.516 sPart 8 | Epoch 00000 | Step 00160 | Loss 0.6886 | Speed (samples/sec) 19423.6269 | GPU 392.6 MB | time 4.994 s | duration 43.499 s
+
+
+Part 15 | Epoch 00000 | Step 00160 | Loss 0.6941 | Speed (samples/sec) 19426.7489 | GPU 393.0 MB | time 4.994 s | duration 43.501 sPart 23 | Epoch 00000 | Step 00160 | Loss 0.6899 | Speed (samples/sec) 19379.7253 | GPU 394.3 MB | time 4.993 s | duration 43.509 s
+
+Part 13 | Epoch 00000 | Step 00160 | Loss 0.6903 | Speed (samples/sec) 19423.2367 | GPU 391.4 MB | time 4.993 s | duration 43.502 sPart 11 | Epoch 00000 | Step 00160 | Loss 0.6901 | Speed (samples/sec) 19419.2893 | GPU 392.8 MB | time 4.994 s | duration 43.500 s
+Part 12 | Epoch 00000 | Step 00160 | Loss 0.6912 | Speed (samples/sec) 19422.8116 | GPU 392.8 MB | time 4.993 s | duration 43.516 s
+
+Part 28 | Epoch 00000 | Step 00160 | Loss 0.6906 | Speed (samples/sec) 19512.8344 | GPU 402.1 MB | time 4.994 s | duration 43.510 sPart 29 | Epoch 00000 | Step 00160 | Loss 0.6947 | Speed (samples/sec) 19511.1518 | GPU 402.0 MB | time 4.994 s | duration 43.503 sPart 27 | Epoch 00000 | Step 00160 | Loss 0.6929 | Speed (samples/sec) 19511.6802 | GPU 401.8 MB | time 4.994 s | duration 43.502 s
+
+
+Part 31 | Epoch 00000 | Step 00160 | Loss 0.6930 | Speed (samples/sec) 19514.2400 | GPU 402.8 MB | time 4.994 s | duration 43.505 s
+Part 26 | Epoch 00000 | Step 00160 | Loss 0.6908 | Speed (samples/sec) 19522.2039 | GPU 401.5 MB | time 4.994 s | duration 43.502 s
+Part 24 | Epoch 00000 | Step 00160 | Loss 0.6937 | Speed (samples/sec) 19505.8524 | GPU 402.7 MB | time 4.993 s | duration 43.504 s
+Part 30 | Epoch 00000 | Step 00160 | Loss 0.6876 | Speed (samples/sec) 19512.9427 | GPU 403.0 MB | time 4.993 s | duration 43.501 s
+Part 25 | Epoch 00000 | Step 00160 | Loss 0.6959 | Speed (samples/sec) 19509.5681 | GPU 402.1 MB | time 4.993 s | duration 43.520 s
+Part 10 | Epoch 00000 | Step 00160 | Loss 0.6940 | Speed (samples/sec) 19422.8127 | GPU 392.8 MB | time 4.994 s | duration 43.501 s
+Part 2 | Epoch 00000 | Step 00180 | Loss 0.6976 | Speed (samples/sec) 19193.7449 | GPU 401.4 MB | time 5.575 s | duration 49.074 s
+Part 3 | Epoch 00000 | Step 00180 | Loss 0.6887 | Speed (samples/sec) 19213.5681 | GPU 401.4 MB | time 5.575 s | duration 49.072 sPart 0 | Epoch 00000 | Step 00180 | Loss 0.6897 | Speed (samples/sec) 19197.9205 | GPU 401.2 MB | time 5.575 s | duration 49.074 s
+
+Part 5 | Epoch 00000 | Step 00180 | Loss 0.6915 | Speed (samples/sec) 19201.2999 | GPU 401.1 MB | time 5.575 s | duration 49.073 s
+Part 1 | Epoch 00000 | Step 00180 | Loss 0.6915 | Speed (samples/sec) 19202.5198 | GPU 401.4 MB | time 5.575 s | duration 49.073 s
+Part 7 | Epoch 00000 | Step 00180 | Loss 0.6881 | Speed (samples/sec) 19199.9251 | GPU 401.6 MB | time 5.575 s | duration 49.074 s
+Part 16 | Epoch 00000 | Step 00180 | Loss 0.6865 | Speed (samples/sec) 19198.5027 | GPU 392.5 MB | time 5.575 s | duration 49.087 sPart 21 | Epoch 00000 | Step 00180 | Loss 0.6917 | Speed (samples/sec) 19209.1425 | GPU 391.9 MB | time 5.575 s | duration 49.084 sPart 20 | Epoch 00000 | Step 00180 | Loss 0.6896 | Speed (samples/sec) 19208.8605 | GPU 392.9 MB | time 5.575 s | duration 49.086 sPart 19 | Epoch 00000 | Step 00180 | Loss 0.6937 | Speed (samples/sec) 19203.4868 | GPU 392.3 MB | time 5.575 s | duration 49.088 s
+
+
+
+Part 22 | Epoch 00000 | Step 00180 | Loss 0.6914 | Speed (samples/sec) 19204.9890 | GPU 393.7 MB | time 5.575 s | duration 49.085 sPart 17 | Epoch 00000 | Step 00180 | Loss 0.6933 | Speed (samples/sec) 19202.7044 | GPU 392.8 MB | time 5.575 s | duration 49.085 s
+
+Part 18 | Epoch 00000 | Step 00180 | Loss 0.6891 | Speed (samples/sec) 19204.1182 | GPU 392.0 MB | time 5.574 s | duration 49.088 s
+Part 4 | Epoch 00000 | Step 00180 | Loss 0.6861 | Speed (samples/sec) 19202.9072 | GPU 401.9 MB | time 5.575 s | duration 49.073 s
+Part 9 | Epoch 00000 | Step 00180 | Loss 0.6872 | Speed (samples/sec) 19252.1639 | GPU 394.0 MB | time 5.575 s | duration 49.094 sPart 14 | Epoch 00000 | Step 00180 | Loss 0.6897 | Speed (samples/sec) 19246.8068 | GPU 392.8 MB | time 5.575 s | duration 49.075 sPart 10 | Epoch 00000 | Step 00180 | Loss 0.6906 | Speed (samples/sec) 19249.6013 | GPU 393.4 MB | time 5.575 s | duration 49.079 s
+
+
+Part 24 | Epoch 00000 | Step 00180 | Loss 0.6914 | Speed (samples/sec) 19332.6836 | GPU 402.7 MB | time 5.575 s | duration 49.082 s
+Part 26 | Epoch 00000 | Step 00180 | Loss 0.6917 | Speed (samples/sec) 19345.6091 | GPU 401.5 MB | time 5.575 s | duration 49.080 s
+Part 28 | Epoch 00000 | Step 00180 | Loss 0.6897 | Speed (samples/sec) 19336.4949 | GPU 402.1 MB | time 5.575 s | duration 49.088 sPart 27 | Epoch 00000 | Step 00180 | Loss 0.6909 | Speed (samples/sec) 19333.1486 | GPU 401.8 MB | time 5.575 s | duration 49.080 s
+
+Part 29 | Epoch 00000 | Step 00180 | Loss 0.6926 | Speed (samples/sec) 19334.2012 | GPU 402.0 MB | time 5.575 s | duration 49.081 s
+Part 13 | Epoch 00000 | Step 00180 | Loss 0.6905 | Speed (samples/sec) 19249.7260 | GPU 391.4 MB | time 5.575 s | duration 49.079 s
+Part 15 | Epoch 00000 | Step 00180 | Loss 0.6914 | Speed (samples/sec) 19251.3767 | GPU 393.0 MB | time 5.575 s | duration 49.079 s
+Part 12 | Epoch 00000 | Step 00180 | Loss 0.6900 | Speed (samples/sec) 19248.9207 | GPU 392.8 MB | time 5.575 s | duration 49.094 s
+Part 8 | Epoch 00000 | Step 00180 | Loss 0.6916 | Speed (samples/sec) 19250.6294 | GPU 392.6 MB | time 5.575 s | duration 49.077 s
+Part 11 | Epoch 00000 | Step 00180 | Loss 0.6907 | Speed (samples/sec) 19247.0051 | GPU 393.3 MB | time 5.574 s | duration 49.078 s
+Part 25 | Epoch 00000 | Step 00180 | Loss 0.6905 | Speed (samples/sec) 19334.4302 | GPU 402.1 MB | time 5.575 s | duration 49.098 s
+Part 31 | Epoch 00000 | Step 00180 | Loss 0.6893 | Speed (samples/sec) 19339.5478 | GPU 402.8 MB | time 5.575 s | duration 49.082 s
+Part 30 | Epoch 00000 | Step 00180 | Loss 0.6918 | Speed (samples/sec) 19336.4806 | GPU 403.0 MB | time 5.575 s | duration 49.079 s
+Part 6 | Epoch 00000 | Step 00180 | Loss 0.6883 | Speed (samples/sec) 19211.9603 | GPU 401.8 MB | time 5.575 s | duration 49.074 s
+Part 23 | Epoch 00000 | Step 00180 | Loss 0.6909 | Speed (samples/sec) 19206.5695 | GPU 394.3 MB | time 5.574 s | duration 49.087 s
+Part 3 | Epoch 00000 | Step 00200 | Loss 0.6960 | Speed (samples/sec) 19232.7598 | GPU 401.4 MB | time 5.056 s | duration 54.131 sPart 2 | Epoch 00000 | Step 00200 | Loss 0.6899 | Speed (samples/sec) 19218.1337 | GPU 401.4 MB | time 5.056 s | duration 54.133 sPart 5 | Epoch 00000 | Step 00200 | Loss 0.6883 | Speed (samples/sec) 19221.7576 | GPU 401.1 MB | time 5.056 s | duration 54.132 s
+
+
+Part 7 | Epoch 00000 | Step 00200 | Loss 0.6905 | Speed (samples/sec) 19221.5254 | GPU 401.6 MB | time 5.056 s | duration 54.133 s
+Part 1 | Epoch 00000 | Step 00200 | Loss 0.6854 | Speed (samples/sec) 19225.7470 | GPU 401.4 MB | time 5.056 s | duration 54.133 s
+Part 0 | Epoch 00000 | Step 00200 | Loss 0.6860 | Speed (samples/sec) 19219.2908 | GPU 401.2 MB | time 5.056 s | duration 54.133 s
+Part 6 | Epoch 00000 | Step 00200 | Loss 0.6866 | Speed (samples/sec) 19235.5251 | GPU 401.8 MB | time 5.056 s | duration 54.133 s
+Part 4 | Epoch 00000 | Step 00200 | Loss 0.6892 | Speed (samples/sec) 19226.5074 | GPU 401.9 MB | time 5.056 s | duration 54.132 s
+Part 16 | Epoch 00000 | Step 00200 | Loss 0.6874 | Speed (samples/sec) 19220.5655 | GPU 392.5 MB | time 5.056 s | duration 54.146 s
+Part 19 | Epoch 00000 | Step 00200 | Loss 0.6886 | Speed (samples/sec) 19225.6720 | GPU 392.3 MB | time 5.056 s | duration 54.147 s
+Part 21 | Epoch 00000 | Step 00200 | Loss 0.6898 | Speed (samples/sec) 19231.4030 | GPU 391.9 MB | time 5.057 s | duration 54.143 s
+Part 20 | Epoch 00000 | Step 00200 | Loss 0.6919 | Speed (samples/sec) 19232.6060 | GPU 392.9 MB | time 5.056 s | duration 54.146 s
+Part 8 | Epoch 00000 | Step 00200 | Loss 0.6879 | Speed (samples/sec) 19273.1500 | GPU 392.6 MB | time 5.056 s | duration 54.136 s
+Part 11 | Epoch 00000 | Step 00200 | Loss 0.6889 | Speed (samples/sec) 19266.4794 | GPU 393.3 MB | time 5.056 s | duration 54.137 sPart 14 | Epoch 00000 | Step 00200 | Loss 0.6889 | Speed (samples/sec) 19268.2325 | GPU 392.8 MB | time 5.057 s | duration 54.134 sPart 9 | Epoch 00000 | Step 00200 | Loss 0.6874 | Speed (samples/sec) 19275.2188 | GPU 394.0 MB | time 5.056 s | duration 54.153 s
+
+
+Part 10 | Epoch 00000 | Step 00200 | Loss 0.6930 | Speed (samples/sec) 19271.4673 | GPU 393.4 MB | time 5.056 s | duration 54.139 s
+Part 15 | Epoch 00000 | Step 00200 | Loss 0.6867 | Speed (samples/sec) 19274.2202 | GPU 393.0 MB | time 5.056 s | duration 54.138 s
+Part 29 | Epoch 00000 | Step 00200 | Loss 0.6922 | Speed (samples/sec) 19354.5382 | GPU 402.0 MB | time 5.056 s | duration 54.141 s
+Part 28 | Epoch 00000 | Step 00200 | Loss 0.6895 | Speed (samples/sec) 19360.7612 | GPU 402.1 MB | time 5.056 s | duration 54.147 s
+Part 31 | Epoch 00000 | Step 00200 | Loss 0.6873 | Speed (samples/sec) 19361.4526 | GPU 402.8 MB | time 5.056 s | duration 54.142 s
+Part 26 | Epoch 00000 | Step 00200 | Loss 0.6892 | Speed (samples/sec) 19366.3014 | GPU 401.5 MB | time 5.056 s | duration 54.139 s
+Part 24 | Epoch 00000 | Step 00200 | Loss 0.6942 | Speed (samples/sec) 19356.8118 | GPU 402.7 MB | time 5.056 s | duration 54.141 s
+Part 27 | Epoch 00000 | Step 00200 | Loss 0.6877 | Speed (samples/sec) 19353.7513 | GPU 401.8 MB | time 5.056 s | duration 54.139 s
+Part 17 | Epoch 00000 | Step 00200 | Loss 0.6879 | Speed (samples/sec) 19225.9565 | GPU 392.8 MB | time 5.056 s | duration 54.145 sPart 18 | Epoch 00000 | Step 00200 | Loss 0.6880 | Speed (samples/sec) 19227.2891 | GPU 392.0 MB | time 5.056 s | duration 54.148 s
+
+Part 30 | Epoch 00000 | Step 00200 | Loss 0.6896 | Speed (samples/sec) 19360.7564 | GPU 403.0 MB | time 5.056 s | duration 54.138 sPart 25 | Epoch 00000 | Step 00200 | Loss 0.6887 | Speed (samples/sec) 19356.5306 | GPU 402.1 MB | time 5.056 s | duration 54.157 s
+
+Part 13 | Epoch 00000 | Step 00200 | Loss 0.6901 | Speed (samples/sec) 19273.7975 | GPU 391.4 MB | time 5.056 s | duration 54.139 sPart 12 | Epoch 00000 | Step 00200 | Loss 0.6858 | Speed (samples/sec) 19271.9036 | GPU 392.8 MB | time 5.056 s | duration 54.153 s
+
+Part 22 | Epoch 00000 | Step 00200 | Loss 0.6873 | Speed (samples/sec) 19228.7514 | GPU 393.7 MB | time 5.056 s | duration 54.144 s
+Part 23 | Epoch 00000 | Step 00200 | Loss 0.6886 | Speed (samples/sec) 19230.4127 | GPU 394.3 MB | time 5.055 s | duration 54.146 s
+Part 0 | Epoch 00000 | Step 00220 | Loss 0.6913 | Speed (samples/sec) 19150.2048 | GPU 401.2 MB | time 5.401 s | duration 59.536 s
+Part 3 | Epoch 00000 | Step 00220 | Loss 0.6865 | Speed (samples/sec) 19165.0553 | GPU 401.4 MB | time 5.401 s | duration 59.535 s
+Part 1 | Epoch 00000 | Step 00220 | Loss 0.6872 | Speed (samples/sec) 19158.1726 | GPU 401.4 MB | time 5.400 s | duration 59.536 s
+Part 2 | Epoch 00000 | Step 00220 | Loss 0.6883 | Speed (samples/sec) 19150.5420 | GPU 401.4 MB | time 5.401 s | duration 59.537 s
+Part 7 | Epoch 00000 | Step 00220 | Loss 0.6896 | Speed (samples/sec) 19151.7274 | GPU 401.6 MB | time 5.401 s | duration 59.537 sPart 6 | Epoch 00000 | Step 00220 | Loss 0.6872 | Speed (samples/sec) 19167.8583 | GPU 401.8 MB | time 5.400 s | duration 59.537 s
+
+Part 4 | Epoch 00000 | Step 00220 | Loss 0.6857 | Speed (samples/sec) 19159.1802 | GPU 401.9 MB | time 5.400 s | duration 59.535 sPart 5 | Epoch 00000 | Step 00220 | Loss 0.6887 | Speed (samples/sec) 19153.3705 | GPU 401.1 MB | time 5.401 s | duration 59.536 s
+
+Part 19 | Epoch 00000 | Step 00220 | Loss 0.6903 | Speed (samples/sec) 19156.7440 | GPU 392.3 MB | time 5.401 s | duration 59.551 sPart 20 | Epoch 00000 | Step 00220 | Loss 0.6870 | Speed (samples/sec) 19164.8623 | GPU 392.9 MB | time 5.401 s | duration 59.549 sPart 21 | Epoch 00000 | Step 00220 | Loss 0.6908 | Speed (samples/sec) 19161.6281 | GPU 391.9 MB | time 5.401 s | duration 59.547 s
+
+
+Part 18 | Epoch 00000 | Step 00220 | Loss 0.6871 | Speed (samples/sec) 19159.4354 | GPU 392.0 MB | time 5.400 s | duration 59.551 s
+Part 16 | Epoch 00000 | Step 00220 | Loss 0.6903 | Speed (samples/sec) 19153.9563 | GPU 392.5 MB | time 5.401 s | duration 59.550 s
+Part 22 | Epoch 00000 | Step 00220 | Loss 0.7004 | Speed (samples/sec) 19161.8223 | GPU 393.7 MB | time 5.400 s | duration 59.548 s
+Part 17 | Epoch 00000 | Step 00220 | Loss 0.6880 | Speed (samples/sec) 19157.2901 | GPU 392.8 MB | time 5.400 s | duration 59.548 s
+Part 23 | Epoch 00000 | Step 00220 | Loss 0.6927 | Speed (samples/sec) 19164.7669 | GPU 394.3 MB | time 5.399 s | duration 59.549 s
+Part 9 | Epoch 00000 | Step 00220 | Loss 0.6902 | Speed (samples/sec) 19209.4424 | GPU 394.0 MB | time 5.401 s | duration 59.557 sPart 15 | Epoch 00000 | Step 00220 | Loss 0.6928 | Speed (samples/sec) 19206.7756 | GPU 393.0 MB | time 5.401 s | duration 59.541 sPart 8 | Epoch 00000 | Step 00220 | Loss 0.6908 | Speed (samples/sec) 19206.1920 | GPU 392.6 MB | time 5.401 s | duration 59.540 sPart 14 | Epoch 00000 | Step 00220 | Loss 0.6893 | Speed (samples/sec) 19200.3600 | GPU 392.8 MB | time 5.401 s | duration 59.538 s
+
+
+
+Part 12 | Epoch 00000 | Step 00220 | Loss 0.6855 | Speed (samples/sec) 19203.1645 | GPU 392.8 MB | time 5.400 s | duration 59.557 sPart 13 | Epoch 00000 | Step 00220 | Loss 0.6881 | Speed (samples/sec) 19205.1805 | GPU 391.4 MB | time 5.400 s | duration 59.542 s
+
+Part 10 | Epoch 00000 | Step 00220 | Loss 0.6934 | Speed (samples/sec) 19205.3024 | GPU 393.4 MB | time 5.400 s | duration 59.542 s
+Part 26 | Epoch 00000 | Step 00220 | Loss 0.6870 | Speed (samples/sec) 19298.0175 | GPU 401.8 MB | time 5.400 s | duration 59.543 sPart 27 | Epoch 00000 | Step 00220 | Loss 0.6897 | Speed (samples/sec) 19286.2836 | GPU 401.8 MB | time 5.401 s | duration 59.542 sPart 24 | Epoch 00000 | Step 00220 | Loss 0.6859 | Speed (samples/sec) 19289.6753 | GPU 402.7 MB | time 5.400 s | duration 59.545 s
+Part 29 | Epoch 00000 | Step 00220 | Loss 0.6913 | Speed (samples/sec) 19285.0555 | GPU 402.0 MB | time 5.401 s | duration 59.544 s
+
+
+Part 31 | Epoch 00000 | Step 00220 | Loss 0.6863 | Speed (samples/sec) 19293.3715 | GPU 402.8 MB | time 5.400 s | duration 59.545 sPart 25 | Epoch 00000 | Step 00220 | Loss 0.6912 | Speed (samples/sec) 19289.5292 | GPU 402.1 MB | time 5.400 s | duration 59.561 s
+
+Part 30 | Epoch 00000 | Step 00220 | Loss 0.6995 | Speed (samples/sec) 19294.2756 | GPU 403.0 MB | time 5.400 s | duration 59.542 s
+Part 28 | Epoch 00000 | Step 00220 | Loss 0.6912 | Speed (samples/sec) 19294.0067 | GPU 402.1 MB | time 5.401 s | duration 59.551 s
+Part 11 | Epoch 00000 | Step 00220 | Loss 0.6890 | Speed (samples/sec) 19198.5476 | GPU 393.3 MB | time 5.400 s | duration 59.541 s
+Part 2 | Epoch 00000 | Step 00240 | Loss 0.6882 | Speed (samples/sec) 19059.2730 | GPU 401.4 MB | time 5.581 s | duration 65.120 s
+Part 1 | Epoch 00000 | Step 00240 | Loss 0.6845 | Speed (samples/sec) 19067.1002 | GPU 401.4 MB | time 5.580 s | duration 65.120 s
+Part 3 | Epoch 00000 | Step 00240 | Loss 0.6848 | Speed (samples/sec) 19074.0612 | GPU 401.4 MB | time 5.581 s | duration 65.118 s
+Part 0 | Epoch 00000 | Step 00240 | Loss 0.6837 | Speed (samples/sec) 19060.8657 | GPU 401.2 MB | time 5.581 s | duration 65.120 s
+Part 5 | Epoch 00000 | Step 00240 | Loss 0.6884 | Speed (samples/sec) 19065.4635 | GPU 401.1 MB | time 5.581 s | duration 65.119 s
+Part 6 | Epoch 00000 | Step 00240 | Loss 0.6851 | Speed (samples/sec) 19077.1307 | GPU 402.8 MB | time 5.580 s | duration 65.120 sPart 7 | Epoch 00000 | Step 00240 | Loss 0.6873 | Speed (samples/sec) 19061.9827 | GPU 402.7 MB | time 5.580 s | duration 65.121 s
+
+Part 4 | Epoch 00000 | Step 00240 | Loss 0.6851 | Speed (samples/sec) 19067.1700 | GPU 401.9 MB | time 5.580 s | duration 65.119 s
+Part 16 | Epoch 00000 | Step 00240 | Loss 0.6867 | Speed (samples/sec) 19061.9776 | GPU 392.5 MB | time 5.581 s | duration 65.133 sPart 21 | Epoch 00000 | Step 00240 | Loss 0.6900 | Speed (samples/sec) 19068.9202 | GPU 391.9 MB | time 5.581 s | duration 65.130 s
+
+Part 19 | Epoch 00000 | Step 00240 | Loss 0.6904 | Speed (samples/sec) 19064.7947 | GPU 392.4 MB | time 5.581 s | duration 65.134 s
+Part 20 | Epoch 00000 | Step 00240 | Loss 0.6917 | Speed (samples/sec) 19073.0448 | GPU 392.9 MB | time 5.580 s | duration 65.133 s
+Part 8 | Epoch 00000 | Step 00240 | Loss 0.6876 | Speed (samples/sec) 19115.1004 | GPU 392.6 MB | time 5.581 s | duration 65.123 s
+Part 14 | Epoch 00000 | Step 00240 | Loss 0.6875 | Speed (samples/sec) 19107.3102 | GPU 392.8 MB | time 5.581 s | duration 65.121 s
+Part 18 | Epoch 00000 | Step 00240 | Loss 0.6851 | Speed (samples/sec) 19068.6757 | GPU 392.1 MB | time 5.580 s | duration 65.135 sPart 22 | Epoch 00000 | Step 00240 | Loss 0.6869 | Speed (samples/sec) 19071.4584 | GPU 393.7 MB | time 5.580 s | duration 65.131 s
+
+Part 13 | Epoch 00000 | Step 00240 | Loss 0.6863 | Speed (samples/sec) 19112.5119 | GPU 391.4 MB | time 5.580 s | duration 65.126 s
+Part 10 | Epoch 00000 | Step 00240 | Loss 0.6865 | Speed (samples/sec) 19113.3671 | GPU 393.4 MB | time 5.580 s | duration 65.126 s
+Part 15 | Epoch 00000 | Step 00240 | Loss 0.6882 | Speed (samples/sec) 19113.0596 | GPU 393.0 MB | time 5.581 s | duration 65.125 s
+Part 11 | Epoch 00000 | Step 00240 | Loss 0.6883 | Speed (samples/sec) 19107.6194 | GPU 393.3 MB | time 5.580 s | duration 65.124 sPart 12 | Epoch 00000 | Step 00240 | Loss 0.6836 | Speed (samples/sec) 19112.2463 | GPU 392.8 MB | time 5.580 s | duration 65.140 s
+
+Part 28 | Epoch 00000 | Step 00240 | Loss 0.6828 | Speed (samples/sec) 19201.3554 | GPU 402.1 MB | time 5.580 s | duration 65.134 sPart 24 | Epoch 00000 | Step 00240 | Loss 0.6914 | Speed (samples/sec) 19197.6954 | GPU 402.7 MB | time 5.581 s | duration 65.128 s
+
+Part 29 | Epoch 00000 | Step 00240 | Loss 0.6868 | Speed (samples/sec) 19194.4160 | GPU 402.0 MB | time 5.581 s | duration 65.128 s
+Part 31 | Epoch 00000 | Step 00240 | Loss 0.6885 | Speed (samples/sec) 19202.9694 | GPU 402.8 MB | time 5.580 s | duration 65.129 s
+Part 26 | Epoch 00000 | Step 00240 | Loss 0.6854 | Speed (samples/sec) 19206.2243 | GPU 401.8 MB | time 5.580 s | duration 65.126 s
+Part 25 | Epoch 00000 | Step 00240 | Loss 0.6896 | Speed (samples/sec) 19198.8124 | GPU 402.1 MB | time 5.580 s | duration 65.144 s
+Part 9 | Epoch 00000 | Step 00240 | Loss 0.6878 | Speed (samples/sec) 19117.6787 | GPU 394.0 MB | time 5.580 s | duration 65.140 s
+Part 30 | Epoch 00000 | Step 00240 | Loss 0.6891 | Speed (samples/sec) 19203.0438 | GPU 403.0 MB | time 5.580 s | duration 65.125 s
+Part 17 | Epoch 00000 | Step 00240 | Loss 0.6887 | Speed (samples/sec) 19068.2964 | GPU 392.8 MB | time 5.581 s | duration 65.132 s
+Part 27 | Epoch 00000 | Step 00240 | Loss 0.6826 | Speed (samples/sec) 19195.2422 | GPU 401.8 MB | time 5.581 s | duration 65.127 s
+Part 23 | Epoch 00000 | Step 00240 | Loss 0.6852 | Speed (samples/sec) 19075.2357 | GPU 394.3 MB | time 5.581 s | duration 65.135 s
+Part 3 | Epoch 00000 | Step 00260 | Loss 0.6864 | Speed (samples/sec) 18988.7639 | GPU 401.4 MB | time 5.593 s | duration 70.715 sPart 0 | Epoch 00000 | Step 00260 | Loss 0.6851 | Speed (samples/sec) 18976.9409 | GPU 401.2 MB | time 5.593 s | duration 70.717 sPart 2 | Epoch 00000 | Step 00260 | Loss 0.6846 | Speed (samples/sec) 18975.4948 | GPU 401.4 MB | time 5.594 s | duration 70.716 sPart 5 | Epoch 00000 | Step 00260 | Loss 0.6881 | Speed (samples/sec) 18981.1755 | GPU 401.1 MB | time 5.593 s | duration 70.716 s
+
+
+
+Part 6 | Epoch 00000 | Step 00260 | Loss 0.6825 | Speed (samples/sec) 18991.3779 | GPU 402.8 MB | time 5.593 s | duration 70.717 sPart 4 | Epoch 00000 | Step 00260 | Loss 0.6858 | Speed (samples/sec) 18983.4717 | GPU 401.9 MB | time 5.593 s | duration 70.715 sPart 1 | Epoch 00000 | Step 00260 | Loss 0.6837 | Speed (samples/sec) 18984.8808 | GPU 401.4 MB | time 5.593 s | duration 70.716 s
+
+
+Part 7 | Epoch 00000 | Step 00260 | Loss 0.6852 | Speed (samples/sec) 18977.3508 | GPU 402.7 MB | time 5.593 s | duration 70.717 s
+Part 16 | Epoch 00000 | Step 00260 | Loss 0.6892 | Speed (samples/sec) 18979.3133 | GPU 392.5 MB | time 5.594 s | duration 70.730 sPart 21 | Epoch 00000 | Step 00260 | Loss 0.6880 | Speed (samples/sec) 18985.2432 | GPU 391.9 MB | time 5.594 s | duration 70.727 sPart 20 | Epoch 00000 | Step 00260 | Loss 0.6877 | Speed (samples/sec) 18988.3047 | GPU 392.9 MB | time 5.594 s | duration 70.729 sPart 19 | Epoch 00000 | Step 00260 | Loss 0.6883 | Speed (samples/sec) 18981.1060 | GPU 392.4 MB | time 5.594 s | duration 70.731 s
+
+
+
+Part 23 | Epoch 00000 | Step 00260 | Loss 0.6862 | Speed (samples/sec) 18991.2282 | GPU 394.3 MB | time 5.592 s | duration 70.729 s
+Part 22 | Epoch 00000 | Step 00260 | Loss 0.6866 | Speed (samples/sec) 18989.9997 | GPU 393.7 MB | time 5.593 s | duration 70.728 s
+Part 18 | Epoch 00000 | Step 00260 | Loss 0.6847 | Speed (samples/sec) 18983.4162 | GPU 392.1 MB | time 5.593 s | duration 70.731 s
+Part 27 | Epoch 00000 | Step 00260 | Loss 0.6904 | Speed (samples/sec) 19110.0239 | GPU 401.8 MB | time 5.593 s | duration 70.722 sPart 29 | Epoch 00000 | Step 00260 | Loss 0.6885 | Speed (samples/sec) 19111.0652 | GPU 402.0 MB | time 5.594 s | duration 70.724 sPart 24 | Epoch 00000 | Step 00260 | Loss 0.6877 | Speed (samples/sec) 19112.9783 | GPU 402.7 MB | time 5.593 s | duration 70.725 sPart 28 | Epoch 00000 | Step 00260 | Loss 0.6855 | Speed (samples/sec) 19115.1388 | GPU 402.1 MB | time 5.593 s | duration 70.731 s
+
+
+
+Part 26 | Epoch 00000 | Step 00260 | Loss 0.6872 | Speed (samples/sec) 19122.4895 | GPU 401.8 MB | time 5.593 s | duration 70.723 sPart 30 | Epoch 00000 | Step 00260 | Loss 0.6871 | Speed (samples/sec) 19116.3849 | GPU 403.0 MB | time 5.593 s | duration 70.722 sPart 31 | Epoch 00000 | Step 00260 | Loss 0.6870 | Speed (samples/sec) 19118.9678 | GPU 402.8 MB | time 5.593 s | duration 70.725 s
+Part 25 | Epoch 00000 | Step 00260 | Loss 0.6838 | Speed (samples/sec) 19114.4036 | GPU 402.1 MB | time 5.593 s | duration 70.741 s
+
+
+Part 17 | Epoch 00000 | Step 00260 | Loss 0.6866 | Speed (samples/sec) 18985.0760 | GPU 392.8 MB | time 5.593 s | duration 70.728 s
+Part 14 | Epoch 00000 | Step 00260 | Loss 0.6901 | Speed (samples/sec) 19021.1274 | GPU 392.8 MB | time 5.594 s | duration 70.718 sPart 9 | Epoch 00000 | Step 00260 | Loss 0.6866 | Speed (samples/sec) 19032.0025 | GPU 394.0 MB | time 5.593 s | duration 70.737 sPart 15 | Epoch 00000 | Step 00260 | Loss 0.6855 | Speed (samples/sec) 19028.2540 | GPU 393.0 MB | time 5.594 s | duration 70.721 s
+
+
+Part 8 | Epoch 00000 | Step 00260 | Loss 0.6888 | Speed (samples/sec) 19030.1676 | GPU 392.6 MB | time 5.594 s | duration 70.720 s
+Part 12 | Epoch 00000 | Step 00260 | Loss 0.6897 | Speed (samples/sec) 19027.7155 | GPU 392.8 MB | time 5.593 s | duration 70.737 sPart 11 | Epoch 00000 | Step 00260 | Loss 0.6867 | Speed (samples/sec) 19024.0644 | GPU 393.3 MB | time 5.593 s | duration 70.721 sPart 13 | Epoch 00000 | Step 00260 | Loss 0.6906 | Speed (samples/sec) 19025.7792 | GPU 391.4 MB | time 5.593 s | duration 70.722 s
+
+
+Part 10 | Epoch 00000 | Step 00260 | Loss 0.6878 | Speed (samples/sec) 19029.0908 | GPU 393.4 MB | time 5.593 s | duration 70.722 s
+Part 3 | Epoch 00000 | Step 00280 | Loss 0.6845 | Speed (samples/sec) 19024.7357 | GPU 401.4 MB | time 5.055 s | duration 75.773 sPart 5 | Epoch 00000 | Step 00280 | Loss 0.6846 | Speed (samples/sec) 19019.4421 | GPU 402.3 MB | time 5.055 s | duration 75.773 s
+
+Part 1 | Epoch 00000 | Step 00280 | Loss 0.6849 | Speed (samples/sec) 19020.0747 | GPU 401.4 MB | time 5.055 s | duration 75.774 sPart 7 | Epoch 00000 | Step 00280 | Loss 0.6854 | Speed (samples/sec) 19014.7601 | GPU 402.7 MB | time 5.055 s | duration 75.775 s
+
+Part 4 | Epoch 00000 | Step 00280 | Loss 0.6858 | Speed (samples/sec) 19019.3420 | GPU 401.9 MB | time 5.055 s | duration 75.773 s
+Part 2 | Epoch 00000 | Step 00280 | Loss 0.6883 | Speed (samples/sec) 19012.2341 | GPU 401.4 MB | time 5.055 s | duration 75.774 s
+Part 0 | Epoch 00000 | Step 00280 | Loss 0.6837 | Speed (samples/sec) 19014.2255 | GPU 401.2 MB | time 5.055 s | duration 75.775 s
+Part 6 | Epoch 00000 | Step 00280 | Loss 0.6858 | Speed (samples/sec) 19025.9377 | GPU 402.8 MB | time 5.055 s | duration 75.775 s
+Part 16 | Epoch 00000 | Step 00280 | Loss 0.6885 | Speed (samples/sec) 19016.4241 | GPU 392.5 MB | time 5.055 s | duration 75.788 sPart 20 | Epoch 00000 | Step 00280 | Loss 0.6820 | Speed (samples/sec) 19025.2641 | GPU 392.9 MB | time 5.055 s | duration 75.787 sPart 21 | Epoch 00000 | Step 00280 | Loss 0.6856 | Speed (samples/sec) 19022.2921 | GPU 391.9 MB | time 5.055 s | duration 75.785 s
+
+
+Part 22 | Epoch 00000 | Step 00280 | Loss 0.6826 | Speed (samples/sec) 19026.2805 | GPU 393.7 MB | time 5.055 s | duration 75.786 s
+Part 23 | Epoch 00000 | Step 00280 | Loss 0.6839 | Speed (samples/sec) 19028.2100 | GPU 394.3 MB | time 5.055 s | duration 75.787 sPart 17 | Epoch 00000 | Step 00280 | Loss 0.6839 | Speed (samples/sec) 19021.6994 | GPU 392.8 MB | time 5.055 s | duration 75.786 s
+
+Part 19 | Epoch 00000 | Step 00280 | Loss 0.6873 | Speed (samples/sec) 19018.1024 | GPU 392.4 MB | time 5.055 s | duration 75.789 s
+Part 18 | Epoch 00000 | Step 00280 | Loss 0.6804 | Speed (samples/sec) 19022.4757 | GPU 392.1 MB | time 5.055 s | duration 75.789 s
+Part 14 | Epoch 00000 | Step 00280 | Loss 0.6862 | Speed (samples/sec) 19058.5723 | GPU 392.8 MB | time 5.055 s | duration 75.776 sPart 8 | Epoch 00000 | Step 00280 | Loss 0.6834 | Speed (samples/sec) 19066.0337 | GPU 392.6 MB | time 5.055 s | duration 75.778 s
+
+Part 24 | Epoch 00000 | Step 00280 | Loss 0.6911 | Speed (samples/sec) 19151.0189 | GPU 402.7 MB | time 5.055 s | duration 75.783 sPart 29 | Epoch 00000 | Step 00280 | Loss 0.6830 | Speed (samples/sec) 19150.1055 | GPU 402.0 MB | time 5.055 s | duration 75.782 s
+
+Part 28 | Epoch 00000 | Step 00280 | Loss 0.6860 | Speed (samples/sec) 19153.4868 | GPU 402.1 MB | time 5.055 s | duration 75.789 s
+Part 26 | Epoch 00000 | Step 00280 | Loss 0.6844 | Speed (samples/sec) 19159.4981 | GPU 401.9 MB | time 5.055 s | duration 75.781 s
+Part 31 | Epoch 00000 | Step 00280 | Loss 0.6850 | Speed (samples/sec) 19156.7313 | GPU 402.8 MB | time 5.055 s | duration 75.783 sPart 25 | Epoch 00000 | Step 00280 | Loss 0.6793 | Speed (samples/sec) 19151.2031 | GPU 402.1 MB | time 5.055 s | duration 75.799 s
+
+Part 27 | Epoch 00000 | Step 00280 | Loss 0.6809 | Speed (samples/sec) 19147.7376 | GPU 401.8 MB | time 5.055 s | duration 75.780 s
+Part 11 | Epoch 00000 | Step 00280 | Loss 0.6843 | Speed (samples/sec) 19060.3260 | GPU 393.3 MB | time 5.055 s | duration 75.779 s
+Part 15 | Epoch 00000 | Step 00280 | Loss 0.6826 | Speed (samples/sec) 19065.1661 | GPU 393.0 MB | time 5.055 s | duration 75.779 s
+Part 10 | Epoch 00000 | Step 00280 | Loss 0.6840 | Speed (samples/sec) 19066.1289 | GPU 393.4 MB | time 5.054 s | duration 75.780 s
+Part 9 | Epoch 00000 | Step 00280 | Loss 0.6819 | Speed (samples/sec) 19067.4991 | GPU 394.0 MB | time 5.055 s | duration 75.795 s
+Part 30 | Epoch 00000 | Step 00280 | Loss 0.6849 | Speed (samples/sec) 19153.9284 | GPU 403.0 MB | time 5.055 s | duration 75.780 s
+Part 13 | Epoch 00000 | Step 00280 | Loss 0.6845 | Speed (samples/sec) 19063.6844 | GPU 391.4 MB | time 5.055 s | duration 75.780 s
+Part 12 | Epoch 00000 | Step 00280 | Loss 0.6838 | Speed (samples/sec) 19064.8940 | GPU 392.8 MB | time 5.055 s | duration 75.795 s
+Part 3 | Epoch 00000 | Step 00300 | Loss 0.6793 | Speed (samples/sec) 18877.5739 | GPU 401.4 MB | time 5.978 s | duration 81.753 s
+Part 6 | Epoch 00000 | Step 00300 | Loss 0.6795 | Speed (samples/sec) 18878.6914 | GPU 402.8 MB | time 5.977 s | duration 81.755 sPart 1 | Epoch 00000 | Step 00300 | Loss 0.6816 | Speed (samples/sec) 18874.8578 | GPU 401.4 MB | time 5.977 s | duration 81.755 s
+
+Part 5 | Epoch 00000 | Step 00300 | Loss 0.6843 | Speed (samples/sec) 18873.1964 | GPU 402.3 MB | time 5.978 s | duration 81.754 s
+Part 7 | Epoch 00000 | Step 00300 | Loss 0.6806 | Speed (samples/sec) 18867.4295 | GPU 402.7 MB | time 5.977 s | duration 81.755 sPart 4 | Epoch 00000 | Step 00300 | Loss 0.6833 | Speed (samples/sec) 18871.5436 | GPU 401.9 MB | time 5.977 s | duration 81.754 s
+
+Part 2 | Epoch 00000 | Step 00300 | Loss 0.6844 | Speed (samples/sec) 18866.9926 | GPU 401.4 MB | time 5.978 s | duration 81.755 s
+Part 28 | Epoch 00000 | Step 00300 | Loss 0.6826 | Speed (samples/sec) 19005.4527 | GPU 402.1 MB | time 5.978 s | duration 81.769 sPart 24 | Epoch 00000 | Step 00300 | Loss 0.6835 | Speed (samples/sec) 19004.3219 | GPU 402.7 MB | time 5.978 s | duration 81.763 sPart 29 | Epoch 00000 | Step 00300 | Loss 0.6846 | Speed (samples/sec) 19002.6696 | GPU 402.0 MB | time 5.978 s | duration 81.763 s
+
+
+Part 27 | Epoch 00000 | Step 00300 | Loss 0.6868 | Speed (samples/sec) 19000.4622 | GPU 402.1 MB | time 5.977 s | duration 81.761 s
+Part 23 | Epoch 00000 | Step 00300 | Loss 0.6862 | Speed (samples/sec) 18880.2294 | GPU 394.3 MB | time 5.977 s | duration 81.768 s
+Part 16 | Epoch 00000 | Step 00300 | Loss 0.6862 | Speed (samples/sec) 18869.6539 | GPU 392.5 MB | time 5.977 s | duration 81.768 s
+Part 21 | Epoch 00000 | Step 00300 | Loss 0.6800 | Speed (samples/sec) 18873.1065 | GPU 391.9 MB | time 5.978 s | duration 81.765 s
+Part 20 | Epoch 00000 | Step 00300 | Loss 0.6828 | Speed (samples/sec) 18877.3673 | GPU 392.9 MB | time 5.978 s | duration 81.768 sPart 19 | Epoch 00000 | Step 00300 | Loss 0.6848 | Speed (samples/sec) 18870.1788 | GPU 392.4 MB | time 5.977 s | duration 81.769 s
+
+Part 0 | Epoch 00000 | Step 00300 | Loss 0.6882 | Speed (samples/sec) 18867.8118 | GPU 401.2 MB | time 5.978 s | duration 81.755 s
+Part 22 | Epoch 00000 | Step 00300 | Loss 0.6815 | Speed (samples/sec) 18879.3466 | GPU 393.7 MB | time 5.977 s | duration 81.766 s
+Part 17 | Epoch 00000 | Step 00300 | Loss 0.6838 | Speed (samples/sec) 18874.5855 | GPU 392.8 MB | time 5.977 s | duration 81.767 sPart 18 | Epoch 00000 | Step 00300 | Loss 0.6875 | Speed (samples/sec) 18877.1202 | GPU 392.1 MB | time 5.977 s | duration 81.770 s
+
+Part 14 | Epoch 00000 | Step 00300 | Loss 0.6824 | Speed (samples/sec) 18911.1786 | GPU 392.8 MB | time 5.978 s | duration 81.756 sPart 15 | Epoch 00000 | Step 00300 | Loss 0.6913 | Speed (samples/sec) 18918.2288 | GPU 393.0 MB | time 5.978 s | duration 81.760 s
+
+Part 9 | Epoch 00000 | Step 00300 | Loss 0.6809 | Speed (samples/sec) 18920.4015 | GPU 394.0 MB | time 5.977 s | duration 81.775 s
+Part 26 | Epoch 00000 | Step 00300 | Loss 0.6844 | Speed (samples/sec) 19011.3985 | GPU 401.9 MB | time 5.977 s | duration 81.761 sPart 25 | Epoch 00000 | Step 00300 | Loss 0.6857 | Speed (samples/sec) 19004.1468 | GPU 402.1 MB | time 5.977 s | duration 81.779 sPart 30 | Epoch 00000 | Step 00300 | Loss 0.6842 | Speed (samples/sec) 19006.9332 | GPU 403.0 MB | time 5.977 s | duration 81.760 sPart 31 | Epoch 00000 | Step 00300 | Loss 0.6835 | Speed (samples/sec) 19007.8643 | GPU 402.8 MB | time 5.977 s | duration 81.764 s
+
+
+
+Part 13 | Epoch 00000 | Step 00300 | Loss 0.6825 | Speed (samples/sec) 18916.8077 | GPU 391.4 MB | time 5.977 s | duration 81.761 s
+Part 8 | Epoch 00000 | Step 00300 | Loss 0.6801 | Speed (samples/sec) 18917.5383 | GPU 392.6 MB | time 5.977 s | duration 81.758 s
+Part 11 | Epoch 00000 | Step 00300 | Loss 0.6797 | Speed (samples/sec) 18914.3940 | GPU 393.3 MB | time 5.977 s | duration 81.759 sPart 10 | Epoch 00000 | Step 00300 | Loss 0.6821 | Speed (samples/sec) 18918.8831 | GPU 393.4 MB | time 5.977 s | duration 81.761 s
+
+Part 12 | Epoch 00000 | Step 00300 | Loss 0.6823 | Speed (samples/sec) 18917.1734 | GPU 392.8 MB | time 5.977 s | duration 81.776 s
+Part 2 | Epoch 00000 | Step 00320 | Loss 0.6808 | Speed (samples/sec) 18628.2547 | GPU 401.4 MB | time 6.546 s | duration 88.304 sPart 1 | Epoch 00000 | Step 00320 | Loss 0.6806 | Speed (samples/sec) 18635.0176 | GPU 401.4 MB | time 6.546 s | duration 88.304 s
+
+Part 5 | Epoch 00000 | Step 00320 | Loss 0.6858 | Speed (samples/sec) 18634.9037 | GPU 402.3 MB | time 6.546 s | duration 88.303 sPart 3 | Epoch 00000 | Step 00320 | Loss 0.6839 | Speed (samples/sec) 18638.0668 | GPU 401.4 MB | time 6.546 s | duration 88.303 s
+
+Part 0 | Epoch 00000 | Step 00320 | Loss 0.6852 | Speed (samples/sec) 18629.4894 | GPU 401.2 MB | time 6.546 s | duration 88.304 s
+Part 7 | Epoch 00000 | Step 00320 | Loss 0.6859 | Speed (samples/sec) 18627.7806 | GPU 402.7 MB | time 6.546 s | duration 88.305 sPart 6 | Epoch 00000 | Step 00320 | Loss 0.6825 | Speed (samples/sec) 18639.2443 | GPU 402.8 MB | time 6.546 s | duration 88.305 s
+
+Part 4 | Epoch 00000 | Step 00320 | Loss 0.6808 | Speed (samples/sec) 18633.4911 | GPU 401.9 MB | time 6.546 s | duration 88.303 s
+Part 20 | Epoch 00000 | Step 00320 | Loss 0.6833 | Speed (samples/sec) 18637.9143 | GPU 392.9 MB | time 6.546 s | duration 88.317 sPart 21 | Epoch 00000 | Step 00320 | Loss 0.6775 | Speed (samples/sec) 18634.7723 | GPU 391.9 MB | time 6.546 s | duration 88.314 sPart 16 | Epoch 00000 | Step 00320 | Loss 0.6773 | Speed (samples/sec) 18631.9600 | GPU 392.5 MB | time 6.546 s | duration 88.317 s
+
+
+Part 18 | Epoch 00000 | Step 00320 | Loss 0.6830 | Speed (samples/sec) 18637.6505 | GPU 392.1 MB | time 6.546 s | duration 88.319 s
+Part 22 | Epoch 00000 | Step 00320 | Loss 0.6786 | Speed (samples/sec) 18639.9175 | GPU 393.7 MB | time 6.546 s | duration 88.315 s
+Part 19 | Epoch 00000 | Step 00320 | Loss 0.6826 | Speed (samples/sec) 18631.6266 | GPU 392.4 MB | time 6.546 s | duration 88.318 s
+Part 23 | Epoch 00000 | Step 00320 | Loss 0.6802 | Speed (samples/sec) 18641.0285 | GPU 394.3 MB | time 6.546 s | duration 88.317 s
+Part 17 | Epoch 00000 | Step 00320 | Loss 0.6819 | Speed (samples/sec) 18634.3530 | GPU 392.8 MB | time 6.546 s | duration 88.316 s
+Part 8 | Epoch 00000 | Step 00320 | Loss 0.6815 | Speed (samples/sec) 18677.2905 | GPU 393.2 MB | time 6.546 s | duration 88.308 s
+Part 11 | Epoch 00000 | Step 00320 | Loss 0.6790 | Speed (samples/sec) 18674.4836 | GPU 393.3 MB | time 6.546 s | duration 88.308 s
+Part 9 | Epoch 00000 | Step 00320 | Loss 0.6816 | Speed (samples/sec) 18680.5470 | GPU 394.0 MB | time 6.546 s | duration 88.324 sPart 14 | Epoch 00000 | Step 00320 | Loss 0.6856 | Speed (samples/sec) 18672.5739 | GPU 392.8 MB | time 6.546 s | duration 88.306 s
+
+Part 15 | Epoch 00000 | Step 00320 | Loss 0.6840 | Speed (samples/sec) 18680.0073 | GPU 393.0 MB | time 6.546 s | duration 88.309 s
+Part 27 | Epoch 00000 | Step 00320 | Loss 0.6828 | Speed (samples/sec) 18761.1905 | GPU 403.8 MB | time 6.546 s | duration 88.310 sPart 24 | Epoch 00000 | Step 00320 | Loss 0.6851 | Speed (samples/sec) 18764.4317 | GPU 402.7 MB | time 6.546 s | duration 88.312 sPart 28 | Epoch 00000 | Step 00320 | Loss 0.6845 | Speed (samples/sec) 18765.2266 | GPU 402.1 MB | time 6.546 s | duration 88.318 sPart 29 | Epoch 00000 | Step 00320 | Loss 0.6817 | Speed (samples/sec) 18763.4012 | GPU 402.0 MB | time 6.546 s | duration 88.312 s
+
+
+
+Part 31 | Epoch 00000 | Step 00320 | Loss 0.6823 | Speed (samples/sec) 18768.1927 | GPU 402.8 MB | time 6.546 s | duration 88.313 sPart 30 | Epoch 00000 | Step 00320 | Loss 0.6811 | Speed (samples/sec) 18766.7667 | GPU 403.0 MB | time 6.546 s | duration 88.309 s
+
+Part 26 | Epoch 00000 | Step 00320 | Loss 0.6826 | Speed (samples/sec) 18770.6006 | GPU 401.9 MB | time 6.546 s | duration 88.310 s
+Part 25 | Epoch 00000 | Step 00320 | Loss 0.6817 | Speed (samples/sec) 18764.4585 | GPU 403.4 MB | time 6.546 s | duration 88.328 s
+Part 13 | Epoch 00000 | Step 00320 | Loss 0.6813 | Speed (samples/sec) 18678.1956 | GPU 393.1 MB | time 6.546 s | duration 88.310 sPart 12 | Epoch 00000 | Step 00320 | Loss 0.6804 | Speed (samples/sec) 18677.5184 | GPU 392.8 MB | time 6.545 s | duration 88.325 s
+
+Part 10 | Epoch 00000 | Step 00320 | Loss 0.6796 | Speed (samples/sec) 18680.0756 | GPU 393.4 MB | time 6.546 s | duration 88.310 s
+Part 3 | Epoch 00000 | Step 00340 | Loss 0.6796 | Speed (samples/sec) 18695.1207 | GPU 401.4 MB | time 5.016 s | duration 93.322 sPart 2 | Epoch 00000 | Step 00340 | Loss 0.6806 | Speed (samples/sec) 18683.8210 | GPU 401.4 MB | time 5.016 s | duration 93.324 s
+
+Part 5 | Epoch 00000 | Step 00340 | Loss 0.6819 | Speed (samples/sec) 18690.8593 | GPU 402.3 MB | time 5.017 s | duration 93.323 s
+Part 7 | Epoch 00000 | Step 00340 | Loss 0.6767 | Speed (samples/sec) 18684.1724 | GPU 402.7 MB | time 5.016 s | duration 93.324 sPart 1 | Epoch 00000 | Step 00340 | Loss 0.6793 | Speed (samples/sec) 18692.3283 | GPU 401.4 MB | time 5.016 s | duration 93.323 s
+
+Part 0 | Epoch 00000 | Step 00340 | Loss 0.6830 | Speed (samples/sec) 18686.7950 | GPU 401.2 MB | time 5.016 s | duration 93.324 s
+Part 4 | Epoch 00000 | Step 00340 | Loss 0.6723 | Speed (samples/sec) 18689.5537 | GPU 401.9 MB | time 5.016 s | duration 93.322 s
+Part 6 | Epoch 00000 | Step 00340 | Loss 0.6773 | Speed (samples/sec) 18694.8685 | GPU 402.8 MB | time 5.016 s | duration 93.324 s
+Part 19 | Epoch 00000 | Step 00340 | Loss 0.6742 | Speed (samples/sec) 18689.3948 | GPU 392.4 MB | time 5.017 s | duration 93.338 sPart 21 | Epoch 00000 | Step 00340 | Loss 0.6757 | Speed (samples/sec) 18691.4566 | GPU 391.9 MB | time 5.017 s | duration 93.334 s
+
+Part 16 | Epoch 00000 | Step 00340 | Loss 0.6784 | Speed (samples/sec) 18689.0983 | GPU 392.5 MB | time 5.017 s | duration 93.337 s
+Part 23 | Epoch 00000 | Step 00340 | Loss 0.6770 | Speed (samples/sec) 18699.2916 | GPU 394.3 MB | time 5.016 s | duration 93.337 s
+Part 22 | Epoch 00000 | Step 00340 | Loss 0.6804 | Speed (samples/sec) 18697.1197 | GPU 393.7 MB | time 5.016 s | duration 93.335 s
+Part 20 | Epoch 00000 | Step 00340 | Loss 0.6758 | Speed (samples/sec) 18695.5709 | GPU 392.9 MB | time 5.017 s | duration 93.336 s
+Part 14 | Epoch 00000 | Step 00340 | Loss 0.6784 | Speed (samples/sec) 18730.5372 | GPU 392.8 MB | time 5.017 s | duration 93.325 sPart 9 | Epoch 00000 | Step 00340 | Loss 0.6790 | Speed (samples/sec) 18736.5347 | GPU 394.0 MB | time 5.017 s | duration 93.344 sPart 15 | Epoch 00000 | Step 00340 | Loss 0.6782 | Speed (samples/sec) 18737.4719 | GPU 393.2 MB | time 5.017 s | duration 93.329 s
+
+
+Part 12 | Epoch 00000 | Step 00340 | Loss 0.6760 | Speed (samples/sec) 18735.4917 | GPU 392.8 MB | time 5.016 s | duration 93.344 s
+Part 8 | Epoch 00000 | Step 00340 | Loss 0.6746 | Speed (samples/sec) 18736.0411 | GPU 393.2 MB | time 5.016 s | duration 93.327 s
+Part 10 | Epoch 00000 | Step 00340 | Loss 0.6796 | Speed (samples/sec) 18736.1394 | GPU 393.4 MB | time 5.016 s | duration 93.329 s
+Part 18 | Epoch 00000 | Step 00340 | Loss 0.6775 | Speed (samples/sec) 18694.2119 | GPU 392.1 MB | time 5.016 s | duration 93.338 s
+Part 17 | Epoch 00000 | Step 00340 | Loss 0.6786 | Speed (samples/sec) 18692.2702 | GPU 392.8 MB | time 5.016 s | duration 93.335 s
+Part 11 | Epoch 00000 | Step 00340 | Loss 0.6824 | Speed (samples/sec) 18730.8311 | GPU 393.3 MB | time 5.016 s | duration 93.328 sPart 13 | Epoch 00000 | Step 00340 | Loss 0.6778 | Speed (samples/sec) 18735.0376 | GPU 393.1 MB | time 5.016 s | duration 93.329 s
+
+Part 27 | Epoch 00000 | Step 00340 | Loss 0.6735 | Speed (samples/sec) 18819.4644 | GPU 403.8 MB | time 5.017 s | duration 93.329 sPart 29 | Epoch 00000 | Step 00340 | Loss 0.6815 | Speed (samples/sec) 18820.0512 | GPU 402.0 MB | time 5.017 s | duration 93.331 sPart 28 | Epoch 00000 | Step 00340 | Loss 0.6756 | Speed (samples/sec) 18822.5478 | GPU 402.1 MB | time 5.017 s | duration 93.338 sPart 24 | Epoch 00000 | Step 00340 | Loss 0.6806 | Speed (samples/sec) 18823.2342 | GPU 402.7 MB | time 5.016 s | duration 93.332 s
+
+
+
+Part 26 | Epoch 00000 | Step 00340 | Loss 0.6783 | Speed (samples/sec) 18828.9864 | GPU 401.9 MB | time 5.016 s | duration 93.330 s
+Part 25 | Epoch 00000 | Step 00340 | Loss 0.6744 | Speed (samples/sec) 18823.1472 | GPU 403.4 MB | time 5.016 s | duration 93.348 s
+Part 30 | Epoch 00000 | Step 00340 | Loss 0.6772 | Speed (samples/sec) 18824.3727 | GPU 403.0 MB | time 5.016 s | duration 93.329 s
+Part 31 | Epoch 00000 | Step 00340 | Loss 0.6814 | Speed (samples/sec) 18826.5502 | GPU 402.8 MB | time 5.016 s | duration 93.333 s
+Part 7 | Epoch 00000 | Step 00360 | Loss 0.6729 | Speed (samples/sec) 18726.7461 | GPU 402.7 MB | time 5.101 s | duration 98.429 sPart 4 | Epoch 00000 | Step 00360 | Loss 0.6726 | Speed (samples/sec) 18730.8327 | GPU 401.9 MB | time 5.101 s | duration 98.427 sPart 3 | Epoch 00000 | Step 00360 | Loss 0.6733 | Speed (samples/sec) 18736.4578 | GPU 401.4 MB | time 5.101 s | duration 98.426 sPart 6 | Epoch 00000 | Step 00360 | Loss 0.6735 | Speed (samples/sec) 18735.6439 | GPU 402.8 MB | time 5.101 s | duration 98.428 s
+
+
+
+Part 0 | Epoch 00000 | Step 00360 | Loss 0.6738 | Speed (samples/sec) 18728.8813 | GPU 401.2 MB | time 5.101 s | duration 98.428 sPart 5 | Epoch 00000 | Step 00360 | Loss 0.6761 | Speed (samples/sec) 18734.1304 | GPU 402.3 MB | time 5.102 s | duration 98.427 sPart 1 | Epoch 00000 | Step 00360 | Loss 0.6736 | Speed (samples/sec) 18734.4118 | GPU 401.4 MB | time 5.101 s | duration 98.428 s
+
+
+Part 2 | Epoch 00000 | Step 00360 | Loss 0.6746 | Speed (samples/sec) 18727.0226 | GPU 401.4 MB | time 5.101 s | duration 98.428 s
+Part 21 | Epoch 00000 | Step 00360 | Loss 0.6806 | Speed (samples/sec) 18734.6202 | GPU 392.6 MB | time 5.102 s | duration 98.438 sPart 19 | Epoch 00000 | Step 00360 | Loss 0.6751 | Speed (samples/sec) 18732.8780 | GPU 392.4 MB | time 5.102 s | duration 98.442 sPart 20 | Epoch 00000 | Step 00360 | Loss 0.6729 | Speed (samples/sec) 18738.4126 | GPU 392.9 MB | time 5.101 s | duration 98.441 s
+
+
+Part 18 | Epoch 00000 | Step 00360 | Loss 0.6673 | Speed (samples/sec) 18737.9188 | GPU 392.1 MB | time 5.101 s | duration 98.443 s
+Part 22 | Epoch 00000 | Step 00360 | Loss 0.6727 | Speed (samples/sec) 18739.6819 | GPU 393.7 MB | time 5.101 s | duration 98.439 s
+Part 16 | Epoch 00000 | Step 00360 | Loss 0.6755 | Speed (samples/sec) 18731.7226 | GPU 392.5 MB | time 5.101 s | duration 98.441 s
+Part 14 | Epoch 00000 | Step 00360 | Loss 0.6744 | Speed (samples/sec) 18774.2086 | GPU 392.8 MB | time 5.102 s | duration 98.429 s
+Part 17 | Epoch 00000 | Step 00360 | Loss 0.6742 | Speed (samples/sec) 18734.7262 | GPU 392.8 MB | time 5.101 s | duration 98.440 s
+Part 13 | Epoch 00000 | Step 00360 | Loss 0.6808 | Speed (samples/sec) 18777.7357 | GPU 393.1 MB | time 5.101 s | duration 98.434 sPart 11 | Epoch 00000 | Step 00360 | Loss 0.6722 | Speed (samples/sec) 18774.2763 | GPU 393.3 MB | time 5.101 s | duration 98.432 sPart 12 | Epoch 00000 | Step 00360 | Loss 0.6762 | Speed (samples/sec) 18777.8105 | GPU 392.8 MB | time 5.101 s | duration 98.448 s
+
+
+Part 9 | Epoch 00000 | Step 00360 | Loss 0.6726 | Speed (samples/sec) 18778.5775 | GPU 394.0 MB | time 5.101 s | duration 98.448 s
+Part 15 | Epoch 00000 | Step 00360 | Loss 0.6728 | Speed (samples/sec) 18779.1515 | GPU 393.2 MB | time 5.102 s | duration 98.433 sPart 8 | Epoch 00000 | Step 00360 | Loss 0.6763 | Speed (samples/sec) 18778.0404 | GPU 393.2 MB | time 5.101 s | duration 98.432 s
+
+Part 28 | Epoch 00000 | Step 00360 | Loss 0.6744 | Speed (samples/sec) 18865.1073 | GPU 402.1 MB | time 5.101 s | duration 98.442 sPart 29 | Epoch 00000 | Step 00360 | Loss 0.6778 | Speed (samples/sec) 18863.2342 | GPU 402.0 MB | time 5.102 s | duration 98.436 sPart 27 | Epoch 00000 | Step 00360 | Loss 0.6752 | Speed (samples/sec) 18862.5883 | GPU 403.8 MB | time 5.101 s | duration 98.434 s
+
+
+Part 26 | Epoch 00000 | Step 00360 | Loss 0.6805 | Speed (samples/sec) 18871.3467 | GPU 401.9 MB | time 5.101 s | duration 98.434 s
+Part 31 | Epoch 00000 | Step 00360 | Loss 0.6790 | Speed (samples/sec) 18868.9975 | GPU 402.8 MB | time 5.101 s | duration 98.437 s
+Part 24 | Epoch 00000 | Step 00360 | Loss 0.6724 | Speed (samples/sec) 18866.2885 | GPU 402.7 MB | time 5.101 s | duration 98.436 s
+Part 10 | Epoch 00000 | Step 00360 | Loss 0.6757 | Speed (samples/sec) 18778.5261 | GPU 393.4 MB | time 5.101 s | duration 98.434 s
+Part 30 | Epoch 00000 | Step 00360 | Loss 0.6778 | Speed (samples/sec) 18867.5035 | GPU 403.0 MB | time 5.101 s | duration 98.433 s
+Part 25 | Epoch 00000 | Step 00360 | Loss 0.6763 | Speed (samples/sec) 18864.9916 | GPU 403.4 MB | time 5.101 s | duration 98.453 s
+Part 23 | Epoch 00000 | Step 00360 | Loss 0.6736 | Speed (samples/sec) 18741.3368 | GPU 394.3 MB | time 5.101 s | duration 98.441 s
+Part 5 | Epoch 00000 | Step 00380 | Loss 0.6728 | Speed (samples/sec) 18688.5351 | GPU 402.3 MB | time 5.619 s | duration 104.050 sPart 2 | Epoch 00000 | Step 00380 | Loss 0.6687 | Speed (samples/sec) 18681.7100 | GPU 401.4 MB | time 5.619 s | duration 104.050 s
+
+Part 7 | Epoch 00000 | Step 00380 | Loss 0.6713 | Speed (samples/sec) 18680.1650 | GPU 402.7 MB | time 5.619 s | duration 104.051 sPart 6 | Epoch 00000 | Step 00380 | Loss 0.6742 | Speed (samples/sec) 18689.4257 | GPU 402.8 MB | time 5.619 s | duration 104.051 sPart 1 | Epoch 00000 | Step 00380 | Loss 0.6703 | Speed (samples/sec) 18687.7437 | GPU 401.4 MB | time 5.619 s | duration 104.050 s
+
+
+Part 3 | Epoch 00000 | Step 00380 | Loss 0.6622 | Speed (samples/sec) 18690.5077 | GPU 401.4 MB | time 5.619 s | duration 104.049 sPart 0 | Epoch 00000 | Step 00380 | Loss 0.6711 | Speed (samples/sec) 18683.4387 | GPU 401.2 MB | time 5.619 s | duration 104.051 s
+
+Part 4 | Epoch 00000 | Step 00380 | Loss 0.6726 | Speed (samples/sec) 18684.4740 | GPU 401.9 MB | time 5.619 s | duration 104.049 s
+Part 21 | Epoch 00000 | Step 00380 | Loss 0.6759 | Speed (samples/sec) 18689.2211 | GPU 392.6 MB | time 5.620 s | duration 104.061 s
+Part 22 | Epoch 00000 | Step 00380 | Loss 0.6670 | Speed (samples/sec) 18694.0110 | GPU 393.7 MB | time 5.619 s | duration 104.062 s
+Part 20 | Epoch 00000 | Step 00380 | Loss 0.6674 | Speed (samples/sec) 18692.4308 | GPU 392.9 MB | time 5.619 s | duration 104.063 sPart 16 | Epoch 00000 | Step 00380 | Loss 0.6585 | Speed (samples/sec) 18686.2033 | GPU 392.5 MB | time 5.619 s | duration 104.064 s
+
+Part 24 | Epoch 00000 | Step 00380 | Loss 0.6664 | Speed (samples/sec) 18819.6297 | GPU 402.7 MB | time 5.619 s | duration 104.059 sPart 28 | Epoch 00000 | Step 00380 | Loss 0.6603 | Speed (samples/sec) 18818.4181 | GPU 402.1 MB | time 5.619 s | duration 104.065 sPart 29 | Epoch 00000 | Step 00380 | Loss 0.6651 | Speed (samples/sec) 18816.7517 | GPU 402.0 MB | time 5.620 s | duration 104.058 s
+
+
+Part 26 | Epoch 00000 | Step 00380 | Loss 0.6658 | Speed (samples/sec) 18825.2553 | GPU 401.9 MB | time 5.619 s | duration 104.057 s
+Part 31 | Epoch 00000 | Step 00380 | Loss 0.6709 | Speed (samples/sec) 18824.5237 | GPU 402.8 MB | time 5.619 s | duration 104.059 s
+Part 27 | Epoch 00000 | Step 00380 | Loss 0.6629 | Speed (samples/sec) 18817.0624 | GPU 403.8 MB | time 5.619 s | duration 104.056 s
+Part 17 | Epoch 00000 | Step 00380 | Loss 0.6542 | Speed (samples/sec) 18689.4609 | GPU 392.8 MB | time 5.619 s | duration 104.062 s
+Part 15 | Epoch 00000 | Step 00380 | Loss 0.6687 | Speed (samples/sec) 18733.4466 | GPU 393.2 MB | time 5.620 s | duration 104.055 sPart 9 | Epoch 00000 | Step 00380 | Loss 0.6684 | Speed (samples/sec) 18733.0618 | GPU 394.0 MB | time 5.619 s | duration 104.071 s
+
+Part 14 | Epoch 00000 | Step 00380 | Loss 0.6694 | Speed (samples/sec) 18728.4687 | GPU 392.8 MB | time 5.620 s | duration 104.052 s
+Part 12 | Epoch 00000 | Step 00380 | Loss 0.6641 | Speed (samples/sec) 18732.2499 | GPU 392.8 MB | time 5.619 s | duration 104.071 s
+Part 25 | Epoch 00000 | Step 00380 | Loss 0.6647 | Speed (samples/sec) 18819.1684 | GPU 403.4 MB | time 5.619 s | duration 104.075 s
+Part 8 | Epoch 00000 | Step 00380 | Loss 0.6672 | Speed (samples/sec) 18731.8483 | GPU 393.2 MB | time 5.619 s | duration 104.054 s
+Part 13 | Epoch 00000 | Step 00380 | Loss 0.6651 | Speed (samples/sec) 18731.1315 | GPU 393.1 MB | time 5.619 s | duration 104.056 s
+Part 11 | Epoch 00000 | Step 00380 | Loss 0.6652 | Speed (samples/sec) 18729.0830 | GPU 393.3 MB | time 5.619 s | duration 104.055 s
+Part 18 | Epoch 00000 | Step 00380 | Loss 0.6601 | Speed (samples/sec) 18692.0477 | GPU 392.1 MB | time 5.619 s | duration 104.065 s
+Part 30 | Epoch 00000 | Step 00380 | Loss 0.6611 | Speed (samples/sec) 18820.8258 | GPU 403.0 MB | time 5.618 s | duration 104.056 s
+Part 23 | Epoch 00000 | Step 00380 | Loss 0.6645 | Speed (samples/sec) 18695.6003 | GPU 394.3 MB | time 5.619 s | duration 104.064 sPart 19 | Epoch 00000 | Step 00380 | Loss 0.6717 | Speed (samples/sec) 18688.0126 | GPU 392.4 MB | time 5.620 s | duration 104.065 s
+
+Part 10 | Epoch 00000 | Step 00380 | Loss 0.6665 | Speed (samples/sec) 18732.9944 | GPU 393.4 MB | time 5.619 s | duration 104.056 s
+Part 2 | Epoch 00000 | Step 00400 | Loss 0.6577 | Speed (samples/sec) 18752.4635 | GPU 401.4 MB | time 4.879 s | duration 108.932 sPart 5 | Epoch 00000 | Step 00400 | Loss 0.6658 | Speed (samples/sec) 18758.1937 | GPU 402.3 MB | time 4.879 s | duration 108.931 s
+
+Part 1 | Epoch 00000 | Step 00400 | Loss 0.6539 | Speed (samples/sec) 18757.8062 | GPU 401.4 MB | time 4.878 s | duration 108.932 s
+Part 3 | Epoch 00000 | Step 00400 | Loss 0.6545 | Speed (samples/sec) 18758.8013 | GPU 401.4 MB | time 4.879 s | duration 108.931 sPart 4 | Epoch 00000 | Step 00400 | Loss 0.6507 | Speed (samples/sec) 18754.6335 | GPU 401.9 MB | time 4.879 s | duration 108.931 s
+
+Part 7 | Epoch 00000 | Step 00400 | Loss 0.6536 | Speed (samples/sec) 18749.4765 | GPU 402.7 MB | time 4.879 s | duration 108.933 s
+Part 0 | Epoch 00000 | Step 00400 | Loss 0.6615 | Speed (samples/sec) 18754.2469 | GPU 401.2 MB | time 4.879 s | duration 108.932 s
+Part 19 | Epoch 00000 | Step 00400 | Loss 0.6601 | Speed (samples/sec) 18758.6396 | GPU 392.4 MB | time 4.879 s | duration 108.946 s
+Part 21 | Epoch 00000 | Step 00400 | Loss 0.6683 | Speed (samples/sec) 18758.6558 | GPU 392.6 MB | time 4.879 s | duration 108.942 s
+Part 17 | Epoch 00000 | Step 00400 | Loss 0.6394 | Speed (samples/sec) 18759.9518 | GPU 392.8 MB | time 4.878 s | duration 108.944 s
+Part 27 | Epoch 00000 | Step 00400 | Loss 0.6730 | Speed (samples/sec) 18888.4033 | GPU 403.8 MB | time 4.879 s | duration 108.938 sPart 29 | Epoch 00000 | Step 00400 | Loss 0.6604 | Speed (samples/sec) 18886.8419 | GPU 402.0 MB | time 4.879 s | duration 108.940 sPart 26 | Epoch 00000 | Step 00400 | Loss 0.6527 | Speed (samples/sec) 18896.5579 | GPU 401.9 MB | time 4.879 s | duration 108.938 sPart 25 | Epoch 00000 | Step 00400 | Loss 0.6552 | Speed (samples/sec) 18890.7545 | GPU 403.4 MB | time 4.878 s | duration 108.956 s
+
+
+
+Part 28 | Epoch 00000 | Step 00400 | Loss 0.6536 | Speed (samples/sec) 18888.7147 | GPU 402.1 MB | time 4.879 s | duration 108.946 s
+Part 24 | Epoch 00000 | Step 00400 | Loss 0.6492 | Speed (samples/sec) 18889.0397 | GPU 402.7 MB | time 4.879 s | duration 108.940 s
+Part 30 | Epoch 00000 | Step 00400 | Loss 0.6475 | Speed (samples/sec) 18891.7716 | GPU 403.0 MB | time 4.878 s | duration 108.937 s
+Part 9 | Epoch 00000 | Step 00400 | Loss 0.6515 | Speed (samples/sec) 18804.1901 | GPU 394.0 MB | time 4.879 s | duration 108.952 s
+Part 11 | Epoch 00000 | Step 00400 | Loss 0.6521 | Speed (samples/sec) 18798.7800 | GPU 393.3 MB | time 4.879 s | duration 108.936 sPart 15 | Epoch 00000 | Step 00400 | Loss 0.6522 | Speed (samples/sec) 18803.5529 | GPU 393.2 MB | time 4.879 s | duration 108.937 sPart 14 | Epoch 00000 | Step 00400 | Loss 0.6524 | Speed (samples/sec) 18798.8801 | GPU 392.8 MB | time 4.879 s | duration 108.933 sPart 13 | Epoch 00000 | Step 00400 | Loss 0.6452 | Speed (samples/sec) 18801.2778 | GPU 393.1 MB | time 4.878 s | duration 108.938 s
+
+
+
+Part 16 | Epoch 00000 | Step 00400 | Loss 0.6684 | Speed (samples/sec) 18756.7045 | GPU 392.5 MB | time 4.878 s | duration 108.945 s
+Part 20 | Epoch 00000 | Step 00400 | Loss 0.6540 | Speed (samples/sec) 18762.9089 | GPU 392.9 MB | time 4.878 s | duration 108.945 s
+Part 31 | Epoch 00000 | Step 00400 | Loss 0.6500 | Speed (samples/sec) 18894.3852 | GPU 402.8 MB | time 4.878 s | duration 108.941 s
+Part 10 | Epoch 00000 | Step 00400 | Loss 0.6505 | Speed (samples/sec) 18803.1677 | GPU 393.4 MB | time 4.878 s | duration 108.938 s
+Part 22 | Epoch 00000 | Step 00400 | Loss 0.6665 | Speed (samples/sec) 18764.3687 | GPU 393.7 MB | time 4.878 s | duration 108.943 s
+Part 8 | Epoch 00000 | Step 00400 | Loss 0.6549 | Speed (samples/sec) 18802.4906 | GPU 393.4 MB | time 4.879 s | duration 108.936 s
+Part 23 | Epoch 00000 | Step 00400 | Loss 0.6695 | Speed (samples/sec) 18765.3319 | GPU 394.3 MB | time 4.878 s | duration 108.945 s
+Part 12 | Epoch 00000 | Step 00400 | Loss 0.6495 | Speed (samples/sec) 18803.8247 | GPU 392.8 MB | time 4.879 s | duration 108.953 s
+Part 6 | Epoch 00000 | Step 00400 | Loss 0.6603 | Speed (samples/sec) 18759.1952 | GPU 402.8 MB | time 4.879 s | duration 108.933 s
+Part 18 | Epoch 00000 | Step 00400 | Loss 0.6445 | Speed (samples/sec) 18762.9042 | GPU 392.1 MB | time 4.878 s | duration 108.948 s
+Part 3 | Epoch 00000 | Step 00420 | Loss 0.6560 | Speed (samples/sec) 18660.9646 | GPU 401.4 MB | time 6.014 s | duration 114.948 s
+Part 6 | Epoch 00000 | Step 00420 | Loss 0.6597 | Speed (samples/sec) 18660.7311 | GPU 402.8 MB | time 6.014 s | duration 114.950 sPart 4 | Epoch 00000 | Step 00420 | Loss 0.6625 | Speed (samples/sec) 18656.9128 | GPU 401.9 MB | time 6.014 s | duration 114.948 sPart 7 | Epoch 00000 | Step 00420 | Loss 0.6590 | Speed (samples/sec) 18652.0714 | GPU 402.7 MB | time 6.014 s | duration 114.950 s
+
+
+Part 1 | Epoch 00000 | Step 00420 | Loss 0.6782 | Speed (samples/sec) 18659.5944 | GPU 401.4 MB | time 6.014 s | duration 114.949 s
+Part 2 | Epoch 00000 | Step 00420 | Loss 0.6635 | Speed (samples/sec) 18654.0163 | GPU 401.4 MB | time 6.014 s | duration 114.950 sPart 0 | Epoch 00000 | Step 00420 | Loss 0.6542 | Speed (samples/sec) 18655.5372 | GPU 401.2 MB | time 6.014 s | duration 114.950 s
+
+Part 5 | Epoch 00000 | Step 00420 | Loss 0.6557 | Speed (samples/sec) 18659.8211 | GPU 402.3 MB | time 6.015 s | duration 114.949 s
+Part 19 | Epoch 00000 | Step 00420 | Loss 0.6528 | Speed (samples/sec) 18660.1365 | GPU 392.4 MB | time 6.015 s | duration 114.964 sPart 16 | Epoch 00000 | Step 00420 | Loss 0.6810 | Speed (samples/sec) 18659.0357 | GPU 393.0 MB | time 6.014 s | duration 114.963 s
+
+Part 22 | Epoch 00000 | Step 00420 | Loss 0.6597 | Speed (samples/sec) 18666.1055 | GPU 393.7 MB | time 6.014 s | duration 114.961 s
+Part 21 | Epoch 00000 | Step 00420 | Loss 0.6401 | Speed (samples/sec) 18661.7765 | GPU 392.6 MB | time 6.014 s | duration 114.960 s
+Part 17 | Epoch 00000 | Step 00420 | Loss 0.6467 | Speed (samples/sec) 18662.8888 | GPU 392.8 MB | time 6.014 s | duration 114.961 s
+Part 18 | Epoch 00000 | Step 00420 | Loss 0.6389 | Speed (samples/sec) 18665.2601 | GPU 392.1 MB | time 6.013 s | duration 114.964 s
+Part 20 | Epoch 00000 | Step 00420 | Loss 0.6278 | Speed (samples/sec) 18665.9209 | GPU 392.9 MB | time 6.014 s | duration 114.962 s
+Part 23 | Epoch 00000 | Step 00420 | Loss 0.6430 | Speed (samples/sec) 18667.1443 | GPU 394.3 MB | time 6.014 s | duration 114.963 s
+Part 24 | Epoch 00000 | Step 00420 | Loss 0.6610 | Speed (samples/sec) 18790.8186 | GPU 402.7 MB | time 6.014 s | duration 114.958 sPart 27 | Epoch 00000 | Step 00420 | Loss 0.6523 | Speed (samples/sec) 18790.1519 | GPU 403.8 MB | time 6.014 s | duration 114.955 s
+
+Part 29 | Epoch 00000 | Step 00420 | Loss 0.6532 | Speed (samples/sec) 18788.0251 | GPU 402.0 MB | time 6.015 s | duration 114.957 s
+Part 26 | Epoch 00000 | Step 00420 | Loss 0.6629 | Speed (samples/sec) 18798.1736 | GPU 401.9 MB | time 6.014 s | duration 114.956 s
+Part 31 | Epoch 00000 | Step 00420 | Loss 0.6552 | Speed (samples/sec) 18795.7495 | GPU 402.8 MB | time 6.014 s | duration 114.958 s
+Part 14 | Epoch 00000 | Step 00420 | Loss 0.6513 | Speed (samples/sec) 18700.5358 | GPU 392.8 MB | time 6.015 s | duration 114.951 s
+Part 13 | Epoch 00000 | Step 00420 | Loss 0.6597 | Speed (samples/sec) 18703.9503 | GPU 393.1 MB | time 6.014 s | duration 114.955 sPart 9 | Epoch 00000 | Step 00420 | Loss 0.6544 | Speed (samples/sec) 18706.0661 | GPU 394.0 MB | time 6.014 s | duration 114.970 s
+
+Part 10 | Epoch 00000 | Step 00420 | Loss 0.6587 | Speed (samples/sec) 18704.2456 | GPU 393.4 MB | time 6.014 s | duration 114.955 s
+Part 15 | Epoch 00000 | Step 00420 | Loss 0.6568 | Speed (samples/sec) 18704.9325 | GPU 393.2 MB | time 6.015 s | duration 114.955 sPart 11 | Epoch 00000 | Step 00420 | Loss 0.6563 | Speed (samples/sec) 18700.6563 | GPU 393.3 MB | time 6.014 s | duration 114.954 s
+
+Part 12 | Epoch 00000 | Step 00420 | Loss 0.6614 | Speed (samples/sec) 18705.5190 | GPU 392.8 MB | time 6.014 s | duration 114.970 s
+Part 25 | Epoch 00000 | Step 00420 | Loss 0.6545 | Speed (samples/sec) 18792.3587 | GPU 403.4 MB | time 6.014 s | duration 114.974 s
+Part 28 | Epoch 00000 | Step 00420 | Loss 0.6600 | Speed (samples/sec) 18789.4755 | GPU 402.1 MB | time 6.014 s | duration 114.964 s
+Part 30 | Epoch 00000 | Step 00420 | Loss 0.6507 | Speed (samples/sec) 18793.4595 | GPU 403.0 MB | time 6.014 s | duration 114.955 s
+Part 8 | Epoch 00000 | Step 00420 | Loss 0.6541 | Speed (samples/sec) 18704.4686 | GPU 393.4 MB | time 6.014 s | duration 114.954 s
+Part 5 | Epoch 00000 | Step 00440 | Loss 0.6631 | Speed (samples/sec) 18789.2779 | GPU 402.3 MB | time 4.409 s | duration 119.361 sPart 2 | Epoch 00000 | Step 00440 | Loss 0.6542 | Speed (samples/sec) 18785.0302 | GPU 401.4 MB | time 4.409 s | duration 119.361 s
+
+Part 4 | Epoch 00000 | Step 00440 | Loss 0.6619 | Speed (samples/sec) 18787.8123 | GPU 401.9 MB | time 4.409 s | duration 119.360 s
+Part 0 | Epoch 00000 | Step 00440 | Loss 0.6613 | Speed (samples/sec) 18787.2709 | GPU 401.2 MB | time 4.409 s | duration 119.362 s
+Part 3 | Epoch 00000 | Step 00440 | Loss 0.6679 | Speed (samples/sec) 18791.5488 | GPU 401.4 MB | time 4.409 s | duration 119.360 s
+Part 6 | Epoch 00000 | Step 00440 | Loss 0.6622 | Speed (samples/sec) 18790.3706 | GPU 402.8 MB | time 4.409 s | duration 119.362 s
+Part 7 | Epoch 00000 | Step 00440 | Loss 0.6565 | Speed (samples/sec) 18782.3620 | GPU 402.7 MB | time 4.409 s | duration 119.362 s
+Part 19 | Epoch 00000 | Step 00440 | Loss 0.6661 | Speed (samples/sec) 18791.4352 | GPU 392.4 MB | time 4.409 s | duration 119.376 sPart 20 | Epoch 00000 | Step 00440 | Loss 0.6710 | Speed (samples/sec) 18796.2982 | GPU 392.9 MB | time 4.409 s | duration 119.374 sPart 21 | Epoch 00000 | Step 00440 | Loss 0.6595 | Speed (samples/sec) 18792.0336 | GPU 392.6 MB | time 4.409 s | duration 119.372 sPart 16 | Epoch 00000 | Step 00440 | Loss 0.6675 | Speed (samples/sec) 18790.7226 | GPU 393.0 MB | time 4.409 s | duration 119.375 s
+
+
+
+Part 22 | Epoch 00000 | Step 00440 | Loss 0.6609 | Speed (samples/sec) 18796.8448 | GPU 393.7 MB | time 4.409 s | duration 119.373 sPart 18 | Epoch 00000 | Step 00440 | Loss 0.6665 | Speed (samples/sec) 18795.9243 | GPU 392.1 MB | time 4.409 s | duration 119.376 s
+
+Part 14 | Epoch 00000 | Step 00440 | Loss 0.6525 | Speed (samples/sec) 18829.9575 | GPU 392.8 MB | time 4.409 s | duration 119.363 sPart 10 | Epoch 00000 | Step 00440 | Loss 0.6534 | Speed (samples/sec) 18834.8427 | GPU 393.4 MB | time 4.409 s | duration 119.367 s
+
+Part 11 | Epoch 00000 | Step 00440 | Loss 0.6497 | Speed (samples/sec) 18832.2577 | GPU 393.3 MB | time 4.409 s | duration 119.366 s
+Part 24 | Epoch 00000 | Step 00440 | Loss 0.6497 | Speed (samples/sec) 18921.8183 | GPU 402.7 MB | time 4.409 s | duration 119.370 s
+Part 27 | Epoch 00000 | Step 00440 | Loss 0.6542 | Speed (samples/sec) 18921.3337 | GPU 403.8 MB | time 4.409 s | duration 119.367 s
+Part 26 | Epoch 00000 | Step 00440 | Loss 0.6527 | Speed (samples/sec) 18929.7815 | GPU 403.0 MB | time 4.409 s | duration 119.368 sPart 25 | Epoch 00000 | Step 00440 | Loss 0.6615 | Speed (samples/sec) 18923.6738 | GPU 403.4 MB | time 4.409 s | duration 119.386 s
+
+Part 29 | Epoch 00000 | Step 00440 | Loss 0.6659 | Speed (samples/sec) 18919.1039 | GPU 402.0 MB | time 4.409 s | duration 119.369 s
+Part 28 | Epoch 00000 | Step 00440 | Loss 0.6495 | Speed (samples/sec) 18920.9037 | GPU 402.1 MB | time 4.409 s | duration 119.376 s
+Part 30 | Epoch 00000 | Step 00440 | Loss 0.6501 | Speed (samples/sec) 18924.2391 | GPU 403.0 MB | time 4.409 s | duration 119.367 s
+Part 31 | Epoch 00000 | Step 00440 | Loss 0.6444 | Speed (samples/sec) 18927.6178 | GPU 402.8 MB | time 4.409 s | duration 119.370 s
+Part 13 | Epoch 00000 | Step 00440 | Loss 0.6544 | Speed (samples/sec) 18835.1898 | GPU 393.1 MB | time 4.409 s | duration 119.367 sPart 12 | Epoch 00000 | Step 00440 | Loss 0.6557 | Speed (samples/sec) 18834.8692 | GPU 392.8 MB | time 4.409 s | duration 119.382 s
+
+Part 8 | Epoch 00000 | Step 00440 | Loss 0.6562 | Speed (samples/sec) 18836.5970 | GPU 393.4 MB | time 4.408 s | duration 119.365 s
+Part 1 | Epoch 00000 | Step 00440 | Loss 0.6570 | Speed (samples/sec) 18791.2769 | GPU 401.4 MB | time 4.409 s | duration 119.362 s
+Part 15 | Epoch 00000 | Step 00440 | Loss 0.6503 | Speed (samples/sec) 18834.8898 | GPU 393.2 MB | time 4.409 s | duration 119.367 s
+Part 9 | Epoch 00000 | Step 00440 | Loss 0.6498 | Speed (samples/sec) 18835.7607 | GPU 394.0 MB | time 4.409 s | duration 119.382 s
+Part 23 | Epoch 00000 | Step 00440 | Loss 0.6912 | Speed (samples/sec) 18798.2820 | GPU 394.3 MB | time 4.408 s | duration 119.375 s
+Part 17 | Epoch 00000 | Step 00440 | Loss 0.6703 | Speed (samples/sec) 18793.3393 | GPU 393.1 MB | time 4.408 s | duration 119.373 s
+Part 3 | Epoch 00000 | Step 00460 | Loss 0.6608 | Speed (samples/sec) 18756.1441 | GPU 401.4 MB | time 5.562 s | duration 124.925 sPart 5 | Epoch 00000 | Step 00460 | Loss 0.6667 | Speed (samples/sec) 18754.8531 | GPU 402.3 MB | time 5.562 s | duration 124.925 sPart 2 | Epoch 00000 | Step 00460 | Loss 0.6539 | Speed (samples/sec) 18750.3279 | GPU 401.4 MB | time 5.562 s | duration 124.926 s
+
+
+Part 6 | Epoch 00000 | Step 00460 | Loss 0.6556 | Speed (samples/sec) 18755.9158 | GPU 402.8 MB | time 5.562 s | duration 124.927 sPart 7 | Epoch 00000 | Step 00460 | Loss 0.6544 | Speed (samples/sec) 18748.1268 | GPU 402.7 MB | time 5.562 s | duration 124.927 sPart 4 | Epoch 00000 | Step 00460 | Loss 0.6569 | Speed (samples/sec) 18753.3696 | GPU 401.9 MB | time 5.562 s | duration 124.925 s
+
+
+Part 1 | Epoch 00000 | Step 00460 | Loss 0.6584 | Speed (samples/sec) 18757.1649 | GPU 401.4 MB | time 5.561 s | duration 124.926 s
+Part 0 | Epoch 00000 | Step 00460 | Loss 0.6518 | Speed (samples/sec) 18753.5577 | GPU 401.2 MB | time 5.562 s | duration 124.926 s
+Part 20 | Epoch 00000 | Step 00460 | Loss 0.6486 | Speed (samples/sec) 18761.8111 | GPU 392.9 MB | time 5.562 s | duration 124.939 s
+Part 16 | Epoch 00000 | Step 00460 | Loss 0.6620 | Speed (samples/sec) 18757.5625 | GPU 393.0 MB | time 5.562 s | duration 124.940 sPart 19 | Epoch 00000 | Step 00460 | Loss 0.6583 | Speed (samples/sec) 18758.7568 | GPU 392.4 MB | time 5.562 s | duration 124.941 s
+
+Part 21 | Epoch 00000 | Step 00460 | Loss 0.6383 | Speed (samples/sec) 18758.8965 | GPU 392.6 MB | time 5.562 s | duration 124.937 s
+Part 23 | Epoch 00000 | Step 00460 | Loss 0.6642 | Speed (samples/sec) 18763.8335 | GPU 394.3 MB | time 5.561 s | duration 124.939 s
+Part 27 | Epoch 00000 | Step 00460 | Loss 0.6522 | Speed (samples/sec) 18887.1883 | GPU 403.8 MB | time 5.562 s | duration 124.932 sPart 29 | Epoch 00000 | Step 00460 | Loss 0.6462 | Speed (samples/sec) 18885.7803 | GPU 402.0 MB | time 5.562 s | duration 124.934 sPart 24 | Epoch 00000 | Step 00460 | Loss 0.6483 | Speed (samples/sec) 18886.9786 | GPU 402.7 MB | time 5.562 s | duration 124.935 s
+
+
+Part 25 | Epoch 00000 | Step 00460 | Loss 0.6495 | Speed (samples/sec) 18890.1668 | GPU 403.4 MB | time 5.562 s | duration 124.951 s
+Part 26 | Epoch 00000 | Step 00460 | Loss 0.6516 | Speed (samples/sec) 18895.6733 | GPU 403.0 MB | time 5.562 s | duration 124.933 sPart 14 | Epoch 00000 | Step 00460 | Loss 0.6477 | Speed (samples/sec) 18796.3233 | GPU 392.8 MB | time 5.562 s | duration 124.928 sPart 9 | Epoch 00000 | Step 00460 | Loss 0.6477 | Speed (samples/sec) 18802.3256 | GPU 394.0 MB | time 5.562 s | duration 124.947 sPart 10 | Epoch 00000 | Step 00460 | Loss 0.6474 | Speed (samples/sec) 18800.2998 | GPU 393.4 MB | time 5.562 s | duration 124.932 s
+
+
+Part 12 | Epoch 00000 | Step 00460 | Loss 0.6542 | Speed (samples/sec) 18800.8498 | GPU 392.8 MB | time 5.562 s | duration 124.947 s
+
+Part 31 | Epoch 00000 | Step 00460 | Loss 0.6664 | Speed (samples/sec) 18892.8155 | GPU 402.8 MB | time 5.562 s | duration 124.935 s
+Part 28 | Epoch 00000 | Step 00460 | Loss 0.6472 | Speed (samples/sec) 18887.6080 | GPU 402.1 MB | time 5.562 s | duration 124.941 s
+Part 30 | Epoch 00000 | Step 00460 | Loss 0.6591 | Speed (samples/sec) 18890.4211 | GPU 403.0 MB | time 5.562 s | duration 124.932 s
+Part 17 | Epoch 00000 | Step 00460 | Loss 0.6447 | Speed (samples/sec) 18758.7594 | GPU 393.1 MB | time 5.561 s | duration 124.938 s
+Part 22 | Epoch 00000 | Step 00460 | Loss 0.6726 | Speed (samples/sec) 18762.5685 | GPU 393.7 MB | time 5.562 s | duration 124.938 s
+Part 15 | Epoch 00000 | Step 00460 | Loss 0.6469 | Speed (samples/sec) 18800.9244 | GPU 393.2 MB | time 5.562 s | duration 124.931 sPart 11 | Epoch 00000 | Step 00460 | Loss 0.6494 | Speed (samples/sec) 18797.6742 | GPU 393.3 MB | time 5.562 s | duration 124.931 s
+
+Part 13 | Epoch 00000 | Step 00460 | Loss 0.6553 | Speed (samples/sec) 18801.4960 | GPU 393.1 MB | time 5.562 s | duration 124.932 s
+Part 8 | Epoch 00000 | Step 00460 | Loss 0.6496 | Speed (samples/sec) 18802.4005 | GPU 393.4 MB | time 5.561 s | duration 124.930 s
+Part 18 | Epoch 00000 | Step 00460 | Loss 0.6424 | Speed (samples/sec) 18762.5562 | GPU 392.1 MB | time 5.562 s | duration 124.941 s
+Part 5 | Epoch 00000 | Step 00480 | Loss 0.6724 | Speed (samples/sec) 18818.0942 | GPU 402.3 MB | time 4.835 s | duration 129.763 sPart 0 | Epoch 00000 | Step 00480 | Loss 0.6722 | Speed (samples/sec) 18816.5660 | GPU 401.2 MB | time 4.835 s | duration 129.764 sPart 2 | Epoch 00000 | Step 00480 | Loss 0.6563 | Speed (samples/sec) 18813.4943 | GPU 401.4 MB | time 4.835 s | duration 129.764 s
+
+
+Part 1 | Epoch 00000 | Step 00480 | Loss 0.6725 | Speed (samples/sec) 18819.4676 | GPU 401.4 MB | time 4.835 s | duration 129.764 sPart 6 | Epoch 00000 | Step 00480 | Loss 0.6752 | Speed (samples/sec) 18818.4647 | GPU 402.8 MB | time 4.835 s | duration 129.765 s
+
+Part 7 | Epoch 00000 | Step 00480 | Loss 0.6631 | Speed (samples/sec) 18811.8266 | GPU 402.7 MB | time 4.835 s | duration 129.765 s
+Part 4 | Epoch 00000 | Step 00480 | Loss 0.6656 | Speed (samples/sec) 18817.4417 | GPU 401.9 MB | time 4.835 s | duration 129.763 s
+Part 3 | Epoch 00000 | Step 00480 | Loss 0.6585 | Speed (samples/sec) 18819.4768 | GPU 401.4 MB | time 4.835 s | duration 129.763 s
+Part 16 | Epoch 00000 | Step 00480 | Loss 0.6587 | Speed (samples/sec) 18820.9894 | GPU 393.0 MB | time 4.835 s | duration 129.778 s
+Part 19 | Epoch 00000 | Step 00480 | Loss 0.6510 | Speed (samples/sec) 18822.7702 | GPU 392.4 MB | time 4.835 s | duration 129.779 s
+Part 22 | Epoch 00000 | Step 00480 | Loss 0.6500 | Speed (samples/sec) 18825.8465 | GPU 393.7 MB | time 4.835 s | duration 129.776 sPart 18 | Epoch 00000 | Step 00480 | Loss 0.6403 | Speed (samples/sec) 18826.6997 | GPU 394.3 MB | time 4.835 s | duration 129.779 s
+
+Part 20 | Epoch 00000 | Step 00480 | Loss 0.6259 | Speed (samples/sec) 18825.5178 | GPU 392.9 MB | time 4.835 s | duration 129.777 s
+Part 21 | Epoch 00000 | Step 00480 | Loss 0.6487 | Speed (samples/sec) 18823.4572 | GPU 392.6 MB | time 4.835 s | duration 129.775 s
+Part 28 | Epoch 00000 | Step 00480 | Loss 0.6626 | Speed (samples/sec) 18951.9010 | GPU 402.1 MB | time 4.835 s | duration 129.778 sPart 29 | Epoch 00000 | Step 00480 | Loss 0.6655 | Speed (samples/sec) 18949.7530 | GPU 402.0 MB | time 4.835 s | duration 129.772 s
+
+Part 24 | Epoch 00000 | Step 00480 | Loss 0.6546 | Speed (samples/sec) 18952.2849 | GPU 402.7 MB | time 4.835 s | duration 129.773 sPart 26 | Epoch 00000 | Step 00480 | Loss 0.6544 | Speed (samples/sec) 18958.7679 | GPU 403.0 MB | time 4.835 s | duration 129.771 s
+
+Part 27 | Epoch 00000 | Step 00480 | Loss 0.6483 | Speed (samples/sec) 18950.5351 | GPU 403.8 MB | time 4.835 s | duration 129.770 s
+Part 25 | Epoch 00000 | Step 00480 | Loss 0.6535 | Speed (samples/sec) 18953.2209 | GPU 403.4 MB | time 4.835 s | duration 129.789 s
+Part 14 | Epoch 00000 | Step 00480 | Loss 0.6538 | Speed (samples/sec) 18859.6193 | GPU 392.8 MB | time 4.835 s | duration 129.766 sPart 9 | Epoch 00000 | Step 00480 | Loss 0.6522 | Speed (samples/sec) 18866.3720 | GPU 394.0 MB | time 4.835 s | duration 129.785 sPart 15 | Epoch 00000 | Step 00480 | Loss 0.6511 | Speed (samples/sec) 18865.4571 | GPU 393.2 MB | time 4.835 s | duration 129.769 sPart 11 | Epoch 00000 | Step 00480 | Loss 0.6591 | Speed (samples/sec) 18860.2509 | GPU 393.3 MB | time 4.835 s | duration 129.768 s
+
+
+
+Part 10 | Epoch 00000 | Step 00480 | Loss 0.6556 | Speed (samples/sec) 18862.8679 | GPU 393.4 MB | time 4.835 s | duration 129.770 s
+Part 13 | Epoch 00000 | Step 00480 | Loss 0.6564 | Speed (samples/sec) 18864.8301 | GPU 393.1 MB | time 4.835 s | duration 129.770 s
+Part 12 | Epoch 00000 | Step 00480 | Loss 0.6574 | Speed (samples/sec) 18863.6464 | GPU 392.8 MB | time 4.835 s | duration 129.785 s
+Part 17 | Epoch 00000 | Step 00480 | Loss 0.6502 | Speed (samples/sec) 18821.2586 | GPU 393.1 MB | time 4.835 s | duration 129.776 s
+Part 31 | Epoch 00000 | Step 00480 | Loss 0.6583 | Speed (samples/sec) 18956.6800 | GPU 402.8 MB | time 4.835 s | duration 129.773 s
+Part 23 | Epoch 00000 | Step 00480 | Loss 0.6574 | Speed (samples/sec) 18826.1416 | GPU 394.3 MB | time 4.835 s | duration 129.777 s
+Part 8 | Epoch 00000 | Step 00480 | Loss 0.6568 | Speed (samples/sec) 18865.4981 | GPU 393.4 MB | time 4.835 s | duration 129.768 s
+Part 30 | Epoch 00000 | Step 00480 | Loss 0.6534 | Speed (samples/sec) 18954.0603 | GPU 403.0 MB | time 4.835 s | duration 129.770 s
+Part 4 | Epoch 00000 | Step 00500 | Loss 0.6590 | Speed (samples/sec) 18867.3484 | GPU 401.9 MB | time 4.851 s | duration 134.617 sPart 6 | Epoch 00000 | Step 00500 | Loss 0.6451 | Speed (samples/sec) 18869.1248 | GPU 402.8 MB | time 4.851 s | duration 134.619 s
+
+Part 2 | Epoch 00000 | Step 00500 | Loss 0.6504 | Speed (samples/sec) 18862.9837 | GPU 401.4 MB | time 4.851 s | duration 134.619 s
+Part 7 | Epoch 00000 | Step 00500 | Loss 0.6580 | Speed (samples/sec) 18862.1556 | GPU 402.7 MB | time 4.851 s | duration 134.619 sPart 3 | Epoch 00000 | Step 00500 | Loss 0.6658 | Speed (samples/sec) 18870.3644 | GPU 401.4 MB | time 4.851 s | duration 134.617 s
+
+Part 1 | Epoch 00000 | Step 00500 | Loss 0.6644 | Speed (samples/sec) 18870.0151 | GPU 401.4 MB | time 4.851 s | duration 134.618 s
+Part 19 | Epoch 00000 | Step 00500 | Loss 0.6645 | Speed (samples/sec) 18873.1404 | GPU 392.4 MB | time 4.851 s | duration 134.633 sPart 20 | Epoch 00000 | Step 00500 | Loss 0.6581 | Speed (samples/sec) 18875.7122 | GPU 392.9 MB | time 4.851 s | duration 134.631 s
+
+Part 23 | Epoch 00000 | Step 00500 | Loss 0.6535 | Speed (samples/sec) 18876.0035 | GPU 394.3 MB | time 4.851 s | duration 134.631 s
+Part 21 | Epoch 00000 | Step 00500 | Loss 0.6283 | Speed (samples/sec) 18874.9622 | GPU 392.6 MB | time 4.851 s | duration 134.629 sPart 22 | Epoch 00000 | Step 00500 | Loss 0.6501 | Speed (samples/sec) 18875.9282 | GPU 393.7 MB | time 4.851 s | duration 134.630 s
+
+Part 16 | Epoch 00000 | Step 00500 | Loss 0.6721 | Speed (samples/sec) 18871.5899 | GPU 393.0 MB | time 4.851 s | duration 134.632 s
+Part 5 | Epoch 00000 | Step 00500 | Loss 0.6535 | Speed (samples/sec) 18868.6374 | GPU 402.3 MB | time 4.851 s | duration 134.618 s
+Part 0 | Epoch 00000 | Step 00500 | Loss 0.6589 | Speed (samples/sec) 18866.9914 | GPU 401.2 MB | time 4.851 s | duration 134.619 s
+Part 24 | Epoch 00000 | Step 00500 | Loss 0.6530 | Speed (samples/sec) 19003.2685 | GPU 402.7 MB | time 4.851 s | duration 134.627 sPart 29 | Epoch 00000 | Step 00500 | Loss 0.6419 | Speed (samples/sec) 19000.5016 | GPU 402.0 MB | time 4.851 s | duration 134.626 sPart 27 | Epoch 00000 | Step 00500 | Loss 0.6438 | Speed (samples/sec) 19000.8898 | GPU 403.8 MB | time 4.851 s | duration 134.624 s
+
+
+Part 25 | Epoch 00000 | Step 00500 | Loss 0.6524 | Speed (samples/sec) 19004.1930 | GPU 403.4 MB | time 4.851 s | duration 134.643 sPart 26 | Epoch 00000 | Step 00500 | Loss 0.6475 | Speed (samples/sec) 19010.0459 | GPU 403.0 MB | time 4.851 s | duration 134.625 s
+
+Part 28 | Epoch 00000 | Step 00500 | Loss 0.6596 | Speed (samples/sec) 19003.5209 | GPU 402.7 MB | time 4.851 s | duration 134.633 s
+Part 15 | Epoch 00000 | Step 00500 | Loss 0.6431 | Speed (samples/sec) 18916.3927 | GPU 393.2 MB | time 4.851 s | duration 134.623 sPart 10 | Epoch 00000 | Step 00500 | Loss 0.6516 | Speed (samples/sec) 18912.8393 | GPU 393.4 MB | time 4.851 s | duration 134.624 s
+
+Part 14 | Epoch 00000 | Step 00500 | Loss 0.6390 | Speed (samples/sec) 18909.6257 | GPU 392.8 MB | time 4.851 s | duration 134.620 sPart 9 | Epoch 00000 | Step 00500 | Loss 0.6460 | Speed (samples/sec) 18916.2754 | GPU 394.0 MB | time 4.851 s | duration 134.639 s
+
+Part 11 | Epoch 00000 | Step 00500 | Loss 0.6473 | Speed (samples/sec) 18910.1332 | GPU 393.3 MB | time 4.851 s | duration 134.623 s
+Part 18 | Epoch 00000 | Step 00500 | Loss 0.6485 | Speed (samples/sec) 18877.7620 | GPU 394.3 MB | time 4.851 s | duration 134.633 s
+Part 31 | Epoch 00000 | Step 00500 | Loss 0.6367 | Speed (samples/sec) 19006.4523 | GPU 402.8 MB | time 4.851 s | duration 134.627 s
+Part 12 | Epoch 00000 | Step 00500 | Loss 0.6444 | Speed (samples/sec) 18913.7032 | GPU 392.8 MB | time 4.851 s | duration 134.639 sPart 13 | Epoch 00000 | Step 00500 | Loss 0.6424 | Speed (samples/sec) 18915.0938 | GPU 393.1 MB | time 4.851 s | duration 134.624 s
+
+Part 30 | Epoch 00000 | Step 00500 | Loss 0.6435 | Speed (samples/sec) 19005.0326 | GPU 403.0 MB | time 4.850 s | duration 134.624 s
+Part 17 | Epoch 00000 | Step 00500 | Loss 0.6582 | Speed (samples/sec) 18871.7819 | GPU 393.1 MB | time 4.851 s | duration 134.630 s
+Part 8 | Epoch 00000 | Step 00500 | Loss 0.6511 | Speed (samples/sec) 18916.5177 | GPU 393.4 MB | time 4.851 s | duration 134.622 s
+Part 0 | Epoch 00000 | Step 00520 | Loss 0.6559 | Speed (samples/sec) 18924.9439 | GPU 401.2 MB | time 4.806 s | duration 139.428 s
+Part 3 | Epoch 00000 | Step 00520 | Loss 0.6457 | Speed (samples/sec) 18928.9925 | GPU 401.4 MB | time 4.806 s | duration 139.427 sPart 2 | Epoch 00000 | Step 00520 | Loss 0.6489 | Speed (samples/sec) 18921.6116 | GPU 401.4 MB | time 4.807 s | duration 139.428 s
+
+Part 5 | Epoch 00000 | Step 00520 | Loss 0.6487 | Speed (samples/sec) 18927.0830 | GPU 402.3 MB | time 4.806 s | duration 139.427 s
+Part 1 | Epoch 00000 | Step 00520 | Loss 0.6561 | Speed (samples/sec) 18928.4461 | GPU 401.4 MB | time 4.806 s | duration 139.428 s
+Part 7 | Epoch 00000 | Step 00520 | Loss 0.6445 | Speed (samples/sec) 18920.3993 | GPU 402.7 MB | time 4.806 s | duration 139.429 s
+Part 4 | Epoch 00000 | Step 00520 | Loss 0.6501 | Speed (samples/sec) 18926.1173 | GPU 401.9 MB | time 4.806 s | duration 139.427 s
+Part 6 | Epoch 00000 | Step 00520 | Loss 0.6516 | Speed (samples/sec) 18927.1293 | GPU 402.8 MB | time 4.806 s | duration 139.428 s
+Part 16 | Epoch 00000 | Step 00520 | Loss 0.6297 | Speed (samples/sec) 18929.5812 | GPU 393.0 MB | time 4.807 s | duration 139.441 sPart 19 | Epoch 00000 | Step 00520 | Loss 0.6608 | Speed (samples/sec) 18931.4812 | GPU 392.4 MB | time 4.807 s | duration 139.442 sPart 20 | Epoch 00000 | Step 00520 | Loss 0.6291 | Speed (samples/sec) 18934.2923 | GPU 392.9 MB | time 4.807 s | duration 139.441 s
+
+
+Part 22 | Epoch 00000 | Step 00520 | Loss 0.6290 | Speed (samples/sec) 18935.0786 | GPU 393.7 MB | time 4.806 s | duration 139.439 s
+Part 21 | Epoch 00000 | Step 00520 | Loss 0.6544 | Speed (samples/sec) 18932.9863 | GPU 392.6 MB | time 4.807 s | duration 139.438 s
+Part 18 | Epoch 00000 | Step 00520 | Loss 0.6493 | Speed (samples/sec) 18936.5658 | GPU 394.3 MB | time 4.806 s | duration 139.443 s
+Part 29 | Epoch 00000 | Step 00520 | Loss 0.6426 | Speed (samples/sec) 19058.8975 | GPU 402.0 MB | time 4.807 s | duration 139.436 sPart 28 | Epoch 00000 | Step 00520 | Loss 0.6346 | Speed (samples/sec) 19061.8406 | GPU 402.7 MB | time 4.807 s | duration 139.442 sPart 26 | Epoch 00000 | Step 00520 | Loss 0.6389 | Speed (samples/sec) 19069.1318 | GPU 403.0 MB | time 4.806 s | duration 139.434 sPart 27 | Epoch 00000 | Step 00520 | Loss 0.6394 | Speed (samples/sec) 19061.2856 | GPU 403.8 MB | time 4.807 s | duration 139.434 s
+
+
+
+Part 24 | Epoch 00000 | Step 00520 | Loss 0.6485 | Speed (samples/sec) 19061.5227 | GPU 402.7 MB | time 4.807 s | duration 139.436 s
+Part 30 | Epoch 00000 | Step 00520 | Loss 0.6326 | Speed (samples/sec) 19063.5527 | GPU 403.0 MB | time 4.806 s | duration 139.433 s
+Part 15 | Epoch 00000 | Step 00520 | Loss 0.6405 | Speed (samples/sec) 18974.9809 | GPU 393.2 MB | time 4.807 s | duration 139.433 sPart 14 | Epoch 00000 | Step 00520 | Loss 0.6415 | Speed (samples/sec) 18968.4116 | GPU 392.8 MB | time 4.807 s | duration 139.430 s
+
+Part 9 | Epoch 00000 | Step 00520 | Loss 0.6380 | Speed (samples/sec) 18975.8316 | GPU 394.0 MB | time 4.807 s | duration 139.448 s
+Part 12 | Epoch 00000 | Step 00520 | Loss 0.6315 | Speed (samples/sec) 18973.1724 | GPU 392.8 MB | time 4.806 s | duration 139.449 sPart 13 | Epoch 00000 | Step 00520 | Loss 0.6338 | Speed (samples/sec) 18974.6075 | GPU 393.1 MB | time 4.806 s | duration 139.434 s
+
+Part 8 | Epoch 00000 | Step 00520 | Loss 0.6368 | Speed (samples/sec) 18974.5646 | GPU 393.4 MB | time 4.806 s | duration 139.432 s
+Part 11 | Epoch 00000 | Step 00520 | Loss 0.6408 | Speed (samples/sec) 18969.3789 | GPU 393.3 MB | time 4.806 s | duration 139.432 s
+Part 10 | Epoch 00000 | Step 00520 | Loss 0.6394 | Speed (samples/sec) 18972.1471 | GPU 393.4 MB | time 4.807 s | duration 139.434 s
+Part 31 | Epoch 00000 | Step 00520 | Loss 0.6547 | Speed (samples/sec) 19065.7847 | GPU 403.1 MB | time 4.806 s | duration 139.437 s
+Part 25 | Epoch 00000 | Step 00520 | Loss 0.6506 | Speed (samples/sec) 19062.9539 | GPU 403.4 MB | time 4.807 s | duration 139.453 s
+Part 17 | Epoch 00000 | Step 00520 | Loss 0.6397 | Speed (samples/sec) 18929.0955 | GPU 393.1 MB | time 4.806 s | duration 139.440 s
+Part 23 | Epoch 00000 | Step 00520 | Loss 0.6401 | Speed (samples/sec) 18934.1905 | GPU 394.3 MB | time 4.807 s | duration 139.442 s

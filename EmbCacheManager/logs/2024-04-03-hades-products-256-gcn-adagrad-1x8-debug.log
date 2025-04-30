@@ -1,0 +1,3042 @@
+The number of OMP threads per trainer is set to 6
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+Client [1022449] waits on 172.31.20.34:54499
+Client [1022468] waits on 172.31.20.34:41679
+Client [1022474] waits on 172.31.20.34:33209
+Client [1022447] waits on 172.31.20.34:41511
+Machine (0) group (0) client (0) connect to server successfuly!
+Machine (0) group (0) client (4) connect to server successfuly!
+Machine (0) group (0) client (3) connect to server successfuly!
+Machine (0) group (0) client (14) connect to server successfuly!
+Client [1022451] waits on 172.31.20.34:45835
+Client [1022450] waits on 172.31.20.34:43173
+Machine (0) group (0) client (9) connect to server successfuly!
+Machine (0) group (0) client (5) connect to server successfuly!
+Client [1022457] waits on 172.31.20.34:49483
+Client [1022448] waits on 172.31.20.34:46365
+Machine (0) group (0) client (12) connect to server successfuly!
+Machine (0) group (0) client (11) connect to server successfuly!
+rank: 6
+rank: 4
+rank:rank: 1
+ 7
+rank: 5
+rank: 2
+rank: 0
+rank: 3
+part 1, train: 24577 (local: 24577), val: 4915 (local: 4915), test: 276636 (local: 276636)
+part 5, train: 24577 (local: 24577), val: 4915 (local: 4915), test: 276636 (local: 276636)
+part 3, train: 24577 (local: 24577), val: 4915 (local: 4915), test: 276636 (local: 276636)
+part 2, train: 24576 (local: 24576), val: 4915 (local: 4915), test: 276636 (local: 276636)
+part 6, train: 24577 (local: 24577), val: 4916 (local: 4916), test: 276637 (local: 276637)
+part 4, train: 24577 (local: 24577), val: 4915 (local: 4915), test: 276636 (local: 276636)
+part 0, train: 24577 (local: 24577), val: 4916 (local: 4916), test: 276637 (local: 276637)
+part 7, train: 24577 (local: 24577), val: 4916 (local: 4916), test: 276637 (local: 276637)
+#labels: 47
+#labels: 47
+#labels: 47
+#labels: 47
+#labels: 47
+#labels: 47
+#labels: 47
+#labels: 47
+Presampling done, max: 1.000 min: 0.005 avg: 0.192
+Presampling done, max: 1.000 min: 0.005 avg: 0.192
+Presampling done, max: 1.000 min: 0.005 avg: 0.192#hot_nodes = 1460981
+Create distemb
+
+Presampling done, max: 1.000 min: 0.005 avg: 0.192
+Presampling done, max: 1.000 min: 0.005 avg: 0.192
+#hot_nodes = 1460981
+Create distemb
+Presampling done, max: 1.000 min: 0.005 avg: 0.192
+Presampling done, max: 1.000 min: 0.005 avg: 0.192
+#hot_nodes = 1460981
+Create distemb
+#hot_nodes = 1460981
+Create distemb
+#hot_nodes = 1460981
+Create distemb
+Presampling done, max: 1.000 min: 0.005 avg: 0.192
+#hot_nodes = 1460981
+Create distemb
+#hot_nodes = 1460981
+Create distemb
+#hot_nodes = 1460981
+Create distemb
+Client 2 build_connection start.
+Client 2 build_connection succeed.
+Client 4 build_connection start.
+Client 0 build_connection start.
+Client 4 build_connection succeed.
+Client 0 build_connection succeed.
+Client 3 build_connection start.
+Client 3 build_connection succeed.
+Client 1 build_connection start.
+Client 1 build_connection succeed.
+Client 7 build_connection start.
+Client 7 build_connection succeed.
+Client 6 build_connection start.
+Client 6 build_connection succeed.
+Client 5 build_connection start.
+Client 5 build_connection succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Client register_cache succeed.
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model
+Create model optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create model optimizer
+Create emb optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Create model optimizer
+Create emb optimizer
+Start train
+Start train
+Start trainStart train
+
+Start train
+Start trainStart train
+Start train
+
+Part 2 | Epoch 00000 | Step 00000 | Loss 6.8654 | Train Acc 0.0390 | Speed (samples/sec) nan | GPU 2211.7 MB | time 1.700 sPart 4 | Epoch 00000 | Step 00000 | Loss 6.8881 | Train Acc 0.0480 | Speed (samples/sec) nan | GPU 2255.2 MB | time 1.700 s
+
+Part 3 | Epoch 00000 | Step 00000 | Loss 6.9735 | Train Acc 0.0540 | Speed (samples/sec) nan | GPU 2237.5 MB | time 1.700 s
+Part 5 | Epoch 00000 | Step 00000 | Loss 6.8813 | Train Acc 0.0360 | Speed (samples/sec) nan | GPU 2238.1 MB | time 1.699 s
+Part 7 | Epoch 00000 | Step 00000 | Loss 6.9062 | Train Acc 0.0450 | Speed (samples/sec) nan | GPU 2227.4 MB | time 1.699 s
+Part 1 | Epoch 00000 | Step 00000 | Loss 6.9466 | Train Acc 0.0450 | Speed (samples/sec) nan | GPU 2266.7 MB | time 1.700 s
+Part 0 | Epoch 00000 | Step 00000 | Loss 6.9676 | Train Acc 0.0440 | Speed (samples/sec) nan | GPU 2249.7 MB | time 1.699 s
+Part 6 | Epoch 00000 | Step 00000 | Loss 7.0145 | Train Acc 0.0430 | Speed (samples/sec) nan | GPU 2244.2 MB | time 1.700 s
+Avg train acc 0.0443
+Part 4 | Epoch 00000 | Step 00020 | Loss 1.6801 | Train Acc 0.5890 | Speed (samples/sec) 1933.7009 | GPU 2318.3 MB | time 10.343 sPart 6 | Epoch 00000 | Step 00020 | Loss 1.6356 | Train Acc 0.5870 | Speed (samples/sec) 1933.7568 | GPU 2319.8 MB | time 10.341 s
+
+Part 1 | Epoch 00000 | Step 00020 | Loss 1.6447 | Train Acc 0.5910 | Speed (samples/sec) 1933.7217 | GPU 2306.5 MB | time 10.343 s
+Part 3 | Epoch 00000 | Step 00020 | Loss 1.6026 | Train Acc 0.6030 | Speed (samples/sec) 1933.6607 | GPU 2307.7 MB | time 10.343 s
+Part 0 | Epoch 00000 | Step 00020 | Loss 1.6259 | Train Acc 0.5770 | Speed (samples/sec) 1933.7643 | GPU 2309.9 MB | time 10.341 sPart 7 | Epoch 00000 | Step 00020 | Loss 1.6088 | Train Acc 0.5980 | Speed (samples/sec) 1933.7160 | GPU 2312.6 MB | time 10.343 s
+
+Part 2 | Epoch 00000 | Step 00020 | Loss 1.6579 | Train Acc 0.5790 | Speed (samples/sec) 1933.8402 | GPU 2306.2 MB | time 10.343 s
+Part 5 | Epoch 00000 | Step 00020 | Loss 1.6598 | Train Acc 0.5710 | Speed (samples/sec) 1933.7069 | GPU 2311.9 MB | time 10.343 s
+Avg train acc 0.5869
+=====================
+Part 1, Epoch Time(s): 13.9750
+Sampling Time(s): 0.7508
+Loading Time(s): 2.0260
+Forward Time(s): 0.8026
+Backward Time(s): 0.7693
+Update Time(s): 0.0705
+Emb Update Time(s): 9.5399
+#seeds: 24577
+#inputs: 10708871
+==========================================
+Part 6, Epoch Time(s): 13.9749
+Sampling Time(s): 0.7596
+Loading Time(s): 2.0532
+Forward Time(s): 0.8536
+Backward Time(s): 0.7022
+Update Time(s): 0.0686
+Emb Update Time(s): 9.5200
+#seeds: 24577
+#inputs: 10720731
+==========================================
+Part 7, Epoch Time(s): 13.9746
+Sampling Time(s): 0.7857
+Loading Time(s): 2.0497
+Forward Time(s): 0.8712
+Backward Time(s): 0.7056
+Update Time(s): 0.0672
+Emb Update Time(s): 9.4794
+#seeds: 24577
+#inputs: 10722834
+==========================================
+Part 2, Epoch Time(s): 13.9749
+Sampling Time(s): 0.7832
+Loading Time(s): 2.0426
+Forward Time(s): 0.8569
+Backward Time(s): 0.7100
+Update Time(s): 0.0724
+Emb Update Time(s): 9.4936
+#seeds: 24576
+#inputs: 10710816
+==========================================
+Part 3, Epoch Time(s): 13.9750
+Sampling Time(s): 0.7659
+Loading Time(s): 2.0684
+Forward Time(s): 0.8604
+Backward Time(s): 0.6860
+Update Time(s): 0.0649
+Emb Update Time(s): 9.5144
+#seeds: 24577
+#inputs: 10716397
+==========================================
+Part 0, Epoch Time(s): 13.9747
+Sampling Time(s): 0.8173
+Loading Time(s): 2.0608
+Forward Time(s): 0.8881
+Backward Time(s): 0.6909
+Update Time(s): 0.0627
+Emb Update Time(s): 9.4363
+#seeds: 24577
+#inputs: 10754461
+==========================================
+Part 4, Epoch Time(s): 13.9751
+Sampling Time(s): 0.7691
+Loading Time(s): 2.0368
+Forward Time(s): 0.8411
+Backward Time(s): 0.7397
+Update Time(s): 0.0588
+Emb Update Time(s): 9.5145
+#seeds: 24577
+#inputs: 10732306
+=====================
+=====================
+Part 5, Epoch Time(s): 13.9746
+Sampling Time(s): 0.7956
+Loading Time(s): 2.0575
+Forward Time(s): 0.8550
+Backward Time(s): 0.7133
+Update Time(s): 0.0729
+Emb Update Time(s): 9.4638
+#seeds: 24577
+#inputs: 10738992
+=====================
+
+
+
+
+
+
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 4, Val Acc 0.6948, Test Acc 0.5381, time: 26.3540
+Part 0, Val Acc 0.7081, Test Acc 0.5375, time: 26.3585
+Part 6, Val Acc 0.6953, Test Acc 0.5369, time: 26.3595
+Part 3, Val Acc 0.6973, Test Acc 0.5391, time: 26.3621
+Part 5, Val Acc 0.7076, Test Acc 0.5376, time: 26.3638
+Part 1, Val Acc 0.6958, Test Acc 0.5368, time: 26.3640
+Part 2, Val Acc 0.7056, Test Acc 0.5369, time: 26.3658
+Part 7, Val Acc 0.7101, Test Acc 0.5371, time: 26.3658
+All parts avg val acc 0.7018, test acc 0.5375
+Part 4 | Epoch 00001 | Step 00000 | Loss 1.4098 | Train Acc 0.6610 | Speed (samples/sec) 1885.3891 | GPU 4743.4 MB | time 0.847 s
+Part 3 | Epoch 00001 | Step 00000 | Loss 1.3727 | Train Acc 0.6710 | Speed (samples/sec) 1885.8572 | GPU 4764.7 MB | time 0.839 sPart 5 | Epoch 00001 | Step 00000 | Loss 1.4073 | Train Acc 0.6410 | Speed (samples/sec) 1886.1139 | GPU 4760.1 MB | time 0.837 s
+
+Part 6 | Epoch 00001 | Step 00000 | Loss 1.4485 | Train Acc 0.6360 | Speed (samples/sec) 1885.7635 | GPU 4767.6 MB | time 0.841 s
+Part 1 | Epoch 00001 | Step 00000 | Loss 1.3693 | Train Acc 0.6590 | Speed (samples/sec) 1886.0295 | GPU 4761.1 MB | time 0.837 s
+Part 7 | Epoch 00001 | Step 00000 | Loss 1.3551 | Train Acc 0.6810 | Speed (samples/sec) 1886.1554 | GPU 4746.2 MB | time 0.835 s
+Part 0 | Epoch 00001 | Step 00000 | Loss 1.3908 | Train Acc 0.6530 | Speed (samples/sec) 1886.3089 | GPU 4753.3 MB | time 0.835 s
+Part 2 | Epoch 00001 | Step 00000 | Loss 1.4616 | Train Acc 0.6200 | Speed (samples/sec) 1886.2491 | GPU 4764.6 MB | time 0.835 s
+Avg train acc 0.6528
+Part 1 | Epoch 00001 | Step 00020 | Loss 0.6561 | Train Acc 0.8440 | Speed (samples/sec) 1892.7453 | GPU 4761.1 MB | time 10.527 s
+Part 3 | Epoch 00001 | Step 00020 | Loss 0.6593 | Train Acc 0.8520 | Speed (samples/sec) 1892.6331 | GPU 4764.7 MB | time 10.527 s
+Part 7 | Epoch 00001 | Step 00020 | Loss 0.6555 | Train Acc 0.8540 | Speed (samples/sec) 1892.8185 | GPU 4746.2 MB | time 10.527 s
+Part 0 | Epoch 00001 | Step 00020 | Loss 0.6816 | Train Acc 0.8440 | Speed (samples/sec) 1892.9252 | GPU 4753.3 MB | time 10.527 s
+Part 6 | Epoch 00001 | Step 00020 | Loss 0.6743 | Train Acc 0.8480 | Speed (samples/sec) 1892.6039 | GPU 4767.6 MB | time 10.527 sPart 5 | Epoch 00001 | Step 00020 | Loss 0.6319 | Train Acc 0.8500 | Speed (samples/sec) 1892.7904 | GPU 4760.1 MB | time 10.527 s
+
+Part 4 | Epoch 00001 | Step 00020 | Loss 0.6932 | Train Acc 0.8310 | Speed (samples/sec) 1892.4262 | GPU 4743.4 MB | time 10.527 s
+Part 2 | Epoch 00001 | Step 00020 | Loss 0.6777 | Train Acc 0.8330 | Speed (samples/sec) 1893.0404 | GPU 4764.6 MB | time 10.525 s
+Avg train acc 0.8445
+=====================
+Part 7, Epoch Time(s): 13.3225
+Sampling Time(s): 0.7970
+Loading Time(s): 2.0256
+Forward Time(s): 0.6170
+Backward Time(s): 0.6850
+Update Time(s): 0.0165
+Emb Update Time(s): 9.1705
+#seeds: 24577
+#inputs: 10718838
+==========================================
+Part 0, Epoch Time(s): 13.3224
+Sampling Time(s): 0.8225
+Loading Time(s): 2.0435
+Forward Time(s): 0.5785
+Backward Time(s): 0.6784
+Update Time(s): 0.0156
+Emb Update Time(s): 9.1724
+#seeds: 24577
+#inputs: 10729354
+==========================================
+Part 5, Epoch Time(s): 13.3245
+Sampling Time(s): 0.7387
+Loading Time(s): 2.0115
+Forward Time(s): 0.6441
+Backward Time(s): 0.6809
+Update Time(s): 0.0161
+Emb Update Time(s): 9.2226
+#seeds: 24577
+#inputs: 10749272
+==========================================
+Part 1, Epoch Time(s): 13.3243
+Sampling Time(s): 0.8039
+Loading Time(s): 2.0217
+Forward Time(s): 0.5727
+Backward Time(s): 0.6701
+Update Time(s): 0.0163
+Emb Update Time(s): 9.2291
+#seeds: 24577
+#inputs: 10723155
+==========================================
+Part 3, Epoch Time(s): 13.3262
+Sampling Time(s): 0.6877
+Loading Time(s): 2.0118
+Forward Time(s): 0.6343
+Backward Time(s): 0.7015
+Update Time(s): 0.0158
+Emb Update Time(s): 9.2650
+#seeds: 24577
+#inputs: 10727892
+=====================
+=====================
+Part 2, Epoch Time(s): 13.3224
+Sampling Time(s): 0.7385
+Loading Time(s): 2.0245
+Forward Time(s): 0.5889
+Backward Time(s): 0.6954
+Update Time(s): 0.0200
+Emb Update Time(s): 9.2420
+#seeds: 24576
+#inputs: 10695021
+==========================================
+Part 4, Epoch Time(s): 13.3342
+Sampling Time(s): 0.7213
+Loading Time(s): 2.0215
+Forward Time(s): 0.6252
+Backward Time(s): 0.6905
+Update Time(s): 0.0201
+Emb Update Time(s): 9.2445
+#seeds: 24577
+#inputs: 10732544
+=====================
+
+
+=====================
+Part 6, Epoch Time(s): 13.3298
+Sampling Time(s): 0.6608
+Loading Time(s): 2.0373
+Forward Time(s): 0.6431
+Backward Time(s): 0.7038
+Update Time(s): 0.0170
+Emb Update Time(s): 9.2562
+#seeds: 24577
+#inputs: 10707257
+=====================
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 6, Val Acc 0.7943, Test Acc 0.6024, time: 19.2962
+Part 1, Val Acc 0.7898, Test Acc 0.6026, time: 19.3047
+Part 2, Val Acc 0.7915, Test Acc 0.6027, time: 19.3065
+Part 0, Val Acc 0.7966, Test Acc 0.6033, time: 19.3068
+Part 3, Val Acc 0.7965, Test Acc 0.6044, time: 19.3102
+Part 4, Val Acc 0.7913, Test Acc 0.6041, time: 19.3119
+Part 5, Val Acc 0.7910, Test Acc 0.6038, time: 19.3166
+Part 7, Val Acc 0.7972, Test Acc 0.6026, time: 19.3167
+All parts avg val acc 0.7935, test acc 0.6032
+Part 3 | Epoch 00002 | Step 00000 | Loss 0.6278 | Train Acc 0.8360 | Speed (samples/sec) 1871.7749 | GPU 4764.7 MB | time 0.825 s
+Part 7 | Epoch 00002 | Step 00000 | Loss 0.6716 | Train Acc 0.8510 | Speed (samples/sec) 1872.1802 | GPU 4758.0 MB | time 0.819 s
+Part 2 | Epoch 00002 | Step 00000 | Loss 0.6306 | Train Acc 0.8390 | Speed (samples/sec) 1872.0184 | GPU 4764.6 MB | time 0.829 s
+Part 5 | Epoch 00002 | Step 00000 | Loss 0.6168 | Train Acc 0.8480 | Speed (samples/sec) 1872.1392 | GPU 4760.1 MB | time 0.819 s
+Part 4 | Epoch 00002 | Step 00000 | Loss 0.6071 | Train Acc 0.8600 | Speed (samples/sec) 1871.6909 | GPU 4753.9 MB | time 0.823 s
+Part 1 | Epoch 00002 | Step 00000 | Loss 0.6542 | Train Acc 0.8540 | Speed (samples/sec) 1871.7171 | GPU 4761.1 MB | time 0.831 s
+Part 0 | Epoch 00002 | Step 00000 | Loss 0.5997 | Train Acc 0.8620 | Speed (samples/sec) 1872.2809 | GPU 4753.3 MB | time 0.819 s
+Part 6 | Epoch 00002 | Step 00000 | Loss 0.6571 | Train Acc 0.8510 | Speed (samples/sec) 1871.3336 | GPU 4767.6 MB | time 0.839 s
+Avg train acc 0.8501
+Part 5 | Epoch 00002 | Step 00020 | Loss 0.5696 | Train Acc 0.8610 | Speed (samples/sec) 1883.3388 | GPU 4760.1 MB | time 10.474 s
+Part 0 | Epoch 00002 | Step 00020 | Loss 0.6119 | Train Acc 0.8750 | Speed (samples/sec) 1883.4695 | GPU 4753.3 MB | time 10.473 s
+Part 3 | Epoch 00002 | Step 00020 | Loss 0.6000 | Train Acc 0.8810 | Speed (samples/sec) 1883.0397 | GPU 4764.7 MB | time 10.475 s
+Part 2 | Epoch 00002 | Step 00020 | Loss 0.7221 | Train Acc 0.8660 | Speed (samples/sec) 1883.2345 | GPU 4764.6 MB | time 10.474 s
+Part 4 | Epoch 00002 | Step 00020 | Loss 0.5893 | Train Acc 0.8630 | Speed (samples/sec) 1883.0168 | GPU 4753.9 MB | time 10.474 s
+Part 7 | Epoch 00002 | Step 00020 | Loss 0.5935 | Train Acc 0.8810 | Speed (samples/sec) 1883.4356 | GPU 4758.0 MB | time 10.473 s
+Part 6 | Epoch 00002 | Step 00020 | Loss 0.6752 | Train Acc 0.8470 | Speed (samples/sec) 1882.8600 | GPU 4767.6 MB | time 10.472 s
+Part 1 | Epoch 00002 | Step 00020 | Loss 0.7550 | Train Acc 0.8530 | Speed (samples/sec) 1883.2631 | GPU 4761.1 MB | time 10.470 s
+Avg train acc 0.8659
+=====================
+Part 3, Epoch Time(s): 13.2233
+Sampling Time(s): 0.7165
+Loading Time(s): 2.0017
+Forward Time(s): 0.5686
+Backward Time(s): 0.7103
+Update Time(s): 0.0155
+Emb Update Time(s): 9.2002
+#seeds: 24577
+#inputs: 10717461
+==========================================
+Part 4, Epoch Time(s): 13.2222
+Sampling Time(s): 0.6587
+Loading Time(s): 1.9784
+Forward Time(s): 0.5779
+Backward Time(s): 0.7359
+Update Time(s): 0.0176
+Emb Update Time(s): 9.2415
+#seeds: 24577
+#inputs: 10735263
+==========================================
+Part 0, Epoch Time(s): 13.2167
+Sampling Time(s): 0.7532
+Loading Time(s): 2.0459
+Forward Time(s): 0.5726
+Backward Time(s): 0.6723
+Update Time(s): 0.0161
+Emb Update Time(s): 9.1444
+#seeds: 24577
+#inputs: 10751587
+==========================================
+Part 2, Epoch Time(s): 13.2268
+Sampling Time(s): 0.7683
+Loading Time(s): 2.0359
+Forward Time(s): 0.5783
+Backward Time(s): 0.6713
+Update Time(s): 0.0159
+Emb Update Time(s): 9.1461
+#seeds: 24576
+#inputs: 10700548
+==========================================
+Part 7, Epoch Time(s): 13.2166
+Sampling Time(s): 0.7703
+Loading Time(s): 2.0418
+Forward Time(s): 0.5910
+Backward Time(s): 0.6793
+Update Time(s): 0.0188
+Emb Update Time(s): 9.1028
+#seeds: 24577
+#inputs: 10724188
+==========================================
+Part 5, Epoch Time(s): 13.2167
+Sampling Time(s): 0.7232
+Loading Time(s): 1.9931
+Forward Time(s): 0.5791
+Backward Time(s): 0.7006
+Update Time(s): 0.0155
+Emb Update Time(s): 9.1940
+#seeds: 24577
+#inputs: 10738838
+==========================================
+Part 6, Epoch Time(s): 13.2371
+Sampling Time(s): 0.7155
+Loading Time(s): 2.0301
+Forward Time(s): 0.5921
+Backward Time(s): 0.6894
+Update Time(s): 0.0172
+Emb Update Time(s): 9.1798
+#seeds: 24577
+#inputs: 10719850
+=====================
+=====================
+Part 1, Epoch Time(s): 13.2295
+Sampling Time(s): 0.7279
+Loading Time(s): 1.9958
+Forward Time(s): 0.6070
+Backward Time(s): 0.6880
+Update Time(s): 0.0194
+Emb Update Time(s): 9.1747
+#seeds: 24577
+#inputs: 10712242
+=====================
+
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 0, Val Acc 0.8358, Test Acc 0.6275, time: 19.3369
+Part 3, Val Acc 0.8368, Test Acc 0.6281, time: 19.3375
+Part 5, Val Acc 0.8360, Test Acc 0.6275, time: 19.3423
+Part 1, Val Acc 0.8303, Test Acc 0.6260, time: 19.3440
+Part 7, Val Acc 0.8395, Test Acc 0.6267, time: 19.3443
+Part 6, Val Acc 0.8328, Test Acc 0.6269, time: 19.3448
+Part 2, Val Acc 0.8342, Test Acc 0.6266, time: 19.3465
+Part 4, Val Acc 0.8317, Test Acc 0.6274, time: 19.3511
+All parts avg val acc 0.8347, test acc 0.6271
+Part 3 | Epoch 00003 | Step 00000 | Loss 0.6099 | Train Acc 0.8570 | Speed (samples/sec) 1870.7390 | GPU 4768.1 MB | time 0.888 s
+Part 1 | Epoch 00003 | Step 00000 | Loss 0.6264 | Train Acc 0.8640 | Speed (samples/sec) 1871.0834 | GPU 4761.1 MB | time 0.882 s
+Part 6 | Epoch 00003 | Step 00000 | Loss 0.5420 | Train Acc 0.8720 | Speed (samples/sec) 1870.7089 | GPU 4771.2 MB | time 0.881 s
+Part 4 | Epoch 00003 | Step 00000 | Loss 0.5819 | Train Acc 0.8560 | Speed (samples/sec) 1870.9616 | GPU 4755.7 MB | time 0.875 sPart 5 | Epoch 00003 | Step 00000 | Loss 0.7058 | Train Acc 0.8490 | Speed (samples/sec) 1871.1043 | GPU 4760.3 MB | time 0.883 s
+
+Part 0 | Epoch 00003 | Step 00000 | Loss 0.5009 | Train Acc 0.8690 | Speed (samples/sec) 1871.3970 | GPU 4753.3 MB | time 0.875 s
+Part 7 | Epoch 00003 | Step 00000 | Loss 0.6347 | Train Acc 0.8660 | Speed (samples/sec) 1871.2319 | GPU 4758.0 MB | time 0.881 s
+Part 2 | Epoch 00003 | Step 00000 | Loss 0.5832 | Train Acc 0.8550 | Speed (samples/sec) 1871.0450 | GPU 4766.6 MB | time 0.879 s
+Avg train acc 0.8610
+Part 5 | Epoch 00003 | Step 00020 | Loss 0.5693 | Train Acc 0.8680 | Speed (samples/sec) 1883.1404 | GPU 4760.3 MB | time 10.381 sPart 7 | Epoch 00003 | Step 00020 | Loss 0.5421 | Train Acc 0.8750 | Speed (samples/sec) 1883.2647 | GPU 4758.0 MB | time 10.381 s
+
+Part 3 | Epoch 00003 | Step 00020 | Loss 0.5613 | Train Acc 0.8750 | Speed (samples/sec) 1882.8413 | GPU 4768.1 MB | time 10.382 s
+Part 0 | Epoch 00003 | Step 00020 | Loss 0.5457 | Train Acc 0.8740 | Speed (samples/sec) 1883.4060 | GPU 4753.3 MB | time 10.380 s
+Part 4 | Epoch 00003 | Step 00020 | Loss 0.4653 | Train Acc 0.8740 | Speed (samples/sec) 1883.0184 | GPU 4755.7 MB | time 10.382 sPart 1 | Epoch 00003 | Step 00020 | Loss 0.4595 | Train Acc 0.8880 | Speed (samples/sec) 1883.1106 | GPU 4761.1 MB | time 10.382 s
+
+Part 2 | Epoch 00003 | Step 00020 | Loss 0.5760 | Train Acc 0.8660 | Speed (samples/sec) 1883.2176 | GPU 4766.6 MB | time 10.378 s
+Part 6 | Epoch 00003 | Step 00020 | Loss 0.5018 | Train Acc 0.8750 | Speed (samples/sec) 1882.8372 | GPU 4771.2 MB | time 10.381 s
+Avg train acc 0.8744
+=====================
+Part 3, Epoch Time(s): 13.1937
+Sampling Time(s): 0.6325
+Loading Time(s): 2.0036
+Forward Time(s): 0.6624
+Backward Time(s): 0.7170
+Update Time(s): 0.0160
+Emb Update Time(s): 9.1528
+#seeds: 24577
+#inputs: 10733574
+==========================================
+Part 1, Epoch Time(s): 13.1872
+Sampling Time(s): 0.6511
+Loading Time(s): 1.9649
+Forward Time(s): 0.6518
+Backward Time(s): 0.7434
+Update Time(s): 0.0161
+Emb Update Time(s): 9.1505
+#seeds: 24577
+#inputs: 10715689
+==========================================
+Part 4, Epoch Time(s): 13.1800
+Sampling Time(s): 0.6397
+Loading Time(s): 1.9678
+Forward Time(s): 0.6480
+Backward Time(s): 0.7488
+Update Time(s): 0.0165
+Emb Update Time(s): 9.1497
+#seeds: 24577
+#inputs: 10735001
+==========================================
+Part 7, Epoch Time(s): 13.1868
+Sampling Time(s): 0.7588
+Loading Time(s): 2.0468
+Forward Time(s): 0.6363
+Backward Time(s): 0.6879
+Update Time(s): 0.0165
+Emb Update Time(s): 9.0302
+#seeds: 24577
+#inputs: 10720434
+==========================================
+Part 2, Epoch Time(s): 13.1848
+Sampling Time(s): 0.7907
+Loading Time(s): 2.0503
+Forward Time(s): 0.6089
+Backward Time(s): 0.6861
+Update Time(s): 0.0211
+Emb Update Time(s): 9.0142
+#seeds: 24576
+#inputs: 10708233
+==========================================
+Part 5, Epoch Time(s): 13.1889
+Sampling Time(s): 0.7666
+Loading Time(s): 1.9635
+Forward Time(s): 0.5713
+Backward Time(s): 0.7224
+Update Time(s): 0.0165
+Emb Update Time(s): 9.1388
+#seeds: 24577
+#inputs: 10740302
+=====================
+
+
+
+
+
+=====================
+Part 0, Epoch Time(s): 13.1800
+Sampling Time(s): 0.7897
+Loading Time(s): 2.0504
+Forward Time(s): 0.6267
+Backward Time(s): 0.6771
+Update Time(s): 0.0166
+Emb Update Time(s): 9.0085
+#seeds: 24577
+#inputs: 10741094
+=====================
+=====================
+Part 6, Epoch Time(s): 13.1863
+Sampling Time(s): 0.7506
+Loading Time(s): 2.0423
+Forward Time(s): 0.6373
+Backward Time(s): 0.6786
+Update Time(s): 0.0181
+Emb Update Time(s): 9.0489
+#seeds: 24577
+#inputs: 10695480
+=====================
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 4, Val Acc 0.8460, Test Acc 0.6461, time: 19.4730
+Part 5, Val Acc 0.8507, Test Acc 0.6459, time: 19.4734
+Part 1, Val Acc 0.8419, Test Acc 0.6446, time: 19.4748
+Part 6, Val Acc 0.8421, Test Acc 0.6444, time: 19.4770
+Part 2, Val Acc 0.8513, Test Acc 0.6441, time: 19.4778
+Part 0, Val Acc 0.8452, Test Acc 0.6444, time: 19.4781
+Part 7, Val Acc 0.8525, Test Acc 0.6438, time: 19.4782
+Part 3, Val Acc 0.8474, Test Acc 0.6454, time: 19.4782
+All parts avg val acc 0.8471, test acc 0.6448
+Part 1 | Epoch 00004 | Step 00000 | Loss 0.6293 | Train Acc 0.8570 | Speed (samples/sec) 1874.9082 | GPU 4761.1 MB | time 0.815 s
+Part 3 | Epoch 00004 | Step 00000 | Loss 0.5969 | Train Acc 0.8550 | Speed (samples/sec) 1874.7035 | GPU 4770.9 MB | time 0.812 s
+Part 2 | Epoch 00004 | Step 00000 | Loss 0.4636 | Train Acc 0.8870 | Speed (samples/sec) 1875.0527 | GPU 4766.6 MB | time 0.812 s
+Part 4 | Epoch 00004 | Step 00000 | Loss 0.5706 | Train Acc 0.8730 | Speed (samples/sec) 1874.7917 | GPU 4755.7 MB | time 0.817 s
+Part 6 | Epoch 00004 | Step 00000 | Loss 0.6560 | Train Acc 0.8450 | Speed (samples/sec) 1874.7025 | GPU 4771.2 MB | time 0.813 sPart 5 | Epoch 00004 | Step 00000 | Loss 1.3815 | Train Acc 0.8560 | Speed (samples/sec) 1874.9118 | GPU 4760.3 MB | time 0.817 s
+
+Part 7 | Epoch 00004 | Step 00000 | Loss 0.5326 | Train Acc 0.8860 | Speed (samples/sec) 1875.1065 | GPU 4758.0 MB | time 0.812 s
+Part 0 | Epoch 00004 | Step 00000 | Loss 0.7255 | Train Acc 0.8850 | Speed (samples/sec) 1875.2915 | GPU 4754.7 MB | time 0.810 s
+Avg train acc 0.8680
+Part 7 | Epoch 00004 | Step 00020 | Loss 0.5770 | Train Acc 0.8580 | Speed (samples/sec) 1884.1148 | GPU 4758.0 MB | time 10.377 sPart 5 | Epoch 00004 | Step 00020 | Loss 0.6260 | Train Acc 0.8600 | Speed (samples/sec) 1883.9395 | GPU 4760.3 MB | time 10.377 sPart 4 | Epoch 00004 | Step 00020 | Loss 0.6115 | Train Acc 0.8680 | Speed (samples/sec) 1883.8410 | GPU 4755.7 MB | time 10.377 sPart 3 | Epoch 00004 | Step 00020 | Loss 0.5294 | Train Acc 0.8800 | Speed (samples/sec) 1883.7580 | GPU 4770.9 MB | time 10.378 s
+
+
+
+Part 6 | Epoch 00004 | Step 00020 | Loss 0.5684 | Train Acc 0.8590 | Speed (samples/sec) 1883.7642 | GPU 4771.2 MB | time 10.378 s
+Part 0 | Epoch 00004 | Step 00020 | Loss 0.5253 | Train Acc 0.8640 | Speed (samples/sec) 1884.2905 | GPU 4754.7 MB | time 10.376 s
+Part 1 | Epoch 00004 | Step 00020 | Loss 0.4923 | Train Acc 0.8640 | Speed (samples/sec) 1883.9256 | GPU 4761.1 MB | time 10.378 s
+Part 2 | Epoch 00004 | Step 00020 | Loss 0.5876 | Train Acc 0.8780 | Speed (samples/sec) 1884.1138 | GPU 4766.6 MB | time 10.376 s
+Avg train acc 0.8664
+=====================
+Part 5, Epoch Time(s): 13.1481
+Sampling Time(s): 0.6867
+Loading Time(s): 1.9652
+Forward Time(s): 0.5904
+Backward Time(s): 0.7051
+Update Time(s): 0.0151
+Emb Update Time(s): 9.1742
+#seeds: 24577
+#inputs: 10742309
+==========================================
+Part 4, Epoch Time(s): 13.1484
+Sampling Time(s): 0.6378
+Loading Time(s): 1.9612
+Forward Time(s): 0.6058
+Backward Time(s): 0.7173
+Update Time(s): 0.0162
+Emb Update Time(s): 9.1987
+#seeds: 24577
+#inputs: 10735428
+==========================================
+Part 1, Epoch Time(s): 13.1466
+Sampling Time(s): 0.6330
+Loading Time(s): 1.9548
+Forward Time(s): 0.5773
+Backward Time(s): 0.7384
+Update Time(s): 0.0160
+Emb Update Time(s): 9.2162
+#seeds: 24577
+#inputs: 10719171
+==========================================
+Part 2, Epoch Time(s): 13.1436
+Sampling Time(s): 0.8029
+Loading Time(s): 2.0265
+Forward Time(s): 0.5796
+Backward Time(s): 0.6647
+Update Time(s): 0.0177
+Emb Update Time(s): 9.0389
+#seeds: 24576
+#inputs: 10704281
+==========================================
+Part 3, Epoch Time(s): 13.1432
+Sampling Time(s): 0.6015
+Loading Time(s): 2.0100
+Forward Time(s): 0.6004
+Backward Time(s): 0.6991
+Update Time(s): 0.0157
+Emb Update Time(s): 9.2056
+#seeds: 24577
+#inputs: 10734587
+=====================
+=====================
+Part 0, Epoch Time(s): 13.1413
+Sampling Time(s): 0.7701
+Loading Time(s): 2.0240
+Forward Time(s): 0.5761
+Backward Time(s): 0.6681
+Update Time(s): 0.0169
+Emb Update Time(s): 9.0734
+#seeds: 24577
+#inputs: 10748816
+==========================================
+Part 6, Epoch Time(s): 13.1445
+Sampling Time(s): 0.7671
+Loading Time(s): 2.0293
+Forward Time(s): 0.5777
+Backward Time(s): 0.6680
+Update Time(s): 0.0165
+Emb Update Time(s): 9.0745
+#seeds: 24577
+#inputs: 10710436
+=====================
+
+
+
+
+
+=====================
+Part 7, Epoch Time(s): 13.1432
+Sampling Time(s): 0.7736
+Loading Time(s): 2.0059
+Forward Time(s): 0.5927
+Backward Time(s): 0.6762
+Update Time(s): 0.0158
+Emb Update Time(s): 9.0671
+#seeds: 24577
+#inputs: 10706505
+=====================
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 3, Val Acc 0.8619, Test Acc 0.6642, time: 18.3632
+Part 4, Val Acc 0.8547, Test Acc 0.6645, time: 18.3680
+Part 1, Val Acc 0.8555, Test Acc 0.6630, time: 18.3685
+Part 7, Val Acc 0.8653, Test Acc 0.6629, time: 18.3685
+Part 6, Val Acc 0.8578, Test Acc 0.6635, time: 18.3686
+Part 5, Val Acc 0.8621, Test Acc 0.6650, time: 18.3696
+Part 2, Val Acc 0.8633, Test Acc 0.6626, time: 18.3761
+Part 0, Val Acc 0.8611, Test Acc 0.6631, time: 18.3779
+All parts avg val acc 0.8602, test acc 0.6636
+Part 3 | Epoch 00005 | Step 00000 | Loss 0.4675 | Train Acc 0.8710 | Speed (samples/sec) 1876.1370 | GPU 4770.9 MB | time 0.831 s
+Part 1 | Epoch 00005 | Step 00000 | Loss 0.5154 | Train Acc 0.8800 | Speed (samples/sec) 1876.3650 | GPU 4761.1 MB | time 0.826 s
+Part 7 | Epoch 00005 | Step 00000 | Loss 0.4800 | Train Acc 0.8820 | Speed (samples/sec) 1876.5458 | GPU 4758.0 MB | time 0.826 s
+Part 6 | Epoch 00005 | Step 00000 | Loss 0.4848 | Train Acc 0.8850 | Speed (samples/sec) 1876.2115 | GPU 4772.0 MB | time 0.826 s
+Part 5 | Epoch 00005 | Step 00000 | Loss 0.6173 | Train Acc 0.8750 | Speed (samples/sec) 1876.3885 | GPU 4772.5 MB | time 0.825 s
+Part 0 | Epoch 00005 | Step 00000 | Loss 0.5573 | Train Acc 0.8620 | Speed (samples/sec) 1876.8302 | GPU 4754.7 MB | time 0.816 s
+Part 4 | Epoch 00005 | Step 00000 | Loss 0.5713 | Train Acc 0.8530 | Speed (samples/sec) 1876.2747 | GPU 4755.7 MB | time 0.826 s
+Part 2 | Epoch 00005 | Step 00000 | Loss 0.5187 | Train Acc 0.8800 | Speed (samples/sec) 1876.6184 | GPU 4766.6 MB | time 0.818 s
+Avg train acc 0.8735
+Part 0 | Epoch 00005 | Step 00020 | Loss 0.4709 | Train Acc 0.8860 | Speed (samples/sec) 1883.4377 | GPU 4754.7 MB | time 10.401 sPart 6 | Epoch 00005 | Step 00020 | Loss 0.5206 | Train Acc 0.8870 | Speed (samples/sec) 1882.9023 | GPU 4772.0 MB | time 10.401 sPart 7 | Epoch 00005 | Step 00020 | Loss 0.4902 | Train Acc 0.8790 | Speed (samples/sec) 1883.1816 | GPU 4758.0 MB | time 10.402 sPart 5 | Epoch 00005 | Step 00020 | Loss 0.4811 | Train Acc 0.8670 | Speed (samples/sec) 1883.0479 | GPU 4772.5 MB | time 10.402 sPart 4 | Epoch 00005 | Step 00020 | Loss 0.4357 | Train Acc 0.8910 | Speed (samples/sec) 1882.9505 | GPU 4755.7 MB | time 10.402 s
+
+
+
+
+Part 1 | Epoch 00005 | Step 00020 | Loss 0.4756 | Train Acc 0.8730 | Speed (samples/sec) 1883.0243 | GPU 4761.1 MB | time 10.402 s
+Part 2 | Epoch 00005 | Step 00020 | Loss 0.4628 | Train Acc 0.8870 | Speed (samples/sec) 1883.2791 | GPU 4766.6 MB | time 10.400 sPart 3 | Epoch 00005 | Step 00020 | Loss 0.4941 | Train Acc 0.8730 | Speed (samples/sec) 1882.8241 | GPU 4770.9 MB | time 10.402 s
+
+Avg train acc 0.8804
+=====================
+Part 5, Epoch Time(s): 13.1509
+Sampling Time(s): 0.6741
+Loading Time(s): 1.9614
+Forward Time(s): 0.6091
+Backward Time(s): 0.7007
+Update Time(s): 0.0155
+Emb Update Time(s): 9.1798
+#seeds: 24577
+#inputs: 10745072
+==========================================
+Part 4, Epoch Time(s): 13.1525
+Sampling Time(s): 0.6812
+Loading Time(s): 1.9860
+Forward Time(s): 0.5924
+Backward Time(s): 0.7055
+Update Time(s): 0.0164
+Emb Update Time(s): 9.1605
+#seeds: 24577
+#inputs: 10746739
+==========================================
+Part 1, Epoch Time(s): 13.1521
+Sampling Time(s): 0.6068
+Loading Time(s): 1.9587
+Forward Time(s): 0.6182
+Backward Time(s): 0.7278
+Update Time(s): 0.0172
+Emb Update Time(s): 9.2130
+#seeds: 24577
+#inputs: 10719074
+==========================================
+Part 7, Epoch Time(s): 13.1520
+Sampling Time(s): 0.7069
+Loading Time(s): 1.9733
+Forward Time(s): 0.5998
+Backward Time(s): 0.6928
+Update Time(s): 0.0155
+Emb Update Time(s): 9.1533
+#seeds: 24577
+#inputs: 10728371
+==========================================
+Part 3, Epoch Time(s): 13.1573
+Sampling Time(s): 0.6094
+Loading Time(s): 2.0004
+Forward Time(s): 0.6284
+Backward Time(s): 0.6954
+Update Time(s): 0.0152
+Emb Update Time(s): 9.1982
+#seeds: 24577
+#inputs: 10709022
+==========================================
+Part 0, Epoch Time(s): 13.1426
+Sampling Time(s): 0.7019
+Loading Time(s): 2.0115
+Forward Time(s): 0.5860
+Backward Time(s): 0.6882
+Update Time(s): 0.0155
+Emb Update Time(s): 9.1285
+#seeds: 24577
+#inputs: 10745905
+=====================
+
+=====================
+Part 2, Epoch Time(s): 13.1444
+Sampling Time(s): 0.7717
+Loading Time(s): 2.0360
+Forward Time(s): 0.5888
+Backward Time(s): 0.6642
+Update Time(s): 0.0208
+Emb Update Time(s): 9.0510
+#seeds: 24576
+#inputs: 10711212
+==========================================
+Part 6, Epoch Time(s): 13.1518
+Sampling Time(s): 0.7913
+Loading Time(s): 2.0212
+Forward Time(s): 0.5679
+Backward Time(s): 0.6594
+Update Time(s): 0.0154
+Emb Update Time(s): 9.0859
+#seeds: 24577
+#inputs: 10718825
+=====================
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 3, Val Acc 0.8680, Test Acc 0.6720, time: 18.5936
+Part 6, Val Acc 0.8625, Test Acc 0.6711, time: 18.5966
+Part 7, Val Acc 0.8721, Test Acc 0.6709, time: 18.5991
+Part 5, Val Acc 0.8710, Test Acc 0.6726, time: 18.5997
+Part 4, Val Acc 0.8604, Test Acc 0.6730, time: 18.6004
+Part 0, Val Acc 0.8676, Test Acc 0.6707, time: 18.6020
+Part 1, Val Acc 0.8649, Test Acc 0.6701, time: 18.6022
+Part 2, Val Acc 0.8710, Test Acc 0.6709, time: 18.6034
+All parts avg val acc 0.8672, test acc 0.6714
+Part 6 | Epoch 00006 | Step 00000 | Loss 0.5780 | Train Acc 0.8630 | Speed (samples/sec) 1877.1794 | GPU 4772.0 MB | time 0.845 sPart 3 | Epoch 00006 | Step 00000 | Loss 0.4478 | Train Acc 0.8880 | Speed (samples/sec) 1877.0792 | GPU 4770.9 MB | time 0.848 sPart 2 | Epoch 00006 | Step 00000 | Loss 0.5002 | Train Acc 0.8700 | Speed (samples/sec) 1877.5946 | GPU 4767.4 MB | time 0.838 sPart 1 | Epoch 00006 | Step 00000 | Loss 0.5549 | Train Acc 0.8620 | Speed (samples/sec) 1877.3491 | GPU 4761.1 MB | time 0.840 s
+
+
+
+Part 0 | Epoch 00006 | Step 00000 | Loss 0.4535 | Train Acc 0.8930 | Speed (samples/sec) 1877.7634 | GPU 4754.7 MB | time 0.839 s
+Part 7 | Epoch 00006 | Step 00000 | Loss 0.4803 | Train Acc 0.8720 | Speed (samples/sec) 1877.4718 | GPU 4758.0 MB | time 0.843 sPart 4 | Epoch 00006 | Step 00000 | Loss 0.4349 | Train Acc 0.8880 | Speed (samples/sec) 1877.2603 | GPU 4756.8 MB | time 0.842 s
+
+Part 5 | Epoch 00006 | Step 00000 | Loss 0.5128 | Train Acc 0.8740 | Speed (samples/sec) 1877.3467 | GPU 4772.5 MB | time 0.842 s
+Avg train acc 0.8763
+Part 7 | Epoch 00006 | Step 00020 | Loss 0.4348 | Train Acc 0.8950 | Speed (samples/sec) 1883.5676 | GPU 4758.0 MB | time 10.374 sPart 4 | Epoch 00006 | Step 00020 | Loss 0.8760 | Train Acc 0.8750 | Speed (samples/sec) 1883.3813 | GPU 4756.8 MB | time 10.374 sPart 5 | Epoch 00006 | Step 00020 | Loss 0.5508 | Train Acc 0.8720 | Speed (samples/sec) 1883.4574 | GPU 4772.5 MB | time 10.374 s
+
+
+Part 1 | Epoch 00006 | Step 00020 | Loss 0.5660 | Train Acc 0.8670 | Speed (samples/sec) 1883.4584 | GPU 4761.1 MB | time 10.374 s
+Part 3 | Epoch 00006 | Step 00020 | Loss 0.4395 | Train Acc 0.8910 | Speed (samples/sec) 1883.2191 | GPU 4770.9 MB | time 10.374 s
+Part 0 | Epoch 00006 | Step 00020 | Loss 0.4626 | Train Acc 0.8820 | Speed (samples/sec) 1883.8274 | GPU 4754.7 MB | time 10.374 s
+Part 6 | Epoch 00006 | Step 00020 | Loss 0.4356 | Train Acc 0.8910 | Speed (samples/sec) 1883.3121 | GPU 4772.0 MB | time 10.374 s
+Part 2 | Epoch 00006 | Step 00020 | Loss 0.4887 | Train Acc 0.8770 | Speed (samples/sec) 1883.6776 | GPU 4767.4 MB | time 10.374 s
+Avg train acc 0.8813
+=====================
+Part 4, Epoch Time(s): 13.2291
+Sampling Time(s): 0.7574
+Loading Time(s): 1.9698
+Forward Time(s): 0.6211
+Backward Time(s): 0.6999
+Update Time(s): 0.0164
+Emb Update Time(s): 9.1535
+#seeds: 24577
+#inputs: 10727197
+==========================================
+Part 5, Epoch Time(s): 13.2298
+Sampling Time(s): 0.8019
+Loading Time(s): 1.9626
+Forward Time(s): 0.6040
+Backward Time(s): 0.6923
+Update Time(s): 0.0153
+Emb Update Time(s): 9.1428
+#seeds: 24577
+#inputs: 10734807
+==========================================
+Part 0, Epoch Time(s): 13.2262
+Sampling Time(s): 0.7980
+Loading Time(s): 2.0205
+Forward Time(s): 0.6125
+Backward Time(s): 0.6788
+Update Time(s): 0.0155
+Emb Update Time(s): 9.0894
+#seeds: 24577
+#inputs: 10728618
+==========================================
+Part 7, Epoch Time(s): 13.2302
+Sampling Time(s): 0.7766
+Loading Time(s): 1.9769
+Forward Time(s): 0.6232
+Backward Time(s): 0.6885
+Update Time(s): 0.0155
+Emb Update Time(s): 9.1386
+#seeds: 24577
+#inputs: 10723667
+==========================================
+Part 1, Epoch Time(s): 13.2274
+Sampling Time(s): 0.7364
+Loading Time(s): 1.9774
+Forward Time(s): 0.6260
+Backward Time(s): 0.7125
+Update Time(s): 0.0166
+Emb Update Time(s): 9.1474
+#seeds: 24577
+#inputs: 10707811
+==========================================
+Part 2, Epoch Time(s): 13.2261
+Sampling Time(s): 0.9349
+Loading Time(s): 2.0219
+Forward Time(s): 0.5778
+Backward Time(s): 0.6572
+Update Time(s): 0.0168
+Emb Update Time(s): 9.0060
+#seeds: 24576
+#inputs: 10698789
+=====================
+=====================
+Part 3, Epoch Time(s): 13.2358
+Sampling Time(s): 0.6720
+Loading Time(s): 1.9997
+Forward Time(s): 0.6304
+Backward Time(s): 0.7199
+Update Time(s): 0.0157
+Emb Update Time(s): 9.1873
+#seeds: 24577
+#inputs: 10719366
+=====================
+
+
+
+=====================
+Part 6, Epoch Time(s): 13.2329
+Sampling Time(s): 0.8733
+Loading Time(s): 2.0198
+Forward Time(s): 0.5763
+Backward Time(s): 0.6756
+Update Time(s): 0.0157
+Emb Update Time(s): 9.0611
+#seeds: 24577
+#inputs: 10702244
+=====================
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 3, Val Acc 0.8755, Test Acc 0.6695, time: 18.1386
+Part 6, Val Acc 0.8653, Test Acc 0.6691, time: 18.1397
+Part 1, Val Acc 0.8694, Test Acc 0.6688, time: 18.1419
+Part 4, Val Acc 0.8621, Test Acc 0.6700, time: 18.1440
+Part 0, Val Acc 0.8721, Test Acc 0.6689, time: 18.1476
+Part 7, Val Acc 0.8716, Test Acc 0.6692, time: 18.1494
+Part 5, Val Acc 0.8690, Test Acc 0.6705, time: 18.1503
+Part 2, Val Acc 0.8722, Test Acc 0.6689, time: 18.1509
+All parts avg val acc 0.8696, test acc 0.6694
+Part 3 | Epoch 00007 | Step 00000 | Loss 0.4455 | Train Acc 0.8840 | Speed (samples/sec) 1876.2886 | GPU 4770.9 MB | time 0.888 s
+Part 2 | Epoch 00007 | Step 00000 | Loss 0.5347 | Train Acc 0.8600 | Speed (samples/sec) 1876.8198 | GPU 4767.4 MB | time 0.875 sPart 6 | Epoch 00007 | Step 00000 | Loss 0.4841 | Train Acc 0.8770 | Speed (samples/sec) 1876.3873 | GPU 4772.0 MB | time 0.887 s
+
+Part 7 | Epoch 00007 | Step 00000 | Loss 0.4736 | Train Acc 0.8760 | Speed (samples/sec) 1876.7079 | GPU 4758.0 MB | time 0.877 sPart 0 | Epoch 00007 | Step 00000 | Loss 0.4912 | Train Acc 0.8790 | Speed (samples/sec) 1876.9756 | GPU 4754.7 MB | time 0.876 sPart 4 | Epoch 00007 | Step 00000 | Loss 0.4238 | Train Acc 0.8770 | Speed (samples/sec) 1876.4870 | GPU 4756.8 MB | time 0.883 sPart 5 | Epoch 00007 | Step 00000 | Loss 0.4549 | Train Acc 0.8890 | Speed (samples/sec) 1876.6068 | GPU 4772.5 MB | time 0.876 s
+
+
+
+Part 1 | Epoch 00007 | Step 00000 | Loss 0.5058 | Train Acc 0.8780 | Speed (samples/sec) 1876.5465 | GPU 4761.1 MB | time 0.885 s
+Avg train acc 0.8775
+Part 5 | Epoch 00007 | Step 00020 | Loss 0.3995 | Train Acc 0.8830 | Speed (samples/sec) 1881.1576 | GPU 4772.5 MB | time 10.427 sPart 1 | Epoch 00007 | Step 00020 | Loss 0.4646 | Train Acc 0.8880 | Speed (samples/sec) 1881.1041 | GPU 4761.1 MB | time 10.427 s
+
+Part 6 | Epoch 00007 | Step 00020 | Loss 0.4975 | Train Acc 0.8730 | Speed (samples/sec) 1880.9630 | GPU 4772.0 MB | time 10.427 s
+Part 0 | Epoch 00007 | Step 00020 | Loss 0.4383 | Train Acc 0.8900 | Speed (samples/sec) 1881.4907 | GPU 4754.7 MB | time 10.427 s
+Part 2 | Epoch 00007 | Step 00020 | Loss 0.4684 | Train Acc 0.8880 | Speed (samples/sec) 1881.3834 | GPU 4767.4 MB | time 10.425 s
+Part 4 | Epoch 00007 | Step 00020 | Loss 0.5648 | Train Acc 0.8710 | Speed (samples/sec) 1881.0531 | GPU 4756.8 MB | time 10.426 sPart 3 | Epoch 00007 | Step 00020 | Loss 0.5581 | Train Acc 0.8790 | Speed (samples/sec) 1880.8701 | GPU 4770.9 MB | time 10.427 s
+
+Part 7 | Epoch 00007 | Step 00020 | Loss 0.4848 | Train Acc 0.8810 | Speed (samples/sec) 1881.2471 | GPU 4758.0 MB | time 10.427 s
+Avg train acc 0.8816
+=====================
+Part 5, Epoch Time(s): 13.2013
+Sampling Time(s): 0.7662
+Loading Time(s): 1.9741
+Forward Time(s): 0.6615
+Backward Time(s): 0.6905
+Update Time(s): 0.0158
+Emb Update Time(s): 9.0827
+#seeds: 24577
+#inputs: 10741175
+==========================================
+Part 0, Epoch Time(s): 13.2006
+Sampling Time(s): 0.7895
+Loading Time(s): 2.0086
+Forward Time(s): 0.6547
+Backward Time(s): 0.6805
+Update Time(s): 0.0151
+Emb Update Time(s): 9.0414
+#seeds: 24577
+#inputs: 10753016
+==========================================
+Part 3, Epoch Time(s): 13.2130
+Sampling Time(s): 0.6732
+Loading Time(s): 1.9997
+Forward Time(s): 0.6737
+Backward Time(s): 0.7199
+Update Time(s): 0.0151
+Emb Update Time(s): 9.1210
+#seeds: 24577
+#inputs: 10709235
+==========================================
+Part 7, Epoch Time(s): 13.2022
+Sampling Time(s): 0.8086
+Loading Time(s): 1.9719
+Forward Time(s): 0.6274
+Backward Time(s): 0.6930
+Update Time(s): 0.0149
+Emb Update Time(s): 9.0758
+#seeds: 24577
+#inputs: 10710891
+==========================================
+Part 4, Epoch Time(s): 13.2075
+Sampling Time(s): 0.7871
+Loading Time(s): 1.9716
+Forward Time(s): 0.6421
+Backward Time(s): 0.6960
+Update Time(s): 0.0160
+Emb Update Time(s): 9.0840
+#seeds: 24577
+#inputs: 10719960
+==========================================
+Part 6, Epoch Time(s): 13.2119
+Sampling Time(s): 0.9024
+Loading Time(s): 2.0277
+Forward Time(s): 0.5655
+Backward Time(s): 0.6682
+Update Time(s): 0.0157
+Emb Update Time(s): 9.0217
+#seeds: 24577
+#inputs: 10717083
+==========================================
+Part 2, Epoch Time(s): 13.2004
+Sampling Time(s): 0.9970
+Loading Time(s): 2.0343
+Forward Time(s): 0.5792
+Backward Time(s): 0.6594
+Update Time(s): 0.0170
+Emb Update Time(s): 8.8995
+#seeds: 24576
+#inputs: 10703143
+==========================================
+Part 1, Epoch Time(s): 13.2098
+Sampling Time(s): 0.7183
+Loading Time(s): 1.9605
+Forward Time(s): 0.6477
+Backward Time(s): 0.7301
+Update Time(s): 0.0167
+Emb Update Time(s): 9.1260
+#seeds: 24577
+#inputs: 10728250
+=====================
+
+
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 3, Val Acc 0.8716, Test Acc 0.6665, time: 18.0688
+Part 4, Val Acc 0.8608, Test Acc 0.6673, time: 18.0708
+Part 1, Val Acc 0.8663, Test Acc 0.6647, time: 18.0719
+Part 6, Val Acc 0.8617, Test Acc 0.6651, time: 18.0719
+Part 7, Val Acc 0.8682, Test Acc 0.6653, time: 18.0752
+Part 5, Val Acc 0.8671, Test Acc 0.6675, time: 18.0780
+Part 0, Val Acc 0.8649, Test Acc 0.6657, time: 18.0800
+Part 2, Val Acc 0.8696, Test Acc 0.6660, time: 18.0812
+All parts avg val acc 0.8663, test acc 0.6660
+Part 3 | Epoch 00008 | Step 00000 | Loss 0.5157 | Train Acc 0.8770 | Speed (samples/sec) 1877.4660 | GPU 4770.9 MB | time 0.805 s
+Part 6 | Epoch 00008 | Step 00000 | Loss 0.5621 | Train Acc 0.8660 | Speed (samples/sec) 1877.5793 | GPU 4772.0 MB | time 0.802 s
+Part 1 | Epoch 00008 | Step 00000 | Loss 0.5919 | Train Acc 0.8860 | Speed (samples/sec) 1877.7161 | GPU 4761.1 MB | time 0.802 s
+Part 2 | Epoch 00008 | Step 00000 | Loss 0.5376 | Train Acc 0.8790 | Speed (samples/sec) 1878.0841 | GPU 4767.4 MB | time 0.793 s
+Part 4 | Epoch 00008 | Step 00000 | Loss 0.4850 | Train Acc 0.8780 | Speed (samples/sec) 1877.6612 | GPU 4756.8 MB | time 0.803 sPart 0 | Epoch 00008 | Step 00000 | Loss 0.8572 | Train Acc 0.8700 | Speed (samples/sec) 1878.1692 | GPU 4763.3 MB | time 0.793 s
+
+Part 5 | Epoch 00008 | Step 00000 | Loss 0.5574 | Train Acc 0.8670 | Speed (samples/sec) 1877.8171 | GPU 4772.5 MB | time 0.796 s
+Part 7 | Epoch 00008 | Step 00000 | Loss 0.5671 | Train Acc 0.8820 | Speed (samples/sec) 1877.8840 | GPU 4758.0 MB | time 0.799 s
+Avg train acc 0.8756
+Part 4 | Epoch 00008 | Step 00020 | Loss 0.4648 | Train Acc 0.8790 | Speed (samples/sec) 1881.8483 | GPU 4756.8 MB | time 10.409 sPart 5 | Epoch 00008 | Step 00020 | Loss 0.5406 | Train Acc 0.8750 | Speed (samples/sec) 1881.9920 | GPU 4772.5 MB | time 10.409 s
+
+Part 7 | Epoch 00008 | Step 00020 | Loss 0.5433 | Train Acc 0.8850 | Speed (samples/sec) 1882.0520 | GPU 4758.0 MB | time 10.409 s
+Part 3 | Epoch 00008 | Step 00020 | Loss 0.4782 | Train Acc 0.8920 | Speed (samples/sec) 1881.6710 | GPU 4770.9 MB | time 10.409 sPart 0 | Epoch 00008 | Step 00020 | Loss 0.5533 | Train Acc 0.8790 | Speed (samples/sec) 1882.3118 | GPU 4763.3 MB | time 10.409 s
+
+Part 1 | Epoch 00008 | Step 00020 | Loss 0.5507 | Train Acc 0.8840 | Speed (samples/sec) 1881.8971 | GPU 4761.1 MB | time 10.409 s
+Part 6 | Epoch 00008 | Step 00020 | Loss 0.5728 | Train Acc 0.8650 | Speed (samples/sec) 1881.7717 | GPU 4772.0 MB | time 10.410 s
+Part 2 | Epoch 00008 | Step 00020 | Loss 0.5351 | Train Acc 0.8690 | Speed (samples/sec) 1882.2452 | GPU 4767.4 MB | time 10.409 s
+Avg train acc 0.8785
+=====================
+Part 7, Epoch Time(s): 13.1567
+Sampling Time(s): 0.7378
+Loading Time(s): 1.9659
+Forward Time(s): 0.5681
+Backward Time(s): 0.7084
+Update Time(s): 0.0154
+Emb Update Time(s): 9.1520
+#seeds: 24577
+#inputs: 10714168
+==========================================
+Part 5, Epoch Time(s): 13.1539
+Sampling Time(s): 0.7050
+Loading Time(s): 1.9571
+Forward Time(s): 0.5901
+Backward Time(s): 0.7194
+Update Time(s): 0.0150
+Emb Update Time(s): 9.1583
+#seeds: 24577
+#inputs: 10737686
+==========================================
+Part 1, Epoch Time(s): 13.1601
+Sampling Time(s): 0.6663
+Loading Time(s): 1.9575
+Forward Time(s): 0.6110
+Backward Time(s): 0.7299
+Update Time(s): 0.0155
+Emb Update Time(s): 9.1709
+#seeds: 24577
+#inputs: 10702568
+==========================================
+Part 4, Epoch Time(s): 13.1610
+Sampling Time(s): 0.7111
+Loading Time(s): 1.9613
+Forward Time(s): 0.6054
+Backward Time(s): 0.7087
+Update Time(s): 0.0159
+Emb Update Time(s): 9.1494
+#seeds: 24577
+#inputs: 10729346
+==========================================
+Part 6, Epoch Time(s): 13.1601
+Sampling Time(s): 0.6700
+Loading Time(s): 2.0067
+Forward Time(s): 0.6063
+Backward Time(s): 0.7088
+Update Time(s): 0.0158
+Emb Update Time(s): 9.1434
+#seeds: 24577
+#inputs: 10704616
+==========================================
+Part 3, Epoch Time(s): 13.1631
+Sampling Time(s): 0.6893
+Loading Time(s): 2.0083
+Forward Time(s): 0.6084
+Backward Time(s): 0.7037
+Update Time(s): 0.0149
+Emb Update Time(s): 9.1295
+#seeds: 24577
+#inputs: 10705782
+=====================
+=====================
+Part 0, Epoch Time(s): 13.1507
+Sampling Time(s): 0.7599
+Loading Time(s): 2.0214
+Forward Time(s): 0.5699
+Backward Time(s): 0.6816
+Update Time(s): 0.0152
+Emb Update Time(s): 9.0935
+#seeds: 24577
+#inputs: 10744007
+=====================
+
+
+
+=====================
+Part 2, Epoch Time(s): 13.1507
+Sampling Time(s): 0.8841
+Loading Time(s): 2.0369
+Forward Time(s): 0.5785
+Backward Time(s): 0.6622
+Update Time(s): 0.0186
+Emb Update Time(s): 8.9602
+#seeds: 24576
+#inputs: 10713567
+=====================
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 7, Val Acc 0.8672, Test Acc 0.6551, time: 18.1884
+Part 1, Val Acc 0.8608, Test Acc 0.6550, time: 18.1886
+Part 6, Val Acc 0.8625, Test Acc 0.6555, time: 18.1938
+Part 3, Val Acc 0.8665, Test Acc 0.6561, time: 18.1948
+Part 5, Val Acc 0.8665, Test Acc 0.6567, time: 18.1976
+Part 4, Val Acc 0.8588, Test Acc 0.6572, time: 18.1977
+Part 0, Val Acc 0.8645, Test Acc 0.6551, time: 18.2022
+Part 2, Val Acc 0.8680, Test Acc 0.6551, time: 18.2048
+All parts avg val acc 0.8644, test acc 0.6557
+Part 3 | Epoch 00009 | Step 00000 | Loss 0.5554 | Train Acc 0.8810 | Speed (samples/sec) 1877.8829 | GPU 4770.9 MB | time 0.785 sPart 6 | Epoch 00009 | Step 00000 | Loss 0.6136 | Train Acc 0.8530 | Speed (samples/sec) 1877.9745 | GPU 4772.0 MB | time 0.786 s
+
+Part 1 | Epoch 00009 | Step 00000 | Loss 0.5587 | Train Acc 0.8630 | Speed (samples/sec) 1878.0598 | GPU 4761.1 MB | time 0.791 s
+Part 4 | Epoch 00009 | Step 00000 | Loss 0.5370 | Train Acc 0.8730 | Speed (samples/sec) 1878.0796 | GPU 4756.8 MB | time 0.782 s
+Part 5 | Epoch 00009 | Step 00000 | Loss 0.5119 | Train Acc 0.8710 | Speed (samples/sec) 1878.2177 | GPU 4772.5 MB | time 0.782 s
+Part 7 | Epoch 00009 | Step 00000 | Loss 0.6826 | Train Acc 0.8680 | Speed (samples/sec) 1878.2102 | GPU 4758.0 MB | time 0.791 s
+Part 2 | Epoch 00009 | Step 00000 | Loss 0.5073 | Train Acc 0.8850 | Speed (samples/sec) 1878.5106 | GPU 4767.4 MB | time 0.774 s
+Part 0 | Epoch 00009 | Step 00000 | Loss 0.5750 | Train Acc 0.8600 | Speed (samples/sec) 1878.5861 | GPU 4763.3 MB | time 0.775 s
+Avg train acc 0.8693
+Part 4 | Epoch 00009 | Step 00020 | Loss 0.4257 | Train Acc 0.8920 | Speed (samples/sec) 1880.8745 | GPU 4756.8 MB | time 10.485 s
+Part 1 | Epoch 00009 | Step 00020 | Loss 0.4867 | Train Acc 0.8730 | Speed (samples/sec) 1880.8552 | GPU 4761.1 MB | time 10.485 s
+Part 6 | Epoch 00009 | Step 00020 | Loss 0.5752 | Train Acc 0.8730 | Speed (samples/sec) 1880.7750 | GPU 4772.0 MB | time 10.485 s
+Part 5 | Epoch 00009 | Step 00020 | Loss 0.4571 | Train Acc 0.8880 | Speed (samples/sec) 1881.0030 | GPU 4772.5 MB | time 10.485 s
+Part 0 | Epoch 00009 | Step 00020 | Loss 0.4715 | Train Acc 0.8840 | Speed (samples/sec) 1881.3467 | GPU 4763.3 MB | time 10.484 s
+Part 3 | Epoch 00009 | Step 00020 | Loss 0.6188 | Train Acc 0.8780 | Speed (samples/sec) 1880.6896 | GPU 4770.9 MB | time 10.485 s
+Part 7 | Epoch 00009 | Step 00020 | Loss 0.4652 | Train Acc 0.8920 | Speed (samples/sec) 1880.9955 | GPU 4758.0 MB | time 10.485 s
+Part 2 | Epoch 00009 | Step 00020 | Loss 0.5331 | Train Acc 0.8700 | Speed (samples/sec) 1881.3085 | GPU 4767.4 MB | time 10.482 s
+Avg train acc 0.8813
+=====================
+Part 5, Epoch Time(s): 13.1565
+Sampling Time(s): 0.7344
+Loading Time(s): 1.9593
+Forward Time(s): 0.5989
+Backward Time(s): 0.6909
+Update Time(s): 0.0154
+Emb Update Time(s): 9.1479
+#seeds: 24577
+#inputs: 10741641
+==========================================
+Part 4, Epoch Time(s): 13.1564
+Sampling Time(s): 0.7224
+Loading Time(s): 1.9706
+Forward Time(s): 0.6053
+Backward Time(s): 0.6864
+Update Time(s): 0.0162
+Emb Update Time(s): 9.1459
+#seeds: 24577
+#inputs: 10732711
+==========================================
+Part 6, Epoch Time(s): 13.1604
+Sampling Time(s): 0.6738
+Loading Time(s): 2.0159
+Forward Time(s): 0.6116
+Backward Time(s): 0.6897
+Update Time(s): 0.0159
+Emb Update Time(s): 9.1441
+#seeds: 24577
+#inputs: 10704496
+==========================================
+Part 7, Epoch Time(s): 13.1656
+Sampling Time(s): 0.7138
+Loading Time(s): 1.9685
+Forward Time(s): 0.6043
+Backward Time(s): 0.6911
+Update Time(s): 0.0151
+Emb Update Time(s): 9.1631
+#seeds: 24577
+#inputs: 10723019
+==========================================
+Part 2, Epoch Time(s): 13.1492
+Sampling Time(s): 0.8279
+Loading Time(s): 2.0227
+Forward Time(s): 0.5849
+Backward Time(s): 0.6662
+Update Time(s): 0.0194
+Emb Update Time(s): 9.0157
+#seeds: 24576
+#inputs: 10696714
+==========================================
+Part 3, Epoch Time(s): 13.1594
+Sampling Time(s): 0.6878
+Loading Time(s): 2.0206
+Forward Time(s): 0.6055
+Backward Time(s): 0.6824
+Update Time(s): 0.0150
+Emb Update Time(s): 9.1387
+#seeds: 24577
+#inputs: 10728910
+==========================================
+Part 1, Epoch Time(s): 13.1655
+Sampling Time(s): 0.6913
+Loading Time(s): 1.9685
+Forward Time(s): 0.6221
+Backward Time(s): 0.6989
+Update Time(s): 0.0160
+Emb Update Time(s): 9.1591
+#seeds: 24577
+#inputs: 10715149
+=====================
+
+
+
+
+=====================
+Part 0, Epoch Time(s): 13.1493
+Sampling Time(s): 0.7515
+Loading Time(s): 2.0115
+Forward Time(s): 0.5982
+Backward Time(s): 0.6779
+Update Time(s): 0.0153
+Emb Update Time(s): 9.0845
+#seeds: 24577
+#inputs: 10758569
+=====================
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+Part 4, Val Acc 0.8433, Test Acc 0.6314, time: 18.2080
+Part 3, Val Acc 0.8566, Test Acc 0.6305, time: 18.2106
+Part 6, Val Acc 0.8533, Test Acc 0.6301, time: 18.2121
+Part 2, Val Acc 0.8560, Test Acc 0.6301, time: 18.2156
+Part 1, Val Acc 0.8484, Test Acc 0.6296, time: 18.2176
+Part 7, Val Acc 0.8539, Test Acc 0.6302, time: 18.2198
+Part 0, Val Acc 0.8539, Test Acc 0.6301, time: 18.2213
+Part 5, Val Acc 0.8555, Test Acc 0.6317, time: 18.2218
+All parts avg val acc 0.8526, test acc 0.6305
+Part 0 | Epoch 00010 | Step 00000 | Loss 0.5360 | Train Acc 0.8700 | Speed (samples/sec) 1878.8022 | GPU 4763.3 MB | time 0.795 sPart 1 | Epoch 00010 | Step 00000 | Loss 0.4867 | Train Acc 0.8910 | Speed (samples/sec) 1878.2878 | GPU 4761.1 MB | time 0.799 s
+
+Part 3 | Epoch 00010 | Step 00000 | Loss 0.5521 | Train Acc 0.8850 | Speed (samples/sec) 1878.0839 | GPU 4770.9 MB | time 0.806 s
+Part 6 | Epoch 00010 | Step 00000 | Loss 0.6530 | Train Acc 0.8730 | Speed (samples/sec) 1878.1742 | GPU 4772.6 MB | time 0.805 sPart 5 | Epoch 00010 | Step 00000 | Loss 0.4791 | Train Acc 0.8890 | Speed (samples/sec) 1878.4599 | GPU 4772.5 MB | time 0.795 s
+
+Part 7 | Epoch 00010 | Step 00000 | Loss 0.5871 | Train Acc 0.8820 | Speed (samples/sec) 1878.4411 | GPU 4758.0 MB | time 0.797 s
+Part 4 | Epoch 00010 | Step 00000 | Loss 0.4101 | Train Acc 0.8960 | Speed (samples/sec) 1878.2486 | GPU 4756.8 MB | time 0.809 s
+Part 2 | Epoch 00010 | Step 00000 | Loss 0.4999 | Train Acc 0.8790 | Speed (samples/sec) 1878.7142 | GPU 4767.4 MB | time 0.801 s
+Avg train acc 0.8831
+Part 7 | Epoch 00010 | Step 00020 | Loss 0.5196 | Train Acc 0.8750 | Speed (samples/sec) 1882.7866 | GPU 4758.0 MB | time 10.353 sPart 3 | Epoch 00010 | Step 00020 | Loss 0.5028 | Train Acc 0.8710 | Speed (samples/sec) 1882.4544 | GPU 4770.9 MB | time 10.353 sPart 5 | Epoch 00010 | Step 00020 | Loss 0.6275 | Train Acc 0.8710 | Speed (samples/sec) 1882.8047 | GPU 4772.5 MB | time 10.353 s
+
+
+Part 1 | Epoch 00010 | Step 00020 | Loss 0.5743 | Train Acc 0.8730 | Speed (samples/sec) 1882.6412 | GPU 4761.1 MB | time 10.353 s
+Part 4 | Epoch 00010 | Step 00020 | Loss 0.6084 | Train Acc 0.8680 | Speed (samples/sec) 1882.6116 | GPU 4756.8 MB | time 10.353 s
+Part 6 | Epoch 00010 | Step 00020 | Loss 0.6802 | Train Acc 0.8760 | Speed (samples/sec) 1882.5388 | GPU 4772.6 MB | time 10.353 s
+Part 0 | Epoch 00010 | Step 00020 | Loss 0.5680 | Train Acc 0.8680 | Speed (samples/sec) 1883.1282 | GPU 4763.3 MB | time 10.353 s
+Part 2 | Epoch 00010 | Step 00020 | Loss 0.4616 | Train Acc 0.9020 | Speed (samples/sec) 1883.0533 | GPU 4767.4 MB | time 10.352 s
+Avg train acc 0.8755
+=====================
+Part 5, Epoch Time(s): 13.0676
+Sampling Time(s): 0.7195
+Loading Time(s): 1.9576
+Forward Time(s): 0.6192
+Backward Time(s): 0.6970
+Update Time(s): 0.0159
+Emb Update Time(s): 9.0483
+#seeds: 24577
+#inputs: 10744562
+==========================================
+Part 3, Epoch Time(s): 13.0788
+Sampling Time(s): 0.6544
+Loading Time(s): 2.0045
+Forward Time(s): 0.6446
+Backward Time(s): 0.6901
+Update Time(s): 0.0151
+Emb Update Time(s): 9.0602
+#seeds: 24577
+#inputs: 10726423
+==========================================
+Part 1, Epoch Time(s): 13.0719
+Sampling Time(s): 0.6885
+Loading Time(s): 1.9665
+Forward Time(s): 0.6193
+Backward Time(s): 0.6995
+Update Time(s): 0.0161
+Emb Update Time(s): 9.0721
+#seeds: 24577
+#inputs: 10715609
+==========================================
+Part 6, Epoch Time(s): 13.0774
+Sampling Time(s): 0.7288
+Loading Time(s): 2.0146
+Forward Time(s): 0.6088
+Backward Time(s): 0.6829
+Update Time(s): 0.0156
+Emb Update Time(s): 9.0167
+#seeds: 24577
+#inputs: 10706640
+==========================================
+Part 0, Epoch Time(s): 13.0677
+Sampling Time(s): 0.7380
+Loading Time(s): 2.0032
+Forward Time(s): 0.6005
+Backward Time(s): 0.6806
+Update Time(s): 0.0152
+Emb Update Time(s): 9.0195
+#seeds: 24577
+#inputs: 10748200
+==========================================
+Part 2, Epoch Time(s): 13.0736
+Sampling Time(s): 0.8566
+Loading Time(s): 2.0102
+Forward Time(s): 0.5789
+Backward Time(s): 0.6637
+Update Time(s): 0.0178
+Emb Update Time(s): 8.9352
+#seeds: 24576
+#inputs: 10717526
+=====================
+=====================
+Part 7, Epoch Time(s): 13.0697
+Sampling Time(s): 0.7490
+Loading Time(s): 1.9785
+Forward Time(s): 0.6090
+Backward Time(s): 0.6893
+Update Time(s): 0.0148
+Emb Update Time(s): 9.0191
+#seeds: 24577
+#inputs: 10731920
+=====================
+
+
+=====================
+Part 4, Epoch Time(s): 13.0812
+Sampling Time(s): 0.7956
+Loading Time(s): 1.9815
+Forward Time(s): 0.5968
+Backward Time(s): 0.6748
+Update Time(s): 0.0160
+Emb Update Time(s): 9.0060
+#seeds: 24577
+#inputs: 10731625
+=====================
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 3, Val Acc 0.8602, Test Acc 0.6353, time: 18.1487
+Part 1, Val Acc 0.8594, Test Acc 0.6339, time: 18.1488
+Part 6, Val Acc 0.8600, Test Acc 0.6347, time: 18.1511
+Part 2, Val Acc 0.8661, Test Acc 0.6343, time: 18.1548
+Part 5, Val Acc 0.8651, Test Acc 0.6358, time: 18.1567
+Part 7, Val Acc 0.8600, Test Acc 0.6332, time: 18.1573
+Part 4, Val Acc 0.8535, Test Acc 0.6357, time: 18.1575
+Part 0, Val Acc 0.8651, Test Acc 0.6345, time: 18.1589
+All parts avg val acc 0.8612, test acc 0.6347
+Part 6 | Epoch 00011 | Step 00000 | Loss 0.5653 | Train Acc 0.8490 | Speed (samples/sec) 1879.2503 | GPU 4772.6 MB | time 0.899 sPart 1 | Epoch 00011 | Step 00000 | Loss 0.5100 | Train Acc 0.8660 | Speed (samples/sec) 1879.3415 | GPU 4761.7 MB | time 0.901 s
+
+Part 7 | Epoch 00011 | Step 00000 | Loss 0.5485 | Train Acc 0.8880 | Speed (samples/sec) 1879.5209 | GPU 4758.0 MB | time 0.893 sPart 5 | Epoch 00011 | Step 00000 | Loss 0.5572 | Train Acc 0.8620 | Speed (samples/sec) 1879.5367 | GPU 4772.5 MB | time 0.894 sPart 0 | Epoch 00011 | Step 00000 | Loss 0.5398 | Train Acc 0.8700 | Speed (samples/sec) 1879.8670 | GPU 4763.3 MB | time 0.891 sPart 4 | Epoch 00011 | Step 00000 | Loss 0.5861 | Train Acc 0.8630 | Speed (samples/sec) 1879.3511 | GPU 4761.2 MB | time 0.893 s
+
+
+
+Part 3 | Epoch 00011 | Step 00000 | Loss 0.6209 | Train Acc 0.8570 | Speed (samples/sec) 1879.1563 | GPU 4770.9 MB | time 0.902 s
+Part 2 | Epoch 00011 | Step 00000 | Loss 0.7721 | Train Acc 0.8460 | Speed (samples/sec) 1879.7655 | GPU 4767.4 MB | time 0.895 s
+Avg train acc 0.8626
+Part 6 | Epoch 00011 | Step 00020 | Loss 0.4829 | Train Acc 0.8770 | Speed (samples/sec) 1885.8752 | GPU 4772.6 MB | time 10.122 sPart 1 | Epoch 00011 | Step 00020 | Loss 0.5209 | Train Acc 0.8710 | Speed (samples/sec) 1885.9610 | GPU 4761.7 MB | time 10.122 s
+
+Part 4 | Epoch 00011 | Step 00020 | Loss 0.4405 | Train Acc 0.8800 | Speed (samples/sec) 1885.9720 | GPU 4761.2 MB | time 10.121 sPart 7 | Epoch 00011 | Step 00020 | Loss 0.4346 | Train Acc 0.8780 | Speed (samples/sec) 1886.1312 | GPU 4758.0 MB | time 10.121 sPart 5 | Epoch 00011 | Step 00020 | Loss 0.4302 | Train Acc 0.8990 | Speed (samples/sec) 1886.1474 | GPU 4772.5 MB | time 10.121 s
+
+
+Part 0 | Epoch 00011 | Step 00020 | Loss 0.4610 | Train Acc 0.8860 | Speed (samples/sec) 1886.4579 | GPU 4763.3 MB | time 10.121 s
+Part 3 | Epoch 00011 | Step 00020 | Loss 0.5792 | Train Acc 0.8810 | Speed (samples/sec) 1885.7888 | GPU 4770.9 MB | time 10.122 s
+Part 2 | Epoch 00011 | Step 00020 | Loss 0.4742 | Train Acc 0.8780 | Speed (samples/sec) 1886.3625 | GPU 4767.4 MB | time 10.121 s
+Avg train acc 0.8813
+=====================
+Part 2, Epoch Time(s): 12.8934
+Sampling Time(s): 0.7729
+Loading Time(s): 1.9951
+Forward Time(s): 0.5774
+Backward Time(s): 0.6632
+Update Time(s): 0.0166
+Emb Update Time(s): 8.8579
+#seeds: 24576
+#inputs: 10708541
+==========================================
+Part 6, Epoch Time(s): 12.8965
+Sampling Time(s): 0.6476
+Loading Time(s): 1.9998
+Forward Time(s): 0.6368
+Backward Time(s): 0.6776
+Update Time(s): 0.0147
+Emb Update Time(s): 8.9110
+#seeds: 24577
+#inputs: 10711215
+==========================================
+Part 4, Epoch Time(s): 12.8901
+Sampling Time(s): 0.7186
+Loading Time(s): 1.9630
+Forward Time(s): 0.6107
+Backward Time(s): 0.6766
+Update Time(s): 0.0162
+Emb Update Time(s): 8.8957
+#seeds: 24577
+#inputs: 10735929
+==========================================
+Part 5, Epoch Time(s): 12.8908
+Sampling Time(s): 0.7337
+Loading Time(s): 1.9629
+Forward Time(s): 0.5942
+Backward Time(s): 0.6717
+Update Time(s): 0.0159
+Emb Update Time(s): 8.9028
+#seeds: 24577
+#inputs: 10746395
+==========================================
+Part 7, Epoch Time(s): 12.8903
+Sampling Time(s): 0.7072
+Loading Time(s): 1.9781
+Forward Time(s): 0.6249
+Backward Time(s): 0.6803
+Update Time(s): 0.0150
+Emb Update Time(s): 8.8755
+#seeds: 24577
+#inputs: 10742005
+=====================
+=====================
+Part 1, Epoch Time(s): 12.8986
+Sampling Time(s): 0.7075
+Loading Time(s): 1.9655
+Forward Time(s): 0.6010
+Backward Time(s): 0.6792
+Update Time(s): 0.0162
+Emb Update Time(s): 8.9201
+#seeds: 24577
+#inputs: 10715575
+=====================
+=====================
+Part 3, Epoch Time(s): 12.8988
+Sampling Time(s): 0.6878
+Loading Time(s): 2.0041
+Forward Time(s): 0.6128
+Backward Time(s): 0.6784
+Update Time(s): 0.0150
+Emb Update Time(s): 8.8914
+#seeds: 24577
+#inputs: 10721874
+==========================================
+Part 0, Epoch Time(s): 12.8885
+Sampling Time(s): 0.7282
+Loading Time(s): 2.0017
+Forward Time(s): 0.5972
+Backward Time(s): 0.6758
+Update Time(s): 0.0147
+Emb Update Time(s): 8.8611
+#seeds: 24577
+#inputs: 10740368
+=====================
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 6, Val Acc 0.8655, Test Acc 0.6243, time: 18.3596
+Part 1, Val Acc 0.8629, Test Acc 0.6234, time: 18.3597
+Part 7, Val Acc 0.8649, Test Acc 0.6237, time: 18.3599
+Part 5, Val Acc 0.8684, Test Acc 0.6254, time: 18.3612
+Part 3, Val Acc 0.8649, Test Acc 0.6251, time: 18.3624
+Part 2, Val Acc 0.8688, Test Acc 0.6240, time: 18.3625
+Part 4, Val Acc 0.8623, Test Acc 0.6246, time: 18.3626
+Part 0, Val Acc 0.8672, Test Acc 0.6242, time: 18.3653
+All parts avg val acc 0.8656, test acc 0.6243
+Part 1 | Epoch 00012 | Step 00000 | Loss 0.4625 | Train Acc 0.8920 | Speed (samples/sec) 1884.0437 | GPU 4761.7 MB | time 0.780 s
+Part 3 | Epoch 00012 | Step 00000 | Loss 0.4043 | Train Acc 0.8990 | Speed (samples/sec) 1883.8906 | GPU 4770.9 MB | time 0.777 s
+Part 5 | Epoch 00012 | Step 00000 | Loss 0.5228 | Train Acc 0.8610 | Speed (samples/sec) 1884.2360 | GPU 4772.5 MB | time 0.779 sPart 0 | Epoch 00012 | Step 00000 | Loss 0.4002 | Train Acc 0.9060 | Speed (samples/sec) 1884.5649 | GPU 4763.3 MB | time 0.774 s
+
+Part 4 | Epoch 00012 | Step 00000 | Loss 0.4428 | Train Acc 0.8880 | Speed (samples/sec) 1884.0704 | GPU 4761.2 MB | time 0.777 s
+Part 6 | Epoch 00012 | Step 00000 | Loss 0.4885 | Train Acc 0.8840 | Speed (samples/sec) 1883.9588 | GPU 4772.6 MB | time 0.780 sPart 7 | Epoch 00012 | Step 00000 | Loss 0.5983 | Train Acc 0.8770 | Speed (samples/sec) 1884.2123 | GPU 4758.0 MB | time 0.780 s
+
+Part 2 | Epoch 00012 | Step 00000 | Loss 0.5446 | Train Acc 0.8590 | Speed (samples/sec) 1884.4451 | GPU 4767.4 MB | time 0.777 s
+Avg train acc 0.8832
+Part 6 | Epoch 00012 | Step 00020 | Loss 0.4883 | Train Acc 0.8770 | Speed (samples/sec) 1888.6781 | GPU 4772.6 MB | time 10.218 sPart 1 | Epoch 00012 | Step 00020 | Loss 0.5025 | Train Acc 0.8780 | Speed (samples/sec) 1888.7569 | GPU 4761.7 MB | time 10.219 s
+
+Part 5 | Epoch 00012 | Step 00020 | Loss 0.4778 | Train Acc 0.8740 | Speed (samples/sec) 1888.9386 | GPU 4772.5 MB | time 10.218 s
+Part 4 | Epoch 00012 | Step 00020 | Loss 0.4441 | Train Acc 0.8760 | Speed (samples/sec) 1888.7849 | GPU 4761.2 MB | time 10.218 s
+Part 2 | Epoch 00012 | Step 00020 | Loss 0.4143 | Train Acc 0.8900 | Speed (samples/sec) 1889.1430 | GPU 4767.4 MB | time 10.218 s
+Part 3 | Epoch 00012 | Step 00020 | Loss 0.4833 | Train Acc 0.8620 | Speed (samples/sec) 1888.6158 | GPU 4770.9 MB | time 10.218 s
+Part 7 | Epoch 00012 | Step 00020 | Loss 0.4548 | Train Acc 0.8800 | Speed (samples/sec) 1888.9165 | GPU 4758.0 MB | time 10.218 s
+Part 0 | Epoch 00012 | Step 00020 | Loss 0.4209 | Train Acc 0.8990 | Speed (samples/sec) 1889.2513 | GPU 4763.3 MB | time 10.218 s
+Avg train acc 0.8795
+=====================
+Part 2, Epoch Time(s): 12.8664
+Sampling Time(s): 0.6560
+Loading Time(s): 2.0108
+Forward Time(s): 0.5729
+Backward Time(s): 0.6639
+Update Time(s): 0.0168
+Emb Update Time(s): 8.9363
+#seeds: 24576
+#inputs: 10702549
+==========================================
+Part 5, Epoch Time(s): 12.8677
+Sampling Time(s): 0.6607
+Loading Time(s): 1.9654
+Forward Time(s): 0.5676
+Backward Time(s): 0.6652
+Update Time(s): 0.0148
+Emb Update Time(s): 8.9849
+#seeds: 24577
+#inputs: 10733186
+==========================================
+Part 7, Epoch Time(s): 12.8689
+Sampling Time(s): 0.6520
+Loading Time(s): 1.9887
+Forward Time(s): 0.5681
+Backward Time(s): 0.6618
+Update Time(s): 0.0152
+Emb Update Time(s): 8.9741
+#seeds: 24577
+#inputs: 10716032
+==========================================
+Part 3, Epoch Time(s): 12.8664
+Sampling Time(s): 0.6058
+Loading Time(s): 2.0128
+Forward Time(s): 0.5845
+Backward Time(s): 0.6726
+Update Time(s): 0.0210
+Emb Update Time(s): 8.9606
+#seeds: 24577
+#inputs: 10721069
+==========================================
+Part 6, Epoch Time(s): 12.8691
+Sampling Time(s): 0.5939
+Loading Time(s): 2.0051
+Forward Time(s): 0.5643
+Backward Time(s): 0.6666
+Update Time(s): 0.0155
+Emb Update Time(s): 9.0149
+#seeds: 24577
+#inputs: 10714510
+==========================================
+Part 1, Epoch Time(s): 12.8691
+Sampling Time(s): 0.6344
+Loading Time(s): 1.9718
+Forward Time(s): 0.5686
+Backward Time(s): 0.6745
+Update Time(s): 0.0157
+Emb Update Time(s): 8.9951
+#seeds: 24577
+#inputs: 10732040
+==========================================
+Part 4, Epoch Time(s): 12.8662
+Sampling Time(s): 0.6473
+Loading Time(s): 1.9710
+Forward Time(s): 0.5702
+Backward Time(s): 0.6751
+Update Time(s): 0.0162
+Emb Update Time(s): 8.9771
+#seeds: 24577
+#inputs: 10726986
+==========================================
+Part 0, Epoch Time(s): 12.8635
+Sampling Time(s): 0.6189
+Loading Time(s): 2.0040
+Forward Time(s): 0.5690
+Backward Time(s): 0.6704
+Update Time(s): 0.0154
+Emb Update Time(s): 8.9764
+#seeds: 24577
+#inputs: 10744546
+=====================
+
+
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 6, Val Acc 0.8643, Test Acc 0.6161, time: 19.2069
+Part 1, Val Acc 0.8596, Test Acc 0.6155, time: 19.2118
+Part 3, Val Acc 0.8647, Test Acc 0.6173, time: 19.2121
+Part 5, Val Acc 0.8637, Test Acc 0.6179, time: 19.2142
+Part 4, Val Acc 0.8616, Test Acc 0.6165, time: 19.2148
+Part 0, Val Acc 0.8653, Test Acc 0.6157, time: 19.2175
+Part 2, Val Acc 0.8657, Test Acc 0.6161, time: 19.2177
+Part 7, Val Acc 0.8605, Test Acc 0.6145, time: 19.2184
+All parts avg val acc 0.8632, test acc 0.6162
+Part 0 | Epoch 00013 | Step 00000 | Loss 0.4949 | Train Acc 0.8720 | Speed (samples/sec) 1887.4242 | GPU 4763.3 MB | time 0.793 sPart 7 | Epoch 00013 | Step 00000 | Loss 0.4829 | Train Acc 0.8890 | Speed (samples/sec) 1887.0937 | GPU 4758.0 MB | time 0.793 s
+
+Part 1 | Epoch 00013 | Step 00000 | Loss 0.6066 | Train Acc 0.8760 | Speed (samples/sec) 1886.9039 | GPU 4761.7 MB | time 0.799 sPart 4 | Epoch 00013 | Step 00000 | Loss 0.4780 | Train Acc 0.8810 | Speed (samples/sec) 1886.9462 | GPU 4761.2 MB | time 0.796 s
+
+Part 6 | Epoch 00013 | Step 00000 | Loss 0.4512 | Train Acc 0.8720 | Speed (samples/sec) 1886.8031 | GPU 4772.6 MB | time 0.804 sPart 5 | Epoch 00013 | Step 00000 | Loss 0.4782 | Train Acc 0.8790 | Speed (samples/sec) 1887.0943 | GPU 4772.5 MB | time 0.797 s
+
+Part 2 | Epoch 00013 | Step 00000 | Loss 0.5242 | Train Acc 0.8840 | Speed (samples/sec) 1887.3050 | GPU 4767.4 MB | time 0.793 sPart 3 | Epoch 00013 | Step 00000 | Loss 0.5478 | Train Acc 0.8850 | Speed (samples/sec) 1886.7675 | GPU 4770.9 MB | time 0.799 s
+
+Avg train acc 0.8798
+Part 4 | Epoch 00013 | Step 00020 | Loss 0.5213 | Train Acc 0.8690 | Speed (samples/sec) 1888.5156 | GPU 4761.2 MB | time 10.452 s
+Part 6 | Epoch 00013 | Step 00020 | Loss 0.5038 | Train Acc 0.8830 | Speed (samples/sec) 1888.3795 | GPU 4772.6 MB | time 10.452 s
+Part 3 | Epoch 00013 | Step 00020 | Loss 0.4414 | Train Acc 0.8920 | Speed (samples/sec) 1888.3476 | GPU 4770.9 MB | time 10.452 s
+Part 7 | Epoch 00013 | Step 00020 | Loss 0.4882 | Train Acc 0.8710 | Speed (samples/sec) 1888.6537 | GPU 4758.0 MB | time 10.452 s
+Part 5 | Epoch 00013 | Step 00020 | Loss 0.5311 | Train Acc 0.8630 | Speed (samples/sec) 1888.6553 | GPU 4772.5 MB | time 10.452 s
+Part 0 | Epoch 00013 | Step 00020 | Loss 0.4811 | Train Acc 0.8720 | Speed (samples/sec) 1888.9675 | GPU 4763.3 MB | time 10.451 s
+Part 1 | Epoch 00013 | Step 00020 | Loss 0.4962 | Train Acc 0.8870 | Speed (samples/sec) 1888.4744 | GPU 4761.7 MB | time 10.452 s
+Part 2 | Epoch 00013 | Step 00020 | Loss 0.4442 | Train Acc 0.8830 | Speed (samples/sec) 1888.8589 | GPU 4767.4 MB | time 10.451 s
+Avg train acc 0.8775
+=====================
+Part 0, Epoch Time(s): 13.1506
+Sampling Time(s): 0.6399
+Loading Time(s): 2.0135
+Forward Time(s): 0.5674
+Backward Time(s): 0.6682
+Update Time(s): 0.0151
+Emb Update Time(s): 9.2373
+#seeds: 24577
+#inputs: 10749617
+==========================================
+Part 4, Epoch Time(s): 13.1542
+Sampling Time(s): 0.6608
+Loading Time(s): 1.9714
+Forward Time(s): 0.5692
+Backward Time(s): 0.6610
+Update Time(s): 0.0159
+Emb Update Time(s): 9.2670
+#seeds: 24577
+#inputs: 10759731
+==========================================
+Part 7, Epoch Time(s): 13.1506
+Sampling Time(s): 0.6121
+Loading Time(s): 1.9680
+Forward Time(s): 0.5777
+Backward Time(s): 0.6811
+Update Time(s): 0.0153
+Emb Update Time(s): 9.2874
+#seeds: 24577
+#inputs: 10723866
+==========================================
+Part 1, Epoch Time(s): 13.1572
+Sampling Time(s): 0.5929
+Loading Time(s): 1.9549
+Forward Time(s): 0.5816
+Backward Time(s): 0.6897
+Update Time(s): 0.0171
+Emb Update Time(s): 9.3120
+#seeds: 24577
+#inputs: 10704215
+==========================================
+Part 3, Epoch Time(s): 13.1568
+Sampling Time(s): 0.6303
+Loading Time(s): 2.0025
+Forward Time(s): 0.5834
+Backward Time(s): 0.6753
+Update Time(s): 0.0163
+Emb Update Time(s): 9.2401
+#seeds: 24577
+#inputs: 10718941
+==========================================
+Part 5, Epoch Time(s): 13.1547
+Sampling Time(s): 0.6837
+Loading Time(s): 1.9633
+Forward Time(s): 0.5667
+Backward Time(s): 0.6643
+Update Time(s): 0.0163
+Emb Update Time(s): 9.2514
+#seeds: 24577
+#inputs: 10744256
+=====================
+=====================
+Part 6, Epoch Time(s): 13.1619
+Sampling Time(s): 0.6337
+Loading Time(s): 1.9984
+Forward Time(s): 0.5756
+Backward Time(s): 0.6754
+Update Time(s): 0.0147
+Emb Update Time(s): 9.2553
+#seeds: 24577
+#inputs: 10718945
+=====================
+=====================
+Part 2, Epoch Time(s): 13.1513
+Sampling Time(s): 0.6746
+Loading Time(s): 2.0467
+Forward Time(s): 0.5789
+Backward Time(s): 0.6623
+Update Time(s): 0.0177
+Emb Update Time(s): 9.1616
+#seeds: 24576
+#inputs: 10708990
+=====================
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 2, Val Acc 0.8594, Test Acc 0.5796, time: 18.5600
+Part 5, Val Acc 0.8568, Test Acc 0.5821, time: 18.5624
+Part 1, Val Acc 0.8525, Test Acc 0.5793, time: 18.5638
+Part 6, Val Acc 0.8590, Test Acc 0.5806, time: 18.5644
+Part 4, Val Acc 0.8525, Test Acc 0.5808, time: 18.5665
+Part 7, Val Acc 0.8535, Test Acc 0.5797, time: 18.5665
+Part 3, Val Acc 0.8529, Test Acc 0.5808, time: 18.5684
+Part 0, Val Acc 0.8560, Test Acc 0.5802, time: 18.5694
+All parts avg val acc 0.8553, test acc 0.5804
+Part 7 | Epoch 00014 | Step 00000 | Loss 0.4041 | Train Acc 0.8850 | Speed (samples/sec) 1886.5375 | GPU 4758.0 MB | time 0.796 sPart 5 | Epoch 00014 | Step 00000 | Loss 0.5443 | Train Acc 0.8520 | Speed (samples/sec) 1886.5217 | GPU 4772.5 MB | time 0.800 sPart 0 | Epoch 00014 | Step 00000 | Loss 0.4080 | Train Acc 0.8920 | Speed (samples/sec) 1886.8623 | GPU 4763.3 MB | time 0.793 s
+
+
+Part 6 | Epoch 00014 | Step 00000 | Loss 0.4676 | Train Acc 0.8740 | Speed (samples/sec) 1886.2568 | GPU 4772.6 MB | time 0.798 s
+Part 4 | Epoch 00014 | Step 00000 | Loss 0.5509 | Train Acc 0.8770 | Speed (samples/sec) 1886.4005 | GPU 4765.8 MB | time 0.796 s
+Part 1 | Epoch 00014 | Step 00000 | Loss 0.4586 | Train Acc 0.8750 | Speed (samples/sec) 1886.3484 | GPU 4761.7 MB | time 0.799 s
+Part 2 | Epoch 00014 | Step 00000 | Loss 0.5464 | Train Acc 0.8800 | Speed (samples/sec) 1886.7046 | GPU 4767.4 MB | time 0.802 s
+Part 3 | Epoch 00014 | Step 00000 | Loss 0.4225 | Train Acc 0.8860 | Speed (samples/sec) 1886.2435 | GPU 4770.9 MB | time 0.794 s
+Avg train acc 0.8776
+Part 0 | Epoch 00014 | Step 00020 | Loss 0.4327 | Train Acc 0.8880 | Speed (samples/sec) 1890.3660 | GPU 4763.3 MB | time 10.252 sPart 5 | Epoch 00014 | Step 00020 | Loss 0.4432 | Train Acc 0.8850 | Speed (samples/sec) 1890.0402 | GPU 4772.5 MB | time 10.253 s
+
+Part 4 | Epoch 00014 | Step 00020 | Loss 0.4750 | Train Acc 0.8830 | Speed (samples/sec) 1889.9266 | GPU 4765.8 MB | time 10.253 sPart 7 | Epoch 00014 | Step 00020 | Loss 0.4640 | Train Acc 0.8820 | Speed (samples/sec) 1890.0554 | GPU 4758.0 MB | time 10.253 s
+
+Part 1 | Epoch 00014 | Step 00020 | Loss 0.4616 | Train Acc 0.8750 | Speed (samples/sec) 1889.8778 | GPU 4761.7 MB | time 10.253 s
+Part 6 | Epoch 00014 | Step 00020 | Loss 0.4430 | Train Acc 0.9000 | Speed (samples/sec) 1889.7900 | GPU 4772.6 MB | time 10.253 s
+Part 3 | Epoch 00014 | Step 00020 | Loss 0.4006 | Train Acc 0.8940 | Speed (samples/sec) 1889.7800 | GPU 4770.9 MB | time 10.252 s
+Part 2 | Epoch 00014 | Step 00020 | Loss 0.4576 | Train Acc 0.8850 | Speed (samples/sec) 1890.2187 | GPU 4767.4 MB | time 10.252 s
+Avg train acc 0.8865
+=====================
+Part 7, Epoch Time(s): 12.9609
+Sampling Time(s): 0.6595
+Loading Time(s): 1.9758
+Forward Time(s): 0.5675
+Backward Time(s): 0.6728
+Update Time(s): 0.0155
+Emb Update Time(s): 9.0602
+#seeds: 24577
+#inputs: 10721125
+==========================================
+Part 0, Epoch Time(s): 12.9579
+Sampling Time(s): 0.6107
+Loading Time(s): 2.0184
+Forward Time(s): 0.5861
+Backward Time(s): 0.6841
+Update Time(s): 0.0158
+Emb Update Time(s): 9.0327
+#seeds: 24577
+#inputs: 10748628
+==========================================
+Part 5, Epoch Time(s): 12.9649
+Sampling Time(s): 0.6283
+Loading Time(s): 1.9580
+Forward Time(s): 0.5675
+Backward Time(s): 0.6935
+Update Time(s): 0.0152
+Emb Update Time(s): 9.0928
+#seeds: 24577
+#inputs: 10733546
+==========================================
+Part 3, Epoch Time(s): 12.9590
+Sampling Time(s): 0.6146
+Loading Time(s): 2.0148
+Forward Time(s): 0.5793
+Backward Time(s): 0.6757
+Update Time(s): 0.0151
+Emb Update Time(s): 9.0496
+#seeds: 24577
+#inputs: 10716682
+==========================================
+Part 6, Epoch Time(s): 12.9631
+Sampling Time(s): 0.6700
+Loading Time(s): 2.0184
+Forward Time(s): 0.5690
+Backward Time(s): 0.6759
+Update Time(s): 0.0166
+Emb Update Time(s): 9.0034
+#seeds: 24577
+#inputs: 10727429
+==========================================
+Part 1, Epoch Time(s): 12.9638
+Sampling Time(s): 0.6342
+Loading Time(s): 1.9699
+Forward Time(s): 0.5808
+Backward Time(s): 0.6972
+Update Time(s): 0.0166
+Emb Update Time(s): 9.0553
+#seeds: 24577
+#inputs: 10714113
+==========================================
+Part 2, Epoch Time(s): 12.9673
+Sampling Time(s): 0.6912
+Loading Time(s): 2.0511
+Forward Time(s): 0.5945
+Backward Time(s): 0.6754
+Update Time(s): 0.0193
+Emb Update Time(s): 8.9254
+#seeds: 24576
+#inputs: 10721868
+=====================
+
+
+
+
+
+
+=====================
+Part 4, Epoch Time(s): 12.9612
+Sampling Time(s): 0.6080
+Loading Time(s): 1.9769
+Forward Time(s): 0.5841
+Backward Time(s): 0.6958
+Update Time(s): 0.0159
+Emb Update Time(s): 9.0705
+#seeds: 24577
+#inputs: 10746190
+=====================
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 6, Val Acc 0.8596, Test Acc 0.5838, time: 18.4155
+Part 1, Val Acc 0.8570, Test Acc 0.5820, time: 18.4158
+Part 0, Val Acc 0.8539, Test Acc 0.5828, time: 18.4177
+Part 5, Val Acc 0.8594, Test Acc 0.5848, time: 18.4184
+Part 7, Val Acc 0.8535, Test Acc 0.5821, time: 18.4203
+Part 4, Val Acc 0.8474, Test Acc 0.5833, time: 18.4209
+Part 3, Val Acc 0.8529, Test Acc 0.5833, time: 18.4264
+Part 2, Val Acc 0.8627, Test Acc 0.5824, time: 18.4321
+All parts avg val acc 0.8558, test acc 0.5831
+Part 3 | Epoch 00015 | Step 00000 | Loss 0.4336 | Train Acc 0.8800 | Speed (samples/sec) 1887.8178 | GPU 4770.9 MB | time 0.779 s
+Part 7 | Epoch 00015 | Step 00000 | Loss 0.4530 | Train Acc 0.8890 | Speed (samples/sec) 1888.0617 | GPU 4758.0 MB | time 0.785 s
+Part 2 | Epoch 00015 | Step 00000 | Loss 0.4305 | Train Acc 0.8820 | Speed (samples/sec) 1888.2713 | GPU 4769.3 MB | time 0.773 s
+Part 0 | Epoch 00015 | Step 00000 | Loss 0.3897 | Train Acc 0.9020 | Speed (samples/sec) 1888.4230 | GPU 4763.3 MB | time 0.773 s
+Part 6 | Epoch 00015 | Step 00000 | Loss 0.5713 | Train Acc 0.8660 | Speed (samples/sec) 1887.7806 | GPU 4772.6 MB | time 0.790 s
+Part 5 | Epoch 00015 | Step 00000 | Loss 0.4997 | Train Acc 0.8820 | Speed (samples/sec) 1888.0381 | GPU 4772.5 MB | time 0.787 sPart 4 | Epoch 00015 | Step 00000 | Loss 0.4289 | Train Acc 0.8950 | Speed (samples/sec) 1887.9372 | GPU 4765.8 MB | time 0.785 s
+
+Part 1 | Epoch 00015 | Step 00000 | Loss 0.3735 | Train Acc 0.9000 | Speed (samples/sec) 1887.8681 | GPU 4761.7 MB | time 0.790 s
+Avg train acc 0.8870
+Part 4 | Epoch 00015 | Step 00020 | Loss 0.4140 | Train Acc 0.8850 | Speed (samples/sec) 1891.6786 | GPU 4765.8 MB | time 10.199 sPart 3 | Epoch 00015 | Step 00020 | Loss 0.3859 | Train Acc 0.8990 | Speed (samples/sec) 1891.5620 | GPU 4770.9 MB | time 10.199 sPart 1 | Epoch 00015 | Step 00020 | Loss 0.4002 | Train Acc 0.9000 | Speed (samples/sec) 1891.6124 | GPU 4761.7 MB | time 10.199 sPart 5 | Epoch 00015 | Step 00020 | Loss 0.4558 | Train Acc 0.8850 | Speed (samples/sec) 1891.7732 | GPU 4772.5 MB | time 10.199 s
+
+
+
+Part 6 | Epoch 00015 | Step 00020 | Loss 0.4902 | Train Acc 0.8700 | Speed (samples/sec) 1891.5287 | GPU 4772.6 MB | time 10.199 s
+Part 0 | Epoch 00015 | Step 00020 | Loss 0.4433 | Train Acc 0.8830 | Speed (samples/sec) 1892.1405 | GPU 4763.3 MB | time 10.199 s
+Part 7 | Epoch 00015 | Step 00020 | Loss 0.3474 | Train Acc 0.9060 | Speed (samples/sec) 1891.7949 | GPU 4758.0 MB | time 10.199 s
+Part 2 | Epoch 00015 | Step 00020 | Loss 0.4149 | Train Acc 0.8870 | Speed (samples/sec) 1892.0144 | GPU 4769.3 MB | time 10.197 s
+Avg train acc 0.8894
+=====================
+Part 4, Epoch Time(s): 12.8806
+Sampling Time(s): 0.6460
+Loading Time(s): 1.9665
+Forward Time(s): 0.5685
+Backward Time(s): 0.6567
+Update Time(s): 0.0157
+Emb Update Time(s): 9.0185
+#seeds: 24577
+#inputs: 10733347
+==========================================
+Part 0, Epoch Time(s): 12.8693
+Sampling Time(s): 0.6283
+Loading Time(s): 2.0054
+Forward Time(s): 0.5688
+Backward Time(s): 0.6595
+Update Time(s): 0.0150
+Emb Update Time(s): 8.9832
+#seeds: 24577
+#inputs: 10737917
+==========================================
+Part 7, Epoch Time(s): 12.8812
+Sampling Time(s): 0.6359
+Loading Time(s): 1.9771
+Forward Time(s): 0.5675
+Backward Time(s): 0.6594
+Update Time(s): 0.0145
+Emb Update Time(s): 9.0182
+#seeds: 24577
+#inputs: 10729874
+==========================================
+Part 3, Epoch Time(s): 12.8751
+Sampling Time(s): 0.5953
+Loading Time(s): 2.0108
+Forward Time(s): 0.5799
+Backward Time(s): 0.6678
+Update Time(s): 0.0150
+Emb Update Time(s): 8.9980
+#seeds: 24577
+#inputs: 10721792
+==========================================
+Part 2, Epoch Time(s): 12.8703
+Sampling Time(s): 0.6437
+Loading Time(s): 2.0299
+Forward Time(s): 0.5718
+Backward Time(s): 0.6619
+Update Time(s): 0.0184
+Emb Update Time(s): 8.9323
+#seeds: 24576
+#inputs: 10723201
+=====================
+=====================
+Part 6, Epoch Time(s): 12.8859
+Sampling Time(s): 0.6273
+Loading Time(s): 2.0098
+Forward Time(s): 0.5750
+Backward Time(s): 0.6667
+Update Time(s): 0.0158
+Emb Update Time(s): 8.9828
+#seeds: 24577
+#inputs: 10686743
+==========================================
+Part 1, Epoch Time(s): 12.8858
+Sampling Time(s): 0.6528
+Loading Time(s): 1.9710
+Forward Time(s): 0.5680
+Backward Time(s): 0.6713
+Update Time(s): 0.0159
+Emb Update Time(s): 8.9983
+#seeds: 24577
+#inputs: 10709069
+==========================================
+Part 5, Epoch Time(s): 12.8832
+Sampling Time(s): 0.6141
+Loading Time(s): 1.9554
+Forward Time(s): 0.5695
+Backward Time(s): 0.6652
+Update Time(s): 0.0153
+Emb Update Time(s): 9.0552
+#seeds: 24577
+#inputs: 10742160
+=====================
+
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 0, Val Acc 0.8629, Test Acc 0.5853, time: 18.3312
+Part 3, Val Acc 0.8560, Test Acc 0.5861, time: 18.3334
+Part 1, Val Acc 0.8547, Test Acc 0.5844, time: 18.3366
+Part 4, Val Acc 0.8513, Test Acc 0.5858, time: 18.3368
+Part 6, Val Acc 0.8605, Test Acc 0.5864, time: 18.3409
+Part 5, Val Acc 0.8629, Test Acc 0.5867, time: 18.3414
+Part 7, Val Acc 0.8574, Test Acc 0.5855, time: 18.3427
+Part 2, Val Acc 0.8631, Test Acc 0.5851, time: 18.3429
+All parts avg val acc 0.8586, test acc 0.5856
+Part 6 | Epoch 00016 | Step 00000 | Loss 0.4153 | Train Acc 0.8870 | Speed (samples/sec) 1889.8154 | GPU 4772.6 MB | time 0.776 sPart 3 | Epoch 00016 | Step 00000 | Loss 0.3998 | Train Acc 0.8900 | Speed (samples/sec) 1889.8173 | GPU 4770.9 MB | time 0.783 s
+
+Part 5 | Epoch 00016 | Step 00000 | Loss 0.4867 | Train Acc 0.8850 | Speed (samples/sec) 1890.0586 | GPU 4772.5 MB | time 0.775 sPart 0 | Epoch 00016 | Step 00000 | Loss 0.4156 | Train Acc 0.8960 | Speed (samples/sec) 1890.4321 | GPU 4763.3 MB | time 0.774 s
+
+Part 7 | Epoch 00016 | Step 00000 | Loss 0.5120 | Train Acc 0.8680 | Speed (samples/sec) 1890.0876 | GPU 4758.0 MB | time 0.774 s
+Part 1 | Epoch 00016 | Step 00000 | Loss 0.4615 | Train Acc 0.8800 | Speed (samples/sec) 1889.8799 | GPU 4761.7 MB | time 0.780 s
+Part 2 | Epoch 00016 | Step 00000 | Loss 0.4613 | Train Acc 0.8820 | Speed (samples/sec) 1890.3027 | GPU 4769.3 MB | time 0.774 s
+Part 4 | Epoch 00016 | Step 00000 | Loss 0.5024 | Train Acc 0.8720 | Speed (samples/sec) 1889.9459 | GPU 4765.8 MB | time 0.780 s
+Avg train acc 0.8825
+Part 3 | Epoch 00016 | Step 00020 | Loss 0.3713 | Train Acc 0.8980 | Speed (samples/sec) 1893.2031 | GPU 4770.9 MB | time 10.204 sPart 1 | Epoch 00016 | Step 00020 | Loss 0.4088 | Train Acc 0.8940 | Speed (samples/sec) 1893.2640 | GPU 4761.7 MB | time 10.204 sPart 7 | Epoch 00016 | Step 00020 | Loss 0.4254 | Train Acc 0.8880 | Speed (samples/sec) 1893.4626 | GPU 4758.0 MB | time 10.204 sPart 0 | Epoch 00016 | Step 00020 | Loss 0.5449 | Train Acc 0.8600 | Speed (samples/sec) 1893.7924 | GPU 4763.3 MB | time 10.204 sPart 5 | Epoch 00016 | Step 00020 | Loss 0.4434 | Train Acc 0.8920 | Speed (samples/sec) 1893.4334 | GPU 4772.5 MB | time 10.204 sPart 4 | Epoch 00016 | Step 00020 | Loss 0.4625 | Train Acc 0.8800 | Speed (samples/sec) 1893.3295 | GPU 4765.8 MB | time 10.204 s
+
+Part 6 | Epoch 00016 | Step 00020 | Loss 0.4734 | Train Acc 0.8700 | Speed (samples/sec) 1893.2025 | GPU 4772.6 MB | time 10.204 s
+
+
+
+
+Part 2 | Epoch 00016 | Step 00020 | Loss 0.4898 | Train Acc 0.8810 | Speed (samples/sec) 1893.6673 | GPU 4769.3 MB | time 10.204 s
+Avg train acc 0.8829
+=====================
+Part 6, Epoch Time(s): 12.8891
+Sampling Time(s): 0.6266
+Loading Time(s): 2.0173
+Forward Time(s): 0.5780
+Backward Time(s): 0.6729
+Update Time(s): 0.0157
+Emb Update Time(s): 8.9701
+#seeds: 24577
+#inputs: 10705037
+==========================================
+Part 2, Epoch Time(s): 12.8869
+Sampling Time(s): 0.6203
+Loading Time(s): 2.0240
+Forward Time(s): 0.5923
+Backward Time(s): 0.6759
+Update Time(s): 0.0194
+Emb Update Time(s): 8.9461
+#seeds: 24576
+#inputs: 10717733
+==========================================
+Part 0, Epoch Time(s): 12.8869
+Sampling Time(s): 0.6089
+Loading Time(s): 1.9987
+Forward Time(s): 0.5683
+Backward Time(s): 0.6785
+Update Time(s): 0.0157
+Emb Update Time(s): 9.0078
+#seeds: 24577
+#inputs: 10743268
+==========================================
+Part 7, Epoch Time(s): 12.8873
+Sampling Time(s): 0.6405
+Loading Time(s): 1.9786
+Forward Time(s): 0.5658
+Backward Time(s): 0.6658
+Update Time(s): 0.0146
+Emb Update Time(s): 9.0134
+#seeds: 24577
+#inputs: 10728115
+==========================================
+Part 1, Epoch Time(s): 12.8934
+Sampling Time(s): 0.6165
+Loading Time(s): 1.9674
+Forward Time(s): 0.5754
+Backward Time(s): 0.6772
+Update Time(s): 0.0160
+Emb Update Time(s): 9.0323
+#seeds: 24577
+#inputs: 10712664
+==========================================
+Part 5, Epoch Time(s): 12.8886
+Sampling Time(s): 0.6383
+Loading Time(s): 1.9536
+Forward Time(s): 0.5655
+Backward Time(s): 0.6641
+Update Time(s): 0.0151
+Emb Update Time(s): 9.0435
+#seeds: 24577
+#inputs: 10737590
+==========================================
+Part 4, Epoch Time(s): 12.8931
+Sampling Time(s): 0.6343
+Loading Time(s): 1.9664
+Forward Time(s): 0.5764
+Backward Time(s): 0.6712
+Update Time(s): 0.0158
+Emb Update Time(s): 9.0201
+#seeds: 24577
+#inputs: 10732101
+=====================
+=====================
+Part 3, Epoch Time(s): 12.8965
+Sampling Time(s): 0.6269
+Loading Time(s): 2.0159
+Forward Time(s): 0.5740
+Backward Time(s): 0.6671
+Update Time(s): 0.0155
+Emb Update Time(s): 8.9888
+#seeds: 24577
+#inputs: 10723363
+=====================
+
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 5, Val Acc 0.8614, Test Acc 0.5816, time: 18.3448
+Part 0, Val Acc 0.8639, Test Acc 0.5793, time: 18.3457
+Part 6, Val Acc 0.8603, Test Acc 0.5803, time: 18.3457
+Part 2, Val Acc 0.8647, Test Acc 0.5785, time: 18.3460
+Part 7, Val Acc 0.8564, Test Acc 0.5790, time: 18.3471
+Part 4, Val Acc 0.8545, Test Acc 0.5801, time: 18.3478
+Part 1, Val Acc 0.8580, Test Acc 0.5782, time: 18.3485
+Part 3, Val Acc 0.8582, Test Acc 0.5799, time: 18.3519
+All parts avg val acc 0.8597, test acc 0.5796
+Part 3 | Epoch 00017 | Step 00000 | Loss 0.4172 | Train Acc 0.9000 | Speed (samples/sec) 1891.3492 | GPU 4770.9 MB | time 0.804 s
+Part 1 | Epoch 00017 | Step 00000 | Loss 0.4559 | Train Acc 0.8860 | Speed (samples/sec) 1891.3975 | GPU 4761.7 MB | time 0.807 s
+Part 0 | Epoch 00017 | Step 00000 | Loss 0.4439 | Train Acc 0.8860 | Speed (samples/sec) 1891.9334 | GPU 4763.3 MB | time 0.804 sPart 5 | Epoch 00017 | Step 00000 | Loss 0.4256 | Train Acc 0.8870 | Speed (samples/sec) 1891.5521 | GPU 4772.5 MB | time 0.811 s
+
+Part 6 | Epoch 00017 | Step 00000 | Loss 0.4290 | Train Acc 0.8850 | Speed (samples/sec) 1891.3274 | GPU 4772.6 MB | time 0.810 s
+Part 7 | Epoch 00017 | Step 00000 | Loss 0.3951 | Train Acc 0.8940 | Speed (samples/sec) 1891.5881 | GPU 4758.0 MB | time 0.809 s
+Part 2 | Epoch 00017 | Step 00000 | Loss 0.4897 | Train Acc 0.8720 | Speed (samples/sec) 1891.7829 | GPU 4773.3 MB | time 0.810 s
+Part 4 | Epoch 00017 | Step 00000 | Loss 0.4958 | Train Acc 0.8810 | Speed (samples/sec) 1891.4602 | GPU 4765.8 MB | time 0.808 s
+Avg train acc 0.8864
+Part 7 | Epoch 00017 | Step 00020 | Loss 0.4740 | Train Acc 0.8710 | Speed (samples/sec) 1894.3883 | GPU 4758.0 MB | time 10.238 sPart 0 | Epoch 00017 | Step 00020 | Loss 0.4322 | Train Acc 0.8970 | Speed (samples/sec) 1894.7205 | GPU 4763.3 MB | time 10.238 s
+
+Part 1 | Epoch 00017 | Step 00020 | Loss 0.4549 | Train Acc 0.8850 | Speed (samples/sec) 1894.2058 | GPU 4761.7 MB | time 10.238 sPart 6 | Epoch 00017 | Step 00020 | Loss 0.5370 | Train Acc 0.8590 | Speed (samples/sec) 1894.1392 | GPU 4772.6 MB | time 10.238 sPart 3 | Epoch 00017 | Step 00020 | Loss 0.4285 | Train Acc 0.8870 | Speed (samples/sec) 1894.1585 | GPU 4770.9 MB | time 10.238 s
+
+
+Part 2 | Epoch 00017 | Step 00020 | Loss 0.4507 | Train Acc 0.8850 | Speed (samples/sec) 1894.5740 | GPU 4773.3 MB | time 10.238 s
+Part 5 | Epoch 00017 | Step 00020 | Loss 0.4980 | Train Acc 0.8680 | Speed (samples/sec) 1894.3543 | GPU 4772.5 MB | time 10.238 s
+Part 4 | Epoch 00017 | Step 00020 | Loss 0.4346 | Train Acc 0.8890 | Speed (samples/sec) 1894.2694 | GPU 4765.8 MB | time 10.238 s
+Avg train acc 0.8801
+=====================
+Part 7, Epoch Time(s): 12.9733
+Sampling Time(s): 0.6679
+Loading Time(s): 1.9852
+Forward Time(s): 0.5678
+Backward Time(s): 0.6626
+Update Time(s): 0.0148
+Emb Update Time(s): 9.0661
+#seeds: 24577
+#inputs: 10720786
+==========================================
+Part 0, Epoch Time(s): 12.9687
+Sampling Time(s): 0.6369
+Loading Time(s): 2.0171
+Forward Time(s): 0.5982
+Backward Time(s): 0.6724
+Update Time(s): 0.0152
+Emb Update Time(s): 9.0196
+#seeds: 24577
+#inputs: 10725344
+==========================================
+Part 4, Epoch Time(s): 12.9727
+Sampling Time(s): 0.6611
+Loading Time(s): 1.9570
+Forward Time(s): 0.5840
+Backward Time(s): 0.6698
+Update Time(s): 0.0160
+Emb Update Time(s): 9.0757
+#seeds: 24577
+#inputs: 10728620
+==========================================
+Part 5, Epoch Time(s): 12.9757
+Sampling Time(s): 0.6471
+Loading Time(s): 1.9610
+Forward Time(s): 0.5968
+Backward Time(s): 0.6694
+Update Time(s): 0.0151
+Emb Update Time(s): 9.0773
+#seeds: 24577
+#inputs: 10727508
+==========================================
+Part 3, Epoch Time(s): 12.9687
+Sampling Time(s): 0.6162
+Loading Time(s): 2.0220
+Forward Time(s): 0.6068
+Backward Time(s): 0.6712
+Update Time(s): 0.0146
+Emb Update Time(s): 9.0293
+#seeds: 24577
+#inputs: 10726402
+==========================================
+Part 1, Epoch Time(s): 12.9720
+Sampling Time(s): 0.6290
+Loading Time(s): 1.9647
+Forward Time(s): 0.5839
+Backward Time(s): 0.6791
+Update Time(s): 0.0158
+Emb Update Time(s): 9.0906
+#seeds: 24577
+#inputs: 10711910
+=====================
+=====================
+Part 2, Epoch Time(s): 12.9744
+Sampling Time(s): 0.6826
+Loading Time(s): 2.0140
+Forward Time(s): 0.5664
+Backward Time(s): 0.6637
+Update Time(s): 0.0152
+Emb Update Time(s): 9.0236
+#seeds: 24576
+#inputs: 10696934
+==========================================
+Part 6, Epoch Time(s): 12.9746
+Sampling Time(s): 0.6100
+Loading Time(s): 2.0141
+Forward Time(s): 0.5969
+Backward Time(s): 0.6711
+Update Time(s): 0.0155
+Emb Update Time(s): 9.0582
+#seeds: 24577
+#inputs: 10706483
+=====================
+
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 6, Val Acc 0.8592, Test Acc 0.5821, time: 17.9108
+Part 3, Val Acc 0.8543, Test Acc 0.5819, time: 17.9109
+Part 7, Val Acc 0.8541, Test Acc 0.5812, time: 17.9163
+Part 5, Val Acc 0.8600, Test Acc 0.5831, time: 17.9165
+Part 4, Val Acc 0.8523, Test Acc 0.5826, time: 17.9175
+Part 2, Val Acc 0.8641, Test Acc 0.5807, time: 17.9214
+Part 1, Val Acc 0.8535, Test Acc 0.5805, time: 17.9214
+Part 0, Val Acc 0.8637, Test Acc 0.5812, time: 17.9215
+All parts avg val acc 0.8577, test acc 0.5817
+Part 2 | Epoch 00018 | Step 00000 | Loss 0.4369 | Train Acc 0.8810 | Speed (samples/sec) 1892.7843 | GPU 4773.3 MB | time 0.767 s
+Part 6 | Epoch 00018 | Step 00000 | Loss 0.4503 | Train Acc 0.8900 | Speed (samples/sec) 1892.3213 | GPU 4772.6 MB | time 0.777 sPart 3 | Epoch 00018 | Step 00000 | Loss 0.4169 | Train Acc 0.8980 | Speed (samples/sec) 1892.3400 | GPU 4770.9 MB | time 0.777 s
+
+Part 5 | Epoch 00018 | Step 00000 | Loss 0.4150 | Train Acc 0.8930 | Speed (samples/sec) 1892.5545 | GPU 4772.5 MB | time 0.772 s
+Part 7 | Epoch 00018 | Step 00000 | Loss 0.4375 | Train Acc 0.8970 | Speed (samples/sec) 1892.5879 | GPU 4758.0 MB | time 0.772 sPart 0 | Epoch 00018 | Step 00000 | Loss 0.3906 | Train Acc 0.8940 | Speed (samples/sec) 1892.9361 | GPU 4763.3 MB | time 0.767 s
+
+Part 4 | Epoch 00018 | Step 00000 | Loss 0.4435 | Train Acc 0.8890 | Speed (samples/sec) 1892.4743 | GPU 4765.8 MB | time 0.771 s
+Part 1 | Epoch 00018 | Step 00000 | Loss 0.4763 | Train Acc 0.8800 | Speed (samples/sec) 1892.4264 | GPU 4761.7 MB | time 0.767 s
+Avg train acc 0.8903
+Part 7 | Epoch 00018 | Step 00020 | Loss 0.4858 | Train Acc 0.8780 | Speed (samples/sec) 1895.6282 | GPU 4758.0 MB | time 10.186 sPart 4 | Epoch 00018 | Step 00020 | Loss 0.4090 | Train Acc 0.9040 | Speed (samples/sec) 1895.5190 | GPU 4765.8 MB | time 10.186 sPart 0 | Epoch 00018 | Step 00020 | Loss 0.4119 | Train Acc 0.8950 | Speed (samples/sec) 1895.9617 | GPU 4763.3 MB | time 10.186 s
+
+
+Part 5 | Epoch 00018 | Step 00020 | Loss 0.4264 | Train Acc 0.8920 | Speed (samples/sec) 1895.5962 | GPU 4772.5 MB | time 10.186 sPart 2 | Epoch 00018 | Step 00020 | Loss 0.4095 | Train Acc 0.8900 | Speed (samples/sec) 1895.8145 | GPU 4773.3 MB | time 10.186 s
+
+Part 3 | Epoch 00018 | Step 00020 | Loss 0.4900 | Train Acc 0.8720 | Speed (samples/sec) 1895.3892 | GPU 4770.9 MB | time 10.186 s
+Part 6 | Epoch 00018 | Step 00020 | Loss 0.4692 | Train Acc 0.8840 | Speed (samples/sec) 1895.3707 | GPU 4772.6 MB | time 10.186 s
+Part 1 | Epoch 00018 | Step 00020 | Loss 0.3641 | Train Acc 0.9110 | Speed (samples/sec) 1895.4733 | GPU 4761.7 MB | time 10.186 s
+Avg train acc 0.8908
+=====================
+Part 7, Epoch Time(s): 12.8405
+Sampling Time(s): 0.6447
+Loading Time(s): 1.9797
+Forward Time(s): 0.5669
+Backward Time(s): 0.6653
+Update Time(s): 0.0149
+Emb Update Time(s): 8.9604
+#seeds: 24577
+#inputs: 10728580
+==========================================
+Part 5, Epoch Time(s): 12.8404
+Sampling Time(s): 0.6298
+Loading Time(s): 1.9538
+Forward Time(s): 0.5684
+Backward Time(s): 0.6652
+Update Time(s): 0.0155
+Emb Update Time(s): 8.9992
+#seeds: 24577
+#inputs: 10747025
+==========================================
+Part 6, Epoch Time(s): 12.8459
+Sampling Time(s): 0.6527
+Loading Time(s): 2.0237
+Forward Time(s): 0.5625
+Backward Time(s): 0.6593
+Update Time(s): 0.0146
+Emb Update Time(s): 8.9247
+#seeds: 24577
+#inputs: 10717845
+==========================================
+Part 4, Epoch Time(s): 12.8392
+Sampling Time(s): 0.6447
+Loading Time(s): 1.9759
+Forward Time(s): 0.5688
+Backward Time(s): 0.6686
+Update Time(s): 0.0159
+Emb Update Time(s): 8.9567
+#seeds: 24577
+#inputs: 10742029
+==========================================
+Part 2, Epoch Time(s): 12.8355
+Sampling Time(s): 0.6114
+Loading Time(s): 2.0102
+Forward Time(s): 0.5650
+Backward Time(s): 0.6682
+Update Time(s): 0.0150
+Emb Update Time(s): 8.9573
+#seeds: 24576
+#inputs: 10718021
+=====================
+=====================
+Part 3, Epoch Time(s): 12.8459
+Sampling Time(s): 0.5751
+Loading Time(s): 2.0163
+Forward Time(s): 0.5854
+Backward Time(s): 0.6749
+Update Time(s): 0.0154
+Emb Update Time(s): 8.9703
+#seeds: 24577
+#inputs: 10729051
+==========================================
+Part 1, Epoch Time(s): 12.8355
+Sampling Time(s): 0.6203
+Loading Time(s): 1.9649
+Forward Time(s): 0.5738
+Backward Time(s): 0.6813
+Update Time(s): 0.0165
+Emb Update Time(s): 8.9700
+#seeds: 24577
+#inputs: 10703950
+==========================================
+Part 0, Epoch Time(s): 12.8353
+Sampling Time(s): 0.6293
+Loading Time(s): 2.0015
+Forward Time(s): 0.5658
+Backward Time(s): 0.6657
+Update Time(s): 0.0148
+Emb Update Time(s): 8.9493
+#seeds: 24577
+#inputs: 10745330
+=====================
+
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 6, Val Acc 0.8588, Test Acc 0.5724, time: 18.2694
+Part 0, Val Acc 0.8625, Test Acc 0.5720, time: 18.2740
+Part 5, Val Acc 0.8602, Test Acc 0.5737, time: 18.2762
+Part 4, Val Acc 0.8515, Test Acc 0.5732, time: 18.2764
+Part 7, Val Acc 0.8568, Test Acc 0.5716, time: 18.2767
+Part 3, Val Acc 0.8562, Test Acc 0.5721, time: 18.2772
+Part 1, Val Acc 0.8557, Test Acc 0.5700, time: 18.2779
+Part 2, Val Acc 0.8602, Test Acc 0.5711, time: 18.2786
+All parts avg val acc 0.8577, test acc 0.5720
+Part 3 | Epoch 00019 | Step 00000 | Loss 0.3859 | Train Acc 0.9010 | Speed (samples/sec) 1894.0684 | GPU 4770.9 MB | time 0.764 sPart 6 | Epoch 00019 | Step 00000 | Loss 0.4504 | Train Acc 0.8900 | Speed (samples/sec) 1894.0227 | GPU 4772.6 MB | time 0.772 s
+
+Part 2 | Epoch 00019 | Step 00000 | Loss 0.4266 | Train Acc 0.8870 | Speed (samples/sec) 1894.4876 | GPU 4773.3 MB | time 0.763 s
+Part 1 | Epoch 00019 | Step 00000 | Loss 0.4200 | Train Acc 0.8950 | Speed (samples/sec) 1894.1549 | GPU 4761.7 MB | time 0.763 s
+Part 5 | Epoch 00019 | Step 00000 | Loss 0.4460 | Train Acc 0.8970 | Speed (samples/sec) 1894.2692 | GPU 4772.5 MB | time 0.765 sPart 4 | Epoch 00019 | Step 00000 | Loss 0.3705 | Train Acc 0.8970 | Speed (samples/sec) 1894.1935 | GPU 4765.8 MB | time 0.765 sPart 7 | Epoch 00019 | Step 00000 | Loss 0.4034 | Train Acc 0.8860 | Speed (samples/sec) 1894.3026 | GPU 4758.0 MB | time 0.764 sPart 0 | Epoch 00019 | Step 00000 | Loss 0.4245 | Train Acc 0.8980 | Speed (samples/sec) 1894.6399 | GPU 4763.3 MB | time 0.763 s
+
+
+
+Avg train acc 0.8939
+Part 2 | Epoch 00019 | Step 00020 | Loss 0.4357 | Train Acc 0.8950 | Speed (samples/sec) 1897.6160 | GPU 4773.3 MB | time 10.145 s
+Part 7 | Epoch 00019 | Step 00020 | Loss 0.4740 | Train Acc 0.8790 | Speed (samples/sec) 1897.4415 | GPU 4758.0 MB | time 10.145 sPart 5 | Epoch 00019 | Step 00020 | Loss 0.4037 | Train Acc 0.8870 | Speed (samples/sec) 1897.4086 | GPU 4772.5 MB | time 10.145 sPart 0 | Epoch 00019 | Step 00020 | Loss 0.3991 | Train Acc 0.8990 | Speed (samples/sec) 1897.7653 | GPU 4763.3 MB | time 10.145 sPart 3 | Epoch 00019 | Step 00020 | Loss 0.4677 | Train Acc 0.8840 | Speed (samples/sec) 1897.2150 | GPU 4770.9 MB | time 10.145 s
+
+
+
+Part 6 | Epoch 00019 | Step 00020 | Loss 0.3802 | Train Acc 0.9030 | Speed (samples/sec) 1897.1698 | GPU 4772.6 MB | time 10.145 s
+Part 1 | Epoch 00019 | Step 00020 | Loss 0.3849 | Train Acc 0.9010 | Speed (samples/sec) 1897.2982 | GPU 4761.7 MB | time 10.145 s
+Part 4 | Epoch 00019 | Step 00020 | Loss 0.4712 | Train Acc 0.8790 | Speed (samples/sec) 1897.3359 | GPU 4765.8 MB | time 10.145 s
+Avg train acc 0.8909
+=====================
+Part 7, Epoch Time(s): 12.8053
+Sampling Time(s): 0.6238
+Loading Time(s): 1.9693
+Forward Time(s): 0.5674
+Backward Time(s): 0.6760
+Update Time(s): 0.0155
+Emb Update Time(s): 8.9446
+#seeds: 24577
+#inputs: 10712147
+==========================================
+Part 5, Epoch Time(s): 12.8058
+Sampling Time(s): 0.6137
+Loading Time(s): 1.9612
+Forward Time(s): 0.5668
+Backward Time(s): 0.6776
+Update Time(s): 0.0149
+Emb Update Time(s): 8.9631
+#seeds: 24577
+#inputs: 10742081
+==========================================
+Part 6, Epoch Time(s): 12.8125
+Sampling Time(s): 0.6099
+Loading Time(s): 2.0089
+Forward Time(s): 0.5695
+Backward Time(s): 0.6769
+Update Time(s): 0.0161
+Emb Update Time(s): 8.9228
+#seeds: 24577
+#inputs: 10705721
+==========================================
+Part 0, Epoch Time(s): 12.8035
+Sampling Time(s): 0.5981
+Loading Time(s): 2.0009
+Forward Time(s): 0.5674
+Backward Time(s): 0.6742
+Update Time(s): 0.0147
+Emb Update Time(s): 8.9394
+#seeds: 24577
+#inputs: 10742799
+==========================================
+Part 4, Epoch Time(s): 12.8057
+Sampling Time(s): 0.5998
+Loading Time(s): 1.9730
+Forward Time(s): 0.5685
+Backward Time(s): 0.6788
+Update Time(s): 0.0160
+Emb Update Time(s): 8.9607
+#seeds: 24577
+#inputs: 10727086
+==========================================
+Part 3, Epoch Time(s): 12.8048
+Sampling Time(s): 0.5969
+Loading Time(s): 2.0213
+Forward Time(s): 0.5783
+Backward Time(s): 0.6796
+Update Time(s): 0.0149
+Emb Update Time(s): 8.9054
+#seeds: 24577
+#inputs: 10725407
+==========================================
+Part 2, Epoch Time(s): 12.8035
+Sampling Time(s): 0.6246
+Loading Time(s): 2.0125
+Forward Time(s): 0.5635
+Backward Time(s): 0.6645
+Update Time(s): 0.0149
+Emb Update Time(s): 8.9153
+#seeds: 24576
+#inputs: 10709536
+==========================================
+Part 1, Epoch Time(s): 12.8042
+Sampling Time(s): 0.6649
+Loading Time(s): 1.9731
+Forward Time(s): 0.5755
+Backward Time(s): 0.6656
+Update Time(s): 0.0172
+Emb Update Time(s): 8.8991
+#seeds: 24577
+#inputs: 10706737
+=====================
+
+
+
+
+
+
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000|V|=2449029, eval batch size: 100000
+
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+|V|=2449029, eval batch size: 100000
+Part 6, Val Acc 0.8600, Test Acc 0.5731, time: 18.1237
+Rank 6, Avg Epoch Time(s): 13.0478
+Part 1, Val Acc 0.8547, Test Acc 0.5704, time: 18.1246
+Rank 1, Avg Epoch Time(s): 13.0461
+Part 3, Val Acc 0.8553, Test Acc 0.5726, time: 18.1256
+Rank 3, Avg Epoch Time(s): 13.0466
+Part 7, Val Acc 0.8537, Test Acc 0.5716, time: 18.1262
+Rank 7, Avg Epoch Time(s): 13.0434
+Part 4, Val Acc 0.8519, Test Acc 0.5730, time: 18.1270
+Rank 4, Avg Epoch Time(s): 13.0445
+Part 2, Val Acc 0.8619, Test Acc 0.5715, time: 18.1276
+Rank 2, Avg Epoch Time(s): 13.0416
+Part 0, Val Acc 0.8586, Test Acc 0.5719, time: 18.1280
+Part 5, Val Acc 0.8598, Test Acc 0.5738, time: 18.1284
+All parts avg val acc 0.8570, test acc 0.5722
+Rank 0, Avg Epoch Time(s): 13.0389
+Rank 5, Avg Epoch Time(s): 13.0436
+All parts avg epoch time 13.0441 sec, throughput 15073.1316 seeds/sec
+parent ends
+Client[14] in group[0] is exiting...
+parent ends
+Client[5] in group[0] is exiting...
+parent ends
+Client[11] in group[0] is exiting...
+parent ends
+Client[9] in group[0] is exiting...
+parent ends
+parent ends
+Client[4] in group[0] is exiting...
+Client[0] in group[0] is exiting...
+parent ends
+Client[12] in group[0] is exiting...
+parent ends
+Client[3] in group[0] is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 1 for part 0
+Server is waiting for connections on [172.31.20.34:30051]...
+Server (1) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 6 for part 0
+Server is waiting for connections on [172.31.20.34:30056]...
+Server (6) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 2 for part 0
+Server is waiting for connections on [172.31.20.34:30052]...
+Server (2) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 10 for part 0
+Server is waiting for connections on [172.31.20.34:30060]...
+Server (10) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 5 for part 0
+Server is waiting for connections on [172.31.20.34:30055]...
+Server (5) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 4 for part 0
+Server is waiting for connections on [172.31.20.34:30054]...
+Server (4) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 3 for part 0
+Server is waiting for connections on [172.31.20.34:30053]...
+Server (3) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 14 for part 0
+Server is waiting for connections on [172.31.20.34:30064]...
+Server (14) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 12 for part 0
+Server is waiting for connections on [172.31.20.34:30062]...
+Server (12) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 7 for part 0
+Server is waiting for connections on [172.31.20.34:30057]...
+Server (7) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+load ogbn-products
+Start to create specified graph formats which may take non-trivial time.
+Finished creating specified graph formats.
+start graph service on server 0 for part 0
+Server is waiting for connections on [172.31.20.34:30050]...
+Server (0) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 11 for part 0
+Server is waiting for connections on [172.31.20.34:30061]...
+Server (11) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 13 for part 0
+Server is waiting for connections on [172.31.20.34:30063]...
+Server (13) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 9 for part 0
+Server is waiting for connections on [172.31.20.34:30059]...
+Server (9) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 8 for part 0
+Server is waiting for connections on [172.31.20.34:30058]...
+Server (8) shutdown.
+Server is exiting...
+Namespace(cache_server_addr='127.0.0.1', cache_server_port=32451, graph_name='ogbn-products', id=None, ip_config='ip_config1.txt', part_config=None, n_classes=None, num_gpus=8, num_epochs=20, num_hidden=256, model_num_hidden=256, fan_out='5,10,15', batch_size=1000, batch_size_eval=100000, log_every=20, eval_every=1, lr=0.003, dropout=0.5, local_rank=None, standalone=False, sparse_lr=0.01, presampling=True, hot_threshold=0.1, hot_low_threshold=0.0, emb_cache_rate=0.2, optim='adagrad', model='gcn', infer_method='layerwise', state_cache=False)
+start graph service on server 15 for part 0
+Server is waiting for connections on [172.31.20.34:30065]...
+Server (15) shutdown.
+Server is exiting...
+Client [1022574] waits on 172.31.20.34:46329
+Machine (0) group (0) client (10) connect to server successfuly!
+Client[10] in group[0] is exiting...
+Client [1022548] waits on 172.31.20.34:53737
+Machine (0) group (0) client (13) connect to server successfuly!
+Client[13] in group[0] is exiting...
+Client [1022540] waits on 172.31.20.34:55771
+Machine (0) group (0) client (15) connect to server successfuly!
+Client[15] in group[0] is exiting...
+Client [1022543] waits on 172.31.20.34:45513
+Machine (0) group (0) client (8) connect to server successfuly!
+Client[8] in group[0] is exiting...
+Client [1022545] waits on 172.31.20.34:39545
+Machine (0) group (0) client (2) connect to server successfuly!
+Client[2] in group[0] is exiting...
+Client [1022546] waits on 172.31.20.34:38761
+Machine (0) group (0) client (1) connect to server successfuly!
+Client[1] in group[0] is exiting...
+Client [1022573] waits on 172.31.20.34:45383
+Machine (0) group (0) client (7) connect to server successfuly!
+Client[7] in group[0] is exiting...
+Client [1022555] waits on 172.31.20.34:44893
+Machine (0) group (0) client (6) connect to server successfuly!
+Client[6] in group[0] is exiting...
+cleanup process runs
